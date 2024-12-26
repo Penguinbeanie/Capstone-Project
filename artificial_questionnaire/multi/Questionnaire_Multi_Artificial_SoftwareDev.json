@@ -1,0 +1,1142 @@
+[
+    {
+        "type": "MULTI-SELECT",
+        "question": "What programming languages are you proficient in?",
+        "options": [
+            {
+                "option": "Python"
+            },
+            {
+                "option": "Java"
+            },
+            {
+                "option": "JavaScript"
+            },
+            {
+                "option": "C++"
+            },
+            {
+                "option": "C#"
+            },
+            {
+                "option": "Go"
+            },
+            {
+                "option": "Swift"
+            },
+            {
+                "option": "Kotlin"
+            },
+            {
+                "option": "PHP"
+            },
+            {
+                "option": "Ruby"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "Which operating systems do you use regularly?",
+        "options": [
+            {
+                "option": "Windows"
+            },
+            {
+                "option": "macOS"
+            },
+            {
+                "option": "Linux"
+            },
+            {
+                "option": "Android"
+            },
+            {
+                "option": "iOS"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your preferred methods of communication?",
+        "options": [
+            {
+                "option": "Email"
+            },
+            {
+                "option": "Phone calls"
+            },
+            {
+                "option": "Video conferencing"
+            },
+            {
+                "option": "Instant messaging"
+            },
+            {
+                "option": "In-person meetings"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What types of projects are you interested in?",
+        "options": [
+            {
+                "option": "Web development"
+            },
+            {
+                "option": "Mobile app development"
+            },
+            {
+                "option": "Data science"
+            },
+            {
+                "option": "Machine learning"
+            },
+            {
+                "option": "Artificial intelligence"
+            },
+            {
+                "option": "Game development"
+            },
+            {
+                "option": "Software engineering"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What tools do you use for project management?",
+        "options": [
+            {
+                "option": "Jira"
+            },
+            {
+                "option": "Trello"
+            },
+            {
+                "option": "Asana"
+            },
+            {
+                "option": "Monday.com"
+            },
+            {
+                "option": "Microsoft Project"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your preferred design tools?",
+        "options": [
+            {
+                "option": "Figma"
+            },
+            {
+                "option": "Adobe XD"
+            },
+            {
+                "option": "Sketch"
+            },
+            {
+                "option": "InVision"
+            },
+            {
+                "option": "Adobe Photoshop"
+            },
+            {
+                "option": "Adobe Illustrator"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What cloud platforms are you familiar with?",
+        "options": [
+            {
+                "option": "AWS"
+            },
+            {
+                "option": "Azure"
+            },
+            {
+                "option": "Google Cloud Platform"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What databases have you worked with?",
+        "options": [
+            {
+                "option": "MySQL"
+            },
+            {
+                "option": "PostgreSQL"
+            },
+            {
+                "option": "MongoDB"
+            },
+            {
+                "option": "Oracle"
+            },
+            {
+                "option": "SQL Server"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your preferred collaboration tools?",
+        "options": [
+            {
+                "option": "Slack"
+            },
+            {
+                "option": "Microsoft Teams"
+            },
+            {
+                "option": "Google Chat"
+            },
+            {
+                "option": "Discord"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What testing methodologies are you familiar with?",
+        "options": [
+            {
+                "option": "Unit testing"
+            },
+            {
+                "option": "Integration testing"
+            },
+            {
+                "option": "System testing"
+            },
+            {
+                "option": "User acceptance testing"
+            },
+            {
+                "option": "Agile testing"
+            },
+            {
+                "option": "Waterfall testing"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What version control systems have you used?",
+        "options": [
+            {
+                "option": "Git"
+            },
+            {
+                "option": "SVN"
+            },
+            {
+                "option": "Mercurial"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your preferred code editors or IDEs?",
+        "options": [
+            {
+                "option": "VS Code"
+            },
+            {
+                "option": "IntelliJ IDEA"
+            },
+            {
+                "option": "Eclipse"
+            },
+            {
+                "option": "Sublime Text"
+            },
+            {
+                "option": "Atom"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What types of software licenses are you familiar with?",
+        "options": [
+            {
+                "option": "GPL"
+            },
+            {
+                "option": "MIT"
+            },
+            {
+                "option": "Apache 2.0"
+            },
+            {
+                "option": "BSD"
+            },
+            {
+                "option": "Proprietary"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What methodologies have you used in software development?",
+        "options": [
+            {
+                "option": "Agile"
+            },
+            {
+                "option": "Scrum"
+            },
+            {
+                "option": "Kanban"
+            },
+            {
+                "option": "Waterfall"
+            },
+            {
+                "option": "XP (Extreme Programming)"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What types of design patterns are you familiar with?",
+        "options": [
+            {
+                "option": "Singleton"
+            },
+            {
+                "option": "Factory"
+            },
+            {
+                "option": "Observer"
+            },
+            {
+                "option": "MVC"
+            },
+            {
+                "option": "MVVM"
+            },
+            {
+                "option": "Decorator"
+            },
+            {
+                "option": "Adapter"
+            },
+            {
+                "option": "Strategy"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What types of data structures are you comfortable using?",
+        "options": [
+            {
+                "option": "Arrays"
+            },
+            {
+                "option": "Linked Lists"
+            },
+            {
+                "option": "Trees"
+            },
+            {
+                "option": "Graphs"
+            },
+            {
+                "option": "Hash Tables"
+            },
+            {
+                "option": "Stacks"
+            },
+            {
+                "option": "Queues"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What algorithms are you familiar with?",
+        "options": [
+            {
+                "option": "Sorting algorithms"
+            },
+            {
+                "option": "Searching algorithms"
+            },
+            {
+                "option": "Graph algorithms"
+            },
+            {
+                "option": "Dynamic programming"
+            },
+            {
+                "option": "Greedy algorithms"
+            },
+            {
+                "option": "Divide and conquer"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What security practices are you familiar with?",
+        "options": [
+            {
+                "option": "OWASP Top 10"
+            },
+            {
+                "option": "Authentication"
+            },
+            {
+                "option": "Authorization"
+            },
+            {
+                "option": "Encryption"
+            },
+            {
+                "option": "Input validation"
+            },
+            {
+                "option": "Output encoding"
+            },
+            {
+                "option": "Secure coding practices"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your preferred communication styles?",
+        "options": [
+            {
+                "option": "Direct and concise"
+            },
+            {
+                "option": "Detailed and thorough"
+            },
+            {
+                "option": "Collaborative and interactive"
+            },
+            {
+                "option": "Formal and professional"
+            },
+            {
+                "option": "Informal and friendly"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What types of testing have you performed?",
+        "options": [
+            {
+                "option": "Functional testing"
+            },
+            {
+                "option": "Performance testing"
+            },
+            {
+                "option": "Security testing"
+            },
+            {
+                "option": "Usability testing"
+            },
+            {
+                "option": "Regression testing"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What project management tools have you used?",
+        "options": [
+            {
+                "option": "Jira"
+            },
+            {
+                "option": "Trello"
+            },
+            {
+                "option": "Asana"
+            },
+            {
+                "option": "GitHub Projects"
+            },
+            {
+                "option": "GitLab Issues"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What types of documentation are you comfortable creating?",
+        "options": [
+            {
+                "option": "User manuals"
+            },
+            {
+                "option": "Technical specifications"
+            },
+            {
+                "option": "API documentation"
+            },
+            {
+                "option": "Design documents"
+            },
+            {
+                "option": "Test plans"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What types of diagrams are you familiar with?",
+        "options": [
+            {
+                "option": "UML diagrams"
+            },
+            {
+                "option": "Flowcharts"
+            },
+            {
+                "option": "Entity-relationship diagrams"
+            },
+            {
+                "option": "Data flow diagrams"
+            },
+            {
+                "option": "State diagrams"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your preferred learning resources?",
+        "options": [
+            {
+                "option": "Online courses"
+            },
+            {
+                "option": "Books"
+            },
+            {
+                "option": "Conferences"
+            },
+            {
+                "option": "Workshops"
+            },
+            {
+                "option": "Mentorship"
+            },
+            {
+                "option": "Self-study"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your strengths as a software developer?",
+        "options": [
+            {
+                "option": "Problem-solving"
+            },
+            {
+                "option": "Communication"
+            },
+            {
+                "option": "Teamwork"
+            },
+            {
+                "option": "Time management"
+            },
+            {
+                "option": "Adaptability"
+            },
+            {
+                "option": "Technical skills"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What areas of software development are you most interested in improving?",
+        "options": [
+            {
+                "option": "Specific programming languages"
+            },
+            {
+                "option": "Software design patterns"
+            },
+            {
+                "option": "Testing methodologies"
+            },
+            {
+                "option": "Project management"
+            },
+            {
+                "option": "Communication skills"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What types of software development environments have you worked in?",
+        "options": [
+            {
+                "option": "Agile"
+            },
+            {
+                "option": "Waterfall"
+            },
+            {
+                "option": "DevOps"
+            },
+            {
+                "option": "Continuous integration/continuous delivery (CI/CD)"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your career goals as a software developer?",
+        "options": [
+            {
+                "option": "Technical leadership"
+            },
+            {
+                "option": "Specialized expertise"
+            },
+            {
+                "option": "Entrepreneurship"
+            },
+            {
+                "option": "Continuous learning and growth"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your preferred ways to stay up-to-date with the latest technologies?",
+        "options": [
+            {
+                "option": "Reading industry blogs"
+            },
+            {
+                "option": "Attending conferences and workshops"
+            },
+            {
+                "option": "Taking online courses"
+            },
+            {
+                "option": "Participating in open-source projects"
+            },
+            {
+                "option": "Networking with other developers"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your hobbies outside of software development?",
+        "options": [
+            {
+                "option": "Reading"
+            },
+            {
+                "option": "Hiking"
+            },
+            {
+                "option": "Photography"
+            },
+            {
+                "option": "Music"
+            },
+            {
+                "option": "Gaming"
+            },
+            {
+                "option": "Sports"
+            },
+            {
+                "option": "Travel"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your preferred methods for debugging code?",
+        "options": [
+            {
+                "option": "Print statements"
+            },
+            {
+                "option": "Debuggers"
+            },
+            {
+                "option": "Logging"
+            },
+            {
+                "option": "Code reviews"
+            },
+            {
+                "option": "Unit tests"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What types of software development projects have you worked on?",
+        "options": [
+            {
+                "option": "Web applications"
+            },
+            {
+                "option": "Mobile applications"
+            },
+            {
+                "option": "Desktop applications"
+            },
+            {
+                "option": "Embedded systems"
+            },
+            {
+                "option": "Data science projects"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your preferred ways to learn new technologies?",
+        "options": [
+            {
+                "option": "Hands-on practice"
+            },
+            {
+                "option": "Reading documentation"
+            },
+            {
+                "option": "Watching tutorials"
+            },
+            {
+                "option": "Following online courses"
+            },
+            {
+                "option": "Working with experienced developers"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your preferred ways to contribute to open-source projects?",
+        "options": [
+            {
+                "option": "Coding"
+            },
+            {
+                "option": "Testing"
+            },
+            {
+                "option": "Documentation"
+            },
+            {
+                "option": "Community support"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What types of design patterns are you most comfortable using?",
+        "options": [
+            {
+                "option": "Creational patterns"
+            },
+            {
+                "option": "Structural patterns"
+            },
+            {
+                "option": "Behavioral patterns"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What types of software architectures are you familiar with?",
+        "options": [
+            {
+                "option": "Microservices"
+            },
+            {
+                "option": "Monolithic"
+            },
+            {
+                "option": "Layered"
+            },
+            {
+                "option": "Event-driven"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your preferred methods for code optimization?",
+        "options": [
+            {
+                "option": "Profiling"
+            },
+            {
+                "option": "Algorithmic improvements"
+            },
+            {
+                "option": "Data structure optimization"
+            },
+            {
+                "option": "Code refactoring"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your preferred tools for code analysis?",
+        "options": [
+            {
+                "option": "Linters"
+            },
+            {
+                "option": "Static analyzers"
+            },
+            {
+                "option": "Code coverage tools"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What types of deployment strategies are you familiar with?",
+        "options": [
+            {
+                "option": "Continuous deployment"
+            },
+            {
+                "option": "Continuous integration"
+            },
+            {
+                "option": "Rolling deployments"
+            },
+            {
+                "option": "Blue/green deployments"
+            },
+            {
+                "option": "Canary deployments"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your preferred methods for version control?",
+        "options": [
+            {
+                "option": "Git flow"
+            },
+            {
+                "option": "GitHub flow"
+            },
+            {
+                "option": "GitLab flow"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What types of databases have you used in your projects?",
+        "options": [
+            {
+                "option": "Relational databases"
+            },
+            {
+                "option": "NoSQL databases"
+            },
+            {
+                "option": "Graph databases"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your preferred methods for managing dependencies in your projects?",
+        "options": [
+            {
+                "option": "Package managers"
+            },
+            {
+                "option": "Dependency injection"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What types of testing frameworks have you used?",
+        "options": [
+            {
+                "option": "JUnit"
+            },
+            {
+                "option": "Pytest"
+            },
+            {
+                "option": "Jest"
+            },
+            {
+                "option": "Mocha"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your preferred tools for code documentation?",
+        "options": [
+            {
+                "option": "JSDoc"
+            },
+            {
+                "option": "Javadoc"
+            },
+            {
+                "option": "Sphinx"
+            },
+            {
+                "option": "Doxygen"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your preferred tools for building and deploying applications?",
+        "options": [
+            {
+                "option": "Docker"
+            },
+            {
+                "option": "Kubernetes"
+            },
+            {
+                "option": "Jenkins"
+            },
+            {
+                "option": "Travis CI"
+            },
+            {
+                "option": "CircleCI"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your preferred tools for monitoring and logging applications?",
+        "options": [
+            {
+                "option": "Grafana"
+            },
+            {
+                "option": "Prometheus"
+            },
+            {
+                "option": "ELK stack"
+            },
+            {
+                "option": "Splunk"
+            },
+            {
+                "option": "Datadog"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What types of software development methodologies have you experienced?",
+        "options": [
+            {
+                "option": "Agile"
+            },
+            {
+                "option": "Waterfall"
+            },
+            {
+                "option": "Lean"
+            },
+            {
+                "option": "Kanban"
+            },
+            {
+                "option": "Scrum"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What types of design principles are you familiar with?",
+        "options": [
+            {
+                "option": "SOLID principles"
+            },
+            {
+                "option": "DRY (Don't Repeat Yourself)"
+            },
+            {
+                "option": "KISS (Keep It Simple, Stupid)"
+            },
+            {
+                "option": "YAGNI (You Ain't Gonna Need It)"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your preferred ways to handle errors in your code?",
+        "options": [
+            {
+                "option": "Exception handling"
+            },
+            {
+                "option": "Error logging"
+            },
+            {
+                "option": "Error reporting"
+            },
+            {
+                "option": "Defensive programming"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your preferred methods for code refactoring?",
+        "options": [
+            {
+                "option": "Extract Method"
+            },
+            {
+                "option": "Rename Method"
+            },
+            {
+                "option": "Move Method"
+            },
+            {
+                "option": "Extract Class"
+            },
+            {
+                "option": "Inline Method"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What types of software development tools have you used?",
+        "options": [
+            {
+                "option": "Integrated Development Environments (IDEs)"
+            },
+            {
+                "option": "Source code management tools"
+            },
+            {
+                "option": "Build tools"
+            },
+            {
+                "option": "Testing frameworks"
+            },
+            {
+                "option": "Debugging tools"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What types of communication protocols are you familiar with?",
+        "options": [
+            {
+                "option": "HTTP"
+            },
+            {
+                "option": "HTTPS"
+            },
+            {
+                "option": "TCP/IP"
+            },
+            {
+                "option": "UDP"
+            },
+            {
+                "option": "REST"
+            },
+            {
+                "option": "GraphQL"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What types of design patterns have you implemented in your projects?",
+        "options": [
+            {
+                "option": "Creational patterns"
+            },
+            {
+                "option": "Structural patterns"
+            },
+            {
+                "option": "Behavioral patterns"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your preferred methods for maintaining code quality?",
+        "options": [
+            {
+                "option": "Code reviews"
+            },
+            {
+                "option": "Static analysis"
+            },
+            {
+                "option": "Unit testing"
+            },
+            {
+                "option": "Integration testing"
+            },
+            {
+                "option": "Code style guidelines"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What types of software development life cycle models have you used?",
+        "options": [
+            {
+                "option": "Waterfall"
+            },
+            {
+                "option": "Agile"
+            },
+            {
+                "option": "Iterative"
+            },
+            {
+                "option": "Spiral"
+            },
+            {
+                "option": "V-model"
+            }
+        ]
+    }
+]

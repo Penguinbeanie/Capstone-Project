@@ -1,0 +1,1079 @@
+[
+    {
+        "type": "MULTI_SELECT",
+        "question": "Which social media platforms do you use for marketing?",
+        "options": [
+            {
+                "option": "Facebook"
+            },
+            {
+                "option": "Instagram"
+            },
+            {
+                "option": "Twitter"
+            },
+            {
+                "option": "LinkedIn"
+            },
+            {
+                "option": "TikTok"
+            },
+            {
+                "option": "YouTube"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What types of marketing content do you find most effective?",
+        "options": [
+            {
+                "option": "Blog posts"
+            },
+            {
+                "option": "Videos"
+            },
+            {
+                "option": "Infographics"
+            },
+            {
+                "option": "Case studies"
+            },
+            {
+                "option": "Email newsletters"
+            },
+            {
+                "option": "Social media posts"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your primary goals for this marketing campaign?",
+        "options": [
+            {
+                "option": "Increase brand awareness"
+            },
+            {
+                "option": "Generate leads"
+            },
+            {
+                "option": "Drive sales"
+            },
+            {
+                "option": "Improve customer engagement"
+            },
+            {
+                "option": "Build customer loyalty"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your preferred methods of customer communication?",
+        "options": [
+            {
+                "option": "Email"
+            },
+            {
+                "option": "Phone"
+            },
+            {
+                "option": "Chat"
+            },
+            {
+                "option": "Social media"
+            },
+            {
+                "option": "In-person meetings"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What challenges are you facing in your current marketing efforts?",
+        "options": [
+            {
+                "option": "Lack of budget"
+            },
+            {
+                "option": "Lack of time"
+            },
+            {
+                "option": "Lack of resources"
+            },
+            {
+                "option": "Difficulty measuring ROI"
+            },
+            {
+                "option": "Keeping up with industry trends"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your company's core values?",
+        "options": [
+            {
+                "option": "Innovation"
+            },
+            {
+                "option": "Customer satisfaction"
+            },
+            {
+                "option": "Integrity"
+            },
+            {
+                "option": "Teamwork"
+            },
+            {
+                "option": "Sustainability"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What skills are you looking for in a new employee?",
+        "options": [
+            {
+                "option": "Communication"
+            },
+            {
+                "option": "Problem-solving"
+            },
+            {
+                "option": "Teamwork"
+            },
+            {
+                "option": "Leadership"
+            },
+            {
+                "option": "Technical skills"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What types of training programs are you interested in?",
+        "options": [
+            {
+                "option": "Technical skills training"
+            },
+            {
+                "option": "Leadership training"
+            },
+            {
+                "option": "Management training"
+            },
+            {
+                "option": "Communication skills training"
+            },
+            {
+                "option": "Sales training"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your biggest concerns about the future of your industry?",
+        "options": [
+            {
+                "option": "Economic downturn"
+            },
+            {
+                "option": "Increased competition"
+            },
+            {
+                "option": "Technological disruption"
+            },
+            {
+                "option": "Regulatory changes"
+            },
+            {
+                "option": "Talent shortages"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your company's biggest achievements?",
+        "options": [
+            {
+                "option": "Winning a major award"
+            },
+            {
+                "option": "Launching a successful new product"
+            },
+            {
+                "option": "Expanding into new markets"
+            },
+            {
+                "option": "Achieving significant revenue growth"
+            },
+            {
+                "option": "Building a strong brand reputation"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your favorite hobbies?",
+        "options": [
+            {
+                "option": "Reading"
+            },
+            {
+                "option": "Hiking"
+            },
+            {
+                "option": "Cooking"
+            },
+            {
+                "option": "Traveling"
+            },
+            {
+                "option": "Playing sports"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What types of events do you typically attend?",
+        "options": [
+            {
+                "option": "Conferences"
+            },
+            {
+                "option": "Trade shows"
+            },
+            {
+                "option": "Seminars"
+            },
+            {
+                "option": "Workshops"
+            },
+            {
+                "option": "Networking events"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your primary sources of information about industry trends?",
+        "options": [
+            {
+                "option": "Industry publications"
+            },
+            {
+                "option": "News websites"
+            },
+            {
+                "option": "Social media"
+            },
+            {
+                "option": "Conferences and trade shows"
+            },
+            {
+                "option": "Industry analysts"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your preferred methods for staying up-to-date on industry news?",
+        "options": [
+            {
+                "option": "Reading industry publications"
+            },
+            {
+                "option": "Attending industry events"
+            },
+            {
+                "option": "Following industry influencers on social media"
+            },
+            {
+                "option": "Subscribing to industry newsletters"
+            },
+            {
+                "option": "Listening to industry podcasts"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are some of the key challenges facing your business?",
+        "options": [
+            {
+                "option": "Competition"
+            },
+            {
+                "option": "Economic conditions"
+            },
+            {
+                "option": "Technology changes"
+            },
+            {
+                "option": "Regulations"
+            },
+            {
+                "option": "Finding and retaining talent"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your company's primary revenue streams?",
+        "options": [
+            {
+                "option": "Product sales"
+            },
+            {
+                "option": "Service revenue"
+            },
+            {
+                "option": "Subscription fees"
+            },
+            {
+                "option": "Licensing fees"
+            },
+            {
+                "option": "Advertising revenue"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your company's key performance indicators (KPIs)?",
+        "options": [
+            {
+                "option": "Revenue"
+            },
+            {
+                "option": "Profit margin"
+            },
+            {
+                "option": "Customer acquisition cost"
+            },
+            {
+                "option": "Customer lifetime value"
+            },
+            {
+                "option": "Customer satisfaction"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What types of technology does your company use?",
+        "options": [
+            {
+                "option": "Cloud computing"
+            },
+            {
+                "option": "Big data analytics"
+            },
+            {
+                "option": "Artificial intelligence"
+            },
+            {
+                "option": "Machine learning"
+            },
+            {
+                "option": "Internet of Things (IoT)"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your company's sustainability initiatives?",
+        "options": [
+            {
+                "option": "Reducing carbon footprint"
+            },
+            {
+                "option": "Using renewable energy"
+            },
+            {
+                "option": "Recycling and waste reduction"
+            },
+            {
+                "option": "Sustainable sourcing"
+            },
+            {
+                "option": "Community involvement"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What types of diversity and inclusion initiatives does your company have?",
+        "options": [
+            {
+                "option": "Diversity training"
+            },
+            {
+                "option": "Employee resource groups"
+            },
+            {
+                "option": "Mentorship programs"
+            },
+            {
+                "option": "Inclusive hiring practices"
+            },
+            {
+                "option": "Accessibility initiatives"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your company's plans for future growth?",
+        "options": [
+            {
+                "option": "Expanding into new markets"
+            },
+            {
+                "option": "Developing new products or services"
+            },
+            {
+                "option": "Acquiring other companies"
+            },
+            {
+                "option": "Improving operational efficiency"
+            },
+            {
+                "option": "Investing in research and development"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your biggest concerns about the future of work?",
+        "options": [
+            {
+                "option": "Automation"
+            },
+            {
+                "option": "Artificial intelligence"
+            },
+            {
+                "option": "Remote work"
+            },
+            {
+                "option": "Gig economy"
+            },
+            {
+                "option": "Skills gap"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your company's values?",
+        "options": [
+            {
+                "option": "Integrity"
+            },
+            {
+                "option": "Innovation"
+            },
+            {
+                "option": "Customer focus"
+            },
+            {
+                "option": "Teamwork"
+            },
+            {
+                "option": "Sustainability"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What types of employee benefits does your company offer?",
+        "options": [
+            {
+                "option": "Health insurance"
+            },
+            {
+                "option": "Retirement plan"
+            },
+            {
+                "option": "Paid time off"
+            },
+            {
+                "option": "Tuition reimbursement"
+            },
+            {
+                "option": "Child care assistance"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your company's strategies for attracting and retaining top talent?",
+        "options": [
+            {
+                "option": "Competitive compensation and benefits"
+            },
+            {
+                "option": "Opportunities for professional development"
+            },
+            {
+                "option": "Positive work environment"
+            },
+            {
+                "option": "Flexible work arrangements"
+            },
+            {
+                "option": "Strong company culture"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your company's plans for addressing the skills gap?",
+        "options": [
+            {
+                "option": "Investing in employee training"
+            },
+            {
+                "option": "Partnering with educational institutions"
+            },
+            {
+                "option": "Developing apprenticeship programs"
+            },
+            {
+                "option": "Recruiting from diverse talent pools"
+            },
+            {
+                "option": "Utilizing technology to improve efficiency"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your company's goals for improving diversity and inclusion?",
+        "options": [
+            {
+                "option": "Increasing representation of underrepresented groups"
+            },
+            {
+                "option": "Creating a more inclusive work environment"
+            },
+            {
+                "option": "Developing diversity and inclusion training programs"
+            },
+            {
+                "option": "Implementing diversity and inclusion metrics"
+            },
+            {
+                "option": "Partnering with diversity and inclusion organizations"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your company's strategies for mitigating risks associated with climate change?",
+        "options": [
+            {
+                "option": "Reducing greenhouse gas emissions"
+            },
+            {
+                "option": "Investing in renewable energy"
+            },
+            {
+                "option": "Improving energy efficiency"
+            },
+            {
+                "option": "Developing climate change adaptation plans"
+            },
+            {
+                "option": "Engaging with stakeholders on climate change issues"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your company's strategies for managing cybersecurity risks?",
+        "options": [
+            {
+                "option": "Implementing strong cybersecurity policies"
+            },
+            {
+                "option": "Investing in cybersecurity technology"
+            },
+            {
+                "option": "Providing cybersecurity training to employees"
+            },
+            {
+                "option": "Conducting regular security audits"
+            },
+            {
+                "option": "Developing incident response plans"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your company's strategies for complying with data privacy regulations?",
+        "options": [
+            {
+                "option": "Implementing strong data privacy policies"
+            },
+            {
+                "option": "Investing in data privacy technology"
+            },
+            {
+                "option": "Providing data privacy training to employees"
+            },
+            {
+                "option": "Conducting regular data privacy audits"
+            },
+            {
+                "option": "Developing incident response plans"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What types of research and development activities does your company undertake?",
+        "options": [
+            {
+                "option": "Basic research"
+            },
+            {
+                "option": "Applied research"
+            },
+            {
+                "option": "Development"
+            },
+            {
+                "option": "Innovation"
+            },
+            {
+                "option": "Technology transfer"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your company's strategies for intellectual property protection?",
+        "options": [
+            {
+                "option": "Patents"
+            },
+            {
+                "option": "Trademarks"
+            },
+            {
+                "option": "Copyrights"
+            },
+            {
+                "option": "Trade secrets"
+            },
+            {
+                "option": "Non-disclosure agreements"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your company's strategies for managing supply chain risks?",
+        "options": [
+            {
+                "option": "Diversifying suppliers"
+            },
+            {
+                "option": "Developing strong supplier relationships"
+            },
+            {
+                "option": "Implementing supplier performance management systems"
+            },
+            {
+                "option": "Developing contingency plans"
+            },
+            {
+                "option": "Monitoring geopolitical events"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your company's strategies for improving customer experience?",
+        "options": [
+            {
+                "option": "Providing excellent customer service"
+            },
+            {
+                "option": "Developing user-friendly products and services"
+            },
+            {
+                "option": "Collecting customer feedback"
+            },
+            {
+                "option": "Personalizing the customer experience"
+            },
+            {
+                "option": "Building a strong brand reputation"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your company's strategies for building brand loyalty?",
+        "options": [
+            {
+                "option": "Providing excellent customer service"
+            },
+            {
+                "option": "Developing a strong brand identity"
+            },
+            {
+                "option": "Creating engaging content"
+            },
+            {
+                "option": "Building a strong online presence"
+            },
+            {
+                "option": "Running loyalty programs"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What types of marketing channels does your company use?",
+        "options": [
+            {
+                "option": "Digital marketing"
+            },
+            {
+                "option": "Social media marketing"
+            },
+            {
+                "option": "Email marketing"
+            },
+            {
+                "option": "Content marketing"
+            },
+            {
+                "option": "Traditional marketing"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your company's strategies for measuring marketing ROI?",
+        "options": [
+            {
+                "option": "Website analytics"
+            },
+            {
+                "option": "Social media analytics"
+            },
+            {
+                "option": "Email marketing analytics"
+            },
+            {
+                "option": "Customer surveys"
+            },
+            {
+                "option": "Sales data"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your company's strategies for improving employee engagement?",
+        "options": [
+            {
+                "option": "Providing opportunities for professional development"
+            },
+            {
+                "option": "Creating a positive work environment"
+            },
+            {
+                "option": "Offering competitive compensation and benefits"
+            },
+            {
+                "option": "Encouraging teamwork and collaboration"
+            },
+            {
+                "option": "Recognizing and rewarding employees"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your company's strategies for improving employee retention?",
+        "options": [
+            {
+                "option": "Providing opportunities for professional development"
+            },
+            {
+                "option": "Creating a positive work environment"
+            },
+            {
+                "option": "Offering competitive compensation and benefits"
+            },
+            {
+                "option": "Encouraging teamwork and collaboration"
+            },
+            {
+                "option": "Recognizing and rewarding employees"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your company's strategies for managing change?",
+        "options": [
+            {
+                "option": "Communicating effectively with employees"
+            },
+            {
+                "option": "Involving employees in the change process"
+            },
+            {
+                "option": "Providing training and support"
+            },
+            {
+                "option": "Celebrating successes"
+            },
+            {
+                "option": "Addressing concerns and feedback"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your company's strategies for promoting innovation?",
+        "options": [
+            {
+                "option": "Encouraging experimentation"
+            },
+            {
+                "option": "Investing in research and development"
+            },
+            {
+                "option": "Creating a culture of innovation"
+            },
+            {
+                "option": "Partnering with external innovators"
+            },
+            {
+                "option": "Protecting intellectual property"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your company's strategies for managing risk?",
+        "options": [
+            {
+                "option": "Identifying potential risks"
+            },
+            {
+                "option": "Assessing the likelihood and impact of risks"
+            },
+            {
+                "option": "Developing risk mitigation strategies"
+            },
+            {
+                "option": "Monitoring risks"
+            },
+            {
+                "option": "Reporting risks"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your company's strategies for ensuring business continuity?",
+        "options": [
+            {
+                "option": "Developing business continuity plans"
+            },
+            {
+                "option": "Testing business continuity plans"
+            },
+            {
+                "option": "Training employees on business continuity procedures"
+            },
+            {
+                "option": "Maintaining adequate resources"
+            },
+            {
+                "option": "Monitoring potential disruptions"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your company's strategies for improving operational efficiency?",
+        "options": [
+            {
+                "option": "Automating tasks"
+            },
+            {
+                "option": "Streamlining processes"
+            },
+            {
+                "option": "Improving communication"
+            },
+            {
+                "option": "Investing in technology"
+            },
+            {
+                "option": "Training employees"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your company's strategies for reducing costs?",
+        "options": [
+            {
+                "option": "Negotiating better prices with suppliers"
+            },
+            {
+                "option": "Improving efficiency"
+            },
+            {
+                "option": "Reducing waste"
+            },
+            {
+                "option": "Automating tasks"
+            },
+            {
+                "option": "Outsourcing non-core functions"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your company's strategies for increasing revenue?",
+        "options": [
+            {
+                "option": "Expanding into new markets"
+            },
+            {
+                "option": "Developing new products or services"
+            },
+            {
+                "option": "Increasing sales to existing customers"
+            },
+            {
+                "option": "Improving marketing and sales effectiveness"
+            },
+            {
+                "option": "Raising prices"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your company's strategies for improving profitability?",
+        "options": [
+            {
+                "option": "Increasing revenue"
+            },
+            {
+                "option": "Reducing costs"
+            },
+            {
+                "option": "Improving efficiency"
+            },
+            {
+                "option": "Investing in technology"
+            },
+            {
+                "option": "Improving pricing strategies"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your company's strategies for managing its reputation?",
+        "options": [
+            {
+                "option": "Building a strong brand identity"
+            },
+            {
+                "option": "Creating positive customer experiences"
+            },
+            {
+                "option": "Managing online reviews"
+            },
+            {
+                "option": "Responding to criticism"
+            },
+            {
+                "option": "Engaging with stakeholders"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your company's strategies for complying with relevant regulations?",
+        "options": [
+            {
+                "option": "Staying informed about relevant regulations"
+            },
+            {
+                "option": "Developing compliance programs"
+            },
+            {
+                "option": "Training employees on compliance procedures"
+            },
+            {
+                "option": "Conducting regular compliance audits"
+            },
+            {
+                "option": "Reporting compliance issues"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your company's strategies for mitigating risks associated with new technologies?",
+        "options": [
+            {
+                "option": "Conducting thorough due diligence"
+            },
+            {
+                "option": "Developing risk mitigation strategies"
+            },
+            {
+                "option": "Testing new technologies thoroughly"
+            },
+            {
+                "option": "Training employees on new technologies"
+            },
+            {
+                "option": "Monitoring the performance of new technologies"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your company's strategies for fostering a culture of safety?",
+        "options": [
+            {
+                "option": "Providing safety training to employees"
+            },
+            {
+                "option": "Implementing safety procedures"
+            },
+            {
+                "option": "Conducting safety audits"
+            },
+            {
+                "option": "Investigating accidents and incidents"
+            },
+            {
+                "option": "Promoting a culture of safety awareness"
+            }
+        ]
+    }
+]

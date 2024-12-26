@@ -1,0 +1,956 @@
+[
+    {
+        "type": "MULTI_SELECT",
+        "question": "What are your primary business goals for the next quarter?",
+        "options": [
+            {
+                "option": "Increase revenue by 10%"
+            },
+            {
+                "option": "Expand into new markets"
+            },
+            {
+                "option": "Improve customer retention"
+            },
+            {
+                "option": "Launch a new product or service"
+            },
+            {
+                "option": "Reduce operational costs"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "Which marketing channels are you currently using?",
+        "options": [
+            {
+                "option": "Social Media Marketing"
+            },
+            {
+                "option": "Email Marketing"
+            },
+            {
+                "option": "Search Engine Optimization (SEO)"
+            },
+            {
+                "option": "Pay-Per-Click (PPC) Advertising"
+            },
+            {
+                "option": "Content Marketing"
+            },
+            {
+                "option": "Affiliate Marketing"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your biggest challenges in achieving your business goals?",
+        "options": [
+            {
+                "option": "Lack of leads"
+            },
+            {
+                "option": "Low conversion rates"
+            },
+            {
+                "option": "High customer acquisition costs"
+            },
+            {
+                "option": "Competition"
+            },
+            {
+                "option": "Lack of resources"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What features are most important to you in a sales lead qualification tool?",
+        "options": [
+            {
+                "option": "Lead scoring"
+            },
+            {
+                "option": "Lead routing"
+            },
+            {
+                "option": "Integration with CRM"
+            },
+            {
+                "option": "Reporting and analytics"
+            },
+            {
+                "option": "Ease of use"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What is your current sales process?",
+        "options": [
+            {
+                "option": "Inbound marketing"
+            },
+            {
+                "option": "Outbound marketing"
+            },
+            {
+                "option": "Sales calls"
+            },
+            {
+                "option": "Email outreach"
+            },
+            {
+                "option": "Social selling"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What type of sales leads are you most interested in?",
+        "options": [
+            {
+                "option": "High-value leads"
+            },
+            {
+                "option": "Qualified leads"
+            },
+            {
+                "option": "Marketing qualified leads (MQLs)"
+            },
+            {
+                "option": "Sales qualified leads (SQLs)"
+            },
+            {
+                "option": "All leads"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your preferred methods of communication?",
+        "options": [
+            {
+                "option": "Email"
+            },
+            {
+                "option": "Phone"
+            },
+            {
+                "option": "Video conferencing"
+            },
+            {
+                "option": "Social media"
+            },
+            {
+                "option": "In-person meetings"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your key decision-making factors when choosing a vendor?",
+        "options": [
+            {
+                "option": "Price"
+            },
+            {
+                "option": "Features"
+            },
+            {
+                "option": "Reputation"
+            },
+            {
+                "option": "Customer support"
+            },
+            {
+                "option": "Implementation process"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your company's primary revenue streams?",
+        "options": [
+            {
+                "option": "Product sales"
+            },
+            {
+                "option": "Service sales"
+            },
+            {
+                "option": "Subscription fees"
+            },
+            {
+                "option": "Licensing fees"
+            },
+            {
+                "option": "Advertising revenue"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your current marketing and sales technologies?",
+        "options": [
+            {
+                "option": "CRM (Salesforce, HubSpot, etc.)"
+            },
+            {
+                "option": "Marketing automation (Marketo, Pardot, etc.)"
+            },
+            {
+                "option": "Social media management tools"
+            },
+            {
+                "option": "Email marketing platforms"
+            },
+            {
+                "option": "Analytics platforms (Google Analytics, etc.)"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your sales team's key performance indicators (KPIs)?",
+        "options": [
+            {
+                "option": "Revenue generated"
+            },
+            {
+                "option": "Number of deals closed"
+            },
+            {
+                "option": "Average deal size"
+            },
+            {
+                "option": "Sales cycle length"
+            },
+            {
+                "option": "Customer acquisition cost (CAC)"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your company's key differentiators in the market?",
+        "options": [
+            {
+                "option": "Superior product quality"
+            },
+            {
+                "option": "Lower prices"
+            },
+            {
+                "option": "Excellent customer service"
+            },
+            {
+                "option": "Strong brand reputation"
+            },
+            {
+                "option": "Innovative technology"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your top three priorities for improving your sales process?",
+        "options": [
+            {
+                "option": "Improving lead generation"
+            },
+            {
+                "option": "Increasing conversion rates"
+            },
+            {
+                "option": "Shortening the sales cycle"
+            },
+            {
+                "option": "Improving sales team performance"
+            },
+            {
+                "option": "Better lead qualification"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What types of content do you find most effective for lead generation?",
+        "options": [
+            {
+                "option": "Blog posts"
+            },
+            {
+                "option": "Case studies"
+            },
+            {
+                "option": "White papers"
+            },
+            {
+                "option": "Webinars"
+            },
+            {
+                "option": "Ebooks"
+            },
+            {
+                "option": "Infographics"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your current pain points related to sales lead management?",
+        "options": [
+            {
+                "option": "Difficulty identifying qualified leads"
+            },
+            {
+                "option": "Inefficient lead follow-up"
+            },
+            {
+                "option": "Lack of visibility into the sales pipeline"
+            },
+            {
+                "option": "Poor lead data quality"
+            },
+            {
+                "option": "Lack of reporting and analytics"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "Which of these industries do your target customers operate in?",
+        "options": [
+            {
+                "option": "Healthcare"
+            },
+            {
+                "option": "Finance"
+            },
+            {
+                "option": "Technology"
+            },
+            {
+                "option": "Education"
+            },
+            {
+                "option": "Retail"
+            },
+            {
+                "option": "Manufacturing"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your key decision criteria for selecting a new CRM system?",
+        "options": [
+            {
+                "option": "Ease of use"
+            },
+            {
+                "option": "Integration capabilities"
+            },
+            {
+                "option": "Reporting and analytics"
+            },
+            {
+                "option": "Cost-effectiveness"
+            },
+            {
+                "option": "Scalability"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What types of sales training do your sales reps need?",
+        "options": [
+            {
+                "option": "Product knowledge training"
+            },
+            {
+                "option": "Sales techniques training"
+            },
+            {
+                "option": "Customer relationship management (CRM) training"
+            },
+            {
+                "option": "Negotiation skills training"
+            },
+            {
+                "option": "Closing skills training"
+            }
+        ]
+    },
+    {
+        "type": "MULTI_SELECT",
+        "question": "What are your preferred methods for tracking sales performance?",
+        "options": [
+            {
+                "option": "Sales dashboards"
+            },
+            {
+                "option": "Sales reports"
+            },
+            {
+                "option": "Sales meetings"
+            },
+            {
+                "option": "One-on-one coaching"
+            },
+            {
+                "option": "Team performance reviews"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your goals for improving customer satisfaction?",
+        "options": [
+            {
+                "option": "Increase customer retention"
+            },
+            {
+                "option": "Improve customer loyalty"
+            },
+            {
+                "option": "Generate positive word-of-mouth referrals"
+            },
+            {
+                "option": "Reduce customer churn"
+            },
+            {
+                "option": "Enhance brand reputation"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your biggest concerns regarding data privacy and security?",
+        "options": [
+            {
+                "option": "Data breaches"
+            },
+            {
+                "option": "Data loss"
+            },
+            {
+                "option": "Compliance with data privacy regulations"
+            },
+            {
+                "option": "Protecting customer data"
+            },
+            {
+                "option": "Ensuring data integrity"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your team's preferred communication tools?",
+        "options": [
+            {
+                "option": "Slack"
+            },
+            {
+                "option": "Microsoft Teams"
+            },
+            {
+                "option": "Email"
+            },
+            {
+                "option": "Project management software"
+            },
+            {
+                "option": "Instant messaging apps"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are the most important metrics you track to measure sales success?",
+        "options": [
+            {
+                "option": "Revenue"
+            },
+            {
+                "option": "Conversion rate"
+            },
+            {
+                "option": "Customer lifetime value (CLTV)"
+            },
+            {
+                "option": "Customer acquisition cost (CAC)"
+            },
+            {
+                "option": "Average deal size"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your company's key competitive advantages?",
+        "options": [
+            {
+                "option": "Unique product features"
+            },
+            {
+                "option": "Strong brand reputation"
+            },
+            {
+                "option": "Excellent customer service"
+            },
+            {
+                "option": "Competitive pricing"
+            },
+            {
+                "option": "Strategic partnerships"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your primary sources of leads?",
+        "options": [
+            {
+                "option": "Referral programs"
+            },
+            {
+                "option": "Social media marketing"
+            },
+            {
+                "option": "Content marketing"
+            },
+            {
+                "option": "Email marketing"
+            },
+            {
+                "option": "Paid advertising"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your biggest challenges in closing deals?",
+        "options": [
+            {
+                "option": "Objections from prospects"
+            },
+            {
+                "option": "Price sensitivity"
+            },
+            {
+                "option": "Long sales cycles"
+            },
+            {
+                "option": "Competition"
+            },
+            {
+                "option": "Lack of budget"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your preferred methods for nurturing leads?",
+        "options": [
+            {
+                "option": "Email marketing"
+            },
+            {
+                "option": "Content marketing"
+            },
+            {
+                "option": "Social media engagement"
+            },
+            {
+                "option": "Personalized email sequences"
+            },
+            {
+                "option": "Webinars and online events"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What types of information are most important to include in your sales proposals?",
+        "options": [
+            {
+                "option": "Product features and benefits"
+            },
+            {
+                "option": "Pricing and payment terms"
+            },
+            {
+                "option": "Case studies and testimonials"
+            },
+            {
+                "option": "Client success stories"
+            },
+            {
+                "option": "Service level agreements (SLAs)"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your primary concerns regarding the accuracy of your sales data?",
+        "options": [
+            {
+                "option": "Data entry errors"
+            },
+            {
+                "option": "Data inconsistencies"
+            },
+            {
+                "option": "Lack of data standardization"
+            },
+            {
+                "option": "Difficulty accessing accurate data"
+            },
+            {
+                "option": "Outdated data"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your company's primary marketing objectives?",
+        "options": [
+            {
+                "option": "Increase brand awareness"
+            },
+            {
+                "option": "Generate leads"
+            },
+            {
+                "option": "Drive sales"
+            },
+            {
+                "option": "Improve customer engagement"
+            },
+            {
+                "option": "Build customer loyalty"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What types of sales reports are most valuable to your team?",
+        "options": [
+            {
+                "option": "Sales pipeline reports"
+            },
+            {
+                "option": "Lead conversion reports"
+            },
+            {
+                "option": "Sales forecast reports"
+            },
+            {
+                "option": "Sales performance reports"
+            },
+            {
+                "option": "Customer segmentation reports"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your primary channels for communicating with customers?",
+        "options": [
+            {
+                "option": "Email"
+            },
+            {
+                "option": "Phone"
+            },
+            {
+                "option": "Social media"
+            },
+            {
+                "option": "Live chat"
+            },
+            {
+                "option": "In-person meetings"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your company's key strategies for retaining customers?",
+        "options": [
+            {
+                "option": "Excellent customer service"
+            },
+            {
+                "option": "Loyalty programs"
+            },
+            {
+                "option": "Regular customer communication"
+            },
+            {
+                "option": "Proactive problem solving"
+            },
+            {
+                "option": "Building strong relationships"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your biggest challenges in managing your sales team?",
+        "options": [
+            {
+                "option": "Maintaining team motivation"
+            },
+            {
+                "option": "Ensuring consistent performance"
+            },
+            {
+                "option": "Providing adequate training and development"
+            },
+            {
+                "option": "Managing team conflicts"
+            },
+            {
+                "option": "Tracking team progress"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your preferred methods for gathering customer feedback?",
+        "options": [
+            {
+                "option": "Customer surveys"
+            },
+            {
+                "option": "Customer interviews"
+            },
+            {
+                "option": "Focus groups"
+            },
+            {
+                "option": "Online reviews"
+            },
+            {
+                "option": "Social media monitoring"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your company's primary methods for generating leads?",
+        "options": [
+            {
+                "option": "Inbound marketing"
+            },
+            {
+                "option": "Outbound marketing"
+            },
+            {
+                "option": "Content marketing"
+            },
+            {
+                "option": "Social media marketing"
+            },
+            {
+                "option": "Paid advertising"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your biggest challenges in scaling your sales operations?",
+        "options": [
+            {
+                "option": "Hiring and training new sales reps"
+            },
+            {
+                "option": "Managing increasing sales volume"
+            },
+            {
+                "option": "Maintaining consistent sales performance"
+            },
+            {
+                "option": "Scaling your sales technology"
+            },
+            {
+                "option": "Managing sales team growth"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your key performance indicators (KPIs) for your sales team?",
+        "options": [
+            {
+                "option": "Revenue"
+            },
+            {
+                "option": "Number of deals closed"
+            },
+            {
+                "option": "Average deal size"
+            },
+            {
+                "option": "Sales cycle length"
+            },
+            {
+                "option": "Customer acquisition cost (CAC)"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What types of sales tools and technologies does your team currently use?",
+        "options": [
+            {
+                "option": "CRM software"
+            },
+            {
+                "option": "Sales automation tools"
+            },
+            {
+                "option": "Sales intelligence platforms"
+            },
+            {
+                "option": "Proposal software"
+            },
+            {
+                "option": "Communication and collaboration tools"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your company's primary sales strategies?",
+        "options": [
+            {
+                "option": "Inbound sales"
+            },
+            {
+                "option": "Outbound sales"
+            },
+            {
+                "option": "Account-based marketing (ABM)"
+            },
+            {
+                "option": "Channel sales"
+            },
+            {
+                "option": "Strategic partnerships"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are the most important factors you consider when evaluating sales leads?",
+        "options": [
+            {
+                "option": "Company size"
+            },
+            {
+                "option": "Industry"
+            },
+            {
+                "option": "Budget"
+            },
+            {
+                "option": "Need"
+            },
+            {
+                "option": "Authority"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your primary goals for improving your sales process?",
+        "options": [
+            {
+                "option": "Increase sales revenue"
+            },
+            {
+                "option": "Improve sales efficiency"
+            },
+            {
+                "option": "Enhance customer satisfaction"
+            },
+            {
+                "option": "Reduce sales cycle length"
+            },
+            {
+                "option": "Improve lead conversion rates"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your biggest challenges in managing your sales pipeline?",
+        "options": [
+            {
+                "option": "Tracking deal progress"
+            },
+            {
+                "option": "Forecasting sales accurately"
+            },
+            {
+                "option": "Prioritizing deals effectively"
+            },
+            {
+                "option": "Identifying and addressing bottlenecks"
+            },
+            {
+                "option": "Maintaining pipeline visibility"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your preferred methods for training your sales team?",
+        "options": [
+            {
+                "option": "Classroom training"
+            },
+            {
+                "option": "Online training"
+            },
+            {
+                "option": "On-the-job training"
+            },
+            {
+                "option": "Mentorship programs"
+            },
+            {
+                "option": "External training courses"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your company's primary sales methodologies?",
+        "options": [
+            {
+                "option": "Solution selling"
+            },
+            {
+                "option": "Consultative selling"
+            },
+            {
+                "option": "Value selling"
+            },
+            {
+                "option": "Relationship selling"
+            },
+            {
+                "option": "Transactional selling"
+            }
+        ]
+    }
+]

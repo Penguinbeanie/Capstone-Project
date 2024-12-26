@@ -1,0 +1,842 @@
+[
+    {
+        "type": "MULTI_SELECT",
+        "question": "Which heavy industrial processes are you involved in?",
+        "options": [
+            {
+                "option": "Steel production"
+            },
+            {
+                "option": "Oil refining"
+            },
+            {
+                "option": "Cement manufacturing"
+            },
+            {
+                "option": "Mining"
+            },
+            {
+                "option": "Chemical processing"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What types of heavy machinery do you utilize?",
+        "options": [
+            {
+                "option": "Bulldozers"
+            },
+            {
+                "option": "Excavator"
+            },
+            {
+                "option": "Cranes"
+            },
+            {
+                "option": "Forklifts"
+            },
+            {
+                "option": "Heavy-duty trucks"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your primary environmental concerns?",
+        "options": [
+            {
+                "option": "Air pollution"
+            },
+            {
+                "option": "Water pollution"
+            },
+            {
+                "option": "Waste management"
+            },
+            {
+                "option": "Greenhouse gas emissions"
+            },
+            {
+                "option": "Noise pollution"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What safety measures are in place at your facility?",
+        "options": [
+            {
+                "option": "Personal Protective Equipment (PPE)"
+            },
+            {
+                "option": "Regular safety inspections"
+            },
+            {
+                "option": "Emergency response plans"
+            },
+            {
+                "option": "Employee safety training"
+            },
+            {
+                "option": "Lockout/Tagout procedures"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What energy sources do you primarily use?",
+        "options": [
+            {
+                "option": "Natural gas"
+            },
+            {
+                "option": "Coal"
+            },
+            {
+                "option": "Electricity"
+            },
+            {
+                "option": "Renewable energy"
+            },
+            {
+                "option": "Oil"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your biggest operational challenges?",
+        "options": [
+            {
+                "option": "Maintaining equipment"
+            },
+            {
+                "option": "Managing costs"
+            },
+            {
+                "option": "Finding skilled labor"
+            },
+            {
+                "option": "Meeting environmental regulations"
+            },
+            {
+                "option": "Supply chain disruptions"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What materials do you primarily process or manufacture?",
+        "options": [
+            {
+                "option": "Iron ore"
+            },
+            {
+                "option": "Crude oil"
+            },
+            {
+                "option": "Limestone"
+            },
+            {
+                "option": "Chemicals"
+            },
+            {
+                "option": "Plastics"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your key performance indicators (KPIs)?",
+        "options": [
+            {
+                "option": "Production output"
+            },
+            {
+                "option": "Safety record"
+            },
+            {
+                "option": "Environmental impact"
+            },
+            {
+                "option": "Cost efficiency"
+            },
+            {
+                "option": "Employee satisfaction"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What technologies are you currently implementing or exploring?",
+        "options": [
+            {
+                "option": "Automation"
+            },
+            {
+                "option": "Robotics"
+            },
+            {
+                "option": "Artificial intelligence (AI)"
+            },
+            {
+                "option": "Internet of Things (IoT)"
+            },
+            {
+                "option": "Big data analytics"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your main transportation methods?",
+        "options": [
+            {
+                "option": "Trucks"
+            },
+            {
+                "option": "Rail"
+            },
+            {
+                "option": "Ships"
+            },
+            {
+                "option": "Pipelines"
+            },
+            {
+                "option": "Air"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What types of quality control measures do you employ?",
+        "options": [
+            {
+                "option": "Regular inspections"
+            },
+            {
+                "option": "Testing"
+            },
+            {
+                "option": "Statistical process control (SPC)"
+            },
+            {
+                "option": "ISO 9001 certification"
+            },
+            {
+                "option": "Six Sigma methodology"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What types of waste are generated by your operations?",
+        "options": [
+            {
+                "option": "Solid waste"
+            },
+            {
+                "option": "Hazardous waste"
+            },
+            {
+                "option": "Liquid waste"
+            },
+            {
+                "option": "Gaseous emissions"
+            },
+            {
+                "option": "Recyclable materials"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your primary customer segments?",
+        "options": [
+            {
+                "option": "Construction"
+            },
+            {
+                "option": "Manufacturing"
+            },
+            {
+                "option": "Energy"
+            },
+            {
+                "option": "Transportation"
+            },
+            {
+                "option": "Agriculture"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your main sources of raw materials?",
+        "options": [
+            {
+                "option": "Domestic suppliers"
+            },
+            {
+                "option": "International suppliers"
+            },
+            {
+                "option": "Recycled materials"
+            },
+            {
+                "option": "Mining operations"
+            },
+            {
+                "option": "Agriculture"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What training programs do you offer your employees?",
+        "options": [
+            {
+                "option": "Safety training"
+            },
+            {
+                "option": "Technical skills training"
+            },
+            {
+                "option": "Leadership development"
+            },
+            {
+                "option": "Environmental awareness training"
+            },
+            {
+                "option": "On-the-job training"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What types of research and development activities are you undertaking?",
+        "options": [
+            {
+                "option": "Process improvement"
+            },
+            {
+                "option": "New product development"
+            },
+            {
+                "option": "Sustainability initiatives"
+            },
+            {
+                "option": "Automation technology"
+            },
+            {
+                "option": "Materials science"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What regulatory bodies do you interact with?",
+        "options": [
+            {
+                "option": "Environmental Protection Agency (EPA)"
+            },
+            {
+                "option": "Occupational Safety and Health Administration (OSHA)"
+            },
+            {
+                "option": "Department of Transportation (DOT)"
+            },
+            {
+                "option": "Local environmental agencies"
+            },
+            {
+                "option": "Industry-specific regulatory bodies"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your primary methods for reducing energy consumption?",
+        "options": [
+            {
+                "option": "Energy-efficient equipment"
+            },
+            {
+                "option": "Process optimization"
+            },
+            {
+                "option": "Renewable energy sources"
+            },
+            {
+                "option": "Waste heat recovery"
+            },
+            {
+                "option": "Energy management systems"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What types of maintenance strategies do you employ?",
+        "options": [
+            {
+                "option": "Preventive maintenance"
+            },
+            {
+                "option": "Predictive maintenance"
+            },
+            {
+                "option": "Corrective maintenance"
+            },
+            {
+                "option": "Condition-based maintenance"
+            },
+            {
+                "option": "Total productive maintenance (TPM)"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What communication tools do you use for internal and external communication?",
+        "options": [
+            {
+                "option": "Email"
+            },
+            {
+                "option": "Instant messaging"
+            },
+            {
+                "option": "Video conferencing"
+            },
+            {
+                "option": "Project management software"
+            },
+            {
+                "option": "Intranet"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What supply chain management strategies do you utilize?",
+        "options": [
+            {
+                "option": "Just-in-time (JIT) inventory"
+            },
+            {
+                "option": "Vendor managed inventory (VMI)"
+            },
+            {
+                "option": "Supplier relationship management (SRM)"
+            },
+            {
+                "option": "Risk management"
+            },
+            {
+                "option": "Supply chain diversification"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What types of industrial robots are used in your operations?",
+        "options": [
+            {
+                "option": "Articulated robots"
+            },
+            {
+                "option": "Cartesian robots"
+            },
+            {
+                "option": "SCARA robots"
+            },
+            {
+                "option": "Delta robots"
+            },
+            {
+                "option": "Collaborative robots (cobots)"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What types of data do you collect to monitor your operations?",
+        "options": [
+            {
+                "option": "Production data"
+            },
+            {
+                "option": "Energy consumption data"
+            },
+            {
+                "option": "Environmental data"
+            },
+            {
+                "option": "Safety data"
+            },
+            {
+                "option": "Maintenance data"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What methods do you use to manage your inventory?",
+        "options": [
+            {
+                "option": "First-In, First-Out (FIFO)"
+            },
+            {
+                "option": "Last-In, First-Out (LIFO)"
+            },
+            {
+                "option": "Weighted-Average Cost"
+            },
+            {
+                "option": "Specific Identification"
+            },
+            {
+                "option": "Inventory Management Software"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your primary distribution channels?",
+        "options": [
+            {
+                "option": "Direct sales"
+            },
+            {
+                "option": "Distributors"
+            },
+            {
+                "option": "Retailers"
+            },
+            {
+                "option": "Online sales"
+            },
+            {
+                "option": "Export"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What types of quality certifications do you hold?",
+        "options": [
+            {
+                "option": "ISO 9001"
+            },
+            {
+                "option": "ISO 14001"
+            },
+            {
+                "option": "OHSAS 18001"
+            },
+            {
+                "option": "ISO 27001"
+            },
+            {
+                "option": "Industry-specific certifications"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What types of  maintenance software do you use?",
+        "options": [
+            {
+                "option": "SAP PM"
+            },
+            {
+                "option": "IBM Maximo"
+            },
+            {
+                "option": "Oracle EAM"
+            },
+            {
+                "option": "Infor EAM"
+            },
+            {
+                "option": "Microsoft Dynamics 365"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What types of industrial automation systems do you use?",
+        "options": [
+            {
+                "option": "Programmable Logic Controllers (PLCs)"
+            },
+            {
+                "option": "Supervisory Control and Data Acquisition (SCADA)"
+            },
+            {
+                "option": "Distributed Control Systems (DCS)"
+            },
+            {
+                "option": "Human-Machine Interfaces (HMIs)"
+            },
+            {
+                "option": "Industrial Ethernet"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your primary methods for reducing water consumption?",
+        "options": [
+            {
+                "option": "Water recycling"
+            },
+            {
+                "option": "Water-efficient equipment"
+            },
+            {
+                "option": "Process optimization"
+            },
+            {
+                "option": "Leak detection and repair"
+            },
+            {
+                "option": "Water management systems"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What types of  risk management software do you use?",
+        "options": [
+            {
+                "option": "Archer"
+            },
+            {
+                "option": "ServiceNow"
+            },
+            {
+                "option": "MetricStream"
+            },
+            {
+                "option": "Riskonnect"
+            },
+            {
+                "option": "LogicManager"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your key strategies for improving worker safety?",
+        "options": [
+            {
+                "option": "Improved PPE"
+            },
+            {
+                "option": "Enhanced safety training"
+            },
+            {
+                "option": "Regular safety audits"
+            },
+            {
+                "option": "Improved safety procedures"
+            },
+            {
+                "option": "Incentivize safe behavior"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What types of software do you use for production planning and scheduling?",
+        "options": [
+            {
+                "option": "SAP PP"
+            },
+            {
+                "option": "Oracle Production Planning"
+            },
+            {
+                "option": "Microsoft Dynamics 365 for Finance and Operations"
+            },
+            {
+                "option": "Infor LN"
+            },
+            {
+                "option": "Epicor ERP"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your primary methods for reducing waste generation?",
+        "options": [
+            {
+                "option": "Improved process efficiency"
+            },
+            {
+                "option": "Recycling programs"
+            },
+            {
+                "option": "Waste reduction initiatives"
+            },
+            {
+                "option": "Waste-to-energy technologies"
+            },
+            {
+                "option": "Improved material handling"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What types of  project management software do you use?",
+        "options": [
+            {
+                "option": "Microsoft Project"
+            },
+            {
+                "option": "Asana"
+            },
+            {
+                "option": "Jira"
+            },
+            {
+                "option": "Trello"
+            },
+            {
+                "option": "Monday.com"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your primary goals for improving sustainability?",
+        "options": [
+            {
+                "option": "Reduce greenhouse gas emissions"
+            },
+            {
+                "option": "Reduce water consumption"
+            },
+            {
+                "option": "Reduce waste generation"
+            },
+            {
+                "option": "Improve energy efficiency"
+            },
+            {
+                "option": "Source sustainable materials"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What types of  data analytics tools do you use?",
+        "options": [
+            {
+                "option": "Tableau"
+            },
+            {
+                "option": "Power BI"
+            },
+            {
+                "option": "Qlik Sense"
+            },
+            {
+                "option": "Splunk"
+            },
+            {
+                "option": "Google Data Studio"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What are your biggest concerns regarding future regulatory changes?",
+        "options": [
+            {
+                "option": "Environmental regulations"
+            },
+            {
+                "option": "Safety regulations"
+            },
+            {
+                "option": "Labor regulations"
+            },
+            {
+                "option": "Tax regulations"
+            },
+            {
+                "option": "Trade regulations"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What types of  cloud computing services do you use?",
+        "options": [
+            {
+                "option": "Amazon Web Services (AWS)"
+            },
+            {
+                "option": "Microsoft Azure"
+            },
+            {
+                "option": "Google Cloud Platform (GCP)"
+            },
+            {
+                "option": "IBM Cloud"
+            },
+            {
+                "option": "Oracle Cloud"
+            }
+        ]
+    },
+    {
+        "type": "MULTI_SELECT",
+        "question": "What are your key strategies for attracting and retaining skilled workers?",
+        "options": [
+            {
+                "option": "Competitive compensation and benefits"
+            },
+            {
+                "option": "Training and development opportunities"
+            },
+            {
+                "option": "Opportunities for career advancement"
+            },
+            {
+                "option": "Positive work environment"
+            },
+            {
+                "option": "Employee recognition programs"
+            }
+        ]
+    },
+    {
+        "type": "MULTI-SELECT",
+        "question": "What types of  cybersecurity software do you use?",
+        "options": [
+            {
+                "option": "CrowdStrike"
+            },
+            {
+                "option": "Palo Alto Networks"
+            },
+            {
+                "option": "Fortinet"
+            },
+            {
+                "option": "Check Point"
+            },
+            {
+                "option": "Symantec"
+            }
+        ]
+    }
+]
