@@ -1,0 +1,92 @@
+[
+    {
+        "type": "DATE",
+        "question": "What is your date of birth?",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When is your next appointment scheduled?",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What date did the incident occur?",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When is your preferred delivery date?",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What is the project's deadline?",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you last visit the doctor?",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What is the start date of your vacation?",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When is the invoice due?",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What is the date of your next performance review?",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When would you like to schedule a consultation?",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    }
+]
