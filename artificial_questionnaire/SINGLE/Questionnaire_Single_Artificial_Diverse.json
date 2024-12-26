@@ -1,0 +1,599 @@
+[
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your preferred method of communication?",
+        "options": [
+            {
+                "option": "Email"
+            },
+            {
+                "option": "Phone"
+            },
+            {
+                "option": "Video Conference"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your company's annual revenue?",
+        "options": [
+            {
+                "option": "Under $1 million"
+            },
+            {
+                "option": "$1 million - $10 million"
+            },
+            {
+                "option": "$10 million - $100 million"
+            },
+            {
+                "option": "Over $100 million"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your job title?",
+        "options": [
+            {
+                "option": "CEO"
+            },
+            {
+                "option": "CFO"
+            },
+            {
+                "option": "Marketing Manager"
+            },
+            {
+                "option": "Sales Representative"
+            },
+            {
+                "option": "Other"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "How did you hear about our company?",
+        "options": [
+            {
+                "option": "Google Search"
+            },
+            {
+                "option": "Social Media"
+            },
+            {
+                "option": "Referral"
+            },
+            {
+                "option": "Trade Show"
+            },
+            {
+                "option": "Other"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your highest level of education?",
+        "options": [
+            {
+                "option": "High School"
+            },
+            {
+                "option": "Bachelor's Degree"
+            },
+            {
+                "option": "Master's Degree"
+            },
+            {
+                "option": "Doctorate Degree"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your age range?",
+        "options": [
+            {
+                "option": "18-24"
+            },
+            {
+                "option": "25-34"
+            },
+            {
+                "option": "35-44"
+            },
+            {
+                "option": "45-54"
+            },
+            {
+                "option": "55+"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your gender?",
+        "options": [
+            {
+                "option": "Male"
+            },
+            {
+                "option": "Female"
+            },
+            {
+                "option": "Other"
+            },
+            {
+                "option": "Prefer not to say"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your primary role in your organization?",
+        "options": [
+            {
+                "option": "Decision Maker"
+            },
+            {
+                "option": "Influencer"
+            },
+            {
+                "option": "End User"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "Are you currently using a similar product?",
+        "options": [
+            {
+                "option": "Yes"
+            },
+            {
+                "option": "No"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your budget for this project?",
+        "options": [
+            {
+                "option": "Under $10,000"
+            },
+            {
+                "option": "$10,000 - $50,000"
+            },
+            {
+                "option": "$50,000 - $100,000"
+            },
+            {
+                "option": "Over $100,000"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your company's size?",
+        "options": [
+            {
+                "option": "1-50 employees"
+            },
+            {
+                "option": "51-200 employees"
+            },
+            {
+                "option": "201-1000 employees"
+            },
+            {
+                "option": "Over 1000 employees"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your primary concern when choosing a product like this?",
+        "options": [
+            {
+                "option": "Price"
+            },
+            {
+                "option": "Features"
+            },
+            {
+                "option": "Customer Support"
+            },
+            {
+                "option": "Ease of Use"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your preferred timeline for implementation?",
+        "options": [
+            {
+                "option": "Immediate"
+            },
+            {
+                "option": "Within 1 month"
+            },
+            {
+                "option": "Within 3 months"
+            },
+            {
+                "option": "Within 6 months"
+            },
+            {
+                "option": "Longer than 6 months"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "How satisfied are you with our current service?",
+        "options": [
+            {
+                "option": "Very Satisfied"
+            },
+            {
+                "option": "Satisfied"
+            },
+            {
+                "option": "Neutral"
+            },
+            {
+                "option": "Dissatisfied"
+            },
+            {
+                "option": "Very Dissatisfied"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your purchase decision-making process?",
+        "options": [
+            {
+                "option": "Quick Decision"
+            },
+            {
+                "option": "Moderate Decision"
+            },
+            {
+                "option": "Lengthy Decision"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What are your primary business goals?",
+        "options": [
+            {
+                "option": "Increase Revenue"
+            },
+            {
+                "option": "Reduce Costs"
+            },
+            {
+                "option": "Improve Efficiency"
+            },
+            {
+                "option": "Expand Market Share"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your purchasing authority?",
+        "options": [
+            {
+                "option": "Full Authority"
+            },
+            {
+                "option": "Partial Authority"
+            },
+            {
+                "option": "No Authority"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What geographic region are you located in?",
+        "options": [
+            {
+                "option": "North America"
+            },
+            {
+                "option": "Europe"
+            },
+            {
+                "option": "Asia"
+            },
+            {
+                "option": "South America"
+            },
+            {
+                "option": "Africa"
+            },
+            {
+                "option": "Australia"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your preferred payment method?",
+        "options": [
+            {
+                "option": "Credit Card"
+            },
+            {
+                "option": "Bank Transfer"
+            },
+            {
+                "option": "PayPal"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "How many employees does your company have?",
+        "options": [
+            {
+                "option": "1-10"
+            },
+            {
+                "option": "11-50"
+            },
+            {
+                "option": "51-100"
+            },
+            {
+                "option": "101-500"
+            },
+            {
+                "option": "500+"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your department?",
+        "options": [
+            {
+                "option": "Sales"
+            },
+            {
+                "option": "Marketing"
+            },
+            {
+                "option": "IT"
+            },
+            {
+                "option": "Finance"
+            },
+            {
+                "option": "Other"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your level of technical expertise?",
+        "options": [
+            {
+                "option": "Beginner"
+            },
+            {
+                "option": "Intermediate"
+            },
+            {
+                "option": "Advanced"
+            },
+            {
+                "option": "Expert"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "Do you have any specific requirements for this project?",
+        "options": [
+            {
+                "option": "Yes"
+            },
+            {
+                "option": "No"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your preferred operating system?",
+        "options": [
+            {
+                "option": "Windows"
+            },
+            {
+                "option": "macOS"
+            },
+            {
+                "option": "Linux"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your primary source of leads?",
+        "options": [
+            {
+                "option": "Inbound Marketing"
+            },
+            {
+                "option": "Outbound Sales"
+            },
+            {
+                "option": "Referrals"
+            },
+            {
+                "option": "Partnerships"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your company's mission?",
+        "options": [
+            {
+                "option": "Profit Maximization"
+            },
+            {
+                "option": "Social Impact"
+            },
+            {
+                "option": "Environmental Sustainability"
+            },
+            {
+                "option": "Customer Satisfaction"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your company culture?",
+        "options": [
+            {
+                "option": "Formal"
+            },
+            {
+                "option": "Informal"
+            },
+            {
+                "option": "Hybrid"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your preferred integration method?",
+        "options": [
+            {
+                "option": "API"
+            },
+            {
+                "option": "CSV Import/Export"
+            },
+            {
+                "option": "Other"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your current level of digital transformation?",
+        "options": [
+            {
+                "option": "Beginner"
+            },
+            {
+                "option": "Intermediate"
+            },
+            {
+                "option": "Advanced"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What are your top three priorities for this year?",
+        "options": [
+            {
+                "option": "Revenue Growth"
+            },
+            {
+                "option": "Cost Reduction"
+            },
+            {
+                "option": "Customer Acquisition"
+            },
+            {
+                "option": "Product Development"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your biggest challenge in your current role?",
+        "options": [
+            {
+                "option": "Lack of Resources"
+            },
+            {
+                "option": "Lack of Time"
+            },
+            {
+                "option": "Lack of Support"
+            },
+            {
+                "option": "Other"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your team size?",
+        "options": [
+            {
+                "option": "1-5"
+            },
+            {
+                "option": "6-10"
+            },
+            {
+                "option": "11-20"
+            },
+            {
+                "option": "20+"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your company's main focus?",
+        "options": [
+            {
+                "option": "B2B"
+            },
+            {
+                "option": "B2C"
+            },
+            {
+                "option": "Both"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "How would you rate your experience with our customer support?",
+        "options": [
+            {
+                "option": "Excellent"
+            },
+            {
+                "option": "Good"
+            },
+            {
+                "option": "Fair"
+            },
+            {
+                "option": "Poor"
+            }
+        ]
+    }
+]

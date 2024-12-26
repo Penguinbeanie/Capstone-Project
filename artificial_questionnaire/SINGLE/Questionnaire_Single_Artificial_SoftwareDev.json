@@ -1,0 +1,656 @@
+[
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your preferred programming language?",
+        "options": [
+            {
+                "option": "Python"
+            },
+            {
+                "option": "Java"
+            },
+            {
+                "option": "JavaScript"
+            },
+            {
+                "option": "C++"
+            },
+            {
+                "option": "C#"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your experience level with software development?",
+        "options": [
+            {
+                "option": "Beginner"
+            },
+            {
+                "option": "Intermediate"
+            },
+            {
+                "option": "Advanced"
+            },
+            {
+                "option": "Expert"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What type of software development are you interested in?",
+        "options": [
+            {
+                "option": "Web Development"
+            },
+            {
+                "option": "Mobile Development"
+            },
+            {
+                "option": "Game Development"
+            },
+            {
+                "option": "Data Science"
+            },
+            {
+                "option": "Embedded Systems"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your preferred development environment?",
+        "options": [
+            {
+                "option": "Visual Studio"
+            },
+            {
+                "option": "IntelliJ IDEA"
+            },
+            {
+                "option": "Eclipse"
+            },
+            {
+                "option": "VS Code"
+            },
+            {
+                "option": "Sublime Text"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What version control system do you use?",
+        "options": [
+            {
+                "option": "Git"
+            },
+            {
+                "option": "SVN"
+            },
+            {
+                "option": "Mercurial"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What database system are you familiar with?",
+        "options": [
+            {
+                "option": "MySQL"
+            },
+            {
+                "option": "PostgreSQL"
+            },
+            {
+                "option": "MongoDB"
+            },
+            {
+                "option": "Oracle"
+            },
+            {
+                "option": "SQL Server"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What methodology do you follow for software development?",
+        "options": [
+            {
+                "option": "Agile"
+            },
+            {
+                "option": "Waterfall"
+            },
+            {
+                "option": "Scrum"
+            },
+            {
+                "option": "Kanban"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your preferred testing framework?",
+        "options": [
+            {
+                "option": "JUnit"
+            },
+            {
+                "option": "pytest"
+            },
+            {
+                "option": "NUnit"
+            },
+            {
+                "option": "Mocha"
+            },
+            {
+                "option": "Jest"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What type of project are you working on?",
+        "options": [
+            {
+                "option": "Web Application"
+            },
+            {
+                "option": "Mobile Application"
+            },
+            {
+                "option": "Desktop Application"
+            },
+            {
+                "option": "Game"
+            },
+            {
+                "option": "Library"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your team size?",
+        "options": [
+            {
+                "option": "1-5"
+            },
+            {
+                "option": "6-10"
+            },
+            {
+                "option": "11-20"
+            },
+            {
+                "option": "21-50"
+            },
+            {
+                "option": "More than 50"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your role in the team?",
+        "options": [
+            {
+                "option": "Frontend Developer"
+            },
+            {
+                "option": "Backend Developer"
+            },
+            {
+                "option": "Fullstack Developer"
+            },
+            {
+                "option": "Data Scientist"
+            },
+            {
+                "option": "Project Manager"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What cloud platform do you use?",
+        "options": [
+            {
+                "option": "AWS"
+            },
+            {
+                "option": "Azure"
+            },
+            {
+                "option": "Google Cloud"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your preferred IDE for mobile development?",
+        "options": [
+            {
+                "option": "Android Studio"
+            },
+            {
+                "option": "Xcode"
+            },
+            {
+                "option": "React Native"
+            },
+            {
+                "option": "Flutter"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "Are you familiar with DevOps practices?",
+        "options": [
+            {
+                "option": "Yes"
+            },
+            {
+                "option": "No"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your experience with Agile methodologies?",
+        "options": [
+            {
+                "option": "Beginner"
+            },
+            {
+                "option": "Intermediate"
+            },
+            {
+                "option": "Advanced"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your preferred code editor for front-end development?",
+        "options": [
+            {
+                "option": "VS Code"
+            },
+            {
+                "option": "Sublime Text"
+            },
+            {
+                "option": "Atom"
+            },
+            {
+                "option": "WebStorm"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your preferred framework for backend development?",
+        "options": [
+            {
+                "option": "Spring Boot"
+            },
+            {
+                "option": "Node.js"
+            },
+            {
+                "option": "Django"
+            },
+            {
+                "option": "Ruby on Rails"
+            },
+            {
+                "option": ".NET"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your experience with design patterns?",
+        "options": [
+            {
+                "option": "Beginner"
+            },
+            {
+                "option": "Intermediate"
+            },
+            {
+                "option": "Advanced"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What type of testing do you prefer?",
+        "options": [
+            {
+                "option": "Unit Testing"
+            },
+            {
+                "option": "Integration Testing"
+            },
+            {
+                "option": "End-to-End Testing"
+            },
+            {
+                "option": "UI Testing"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your preferred approach to software architecture?",
+        "options": [
+            {
+                "option": "Microservices"
+            },
+            {
+                "option": "Monolithic"
+            },
+            {
+                "option": "Layered"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your experience with containerization technologies?",
+        "options": [
+            {
+                "option": "Beginner"
+            },
+            {
+                "option": "Intermediate"
+            },
+            {
+                "option": "Advanced"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your experience with CI/CD pipelines?",
+        "options": [
+            {
+                "option": "Beginner"
+            },
+            {
+                "option": "Intermediate"
+            },
+            {
+                "option": "Advanced"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your preferred approach to project management?",
+        "options": [
+            {
+                "option": "Agile"
+            },
+            {
+                "option": "Waterfall"
+            },
+            {
+                "option": "Hybrid"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your preferred communication tool?",
+        "options": [
+            {
+                "option": "Slack"
+            },
+            {
+                "option": "Microsoft Teams"
+            },
+            {
+                "option": "Email"
+            },
+            {
+                "option": "Jira"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your preferred collaboration tool?",
+        "options": [
+            {
+                "option": "GitHub"
+            },
+            {
+                "option": "GitLab"
+            },
+            {
+                "option": "Bitbucket"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your preferred method for code review?",
+        "options": [
+            {
+                "option": "Pull Requests"
+            },
+            {
+                "option": "Code walkthroughs"
+            },
+            {
+                "option": "Pair programming"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your experience with RESTful APIs?",
+        "options": [
+            {
+                "option": "Beginner"
+            },
+            {
+                "option": "Intermediate"
+            },
+            {
+                "option": "Advanced"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your experience with GraphQL APIs?",
+        "options": [
+            {
+                "option": "Beginner"
+            },
+            {
+                "option": "Intermediate"
+            },
+            {
+                "option": "Advanced"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your experience with microservices architecture?",
+        "options": [
+            {
+                "option": "Beginner"
+            },
+            {
+                "option": "Intermediate"
+            },
+            {
+                "option": "Advanced"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your experience with serverless computing?",
+        "options": [
+            {
+                "option": "Beginner"
+            },
+            {
+                "option": "Intermediate"
+            },
+            {
+                "option": "Advanced"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your experience with event-driven architectures?",
+        "options": [
+            {
+                "option": "Beginner"
+            },
+            {
+                "option": "Intermediate"
+            },
+            {
+                "option": "Advanced"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your experience with message queues?",
+        "options": [
+            {
+                "option": "Beginner"
+            },
+            {
+                "option": "Intermediate"
+            },
+            {
+                "option": "Advanced"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your experience with caching mechanisms?",
+        "options": [
+            {
+                "option": "Beginner"
+            },
+            {
+                "option": "Intermediate"
+            },
+            {
+                "option": "Advanced"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your experience with NoSQL databases?",
+        "options": [
+            {
+                "option": "Beginner"
+            },
+            {
+                "option": "Intermediate"
+            },
+            {
+                "option": "Advanced"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your experience with data streaming technologies?",
+        "options": [
+            {
+                "option": "Beginner"
+            },
+            {
+                "option": "Intermediate"
+            },
+            {
+                "option": "Advanced"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your experience with big data technologies?",
+        "options": [
+            {
+                "option": "Beginner"
+            },
+            {
+                "option": "Intermediate"
+            },
+            {
+                "option": "Advanced"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your experience with artificial intelligence and machine learning?",
+        "options": [
+            {
+                "option": "Beginner"
+            },
+            {
+                "option": "Intermediate"
+            },
+            {
+                "option": "Advanced"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your experience with blockchain technology?",
+        "options": [
+            {
+                "option": "Beginner"
+            },
+            {
+                "option": "Intermediate"
+            },
+            {
+                "option": "Advanced"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your experience with cybersecurity best practices?",
+        "options": [
+            {
+                "option": "Beginner"
+            },
+            {
+                "option": "Intermediate"
+            },
+            {
+                "option": "Advanced"
+            }
+        ]
+    }
+]

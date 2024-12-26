@@ -1,0 +1,800 @@
+[
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your preferred medium for artistic expression?",
+        "options": [
+            {
+                "option": "Painting"
+            },
+            {
+                "option": "Sculpture"
+            },
+            {
+                "option": "Digital Art"
+            },
+            {
+                "option": "Photography"
+            },
+            {
+                "option": "Graphic Design"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What style of art are you most drawn to?",
+        "options": [
+            {
+                "option": "Abstract"
+            },
+            {
+                "option": "Realism"
+            },
+            {
+                "option": "Surrealism"
+            },
+            {
+                "option": "Impressionism"
+            },
+            {
+                "option": "Pop Art"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your primary role in the art and design industry?",
+        "options": [
+            {
+                "option": "Artist"
+            },
+            {
+                "option": "Designer"
+            },
+            {
+                "option": "Art Director"
+            },
+            {
+                "option": "Graphic Designer"
+            },
+            {
+                "option": "UX/UI Designer"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What software do you primarily use for your work?",
+        "options": [
+            {
+                "option": "Adobe Photoshop"
+            },
+            {
+                "option": "Adobe Illustrator"
+            },
+            {
+                "option": "Adobe InDesign"
+            },
+            {
+                "option": "Figma"
+            },
+            {
+                "option": "Sketch"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your preferred color palette?",
+        "options": [
+            {
+                "option": "Warm Colors"
+            },
+            {
+                "option": "Cool Colors"
+            },
+            {
+                "option": "Monochromatic"
+            },
+            {
+                "option": "Analogous"
+            },
+            {
+                "option": "Complementary"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What inspires your artistic creations?",
+        "options": [
+            {
+                "option": "Nature"
+            },
+            {
+                "option": "People"
+            },
+            {
+                "option": "Abstract Concepts"
+            },
+            {
+                "option": "Dreams"
+            },
+            {
+                "option": "Current Events"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your preferred method of showcasing your work?",
+        "options": [
+            {
+                "option": "Online Portfolio"
+            },
+            {
+                "option": "Art Galleries"
+            },
+            {
+                "option": "Art Fairs"
+            },
+            {
+                "option": "Social Media"
+            },
+            {
+                "option": "Personal Exhibitions"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What type of design projects do you enjoy the most?",
+        "options": [
+            {
+                "option": "Branding"
+            },
+            {
+                "option": "Web Design"
+            },
+            {
+                "option": "Packaging Design"
+            },
+            {
+                "option": "Illustration"
+            },
+            {
+                "option": "Typography"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your level of experience in the art and design industry?",
+        "options": [
+            {
+                "option": "Beginner"
+            },
+            {
+                "option": "Intermediate"
+            },
+            {
+                "option": "Advanced"
+            },
+            {
+                "option": "Expert"
+            },
+            {
+                "option": "Professional"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What are your career goals in the art and design industry?",
+        "options": [
+            {
+                "option": "Freelance Artist"
+            },
+            {
+                "option": "In-house Designer"
+            },
+            {
+                "option": "Art Director"
+            },
+            {
+                "option": "Creative Director"
+            },
+            {
+                "option": "Start my own Design Agency"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE_SELECT",
+        "question": "What is your preferred client type?",
+        "options": [
+            {
+                "option": "Small Businesses"
+            },
+            {
+                "option": "Large Corporations"
+            },
+            {
+                "option": "Non-profits"
+            },
+            {
+                "option": "Individuals"
+            },
+            {
+                "option": "Government Agencies"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "How do you stay current with design trends?",
+        "options": [
+            {
+                "option": "Design Blogs"
+            },
+            {
+                "option": "Design Magazines"
+            },
+            {
+                "option": "Social Media"
+            },
+            {
+                "option": "Industry Conferences"
+            },
+            {
+                "option": "Design Workshops"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your biggest challenge in the art and design industry?",
+        "options": [
+            {
+                "option": "Competition"
+            },
+            {
+                "option": "Finding Clients"
+            },
+            {
+                "option": "Balancing Creative Vision and Client Needs"
+            },
+            {
+                "option": "Time Management"
+            },
+            {
+                "option": "Pricing your services"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What type of feedback are you most interested in receiving on your work?",
+        "options": [
+            {
+                "option": "Constructive Criticism"
+            },
+            {
+                "option": "Positive Reinforcement"
+            },
+            {
+                "option": "Peer Reviews"
+            },
+            {
+                "option": "Client Feedback"
+            },
+            {
+                "option": "Public Opinion"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your greatest strength as an artist or designer?",
+        "options": [
+            {
+                "option": "Creativity"
+            },
+            {
+                "option": "Problem-solving"
+            },
+            {
+                "option": "Technical Skills"
+            },
+            {
+                "option": "Communication Skills"
+            },
+            {
+                "option": "Collaboration"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your preferred workflow for completing a design project?",
+        "options": [
+            {
+                "option": "Agile"
+            },
+            {
+                "option": "Waterfall"
+            },
+            {
+                "option": "Iterative"
+            },
+            {
+                "option": "Lean"
+            },
+            {
+                "option": "Kanban"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What type of art education have you received?",
+        "options": [
+            {
+                "option": "Formal Education (BFA, MFA)"
+            },
+            {
+                "option": "Self-taught"
+            },
+            {
+                "option": "Workshops and Courses"
+            },
+            {
+                "option": "Apprenticeship"
+            },
+            {
+                "option": "Online Courses"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your favorite art movement?",
+        "options": [
+            {
+                "option": "Art Nouveau"
+            },
+            {
+                "option": "Art Deco"
+            },
+            {
+                "option": "Bauhaus"
+            },
+            {
+                "option": "Dada"
+            },
+            {
+                "option": "Surrealism"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your biggest inspiration for your designs?",
+        "options": [
+            {
+                "option": "Nature"
+            },
+            {
+                "option": "Architecture"
+            },
+            {
+                "option": "Music"
+            },
+            {
+                "option": "Literature"
+            },
+            {
+                "option": "Technology"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What type of design thinking methodology do you prefer?",
+        "options": [
+            {
+                "option": "Human-centered Design"
+            },
+            {
+                "option": "Design Thinking"
+            },
+            {
+                "option": "Lean UX"
+            },
+            {
+                "option": "Double Diamond"
+            },
+            {
+                "option": "Agile Design"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your preferred method of generating design ideas?",
+        "options": [
+            {
+                "option": "Brainstorming"
+            },
+            {
+                "option": "Mind Mapping"
+            },
+            {
+                "option": "Mood Boarding"
+            },
+            {
+                "option": "Sketching"
+            },
+            {
+                "option": "Research"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What aspect of design are you most passionate about?",
+        "options": [
+            {
+                "option": "Visual Communication"
+            },
+            {
+                "option": "User Experience"
+            },
+            {
+                "option": "Branding"
+            },
+            {
+                "option": "Interaction Design"
+            },
+            {
+                "option": "Motion Graphics"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What type of design projects are you currently working on?",
+        "options": [
+            {
+                "option": "Branding Projects"
+            },
+            {
+                "option": "Website Designs"
+            },
+            {
+                "option": "Mobile App Designs"
+            },
+            {
+                "option": "Illustration Projects"
+            },
+            {
+                "option": "Graphic Design Projects"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your favorite type of font?",
+        "options": [
+            {
+                "option": "Serif"
+            },
+            {
+                "option": "Sans-serif"
+            },
+            {
+                "option": "Script"
+            },
+            {
+                "option": "Display"
+            },
+            {
+                "option": "Monospace"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your design philosophy?",
+        "options": [
+            {
+                "option": "Form follows function"
+            },
+            {
+                "option": "Less is more"
+            },
+            {
+                "option": "Think outside the box"
+            },
+            {
+                "option": "User-centric design"
+            },
+            {
+                "option": "Innovative and creative"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your biggest accomplishment in the art and design industry?",
+        "options": [
+            {
+                "option": "Winning a design award"
+            },
+            {
+                "option": "Getting featured in a design publication"
+            },
+            {
+                "option": "Successfully launching a design project"
+            },
+            {
+                "option": "Building a strong portfolio"
+            },
+            {
+                "option": "Establishing a loyal client base"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your preferred method of communication with clients?",
+        "options": [
+            {
+                "option": "Email"
+            },
+            {
+                "option": "Phone Calls"
+            },
+            {
+                "option": "Video Conferencing"
+            },
+            {
+                "option": "In-person Meetings"
+            },
+            {
+                "option": "Project Management Software"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "How do you handle creative block?",
+        "options": [
+            {
+                "option": "Take a break"
+            },
+            {
+                "option": "Seek inspiration from others"
+            },
+            {
+                "option": "Experiment with new techniques"
+            },
+            {
+                "option": "Change my environment"
+            },
+            {
+                "option": "Try a different approach"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your favorite design tool?",
+        "options": [
+            {
+                "option": "Adobe Photoshop"
+            },
+            {
+                "option": "Adobe Illustrator"
+            },
+            {
+                "option": "Figma"
+            },
+            {
+                "option": "Sketch"
+            },
+            {
+                "option": "Procreate"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What type of art do you collect?",
+        "options": [
+            {
+                "option": "Paintings"
+            },
+            {
+                "option": "Sculptures"
+            },
+            {
+                "option": "Prints"
+            },
+            {
+                "option": "Photographs"
+            },
+            {
+                "option": "Digital Art"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your favorite art museum?",
+        "options": [
+            {
+                "option": "The Metropolitan Museum of Art"
+            },
+            {
+                "option": "The Louvre"
+            },
+            {
+                "option": "The Museum of Modern Art"
+            },
+            {
+                "option": "The Tate Modern"
+            },
+            {
+                "option": "The National Gallery"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your favorite art technique?",
+        "options": [
+            {
+                "option": "Oil Painting"
+            },
+            {
+                "option": "Watercolor Painting"
+            },
+            {
+                "option": "Acrylic Painting"
+            },
+            {
+                "option": "Pencil Sketching"
+            },
+            {
+                "option": "Digital Painting"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your favorite art historical period?",
+        "options": [
+            {
+                "option": "Renaissance"
+            },
+            {
+                "option": "Baroque"
+            },
+            {
+                "option": "Impressionism"
+            },
+            {
+                "option": "Modern Art"
+            },
+            {
+                "option": "Contemporary Art"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your favorite aspect of the design process?",
+        "options": [
+            {
+                "option": "Idea Generation"
+            },
+            {
+                "option": "Sketching and Prototyping"
+            },
+            {
+                "option": "Refinement and Iteration"
+            },
+            {
+                "option": "Testing and User Feedback"
+            },
+            {
+                "option": "Final Presentation"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your biggest design pet peeve?",
+        "options": [
+            {
+                "option": "Inconsistent Branding"
+            },
+            {
+                "option": "Poor Typography"
+            },
+            {
+                "option": "Cluttered Designs"
+            },
+            {
+                "option": "Lack of Accessibility"
+            },
+            {
+                "option": "Poor User Experience"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your favorite type of design project to work on?",
+        "options": [
+            {
+                "option": "Logo Design"
+            },
+            {
+                "option": "Website Design"
+            },
+            {
+                "option": "Branding Design"
+            },
+            {
+                "option": "UI/UX Design"
+            },
+            {
+                "option": "Print Design"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your design process?",
+        "options": [
+            {
+                "option": "Agile"
+            },
+            {
+                "option": "Waterfall"
+            },
+            {
+                "option": "Lean"
+            },
+            {
+                "option": "Iterative"
+            },
+            {
+                "option": "Hybrid"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What are your preferred methods for gathering user feedback?",
+        "options": [
+            {
+                "option": "User Interviews"
+            },
+            {
+                "option": "Surveys"
+            },
+            {
+                "option": "Usability Testing"
+            },
+            {
+                "option": "A/B Testing"
+            },
+            {
+                "option": "Heatmaps"
+            }
+        ]
+    }
+]

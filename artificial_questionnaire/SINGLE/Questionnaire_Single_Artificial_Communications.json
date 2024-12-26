@@ -1,0 +1,680 @@
+[
+    {
+        "type": "SINGLE-SELECT",
+        "question": "Preferred communication method",
+        "options": [
+            {
+                "option": "Email"
+            },
+            {
+                "option": "Phone"
+            },
+            {
+                "option": "Video Call"
+            },
+            {
+                "option": "In-person Meeting"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "Communication frequency",
+        "options": [
+            {
+                "option": "Daily"
+            },
+            {
+                "option": "Weekly"
+            },
+            {
+                "option": "Bi-weekly"
+            },
+            {
+                "option": "Monthly"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "Level of communication detail",
+        "options": [
+            {
+                "option": "High"
+            },
+            {
+                "option": "Medium"
+            },
+            {
+                "option": "Low"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "Preferred time for communication",
+        "options": [
+            {
+                "option": "Morning"
+            },
+            {
+                "option": "Afternoon"
+            },
+            {
+                "option": "Evening"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "Primary language for communication",
+        "options": [
+            {
+                "option": "English"
+            },
+            {
+                "option": "Spanish"
+            },
+            {
+                "option": "French"
+            },
+            {
+                "option": "German"
+            },
+            {
+                "option": "Mandarin"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "Communication style preference",
+        "options": [
+            {
+                "option": "Formal"
+            },
+            {
+                "option": "Informal"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "Your role in the company",
+        "options": [
+            {
+                "option": "CEO"
+            },
+            {
+                "option": "Marketing Manager"
+            },
+            {
+                "option": "Sales Representative"
+            },
+            {
+                "option": "Customer Service"
+            },
+            {
+                "option": "Engineer"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "How satisfied are you with our communication?",
+        "options": [
+            {
+                "option": "Very Satisfied"
+            },
+            {
+                "option": "Satisfied"
+            },
+            {
+                "option": "Neutral"
+            },
+            {
+                "option": "Dissatisfied"
+            },
+            {
+                "option": "Very Dissatisfied"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is the purpose of your communication?",
+        "options": [
+            {
+                "option": "Feedback"
+            },
+            {
+                "option": "Inquiry"
+            },
+            {
+                "option": "Complaint"
+            },
+            {
+                "option": "Collaboration"
+            },
+            {
+                "option": "Information Sharing"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What communication channels do you use most often?",
+        "options": [
+            {
+                "option": "Email"
+            },
+            {
+                "option": "Instant Messaging"
+            },
+            {
+                "option": "Project Management Software"
+            },
+            {
+                "option": "Phone calls"
+            },
+            {
+                "option": "Video Conferencing"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "How often do you need updates?",
+        "options": [
+            {
+                "option": "Daily"
+            },
+            {
+                "option": "Weekly"
+            },
+            {
+                "option": "Monthly"
+            },
+            {
+                "option": "As needed"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "Which communication platform do you prefer?",
+        "options": [
+            {
+                "option": "Slack"
+            },
+            {
+                "option": "Microsoft Teams"
+            },
+            {
+                "option": "Google Chat"
+            },
+            {
+                "option": "Zoom"
+            },
+            {
+                "option": "Other"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "Do you prefer synchronous or asynchronous communication?",
+        "options": [
+            {
+                "option": "Synchronous"
+            },
+            {
+                "option": "Asynchronous"
+            },
+            {
+                "option": "Both"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "How clear is our communication?",
+        "options": [
+            {
+                "option": "Very Clear"
+            },
+            {
+                "option": "Clear"
+            },
+            {
+                "option": "Somewhat Clear"
+            },
+            {
+                "option": "Unclear"
+            },
+            {
+                "option": "Very Unclear"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "How responsive is our team to your communication?",
+        "options": [
+            {
+                "option": "Very Responsive"
+            },
+            {
+                "option": "Responsive"
+            },
+            {
+                "option": "Somewhat Responsive"
+            },
+            {
+                "option": "Unresponsive"
+            },
+            {
+                "option": "Very Unresponsive"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "Is there anything we can improve in our communication?",
+        "options": [
+            {
+                "option": "Yes"
+            },
+            {
+                "option": "No"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your preferred method for receiving updates?",
+        "options": [
+            {
+                "option": "Email"
+            },
+            {
+                "option": "SMS"
+            },
+            {
+                "option": "In-app notifications"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your preferred format for reports?",
+        "options": [
+            {
+                "option": "PDF"
+            },
+            {
+                "option": "Spreadsheet"
+            },
+            {
+                "option": "Presentation"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "How do you prefer to receive feedback?",
+        "options": [
+            {
+                "option": "Email"
+            },
+            {
+                "option": "In-person Meeting"
+            },
+            {
+                "option": "Video Call"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your preferred method for scheduling meetings?",
+        "options": [
+            {
+                "option": "Email"
+            },
+            {
+                "option": "Calendar invite"
+            },
+            {
+                "option": "Phone call"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "How many people are typically involved in your team's communications?",
+        "options": [
+            {
+                "option": "1-5"
+            },
+            {
+                "option": "6-10"
+            },
+            {
+                "option": "11-20"
+            },
+            {
+                "option": "More than 20"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your biggest communication challenge?",
+        "options": [
+            {
+                "option": "Lack of clarity"
+            },
+            {
+                "option": "Lack of responsiveness"
+            },
+            {
+                "option": "Misunderstandings"
+            },
+            {
+                "option": "Information overload"
+            },
+            {
+                "option": "Other"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "How important is timely communication to you?",
+        "options": [
+            {
+                "option": "Very Important"
+            },
+            {
+                "option": "Important"
+            },
+            {
+                "option": "Somewhat Important"
+            },
+            {
+                "option": "Not Important"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "How would you rate the overall effectiveness of our communication?",
+        "options": [
+            {
+                "option": "Excellent"
+            },
+            {
+                "option": "Good"
+            },
+            {
+                "option": "Fair"
+            },
+            {
+                "option": "Poor"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your preferred style of written communication?",
+        "options": [
+            {
+                "option": "Concise"
+            },
+            {
+                "option": "Detailed"
+            },
+            {
+                "option": "Formal"
+            },
+            {
+                "option": "Informal"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "How comfortable are you using technology for communication?",
+        "options": [
+            {
+                "option": "Very Comfortable"
+            },
+            {
+                "option": "Comfortable"
+            },
+            {
+                "option": "Somewhat Comfortable"
+            },
+            {
+                "option": "Uncomfortable"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "Do you have any accessibility needs that affect communication?",
+        "options": [
+            {
+                "option": "Yes"
+            },
+            {
+                "option": "No"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your preferred method for receiving project updates?",
+        "options": [
+            {
+                "option": "Email"
+            },
+            {
+                "option": "Project Management Software"
+            },
+            {
+                "option": "Team Meetings"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "How often do you prefer to receive project updates?",
+        "options": [
+            {
+                "option": "Daily"
+            },
+            {
+                "option": "Weekly"
+            },
+            {
+                "option": "Bi-weekly"
+            },
+            {
+                "option": "Monthly"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "How important is it to you that communication is documented?",
+        "options": [
+            {
+                "option": "Very Important"
+            },
+            {
+                "option": "Important"
+            },
+            {
+                "option": "Somewhat Important"
+            },
+            {
+                "option": "Not Important"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "Do you prefer to communicate in writing or verbally?",
+        "options": [
+            {
+                "option": "Writing"
+            },
+            {
+                "option": "Verbally"
+            },
+            {
+                "option": "Both equally"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "How effective is our team at resolving communication issues?",
+        "options": [
+            {
+                "option": "Very Effective"
+            },
+            {
+                "option": "Effective"
+            },
+            {
+                "option": "Somewhat Effective"
+            },
+            {
+                "option": "Ineffective"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "How would you describe the tone of our communication?",
+        "options": [
+            {
+                "option": "Professional"
+            },
+            {
+                "option": "Friendly"
+            },
+            {
+                "option": "Informal"
+            },
+            {
+                "option": "Formal"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "How often do you feel your communication is misunderstood?",
+        "options": [
+            {
+                "option": "Very Often"
+            },
+            {
+                "option": "Often"
+            },
+            {
+                "option": "Sometimes"
+            },
+            {
+                "option": "Rarely"
+            },
+            {
+                "option": "Never"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "How important is it to you that communication is transparent?",
+        "options": [
+            {
+                "option": "Very Important"
+            },
+            {
+                "option": "Important"
+            },
+            {
+                "option": "Somewhat Important"
+            },
+            {
+                "option": "Not Important"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "How much time do you typically spend communicating with our team each week?",
+        "options": [
+            {
+                "option": "Less than 1 hour"
+            },
+            {
+                "option": "1-3 hours"
+            },
+            {
+                "option": "3-5 hours"
+            },
+            {
+                "option": "More than 5 hours"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "Are you satisfied with the amount of communication you receive from our team?",
+        "options": [
+            {
+                "option": "Yes"
+            },
+            {
+                "option": "No"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "What is your preferred method for providing feedback?",
+        "options": [
+            {
+                "option": "Email"
+            },
+            {
+                "option": "Online Survey"
+            },
+            {
+                "option": "In-person Meeting"
+            }
+        ]
+    },
+    {
+        "type": "SINGLE-SELECT",
+        "question": "How important is it for you to receive a response to your communications?",
+        "options": [
+            {
+                "option": "Very Important"
+            },
+            {
+                "option": "Important"
+            },
+            {
+                "option": "Somewhat Important"
+            },
+            {
+                "option": "Not Important"
+            }
+        ]
+    }
+]
