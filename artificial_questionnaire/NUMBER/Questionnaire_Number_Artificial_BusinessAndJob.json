@@ -1,0 +1,425 @@
+[
+    {
+        "type": "NUMBER",
+        "question": "What is your employee ID number?",
+        "options": [
+            {
+                "option": "employee ID"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the project budget in dollars?",
+        "options": [
+            {
+                "option": "budget"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "How many employees are in the department?",
+        "options": [
+            {
+                "option": "employee count"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the annual revenue target?",
+        "options": [
+            {
+                "option": "revenue"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the client account number?",
+        "options": [
+            {
+                "option": "account number"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "How many hours did you work this week?",
+        "options": [
+            {
+                "option": "work hours"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the zip code of the office location?",
+        "options": [
+            {
+                "option": "zip code"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the sales target for this quarter?",
+        "options": [
+            {
+                "option": "sales target"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "How many products were sold last month?",
+        "options": [
+            {
+                "option": "product sales"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the total number of clients?",
+        "options": [
+            {
+                "option": "client count"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the invoice number?",
+        "options": [
+            {
+                "option": "invoice number"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "How many meetings did you attend this week?",
+        "options": [
+            {
+                "option": "meeting count"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the company's tax ID number?",
+        "options": [
+            {
+                "option": "tax ID"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the total project cost?",
+        "options": [
+            {
+                "option": "project cost"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "How many days of vacation did you take last year?",
+        "options": [
+            {
+                "option": "vacation days"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the order number?",
+        "options": [
+            {
+                "option": "order number"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the quantity of items ordered?",
+        "options": [
+            {
+                "option": "order quantity"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the year the company was founded?",
+        "options": [
+            {
+                "option": "foundation year"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "How many years of experience do you have?",
+        "options": [
+            {
+                "option": "experience years"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the size of the team in number of people?",
+        "options": [
+            {
+                "option": "team size"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the number of the building?",
+        "options": [
+            {
+                "option": "building number"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the room number for the meeting?",
+        "options": [
+            {
+                "option": "room number"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the current stock price?",
+        "options": [
+            {
+                "option": "stock price"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "How many shares of stock do you own?",
+        "options": [
+            {
+                "option": "stock shares"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the total number of units produced?",
+        "options": [
+            {
+                "option": "units produced"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the percentage of market share?",
+        "options": [
+            {
+                "option": "market share"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the customer satisfaction rating (on a scale of 1-10)?",
+        "options": [
+            {
+                "option": "satisfaction rating"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the number of defects found?",
+        "options": [
+            {
+                "option": "defect count"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "How many days are left until the deadline?",
+        "options": [
+            {
+                "option": "days until deadline"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the current interest rate?",
+        "options": [
+            {
+                "option": "interest rate"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the amount of the loan?",
+        "options": [
+            {
+                "option": "loan amount"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the average customer lifetime value?",
+        "options": [
+            {
+                "option": "customer lifetime value"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the number of website visitors per day?",
+        "options": [
+            {
+                "option": "website visitors"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the conversion rate percentage?",
+        "options": [
+            {
+                "option": "conversion rate"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "How many social media followers do we have?",
+        "options": [
+            {
+                "option": "social media followers"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the average order value?",
+        "options": [
+            {
+                "option": "average order value"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the number of support tickets resolved today?",
+        "options": [
+            {
+                "option": "support tickets resolved"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the average response time to customer inquiries?",
+        "options": [
+            {
+                "option": "response time"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the employee turnover rate (as a percentage)?",
+        "options": [
+            {
+                "option": "employee turnover"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the net profit margin (as a percentage)?",
+        "options": [
+            {
+                "option": "net profit margin"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "How many marketing campaigns were run last year?",
+        "options": [
+            {
+                "option": "marketing campaigns"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the return on investment (ROI) percentage?",
+        "options": [
+            {
+                "option": "ROI"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the total number of active users?",
+        "options": [
+            {
+                "option": "active users"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the customer churn rate (as a percentage)?",
+        "options": [
+            {
+                "option": "customer churn"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the average deal size in dollars?",
+        "options": [
+            {
+                "option": "deal size"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "How many proposals were submitted this month?",
+        "options": [
+            {
+                "option": "proposals submitted"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the closing rate for sales leads (as a percentage)?",
+        "options": [
+            {
+                "option": "closing rate"
+            }
+        ]
+    }
+]

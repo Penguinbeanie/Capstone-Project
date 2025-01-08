@@ -1,0 +1,416 @@
+[
+    {
+        "type": "NUMBER",
+        "question": "What is the total number of employees?",
+        "options": [
+            {
+                "option": "employee count"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "How many tons of steel were produced last quarter?",
+        "options": [
+            {
+                "option": "production output"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the average daily energy consumption in kWh?",
+        "options": [
+            {
+                "option": "energy consumption"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the current inventory level of raw materials?",
+        "options": [
+            {
+                "option": "inventory level"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "How many safety incidents occurred this year?",
+        "options": [
+            {
+                "option": "safety incidents"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the average machine downtime in hours per week?",
+        "options": [
+            {
+                "option": "machine downtime"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the target production volume for next month?",
+        "options": [
+            {
+                "option": "production target"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the total budget allocated for maintenance this year?",
+        "options": [
+            {
+                "option": "budget allocation"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the number of welding machines currently in operation?",
+        "options": [
+            {
+                "option": "equipment count"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "How many tons of waste were generated last month?",
+        "options": [
+            {
+                "option": "waste generation"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the average employee tenure in years?",
+        "options": [
+            {
+                "option": "employee tenure"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the current order backlog in units?",
+        "options": [
+            {
+                "option": "order backlog"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the total number of quality control checks performed daily?",
+        "options": [
+            {
+                "option": "quality control checks"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "How many customer complaints were received this quarter?",
+        "options": [
+            {
+                "option": "customer complaints"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the average cost per unit produced?",
+        "options": [
+            {
+                "option": "production cost"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the current market share percentage?",
+        "options": [
+            {
+                "option": "market share"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "How many hours of training were provided to employees last year?",
+        "options": [
+            {
+                "option": "training hours"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the total number of patents held by the company?",
+        "options": [
+            {
+                "option": "patent count"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the average employee satisfaction rating (out of 5)?",
+        "options": [
+            {
+                "option": "employee satisfaction"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the total revenue generated last fiscal year?",
+        "options": [
+            {
+                "option": "revenue"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "How many new projects were initiated this year?",
+        "options": [
+            {
+                "option": "project count"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the total amount spent on research and development last year?",
+        "options": [
+            {
+                "option": "R&D expenditure"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the plant's total capacity in square meters?",
+        "options": [
+            {
+                "option": "plant capacity"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "How many suppliers does the company currently have?",
+        "options": [
+            {
+                "option": "supplier count"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the average lead time for order fulfillment in days?",
+        "options": [
+            {
+                "option": "lead time"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the on-time delivery rate in percentage?",
+        "options": [
+            {
+                "option": "delivery rate"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the total number of forklifts used in the warehouse?",
+        "options": [
+            {
+                "option": "equipment count"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "How many safety training sessions were conducted last quarter?",
+        "options": [
+            {
+                "option": "training sessions"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the target reduction in energy consumption by next year?",
+        "options": [
+            {
+                "option": "energy reduction target"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the number of defective units produced last month?",
+        "options": [
+            {
+                "option": "defect count"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the total number of certifications held by the company?",
+        "options": [
+            {
+                "option": "certification count"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the average age of the machinery in years?",
+        "options": [
+            {
+                "option": "machinery age"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the total number of vehicles in the company fleet?",
+        "options": [
+            {
+                "option": "fleet size"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "How many skilled laborers are employed in the plant?",
+        "options": [
+            {
+                "option": "labor count"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the total area of the factory floor in square feet?",
+        "options": [
+            {
+                "option": "factory floor area"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "How many different product lines does the company manufacture?",
+        "options": [
+            {
+                "option": "product line count"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the average length of a production run in hours?",
+        "options": [
+            {
+                "option": "production run length"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the number of shifts operating per day?",
+        "options": [
+            {
+                "option": "shift count"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the total number of quality control inspectors?",
+        "options": [
+            {
+                "option": "inspector count"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the annual budget for employee training and development?",
+        "options": [
+            {
+                "option": "training budget"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "How many tons of coal are consumed per day?",
+        "options": [
+            {
+                "option": "fuel consumption"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the total number of machines currently undergoing maintenance?",
+        "options": [
+            {
+                "option": "maintenance count"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the average production yield percentage?",
+        "options": [
+            {
+                "option": "production yield"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "How many project milestones were achieved last quarter?",
+        "options": [
+            {
+                "option": "milestone count"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the total number of suppliers audited this year?",
+        "options": [
+            {
+                "option": "supplier audit count"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the company's overall safety rating score?",
+        "options": [
+            {
+                "option": "safety rating"
+            }
+        ]
+    }
+]

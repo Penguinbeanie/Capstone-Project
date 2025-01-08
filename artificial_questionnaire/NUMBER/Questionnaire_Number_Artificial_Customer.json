@@ -1,0 +1,416 @@
+[
+    {
+        "type": "NUMBER",
+        "question": "What is your annual household income?",
+        "options": [
+            {
+                "option": "income"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "How many years have you been a customer?",
+        "options": [
+            {
+                "option": "customer tenure"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is your age?",
+        "options": [
+            {
+                "option": "age"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "How many people are in your household?",
+        "options": [
+            {
+                "option": "household size"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is your zip code?",
+        "options": [
+            {
+                "option": "zip code"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "On a scale of 1 to 10, how satisfied are you with our service?",
+        "options": [
+            {
+                "option": "satisfaction rating"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "How many times have you contacted customer support this year?",
+        "options": [
+            {
+                "option": "support contact frequency"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is your order number?",
+        "options": [
+            {
+                "option": "order number"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "How many products have you purchased from us?",
+        "options": [
+            {
+                "option": "purchase count"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is your account number?",
+        "options": [
+            {
+                "option": "account number"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "How many children are in your household?",
+        "options": [
+            {
+                "option": "number of children"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is your credit score?",
+        "options": [
+            {
+                "option": "credit score"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "How many pets do you own?",
+        "options": [
+            {
+                "option": "number of pets"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "How much did you spend on our products last month?",
+        "options": [
+            {
+                "option": "monthly spending"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is your employee ID?",
+        "options": [
+            {
+                "option": "employee ID"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "How many hours per week do you work?",
+        "options": [
+            {
+                "option": "work hours"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is your total yearly spending on groceries?",
+        "options": [
+            {
+                "option": "grocery spending"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "How many times have you visited our website this month?",
+        "options": [
+            {
+                "option": "website visits"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "How many social media accounts do you have?",
+        "options": [
+            {
+                "option": "social media accounts"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is your home's square footage?",
+        "options": [
+            {
+                "option": "home size"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "How many vehicles do you own?",
+        "options": [
+            {
+                "option": "vehicle count"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is your current weight?",
+        "options": [
+            {
+                "option": "weight"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is your height in centimeters?",
+        "options": [
+            {
+                "option": "height"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "How many siblings do you have?",
+        "options": [
+            {
+                "option": "number of siblings"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is your street address number?",
+        "options": [
+            {
+                "option": "street number"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "How many rooms are in your home?",
+        "options": [
+            {
+                "option": "number of rooms"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is your preferred contact method (1 for phone, 2 for email)?",
+        "options": [
+            {
+                "option": "contact preference"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "On a scale of 1-5, how likely are you to recommend us?",
+        "options": [
+            {
+                "option": "recommendation likelihood"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "How many days a week do you exercise?",
+        "options": [
+            {
+                "option": "exercise frequency"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "How many hours of sleep do you get per night?",
+        "options": [
+            {
+                "option": "sleep duration"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is your blood pressure (systolic reading)?",
+        "options": [
+            {
+                "option": "blood pressure"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "How many books did you read last year?",
+        "options": [
+            {
+                "option": "books read"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is your shoe size?",
+        "options": [
+            {
+                "option": "shoe size"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "How many cups of coffee do you drink daily?",
+        "options": [
+            {
+                "option": "coffee consumption"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is your weight in kilograms?",
+        "options": [
+            {
+                "option": "weight (kg)"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "How many languages do you speak?",
+        "options": [
+            {
+                "option": "languages spoken"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is your BMI?",
+        "options": [
+            {
+                "option": "BMI"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "How many hours of TV do you watch weekly?",
+        "options": [
+            {
+                "option": "TV watching time"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is your shirt size?",
+        "options": [
+            {
+                "option": "shirt size"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "How many pairs of shoes do you own?",
+        "options": [
+            {
+                "option": "number of shoes"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "How many vacation days did you take last year?",
+        "options": [
+            {
+                "option": "vacation days"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is your pant size?",
+        "options": [
+            {
+                "option": "pant size"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "How many times have you traveled internationally?",
+        "options": [
+            {
+                "option": "international travels"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "How many credit cards do you have?",
+        "options": [
+            {
+                "option": "credit card count"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is your estimated net worth?",
+        "options": [
+            {
+                "option": "net worth"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "How many years of education do you have?",
+        "options": [
+            {
+                "option": "years of education"
+            }
+        ]
+    }
+]
