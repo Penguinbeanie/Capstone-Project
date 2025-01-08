@@ -1,0 +1,186 @@
+type,question,options
+NUMBER,What is your employee ID number?,employee ID
+NUMBER,What is the project budget in dollars?,budget
+NUMBER,How many employees are in the department?,employee count
+NUMBER,What is the annual revenue target?,revenue
+NUMBER,What is the client account number?,account number
+NUMBER,How many hours did you work this week?,work hours
+NUMBER,What is the zip code of the office location?,zip code
+NUMBER,What is the sales target for this quarter?,sales target
+NUMBER,How many products were sold last month?,product sales
+NUMBER,What is the total number of clients?,client count
+NUMBER,What is the invoice number?,invoice number
+NUMBER,How many meetings did you attend this week?,meeting count
+NUMBER,What is the company's tax ID number?,tax ID
+NUMBER,What is the total project cost?,project cost
+NUMBER,How many days of vacation did you take last year?,vacation days
+NUMBER,What is the order number?,order number
+NUMBER,What is the quantity of items ordered?,order quantity
+NUMBER,What is the year the company was founded?,foundation year
+NUMBER,How many years of experience do you have?,experience years
+NUMBER,What is the size of the team in number of people?,team size
+NUMBER,What is the number of the building?,building number
+NUMBER,What is the room number for the meeting?,room number
+NUMBER,What is the current stock price?,stock price
+NUMBER,How many shares of stock do you own?,stock shares
+NUMBER,What is the total number of units produced?,units produced
+NUMBER,What is the percentage of market share?,market share
+NUMBER,What is the customer satisfaction rating (on a scale of 1-10)?,satisfaction rating
+NUMBER,What is the number of defects found?,defect count
+NUMBER,How many days are left until the deadline?,days until deadline
+NUMBER,What is the current interest rate?,interest rate
+NUMBER,What is the amount of the loan?,loan amount
+NUMBER,What is the average customer lifetime value?,customer lifetime value
+NUMBER,What is the number of website visitors per day?,website visitors
+NUMBER,What is the conversion rate percentage?,conversion rate
+NUMBER,How many social media followers do we have?,social media followers
+NUMBER,What is the average order value?,average order value
+NUMBER,What is the number of support tickets resolved today?,support tickets resolved
+NUMBER,What is the average response time to customer inquiries?,response time
+NUMBER,What is the employee turnover rate (as a percentage)?,employee turnover
+NUMBER,What is the net profit margin (as a percentage)?,net profit margin
+NUMBER,How many marketing campaigns were run last year?,marketing campaigns
+NUMBER,What is the return on investment (ROI) percentage?,ROI
+NUMBER,What is the total number of active users?,active users
+NUMBER,What is the customer churn rate (as a percentage)?,customer churn
+NUMBER,What is the average deal size in dollars?,deal size
+NUMBER,How many proposals were submitted this month?,proposals submitted
+NUMBER,What is the closing rate for sales leads (as a percentage)?,closing rate
+NUMBER,What is the total number of employees?,employee count
+NUMBER,How many tons of steel were produced last quarter?,production output
+NUMBER,What is the average daily energy consumption in kWh?,energy consumption
+NUMBER,What is the current inventory level of raw materials?,inventory level
+NUMBER,How many safety incidents occurred this year?,safety incidents
+NUMBER,What is the average machine downtime in hours per week?,machine downtime
+NUMBER,What is the target production volume for next month?,production target
+NUMBER,What is the total budget allocated for maintenance this year?,budget allocation
+NUMBER,What is the number of welding machines currently in operation?,equipment count
+NUMBER,How many tons of waste were generated last month?,waste generation
+NUMBER,What is the average employee tenure in years?,employee tenure
+NUMBER,What is the current order backlog in units?,order backlog
+NUMBER,What is the total number of quality control checks performed daily?,quality control checks
+NUMBER,How many customer complaints were received this quarter?,customer complaints
+NUMBER,What is the average cost per unit produced?,production cost
+NUMBER,What is the current market share percentage?,market share
+NUMBER,How many hours of training were provided to employees last year?,training hours
+NUMBER,What is the total number of patents held by the company?,patent count
+NUMBER,What is the average employee satisfaction rating (out of 5)?,employee satisfaction
+NUMBER,What is the total revenue generated last fiscal year?,revenue
+NUMBER,How many new projects were initiated this year?,project count
+NUMBER,What is the total amount spent on research and development last year?,R&D expenditure
+NUMBER,What is the plant's total capacity in square meters?,plant capacity
+NUMBER,How many suppliers does the company currently have?,supplier count
+NUMBER,What is the average lead time for order fulfillment in days?,lead time
+NUMBER,What is the on-time delivery rate in percentage?,delivery rate
+NUMBER,What is the total number of forklifts used in the warehouse?,equipment count
+NUMBER,How many safety training sessions were conducted last quarter?,training sessions
+NUMBER,What is the target reduction in energy consumption by next year?,energy reduction target
+NUMBER,What is the number of defective units produced last month?,defect count
+NUMBER,What is the total number of certifications held by the company?,certification count
+NUMBER,What is the average age of the machinery in years?,machinery age
+NUMBER,What is the total number of vehicles in the company fleet?,fleet size
+NUMBER,How many skilled laborers are employed in the plant?,labor count
+NUMBER,What is the total area of the factory floor in square feet?,factory floor area
+NUMBER,How many different product lines does the company manufacture?,product line count
+NUMBER,What is the average length of a production run in hours?,production run length
+NUMBER,What is the number of shifts operating per day?,shift count
+NUMBER,What is the total number of quality control inspectors?,inspector count
+NUMBER,What is the annual budget for employee training and development?,training budget
+NUMBER,How many tons of coal are consumed per day?,fuel consumption
+NUMBER,What is the total number of machines currently undergoing maintenance?,maintenance count
+NUMBER,What is the average production yield percentage?,production yield
+NUMBER,How many project milestones were achieved last quarter?,milestone count
+NUMBER,What is the total number of suppliers audited this year?,supplier audit count
+NUMBER,What is the company's overall safety rating score?,safety rating
+NUMBER,What is the speed limit on this highway?,speed limit
+NUMBER,How many siblings do you have?,sibling count
+NUMBER,What is your house number?,house number
+NUMBER,What year was the company founded?,year
+NUMBER,How many employees work here?,employee count
+NUMBER,What is the zip code for this address?,zip code
+NUMBER,What is the model year of your car?,year
+NUMBER,How many attendees are expected at the conference?,attendee count
+NUMBER,What is the price of this item?,price
+NUMBER,What is the total square footage of the house?,square footage
+NUMBER,How many pages are in this book?,page count
+NUMBER,What is the account balance?,balance
+NUMBER,What is the population of this city?,population
+NUMBER,How many kilograms does this weigh?,weight
+NUMBER,What is the temperature in Celsius?,temperature
+NUMBER,How many kilometers did you drive?,distance
+NUMBER,What is the height of the building?,height
+NUMBER,How many points did the team score?,score
+NUMBER,What is the interest rate on the loan?,interest rate
+NUMBER,"What is the due date (numerical representation, e.g., MMDDYYYY)?",date
+NUMBER,What is the quantity in stock?,quantity
+NUMBER,What is the order number?,order number
+NUMBER,How many votes did the candidate receive?,vote count
+NUMBER,What is the room number?,room number
+NUMBER,What is the age of the participant?,age
+NUMBER,How many chapters are in this document?,chapter count
+NUMBER,What is the product ID number?,product ID
+NUMBER,How many days are left until the deadline?,day count
+NUMBER,What is the code number?,code
+NUMBER,What is the size in gigabytes?,size
+NUMBER,What is the weight in pounds?,weight
+NUMBER,What is the quantity per unit?,quantity
+NUMBER,What is the discount percentage?,percentage
+NUMBER,What is the latitude coordinate?,latitude
+NUMBER,What is the longitude coordinate?,longitude
+NUMBER,What is the altitude in meters?,altitude
+NUMBER,What is the frequency in Hertz?,frequency
+NUMBER,What is the voltage in volts?,voltage
+NUMBER,What is the current in amperes?,current
+NUMBER,What is the resistance in ohms?,resistance
+NUMBER,What is the capacitance in farads?,capacitance
+NUMBER,What is the inductance in henries?,inductance
+NUMBER,What is the power in watts?,power
+NUMBER,What is the energy in joules?,energy
+NUMBER,What is the pressure in pascals?,pressure
+NUMBER,How many items are in the cart?,item count
+NUMBER,What is your annual household income?,income
+NUMBER,How many years have you been a customer?,customer tenure
+NUMBER,What is your age?,age
+NUMBER,How many people are in your household?,household size
+NUMBER,What is your zip code?,zip code
+NUMBER,"On a scale of 1 to 10, how satisfied are you with our service?",satisfaction rating
+NUMBER,How many times have you contacted customer support this year?,support contact frequency
+NUMBER,What is your order number?,order number
+NUMBER,How many products have you purchased from us?,purchase count
+NUMBER,What is your account number?,account number
+NUMBER,How many children are in your household?,number of children
+NUMBER,What is your credit score?,credit score
+NUMBER,How many pets do you own?,number of pets
+NUMBER,How much did you spend on our products last month?,monthly spending
+NUMBER,What is your employee ID?,employee ID
+NUMBER,How many hours per week do you work?,work hours
+NUMBER,What is your total yearly spending on groceries?,grocery spending
+NUMBER,How many times have you visited our website this month?,website visits
+NUMBER,How many social media accounts do you have?,social media accounts
+NUMBER,What is your home's square footage?,home size
+NUMBER,How many vehicles do you own?,vehicle count
+NUMBER,What is your current weight?,weight
+NUMBER,What is your height in centimeters?,height
+NUMBER,How many siblings do you have?,number of siblings
+NUMBER,What is your street address number?,street number
+NUMBER,How many rooms are in your home?,number of rooms
+NUMBER,"What is your preferred contact method (1 for phone, 2 for email)?",contact preference
+NUMBER,"On a scale of 1-5, how likely are you to recommend us?",recommendation likelihood
+NUMBER,How many days a week do you exercise?,exercise frequency
+NUMBER,How many hours of sleep do you get per night?,sleep duration
+NUMBER,What is your blood pressure (systolic reading)?,blood pressure
+NUMBER,How many books did you read last year?,books read
+NUMBER,What is your shoe size?,shoe size
+NUMBER,How many cups of coffee do you drink daily?,coffee consumption
+NUMBER,What is your weight in kilograms?,weight (kg)
+NUMBER,How many languages do you speak?,languages spoken
+NUMBER,What is your BMI?,BMI
+NUMBER,How many hours of TV do you watch weekly?,TV watching time
+NUMBER,What is your shirt size?,shirt size
+NUMBER,How many pairs of shoes do you own?,number of shoes
+NUMBER,How many vacation days did you take last year?,vacation days
+NUMBER,What is your pant size?,pant size
+NUMBER,How many times have you traveled internationally?,international travels
+NUMBER,How many credit cards do you have?,credit card count
+NUMBER,What is your estimated net worth?,net worth
+NUMBER,How many years of education do you have?,years of education
