@@ -1,0 +1,434 @@
+[
+    {
+        "type": "DATE",
+        "question": "What is your date of birth? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you purchase our product? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What date did the issue begin? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When is your next appointment? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What is the delivery date? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you last contact customer support? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What is the warranty expiration date? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you first encounter this problem? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What is your preferred date for a service call? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you submit your order? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What is the invoice date? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When is your preferred shipping date? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did the payment process begin? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you receive the confirmation email? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What is the return deadline? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did the refund process start? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you complete the online form? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When will the product be ready for pickup? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What date is your next review scheduled? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you sign the contract? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What is the project completion date? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did the trial period begin? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you subscribe to the service? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What is the due date for payment? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did the event take place? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you receive your first shipment? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What is the latest date for feedback submission? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When was the product released? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When was the service outage reported? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When was the last software update installed? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When is the next scheduled maintenance? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What is the date of the next billing cycle? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you register your account? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When was the warranty claim submitted? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When is your preferred date for delivery? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What is the date of your last purchase? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you start using our service? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What date did you attend the webinar? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When was the last time you updated your profile? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What is the start date for the training course? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When was the technical support ticket resolved? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you complete the survey? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What is the expiration date of the coupon? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When is the conference scheduled? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What is the deadline for submitting your application? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When was the account created? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you receive the product? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What is the end date of your subscription? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    }
+]
