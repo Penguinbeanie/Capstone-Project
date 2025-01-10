@@ -1,0 +1,506 @@
+[
+    {
+        "type": "DATE",
+        "question": "When did you first encounter this issue?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What is your preferred date for the upcoming meeting?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did the product malfunction?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "On what date did you make your purchase?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When was your last service appointment?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you submit your initial request?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What date is convenient for the delivery?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did the warranty expire?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What is your birthdate?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you begin using our service?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When is your next payment due?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you receive your last communication from us?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What date did the problem first occur?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When was the last time you updated your information?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you complete the onboarding process?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you start experiencing this difficulty?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What date would you like to schedule your consultation?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When was the product shipped?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you cancel your subscription?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you last access your account?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When was the training completed?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When was your last purchase from our store?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did the issue resolve itself?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When do you expect to need support again?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When was the invoice generated?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you receive the confirmation email?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When was the contract signed?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you first contact our customer support?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When is the best time to call you back?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When was your account created?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you upgrade your plan?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When was your last login attempt?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you provide feedback on our product?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When was the payment processed?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you request a refund?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did the trial period begin?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When was the last system update?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you receive the shipment notification?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When was the order placed?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you file your complaint?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you download the application?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you last change your password?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    }
+]

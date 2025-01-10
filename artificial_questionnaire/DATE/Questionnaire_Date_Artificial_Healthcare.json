@@ -1,0 +1,506 @@
+[
+    {
+        "type": "DATE",
+        "question": "What is your date of birth?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did the symptoms first appear?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "On what date did you last visit a doctor?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When was your last surgery?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you start this medication?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What is the date of your next appointment?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When was your last blood test?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you experience the most recent episode?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What is the date of your hospital admission?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you receive your diagnosis?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you begin experiencing these symptoms?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What is the date of your next scheduled physical?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When was the last time you filled your prescription?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did the pain start?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When was your last dental checkup?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you start experiencing fatigue?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When was your last eye exam?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you last have a flu shot?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you begin experiencing shortness of breath?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you last see an allergist?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When was your last mammogram?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you experience your most recent injury?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you start having trouble sleeping?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you first notice this rash?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did the dizziness begin?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did the nausea start?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you last have a colonoscopy?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you last update your medical history?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did the fever start?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you have your last tetanus shot?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you start experiencing headaches?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you last see a physical therapist?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did the coughing begin?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you last have a chest x-ray?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you last have an EKG?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you last have a PAP smear?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you last have a prostate exam?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did the bleeding start?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you experience your last allergic reaction?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When was your last pregnancy?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you start feeling depressed?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you last have a mental health evaluation?",
+        "options": [
+            {
+                "option": "Date"
+            },
+            {
+                "option": "Time Passed"
+            }
+        ]
+    }
+]
