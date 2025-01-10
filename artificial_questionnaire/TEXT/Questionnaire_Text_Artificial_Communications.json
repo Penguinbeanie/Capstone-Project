@@ -1,0 +1,398 @@
+[
+    {
+        "type": "TEXT",
+        "question": "Describe your experience.",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "What were the key takeaways?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "Explain your approach.",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "Summarize the main points.",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "What challenges did you encounter?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "How could this be improved?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "What were the results?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "Describe the process.",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "What were your observations?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "Share your feedback.",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "What are your suggestions?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "Elaborate on your response.",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "Provide further details.",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "Explain your reasoning.",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "What are your thoughts?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "Describe the communication strategy.",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "What were the communication channels used?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "How effective was the communication?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "What were the barriers to communication?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "How could communication be improved?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "Describe the audience for the communication.",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "What was the purpose of the communication?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "What was the message of the communication?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "How was the message received?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "What were the outcomes of the communication?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "What lessons were learned from the communication?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "Describe any challenges in delivering the message.",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "How did you overcome those challenges?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "What would you do differently next time?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "What aspects of the communication were most successful?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "What were the key factors contributing to success or failure?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "Explain your role in the communication process.",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "Describe the overall effectiveness of the communication.",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "What metrics were used to evaluate the communication?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "What recommendations would you make for future communications?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "What were the intended and unintended consequences of the communication?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "How did the communication impact the intended audience?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "Describe the feedback received on the communication.",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "How was the feedback used to improve future communications?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "What were the ethical considerations involved in the communication?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "How did you ensure ethical communication practices were followed?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "Reflect on your personal contribution to the communication.",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "What did you learn from this communication experience?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "How would you apply this learning to future communications?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    }
+]

@@ -1,0 +1,398 @@
+[
+    {
+        "type": "TEXT",
+        "question": "Describe the safety procedures followed during the operation.",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "What improvements could be made to the efficiency of the manufacturing process?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "Explain any challenges encountered during the project and how they were overcome.",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "Detail your experience with the new welding equipment.",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "Describe the quality control measures implemented.",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "What are your suggestions for reducing downtime?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "Elaborate on the training provided to the operators.",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "Explain the process for handling hazardous materials.",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "Describe any incidents or near misses that occurred.",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "What are your thoughts on the current maintenance schedule?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "Provide feedback on the effectiveness of the communication system.",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "Describe the environmental impact of the operations.",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "How could the company improve its sustainability initiatives?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "What are your observations regarding employee morale?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "Describe the company's approach to risk management.",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "What are your recommendations for improving workplace safety?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "Explain the process for handling customer complaints.",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "Describe the impact of recent technological advancements on the industry.",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "What are the key challenges facing the heavy industries sector?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "Discuss the importance of continuous improvement in heavy industries.",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "How can the company better utilize its resources?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "What are your thoughts on the current supply chain management?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "Describe the impact of automation on the workforce.",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "Explain the company's strategy for attracting and retaining talent.",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "What are your suggestions for improving employee training programs?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "Describe the company's commitment to health and safety.",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "How can the company enhance its reputation and brand image?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "What are your observations regarding the overall productivity levels?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "Describe any areas where cost savings could be achieved.",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "What are your thoughts on the effectiveness of the project management methodologies?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "Describe the challenges associated with maintaining aging equipment.",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "How can the company improve its response to emergency situations?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "Explain the process for conducting regular equipment inspections.",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "Describe the company's approach to data analytics and its application in decision-making.",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "What are your thoughts on the current level of technological innovation within the company?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "Describe the company's efforts to foster a culture of continuous learning and development.",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "How can the company better engage with its stakeholders?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "What are your recommendations for improving the overall performance of the company?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "Describe the challenges associated with managing a diverse workforce.",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "What are your thoughts on the effectiveness of the company's training and development programs?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "Describe any areas where the company could improve its compliance with regulatory requirements.",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "What are your observations regarding the company's overall safety culture?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "Describe the impact of global economic conditions on the company's operations.",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "What are your thoughts on the company's long-term strategic goals?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    }
+]
