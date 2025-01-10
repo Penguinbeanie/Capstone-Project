@@ -1,0 +1,189 @@
+type,question,options
+DATE,What is your date of birth? Provide a date.,Date
+DATE,When did you purchase our product? Provide a date.,Date
+DATE,What date did the issue begin? Provide a date.,Date
+DATE,When is your next appointment? Provide a date.,Date
+DATE,What is the delivery date? Provide a date.,Date
+DATE,When did you last contact customer support? Provide a date.,Date
+DATE,What is the warranty expiration date? Provide a date.,Date
+DATE,When did you first encounter this problem? Provide a date.,Date
+DATE,What is your preferred date for a service call? Provide a date.,Date
+DATE,When did you submit your order? Provide a date.,Date
+DATE,What is the invoice date? Provide a date.,Date
+DATE,When is your preferred shipping date? Provide a date.,Date
+DATE,When did the payment process begin? Provide a date.,Date
+DATE,When did you receive the confirmation email? Provide a date.,Date
+DATE,What is the return deadline? Provide a date.,Date
+DATE,When did the refund process start? Provide a date.,Date
+DATE,When did you complete the online form? Provide a date.,Date
+DATE,When will the product be ready for pickup? Provide a date.,Date
+DATE,What date is your next review scheduled? Provide a date.,Date
+DATE,When did you sign the contract? Provide a date.,Date
+DATE,What is the project completion date? Provide a date.,Date
+DATE,When did the trial period begin? Provide a date.,Date
+DATE,When did you subscribe to the service? Provide a date.,Date
+DATE,What is the due date for payment? Provide a date.,Date
+DATE,When did the event take place? Provide a date.,Date
+DATE,When did you receive your first shipment? Provide a date.,Date
+DATE,What is the latest date for feedback submission? Provide a date.,Date
+DATE,When was the product released? Provide a date.,Date
+DATE,When was the service outage reported? Provide a date.,Date
+DATE,When was the last software update installed? Provide a date.,Date
+DATE,When is the next scheduled maintenance? Provide a date.,Date
+DATE,What is the date of the next billing cycle? Provide a date.,Date
+DATE,When did you register your account? Provide a date.,Date
+DATE,When was the warranty claim submitted? Provide a date.,Date
+DATE,When is your preferred date for delivery? Provide a date.,Date
+DATE,What is the date of your last purchase? Provide a date.,Date
+DATE,When did you start using our service? Provide a date.,Date
+DATE,What date did you attend the webinar? Provide a date.,Date
+DATE,When was the last time you updated your profile? Provide a date.,Date
+DATE,What is the start date for the training course? Provide a date.,Date
+DATE,When was the technical support ticket resolved? Provide a date.,Date
+DATE,When did you complete the survey? Provide a date.,Date
+DATE,What is the expiration date of the coupon? Provide a date.,Date
+DATE,When is the conference scheduled? Provide a date.,Date
+DATE,What is the deadline for submitting your application? Provide a date.,Date
+DATE,When was the account created? Provide a date.,Date
+DATE,When did you receive the product? Provide a date.,Date
+DATE,What is the end date of your subscription? Provide a date.,Date
+DATE,What is the date of your next scheduled maintenance?,Date
+DATE,What date did the equipment malfunction?,Date
+DATE,When was the last safety inspection conducted? Provide a date.,Date
+DATE,On what date did the project officially commence? Provide a date.,Date
+DATE,When is the deadline for submitting the report? Provide a date.,Date
+DATE,What is the expected completion date of the current project? Provide a date.,Date
+DATE,When did the shipment arrive at the warehouse? Provide a date.,Date
+DATE,What date is the next board meeting scheduled for? Provide a date.,Date
+DATE,When was the initial contract signed? Provide a date.,Date
+DATE,What date should we schedule the site visit? Provide a date.,Date
+DATE,When did the warranty expire on this piece of equipment? Provide a date.,Date
+DATE,What is the invoice due date? Provide a date.,Date
+DATE,When did the employee start working for the company? Provide a date.,Date
+DATE,What is the target launch date for the new product? Provide a date.,Date
+DATE,When is the next scheduled audit? Provide a date.,Date
+DATE,What date did the training session conclude? Provide a date.,Date
+DATE,When was the last major system upgrade implemented? Provide a date.,Date
+DATE,What is the expected delivery date for the new order? Provide a date.,Date
+DATE,When did the incident occur? Provide a date.,Date
+DATE,What is the date of the next performance review? Provide a date.,Date
+DATE,When is the payment due? Provide a date.,Date
+DATE,What date did the permit expire? Provide a date.,Date
+DATE,When was the last time the software was updated? Provide a date.,Date
+DATE,What date is the next staff meeting? Provide a date.,Date
+DATE,When did the equipment become operational? Provide a date.,Date
+DATE,What is the project's milestone date? Provide a date.,Date
+DATE,When is the next budget review scheduled? Provide a date.,Date
+DATE,What date is the conference taking place? Provide a date.,Date
+DATE,When is the deadline for the proposal submission? Provide a date.,Date
+DATE,What date did the order ship? Provide a date.,Date
+DATE,When is the next safety training scheduled? Provide a date.,Date
+DATE,What is the cut-off date for registering for the event? Provide a date.,Date
+DATE,When is the next quality control inspection scheduled? Provide a date.,Date
+DATE,What is the last day to submit expense reports? Provide a date.,Date
+DATE,When is the annual general meeting? Provide a date.,Date
+DATE,What date is the deadline for submitting feedback? Provide a date.,Date
+DATE,When is the next software release planned? Provide a date.,Date
+DATE,What date is the company anniversary? Provide a date.,Date
+DATE,When was the building permit issued? Provide a date.,Date
+DATE,What is the start date of the new fiscal year? Provide a date.,Date
+DATE,When is the next holiday? Provide a date.,Date
+DATE,What date is the contract renewal due? Provide a date.,Date
+DATE,When is the deadline for the project bid? Provide a date.,Date
+DATE,What date is the next team-building exercise? Provide a date.,Date
+DATE,When is the next scheduled system backup? Provide a date.,Date
+DATE,What date is the end of the probationary period? Provide a date.,Date
+DATE,What is the date of your next software update? Provide a date.,Date
+DATE,When was the system last upgraded? Provide a date.,Date
+DATE,What date did the initial deployment occur? Provide a date.,Date
+DATE,When is the deadline for the project completion? Provide a date.,Date
+DATE,What date did the technical issue arise? Provide a date.,Date
+DATE,When was the bug report submitted? Provide a date.,Date
+DATE,What is the target launch date for the new application? Provide a date.,Date
+DATE,When was the last security patch implemented? Provide a date.,Date
+DATE,On what date was the training session conducted? Provide a date.,Date
+DATE,When is the next scheduled maintenance window? Provide a date.,Date
+DATE,What is the date of the next software review? Provide a date.,Date
+DATE,When did the server outage begin? Provide a date.,Date
+DATE,What date was the system architecture documented? Provide a date.,Date
+DATE,When was the user feedback collected? Provide a date.,Date
+DATE,What is the planned date for the database migration? Provide a date.,Date
+DATE,When did the performance testing commence? Provide a date.,Date
+DATE,What date was the requirement specification finalized? Provide a date.,Date
+DATE,When was the last system backup performed? Provide a date.,Date
+DATE,What is the date of the next team meeting? Provide a date.,Date
+DATE,When was the prototype developed? Provide a date.,Date
+DATE,What date is the contract renewal due? Provide a date.,Date
+DATE,When did the user acceptance testing begin? Provide a date.,Date
+DATE,What is the implementation date for the new feature? Provide a date.,Date
+DATE,When was the initial design concept finalized? Provide a date.,Date
+DATE,What date will the system go live? Provide a date.,Date
+DATE,When was the last performance review conducted? Provide a date.,Date
+DATE,What is the deadline for submitting the project report? Provide a date.,Date
+DATE,When was the system's capacity increased? Provide a date.,Date
+DATE,What date did the training begin for the new software? Provide a date.,Date
+DATE,When is the next technology audit scheduled? Provide a date.,Date
+DATE,What date was the infrastructure upgrade completed? Provide a date.,Date
+DATE,When was the vulnerability assessment performed? Provide a date.,Date
+DATE,What is the date of the next stakeholder meeting? Provide a date.,Date
+DATE,When was the incident reported? Provide a date.,Date
+DATE,What is the target completion date for the current sprint? Provide a date.,Date
+DATE,When was the system's security policy last reviewed? Provide a date.,Date
+DATE,What is the date of the next code review? Provide a date.,Date
+DATE,When was the database schema updated? Provide a date.,Date
+DATE,What is the expected date of project sign-off? Provide a date.,Date
+DATE,When was the new hardware installed? Provide a date.,Date
+DATE,What date is the next scheduled backup? Provide a date.,Date
+DATE,When did the development phase conclude? Provide a date.,Date
+DATE,What is the planned date for the next release? Provide a date.,Date
+DATE,When was the risk assessment completed? Provide a date.,Date
+DATE,What date was the final testing report submitted? Provide a date.,Date
+DATE,When was the software license renewed? Provide a date.,Date
+DATE,What date will the new system be decommissioned? Provide a date.,Date
+DATE,What is your date of birth? Provide a date.,Date
+DATE,When did you first experience these symptoms? Provide a date.,Date
+DATE,What is the date of your next appointment? Provide a date.,Date
+DATE,When was your last hospital visit? Provide a date.,Date
+DATE,When did you start this medication? Provide a date.,Date
+DATE,What is the date of your surgery? Provide a date.,Date
+DATE,When did you receive the initial diagnosis? Provide a date.,Date
+DATE,When was your last physical examination? Provide a date.,Date
+DATE,What is the date of your next blood test? Provide a date.,Date
+DATE,When did your symptoms begin to improve? Provide a date.,Date
+DATE,When was the last time you saw a specialist? Provide a date.,Date
+DATE,When did you complete your prescribed rehabilitation? Provide a date.,Date
+DATE,When did you receive the results of your latest tests? Provide a date.,Date
+DATE,What is the date of your last prescription refill? Provide a date.,Date
+DATE,When did you experience the onset of this condition? Provide a date.,Date
+DATE,What is the expected date of your recovery? Provide a date.,Date
+DATE,When was your last influenza vaccination? Provide a date.,Date
+DATE,What date did you start feeling unwell? Provide a date.,Date
+DATE,When was your last dental checkup? Provide a date.,Date
+DATE,What is the date of your next scheduled therapy session? Provide a date.,Date
+DATE,When did you last undergo a medical imaging procedure? Provide a date.,Date
+DATE,When did you begin experiencing this specific symptom? Provide a date.,Date
+DATE,What is the date of your next physician consultation? Provide a date.,Date
+DATE,When did you begin taking this new medication? Provide a date.,Date
+DATE,What date did you receive the notification about your test results? Provide a date.,Date
+DATE,When did you last visit the emergency room? Provide a date.,Date
+DATE,When was your last tetanus shot? Provide a date.,Date
+DATE,When did you experience a significant change in your health condition? Provide a date.,Date
+DATE,When did you start experiencing pain in this area? Provide a date.,Date
+DATE,When was your last mammogram? Provide a date.,Date
+DATE,When was your last colonoscopy? Provide a date.,Date
+DATE,When did you begin this new exercise regimen? Provide a date.,Date
+DATE,When did you last update your health information? Provide a date.,Date
+DATE,When was your last eye exam? Provide a date.,Date
+DATE,When did you begin experiencing this allergic reaction? Provide a date.,Date
+DATE,What is the date of your next scheduled check-up? Provide a date.,Date
+DATE,When did you start this new diet? Provide a date.,Date
+DATE,When was your last blood pressure check? Provide a date.,Date
+DATE,When did you first notice this skin condition? Provide a date.,Date
+DATE,When did you last have a flu shot? Provide a date.,Date
+DATE,When was your last pneumonia vaccination? Provide a date.,Date
+DATE,When did you stop smoking? Provide a date.,Date
+DATE,When did you last consume alcohol? Provide a date.,Date
+DATE,When was your last physical therapy appointment? Provide a date.,Date
+DATE,When did you last have a significant injury? Provide a date.,Date
+DATE,When did you start experiencing shortness of breath? Provide a date.,Date
+DATE,When did you last see a mental health professional? Provide a date.,Date
