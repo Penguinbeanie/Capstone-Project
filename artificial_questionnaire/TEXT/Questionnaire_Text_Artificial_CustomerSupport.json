@@ -1,0 +1,407 @@
+[
+    {
+        "type": "TEXT",
+        "question": "Describe your overall experience.",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "What could we have done better?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "How satisfied were you with the resolution?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "What was the most helpful aspect of the support?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "What was the least helpful aspect of the support?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "How would you rate the agent's communication skills?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "How would you rate the agent's problem-solving skills?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "Did you feel your issue was resolved efficiently?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "Explain your issue in detail.",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "What steps did the agent take to resolve your issue?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "Would you recommend our support to others? Why or why not?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "Is there anything else you would like to share about your experience?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "How long did it take to resolve your issue?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "What was your initial impression of the support agent?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "Rate the overall helpfulness of the support.",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "How easy was it to contact support?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "Describe the agent's demeanor.",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "Were all your questions answered to your satisfaction?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "What improvements would you suggest for our support system?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "Describe your experience with the support agent's technical expertise.",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "Did you feel the agent understood your problem?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "How would you rate the clarity of the agent's explanations?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "Did the agent follow up as promised?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "What are your suggestions for improving the overall customer support experience?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "Were there any delays in getting your issue resolved?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "How would you describe the overall tone of the interaction?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "What aspects of the support were particularly positive?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "What aspects of the support were particularly negative?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "Did the agent use appropriate language and terminology?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "How would you rate the agent's patience and understanding?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "Was the agent knowledgeable about the product/service?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "Did you feel valued as a customer?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "What specific actions did the agent take that you appreciated?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "What specific actions did the agent take that you did not appreciate?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "On a scale of 1-10, how likely are you to recommend our support?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "Please share any additional feedback you have for us.",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "Was the solution provided easy to understand and implement?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "Did the support agent actively listen to your concerns?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "What was your favorite part of the support interaction?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "What was your least favorite part of the support interaction?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "How would you improve the support agent's training?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "What tools or resources could have helped the agent resolve your issue more efficiently?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "Were there any technical difficulties during the support interaction?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "How confident are you that your issue is truly resolved?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    },
+    {
+        "type": "TEXT",
+        "question": "What is your suggestion for improving the support process?",
+        "options": [
+            {
+                "option": "Text"
+            }
+        ]
+    }
+]

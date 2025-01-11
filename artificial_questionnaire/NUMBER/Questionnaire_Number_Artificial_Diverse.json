@@ -1,0 +1,416 @@
+[
+    {
+        "type": "NUMBER",
+        "question": "What is the speed limit on this highway?",
+        "options": [
+            {
+                "option": "speed limit"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "How many siblings do you have?",
+        "options": [
+            {
+                "option": "sibling count"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is your house number?",
+        "options": [
+            {
+                "option": "house number"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What year was the company founded?",
+        "options": [
+            {
+                "option": "year"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "How many employees work here?",
+        "options": [
+            {
+                "option": "employee count"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the zip code for this address?",
+        "options": [
+            {
+                "option": "zip code"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the model year of your car?",
+        "options": [
+            {
+                "option": "year"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "How many attendees are expected at the conference?",
+        "options": [
+            {
+                "option": "attendee count"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the price of this item?",
+        "options": [
+            {
+                "option": "price"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the total square footage of the house?",
+        "options": [
+            {
+                "option": "square footage"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "How many pages are in this book?",
+        "options": [
+            {
+                "option": "page count"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the account balance?",
+        "options": [
+            {
+                "option": "balance"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the population of this city?",
+        "options": [
+            {
+                "option": "population"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "How many kilograms does this weigh?",
+        "options": [
+            {
+                "option": "weight"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the temperature in Celsius?",
+        "options": [
+            {
+                "option": "temperature"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "How many kilometers did you drive?",
+        "options": [
+            {
+                "option": "distance"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the height of the building?",
+        "options": [
+            {
+                "option": "height"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "How many points did the team score?",
+        "options": [
+            {
+                "option": "score"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the interest rate on the loan?",
+        "options": [
+            {
+                "option": "interest rate"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the due date (numerical representation, e.g., MMDDYYYY)?",
+        "options": [
+            {
+                "option": "date"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the quantity in stock?",
+        "options": [
+            {
+                "option": "quantity"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the order number?",
+        "options": [
+            {
+                "option": "order number"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "How many votes did the candidate receive?",
+        "options": [
+            {
+                "option": "vote count"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the room number?",
+        "options": [
+            {
+                "option": "room number"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the age of the participant?",
+        "options": [
+            {
+                "option": "age"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "How many chapters are in this document?",
+        "options": [
+            {
+                "option": "chapter count"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the product ID number?",
+        "options": [
+            {
+                "option": "product ID"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "How many days are left until the deadline?",
+        "options": [
+            {
+                "option": "day count"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the code number?",
+        "options": [
+            {
+                "option": "code"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the size in gigabytes?",
+        "options": [
+            {
+                "option": "size"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the weight in pounds?",
+        "options": [
+            {
+                "option": "weight"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the quantity per unit?",
+        "options": [
+            {
+                "option": "quantity"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the discount percentage?",
+        "options": [
+            {
+                "option": "percentage"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the latitude coordinate?",
+        "options": [
+            {
+                "option": "latitude"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the longitude coordinate?",
+        "options": [
+            {
+                "option": "longitude"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the altitude in meters?",
+        "options": [
+            {
+                "option": "altitude"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the frequency in Hertz?",
+        "options": [
+            {
+                "option": "frequency"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the voltage in volts?",
+        "options": [
+            {
+                "option": "voltage"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the current in amperes?",
+        "options": [
+            {
+                "option": "current"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the resistance in ohms?",
+        "options": [
+            {
+                "option": "resistance"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the capacitance in farads?",
+        "options": [
+            {
+                "option": "capacitance"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the inductance in henries?",
+        "options": [
+            {
+                "option": "inductance"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the power in watts?",
+        "options": [
+            {
+                "option": "power"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the energy in joules?",
+        "options": [
+            {
+                "option": "energy"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "What is the pressure in pascals?",
+        "options": [
+            {
+                "option": "pressure"
+            }
+        ]
+    },
+    {
+        "type": "NUMBER",
+        "question": "How many items are in the cart?",
+        "options": [
+            {
+                "option": "item count"
+            }
+        ]
+    }
+]

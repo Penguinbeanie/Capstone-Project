@@ -1,0 +1,425 @@
+[
+    {
+        "type": "DATE",
+        "question": "What is your date of birth? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you first experience these symptoms? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What is the date of your next appointment? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When was your last hospital visit? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you start this medication? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What is the date of your surgery? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you receive the initial diagnosis? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When was your last physical examination? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What is the date of your next blood test? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did your symptoms begin to improve? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When was the last time you saw a specialist? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you complete your prescribed rehabilitation? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you receive the results of your latest tests? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What is the date of your last prescription refill? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you experience the onset of this condition? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What is the expected date of your recovery? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When was your last influenza vaccination? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What date did you start feeling unwell? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When was your last dental checkup? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What is the date of your next scheduled therapy session? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you last undergo a medical imaging procedure? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you begin experiencing this specific symptom? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What is the date of your next physician consultation? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you begin taking this new medication? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What date did you receive the notification about your test results? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you last visit the emergency room? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When was your last tetanus shot? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you experience a significant change in your health condition? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you start experiencing pain in this area? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When was your last mammogram? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When was your last colonoscopy? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you begin this new exercise regimen? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you last update your health information? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When was your last eye exam? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you begin experiencing this allergic reaction? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What is the date of your next scheduled check-up? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you start this new diet? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When was your last blood pressure check? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you first notice this skin condition? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you last have a flu shot? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When was your last pneumonia vaccination? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you stop smoking? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you last consume alcohol? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When was your last physical therapy appointment? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you last have a significant injury? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you start experiencing shortness of breath? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did you last see a mental health professional? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    }
+]

@@ -1,0 +1,179 @@
+type,question,options
+TEXT,Describe your experience.,Text
+TEXT,What were the key takeaways?,Text
+TEXT,Explain your approach.,Text
+TEXT,Summarize the main points.,Text
+TEXT,What challenges did you encounter?,Text
+TEXT,How could this be improved?,Text
+TEXT,What were the results?,Text
+TEXT,Describe the process.,Text
+TEXT,What were your observations?,Text
+TEXT,Share your feedback.,Text
+TEXT,What are your suggestions?,Text
+TEXT,Elaborate on your response.,Text
+TEXT,Provide further details.,Text
+TEXT,Explain your reasoning.,Text
+TEXT,What are your thoughts?,Text
+TEXT,Describe the communication strategy.,Text
+TEXT,What were the communication channels used?,Text
+TEXT,How effective was the communication?,Text
+TEXT,What were the barriers to communication?,Text
+TEXT,How could communication be improved?,Text
+TEXT,Describe the audience for the communication.,Text
+TEXT,What was the purpose of the communication?,Text
+TEXT,What was the message of the communication?,Text
+TEXT,How was the message received?,Text
+TEXT,What were the outcomes of the communication?,Text
+TEXT,What lessons were learned from the communication?,Text
+TEXT,Describe any challenges in delivering the message.,Text
+TEXT,How did you overcome those challenges?,Text
+TEXT,What would you do differently next time?,Text
+TEXT,What aspects of the communication were most successful?,Text
+TEXT,What were the key factors contributing to success or failure?,Text
+TEXT,Explain your role in the communication process.,Text
+TEXT,Describe the overall effectiveness of the communication.,Text
+TEXT,What metrics were used to evaluate the communication?,Text
+TEXT,What recommendations would you make for future communications?,Text
+TEXT,What were the intended and unintended consequences of the communication?,Text
+TEXT,How did the communication impact the intended audience?,Text
+TEXT,Describe the feedback received on the communication.,Text
+TEXT,How was the feedback used to improve future communications?,Text
+TEXT,What were the ethical considerations involved in the communication?,Text
+TEXT,How did you ensure ethical communication practices were followed?,Text
+TEXT,Reflect on your personal contribution to the communication.,Text
+TEXT,What did you learn from this communication experience?,Text
+TEXT,How would you apply this learning to future communications?,Text
+TEXT,Describe the safety procedures followed during the operation.,Text
+TEXT,What improvements could be made to the efficiency of the manufacturing process?,Text
+TEXT,Explain any challenges encountered during the project and how they were overcome.,Text
+TEXT,Detail your experience with the new welding equipment.,Text
+TEXT,Describe the quality control measures implemented.,Text
+TEXT,What are your suggestions for reducing downtime?,Text
+TEXT,Elaborate on the training provided to the operators.,Text
+TEXT,Explain the process for handling hazardous materials.,Text
+TEXT,Describe any incidents or near misses that occurred.,Text
+TEXT,What are your thoughts on the current maintenance schedule?,Text
+TEXT,Provide feedback on the effectiveness of the communication system.,Text
+TEXT,Describe the environmental impact of the operations.,Text
+TEXT,How could the company improve its sustainability initiatives?,Text
+TEXT,What are your observations regarding employee morale?,Text
+TEXT,Describe the company's approach to risk management.,Text
+TEXT,What are your recommendations for improving workplace safety?,Text
+TEXT,Explain the process for handling customer complaints.,Text
+TEXT,Describe the impact of recent technological advancements on the industry.,Text
+TEXT,What are the key challenges facing the heavy industries sector?,Text
+TEXT,Discuss the importance of continuous improvement in heavy industries.,Text
+TEXT,How can the company better utilize its resources?,Text
+TEXT,What are your thoughts on the current supply chain management?,Text
+TEXT,Describe the impact of automation on the workforce.,Text
+TEXT,Explain the company's strategy for attracting and retaining talent.,Text
+TEXT,What are your suggestions for improving employee training programs?,Text
+TEXT,Describe the company's commitment to health and safety.,Text
+TEXT,How can the company enhance its reputation and brand image?,Text
+TEXT,What are your observations regarding the overall productivity levels?,Text
+TEXT,Describe any areas where cost savings could be achieved.,Text
+TEXT,What are your thoughts on the effectiveness of the project management methodologies?,Text
+TEXT,Describe the challenges associated with maintaining aging equipment.,Text
+TEXT,How can the company improve its response to emergency situations?,Text
+TEXT,Explain the process for conducting regular equipment inspections.,Text
+TEXT,Describe the company's approach to data analytics and its application in decision-making.,Text
+TEXT,What are your thoughts on the current level of technological innovation within the company?,Text
+TEXT,Describe the company's efforts to foster a culture of continuous learning and development.,Text
+TEXT,How can the company better engage with its stakeholders?,Text
+TEXT,What are your recommendations for improving the overall performance of the company?,Text
+TEXT,Describe the challenges associated with managing a diverse workforce.,Text
+TEXT,What are your thoughts on the effectiveness of the company's training and development programs?,Text
+TEXT,Describe any areas where the company could improve its compliance with regulatory requirements.,Text
+TEXT,What are your observations regarding the company's overall safety culture?,Text
+TEXT,Describe the impact of global economic conditions on the company's operations.,Text
+TEXT,What are your thoughts on the company's long-term strategic goals?,Text
+TEXT,Describe your overall experience.,Text
+TEXT,What could we have done better?,Text
+TEXT,How satisfied were you with the resolution?,Text
+TEXT,What was the most helpful aspect of the support?,Text
+TEXT,What was the least helpful aspect of the support?,Text
+TEXT,How would you rate the agent's communication skills?,Text
+TEXT,How would you rate the agent's problem-solving skills?,Text
+TEXT,Did you feel your issue was resolved efficiently?,Text
+TEXT,Explain your issue in detail.,Text
+TEXT,What steps did the agent take to resolve your issue?,Text
+TEXT,Would you recommend our support to others? Why or why not?,Text
+TEXT,Is there anything else you would like to share about your experience?,Text
+TEXT,How long did it take to resolve your issue?,Text
+TEXT,What was your initial impression of the support agent?,Text
+TEXT,Rate the overall helpfulness of the support.,Text
+TEXT,How easy was it to contact support?,Text
+TEXT,Describe the agent's demeanor.,Text
+TEXT,Were all your questions answered to your satisfaction?,Text
+TEXT,What improvements would you suggest for our support system?,Text
+TEXT,Describe your experience with the support agent's technical expertise.,Text
+TEXT,Did you feel the agent understood your problem?,Text
+TEXT,How would you rate the clarity of the agent's explanations?,Text
+TEXT,Did the agent follow up as promised?,Text
+TEXT,What are your suggestions for improving the overall customer support experience?,Text
+TEXT,Were there any delays in getting your issue resolved?,Text
+TEXT,How would you describe the overall tone of the interaction?,Text
+TEXT,What aspects of the support were particularly positive?,Text
+TEXT,What aspects of the support were particularly negative?,Text
+TEXT,Did the agent use appropriate language and terminology?,Text
+TEXT,How would you rate the agent's patience and understanding?,Text
+TEXT,Was the agent knowledgeable about the product/service?,Text
+TEXT,Did you feel valued as a customer?,Text
+TEXT,What specific actions did the agent take that you appreciated?,Text
+TEXT,What specific actions did the agent take that you did not appreciate?,Text
+TEXT,"On a scale of 1-10, how likely are you to recommend our support?",Text
+TEXT,Please share any additional feedback you have for us.,Text
+TEXT,Was the solution provided easy to understand and implement?,Text
+TEXT,Did the support agent actively listen to your concerns?,Text
+TEXT,What was your favorite part of the support interaction?,Text
+TEXT,What was your least favorite part of the support interaction?,Text
+TEXT,How would you improve the support agent's training?,Text
+TEXT,What tools or resources could have helped the agent resolve your issue more efficiently?,Text
+TEXT,Were there any technical difficulties during the support interaction?,Text
+TEXT,How confident are you that your issue is truly resolved?,Text
+TEXT,What is your suggestion for improving the support process?,Text
+TEXT,Describe your overall experience.,Text
+TEXT,What aspects of the convention were most impactful?,Text
+TEXT,What improvements could be made to the convention?,Text
+TEXT,How fair did you perceive the judging process to be?,Text
+TEXT,What were your biggest challenges during the convention?,Text
+TEXT,Describe your favorite part of the convention.,Text
+TEXT,What did you learn from participating in the convention?,Text
+TEXT,How could the fairness of the competition be enhanced?,Text
+TEXT,What suggestions do you have for future conventions?,Text
+TEXT,Share any concerns you have about the convention.,Text
+TEXT,Describe your experience with the registration process.,Text
+TEXT,How accessible was the convention for participants?,Text
+TEXT,What was the quality of the resources provided?,Text
+TEXT,How would you rate the overall organization of the event?,Text
+TEXT,What aspects of the convention exceeded your expectations?,Text
+TEXT,Were there any logistical issues you encountered?,Text
+TEXT,How could the convention be made more inclusive?,Text
+TEXT,What is your feedback on the venue?,Text
+TEXT,Describe your interaction with the convention staff.,Text
+TEXT,What were your expectations before attending the convention?,Text
+TEXT,How satisfied were you with the networking opportunities?,Text
+TEXT,Did you feel the convention was worth the cost?,Text
+TEXT,What aspects of the convention could be improved for future participants?,Text
+TEXT,How would you rate the overall value of the convention?,Text
+TEXT,What is your feedback on the quality of the presentations?,Text
+TEXT,How would you describe the atmosphere of the convention?,Text
+TEXT,What are your suggestions for improving the communication during the convention?,Text
+TEXT,What would you change about the schedule of events?,Text
+TEXT,Describe your experience with the technology used during the convention.,Text
+TEXT,How could the convention better support participants with diverse needs?,Text
+TEXT,What impact did the convention have on your professional development?,Text
+TEXT,Share any unexpected positive experiences you had at the convention.,Text
+TEXT,What aspects of the convention did you find most engaging?,Text
+TEXT,How effectively did the convention meet its stated goals?,Text
+TEXT,What specific changes would you recommend for the next convention?,Text
+TEXT,Describe any instances of unfairness you observed during the convention.,Text
+TEXT,How could the convention better promote a sense of community among participants?,Text
+TEXT,What resources or support did you find most helpful?,Text
+TEXT,What is your overall impression of the convention's level of professionalism?,Text
+TEXT,How would you improve the clarity and accuracy of the convention's information?,Text
+TEXT,Describe any areas where the convention fell short of expectations.,Text
+TEXT,What aspects of the convention fostered a sense of inclusivity and belonging?,Text
+TEXT,How effectively did the convention balance competing priorities?,Text
+TEXT,What were the strengths and weaknesses of the convention's communication strategy?,Text
+TEXT,What is your feedback on the overall design and layout of the convention?,Text

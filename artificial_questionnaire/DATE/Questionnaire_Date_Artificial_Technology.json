@@ -1,0 +1,425 @@
+[
+    {
+        "type": "DATE",
+        "question": "What is the date of your next software update? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When was the system last upgraded? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What date did the initial deployment occur? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When is the deadline for the project completion? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What date did the technical issue arise? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When was the bug report submitted? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What is the target launch date for the new application? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When was the last security patch implemented? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "On what date was the training session conducted? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When is the next scheduled maintenance window? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What is the date of the next software review? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did the server outage begin? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What date was the system architecture documented? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When was the user feedback collected? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What is the planned date for the database migration? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did the performance testing commence? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What date was the requirement specification finalized? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When was the last system backup performed? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What is the date of the next team meeting? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When was the prototype developed? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What date is the contract renewal due? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did the user acceptance testing begin? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What is the implementation date for the new feature? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When was the initial design concept finalized? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What date will the system go live? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When was the last performance review conducted? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What is the deadline for submitting the project report? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When was the system's capacity increased? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What date did the training begin for the new software? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When is the next technology audit scheduled? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What date was the infrastructure upgrade completed? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When was the vulnerability assessment performed? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What is the date of the next stakeholder meeting? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When was the incident reported? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What is the target completion date for the current sprint? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When was the system's security policy last reviewed? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What is the date of the next code review? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When was the database schema updated? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What is the expected date of project sign-off? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When was the new hardware installed? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What date is the next scheduled backup? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did the development phase conclude? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What is the planned date for the next release? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When was the risk assessment completed? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What date was the final testing report submitted? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When was the software license renewed? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What date will the new system be decommissioned? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    }
+]

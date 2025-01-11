@@ -1,0 +1,416 @@
+[
+    {
+        "type": "DATE",
+        "question": "What is the date of your next scheduled maintenance?",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What date did the equipment malfunction?",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When was the last safety inspection conducted? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "On what date did the project officially commence? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When is the deadline for submitting the report? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What is the expected completion date of the current project? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did the shipment arrive at the warehouse? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What date is the next board meeting scheduled for? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When was the initial contract signed? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What date should we schedule the site visit? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did the warranty expire on this piece of equipment? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What is the invoice due date? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did the employee start working for the company? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What is the target launch date for the new product? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When is the next scheduled audit? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What date did the training session conclude? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When was the last major system upgrade implemented? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What is the expected delivery date for the new order? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did the incident occur? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What is the date of the next performance review? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When is the payment due? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What date did the permit expire? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When was the last time the software was updated? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What date is the next staff meeting? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When did the equipment become operational? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What is the project's milestone date? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When is the next budget review scheduled? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What date is the conference taking place? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When is the deadline for the proposal submission? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What date did the order ship? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When is the next safety training scheduled? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What is the cut-off date for registering for the event? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When is the next quality control inspection scheduled? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What is the last day to submit expense reports? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When is the annual general meeting? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What date is the deadline for submitting feedback? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When is the next software release planned? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What date is the company anniversary? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When was the building permit issued? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What is the start date of the new fiscal year? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When is the next holiday? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What date is the contract renewal due? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When is the deadline for the project bid? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What date is the next team-building exercise? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "When is the next scheduled system backup? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "type": "DATE",
+        "question": "What date is the end of the probationary period? Provide a date.",
+        "options": [
+            {
+                "option": "Date"
+            }
+        ]
+    }
+]
