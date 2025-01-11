@@ -1,0 +1,936 @@
+type>question>options>answer>answer_label_GEMINI>answer_category
+NUMBER>How many attendees are expected at the conference?>['attendee count']> We anticipate a significant turnout for the conference.  Based on current registration numbers, we are expecting around five hundred attendees. This is a substantial increase from last year.>500 attendees>verbose
+NUMBER>How many attendees are expected at the conference?>['attendee count']> 1200>1200 attendees>concise
+NUMBER>How many attendees are expected at the conference?>['attendee count']>  Like, a thousand people, maybe a bit more, I guess?>1000+ attendees>colloquial
+NUMBER>How many attendees are expected at the conference?>['attendee count']> The projected attendee count is based on a combination of early bird registrations and sponsor commitments.  We are estimating approximately 750 attendees, plus or minus 50, depending on last-minute registrations.  This should give us a good working number.>750 attendees>explanatory
+NUMBER>How many attendees are expected at the conference?>['attendee count']>  The expected attendance? It's two thousand.  Why do you need to know?>2000 attendees>annoyed
+NUMBER>How many books did you read last year?>['books read']> I managed to read quite a few books last year.  I kept track and the total came to thirty-seven.  It was a productive reading year!>37 books>verbose
+NUMBER>How many books did you read last year?>['books read']> 12>12 books>concise
+NUMBER>How many books did you read last year?>['books read']>  Oh, like, a bunch, man.  Probably around twenty-five.>25 books>colloquial
+NUMBER>How many books did you read last year?>['books read']>  I made a conscious effort to read more last year.  As a result, I completed fifty-two books. This included both fiction and non-fiction.>52 books>explanatory
+NUMBER>How many books did you read last year?>['books read']>  I've already answered this question, haven't I?  Let me check...  Nineteen.>19 books>annoyed
+NUMBER>How many chapters are in this document?>['chapter count']> After carefully reviewing the document, I have determined the precise number of chapters contained within.  The count is definitively five. This represents the total number of distinct chapter sections.>5>verbose
+NUMBER>How many chapters are in this document?>['chapter count']> Five chapters.>5>concise
+NUMBER>How many chapters are in this document?>['chapter count']>  There are, like, five chapters, man.>5>colloquial
+NUMBER>How many chapters are in this document?>['chapter count']> The document's structure is comprised of five distinct chapters. Each chapter is clearly delineated and numbered sequentially. Therefore, the answer is five.>5>explanatory
+NUMBER>How many chapters are in this document?>['chapter count']>  The document has five chapters.  Is that what you wanted to know?>5>annoyed
+NUMBER>How many children are in your household?>['number of children']> We have a delightful pair of twins running around the house, keeping us on our toes.  It's certainly never a dull moment! They're the best.>2 children>verbose
+NUMBER>How many children are in your household?>['number of children']> Two.>2 children>concise
+NUMBER>How many children are in your household?>['number of children']>  Just two little rugrats.>2 children>colloquial
+NUMBER>How many children are in your household?>['number of children']>  There are two children living in my household. They are both under the age of ten.  This is a busy, though rewarding, situation.>2 children>explanatory
+NUMBER>How many children are in your household?>['number of children']>  Two.  Is that really what you need to know?>2 children>annoyed
+NUMBER>How many credit cards do you have?>['credit card count']> I currently have three credit cards.  Two are for everyday spending, and one is for travel rewards.  That seems like a manageable number for me.>3 credit cards>verbose
+NUMBER>How many credit cards do you have?>['credit card count']> Two.>2 credit cards>concise
+NUMBER>How many credit cards do you have?>['credit card count']>  Just a couple, you know?>2 credit cards>colloquial
+NUMBER>How many credit cards do you have?>['credit card count']> I maintain two credit cards for responsible financial management. One is used for regular expenses and the other is reserved for larger purchases to optimize rewards programs.>2 credit cards>explanatory
+NUMBER>How many credit cards do you have?>['credit card count']>  One.  It's really none of your business.>1 credit card>annoyed
+NUMBER>How many cups of coffee do you drink daily?>['coffee consumption']> I generally try to limit myself to two cups of coffee a day.  Any more than that and I find I get a bit jittery.  It's a good way to start the day, though.>2 cups>verbose
+NUMBER>How many cups of coffee do you drink daily?>['coffee consumption']> Two.>2 cups>concise
+NUMBER>How many cups of coffee do you drink daily?>['coffee consumption']>  Couple, maybe three if I'm really dragging.>3 cups>colloquial
+NUMBER>How many cups of coffee do you drink daily?>['coffee consumption']> I drink one cup in the morning to wake up and another in the afternoon for an energy boost. This keeps me productive throughout the day.>2 cups>explanatory
+NUMBER>How many cups of coffee do you drink daily?>['coffee consumption']> Just one, okay?  I don't need to explain myself further.>1 cup>annoyed
+NUMBER>How many customer complaints were received this quarter?>['customer complaints']> This quarter, we received a total of one hundred and twenty-seven customer complaints.  This represents a slight increase compared to last quarter's figures.  We are actively working to address these issues.>127 complaints>verbose
+NUMBER>How many customer complaints were received this quarter?>['customer complaints']> 35 complaints.>35 complaints>concise
+NUMBER>How many customer complaints were received this quarter?>['customer complaints']>  We got, like, fifty-two complaints this time around.  Not great, but not the worst either.>52 complaints>colloquial
+NUMBER>How many customer complaints were received this quarter?>['customer complaints']>  The number of customer complaints received this quarter was forty-eight. This figure is based on our internal tracking system and includes all complaints logged within the specified timeframe.>48 complaints>explanatory
+NUMBER>How many customer complaints were received this quarter?>['customer complaints']>  There were nine customer complaints this quarter.  That's still too many!  We need to improve our service.>9 complaints>annoyed
+NUMBER>How many days a week do you exercise?>['exercise frequency']> I try to exercise five days a week, but sometimes life gets in the way and I manage fewer.  It's my goal to hit that number consistently.>5 days>verbose
+NUMBER>How many days a week do you exercise?>['exercise frequency']> Seven.>7 days>concise
+NUMBER>How many days a week do you exercise?>['exercise frequency']>  Like, maybe three or four times a week?  Depends on my schedule, ya know?>3 days>colloquial
+NUMBER>How many days a week do you exercise?>['exercise frequency']> I aim for a balanced workout routine, so I exercise three days a week to allow for adequate rest and recovery between sessions. This prevents injury and optimizes my fitness gains.>3 days>explanatory
+NUMBER>How many days a week do you exercise?>['exercise frequency']>  It varies, but I'd say two days.  Don't need to overthink it.>2 days>annoyed
+NUMBER>How many days are left until the deadline?>['days until deadline']> There are thirty-seven days remaining before the deadline.  Please ensure all tasks are completed in a timely manner to avoid any last-minute rushes.  We'll send reminders as the deadline approaches.>37 days>verbose
+NUMBER>How many days are left until the deadline?>['day count']> There are thirty-two days remaining until the deadline.  Please ensure you submit your work on time.  Failure to do so may result in penalties.>32 days>verbose
+NUMBER>How many days are left until the deadline?>['days until deadline']> 12 days left.>12 days>concise
+NUMBER>How many days are left until the deadline?>['day count']> 15 days.>15 days>concise
+NUMBER>How many days are left until the deadline?>['days until deadline']>  Like, twelve days to go, man.  Don't forget!>12 days>colloquial
+NUMBER>How many days are left until the deadline?>['day count']>  Dude, like, only seven days left!  Better hurry!>7 days>colloquial
+NUMBER>How many days are left until the deadline?>['days until deadline']>  The deadline is in forty-two days. This is a crucial timeframe for project completion, so diligent work is essential. Efficient time management will help meet this deadline successfully.>42 days>explanatory
+NUMBER>How many days are left until the deadline?>['day count']>  The deadline is in twenty-one days. This is calculated from today's date.  Allowing for sufficient time to complete the task is recommended.>21 days>explanatory
+NUMBER>How many days are left until the deadline?>['days until deadline']>  Five days.  That's all that's left.  Get it done.>5 days>annoyed
+NUMBER>How many days are left until the deadline?>['day count']>  Five days.  Is that clear enough?>5 days>annoyed
+NUMBER>How many days of vacation did you take last year?>['vacation days']> I took a total of fourteen vacation days last year.  It was a good balance of rest and work, I think. I needed the break!>14 days>verbose
+NUMBER>How many days of vacation did you take last year?>['vacation days']> 10>10 days>concise
+NUMBER>How many days of vacation did you take last year?>['vacation days']>  Took, like, five days off, man.  Needed more, though.>5 days>colloquial
+NUMBER>How many days of vacation did you take last year?>['vacation days']> I meticulously tracked my vacation time.  I used a total of twenty-one days for vacation last year. This includes all my sick days.>21 days>explanatory
+NUMBER>How many days of vacation did you take last year?>['vacation days']>  Seven.  Why do you need to know?>7 days>annoyed
+NUMBER>How many different product lines does the company manufacture?>['product line count']>  After reviewing our manufacturing records, we've identified a total of seven distinct product lines currently in production. These lines encompass a wide variety of products, each catering to a specific market segment.  This number is subject to change based on future product development.>7 product lines>verbose
+NUMBER>How many different product lines does the company manufacture?>['product line count']> Seven.>7 product lines>concise
+NUMBER>How many different product lines does the company manufacture?>['product line count']>  There's like, seven, I think.  Pretty sure.>7 product lines>colloquial
+NUMBER>How many different product lines does the company manufacture?>['product line count']> The company's product portfolio is organized into distinct product lines to facilitate efficient manufacturing and marketing.  Currently, this results in a total of twelve separate product lines.  This figure is based on the latest production schedule.>12 product lines>explanatory
+NUMBER>How many different product lines does the company manufacture?>['product line count']>  It's five,  okay?  Just five product lines.  Is that clear enough?>5 product lines>annoyed
+NUMBER>How many employees are in the department?>['employee count']> There are twenty-seven employees currently working in the department.  This number fluctuates slightly throughout the year, but this is the current headcount.  We're always looking for talented individuals to join our team.>27 employees>verbose
+NUMBER>How many employees are in the department?>['employee count']> 15>15 employees>concise
+NUMBER>How many employees are in the department?>['employee count']>  There's like, forty-two people in the department, give or take a few.>42 employees>colloquial
+NUMBER>How many employees are in the department?>['employee count']> The employee count for this department is precisely 31.  This figure includes both full-time and part-time employees as of today's date.  It excludes contractors.>31 employees>explanatory
+NUMBER>How many employees are in the department?>['employee count']>  The department has eighty-five employees.  I've already told you this several times.>85 employees>annoyed
+NUMBER>How many employees work here?>['employee count']> We currently have a team of seventy-five dedicated employees working hard to achieve our company goals.  This number fluctuates slightly throughout the year due to seasonal hiring.>75 employees>verbose
+NUMBER>How many employees work here?>['employee count']> 123>123 employees>concise
+NUMBER>How many employees work here?>['employee count']>  A couple hundred, give or take.>200 employees>colloquial
+NUMBER>How many employees work here?>['employee count']> The employee count is currently at 312. This figure includes full-time, part-time, and contract employees as of last week’s payroll.  It may increase soon.>312 employees>explanatory
+NUMBER>How many employees work here?>['employee count']>  The official number is five hundred and ten.  I've already answered this question several times today.>510 employees>annoyed
+NUMBER>How many hours did you work this week?>['work hours']> I put in a solid forty hours this week.  It was a busy one, but I managed to get everything done.  I'm looking forward to the weekend.>40 hours>verbose
+NUMBER>How many hours did you work this week?>['work hours']> 37.5 hours>37.5 hours>concise
+NUMBER>How many hours did you work this week?>['work hours']>  Like, forty-two hours, man.  Crazy busy week.>42 hours>colloquial
+NUMBER>How many hours did you work this week?>['work hours']> My work hours this week totaled thirty-five. This includes both my core hours and the extra time I spent finishing a project.  I'm hoping for a less demanding week next time.>35 hours>explanatory
+NUMBER>How many hours did you work this week?>['work hours']>  I worked thirty hours this week.  What does it look like?  It should be enough information.>30 hours>annoyed
+NUMBER>How many hours of TV do you watch weekly?>['TV watching time']> I try to limit my screen time, but I probably end up watching about ten hours of TV a week.  It's mostly documentaries and news, though.  I'm aiming to reduce that number soon.>10 hours>verbose
+NUMBER>How many hours of TV do you watch weekly?>['TV watching time']> 7 hours.>7 hours>concise
+NUMBER>How many hours of TV do you watch weekly?>['TV watching time']>  Like, maybe five hours?  Could be more, could be less, depends on the week.>5 hours>colloquial
+NUMBER>How many hours of TV do you watch weekly?>['TV watching time']>  I watch television for approximately 2 hours each weekday evening and 4 hours on the weekend, totaling 14 hours per week. This accounts for my regular viewing habits, but occasionally I may watch more or less.>14 hours>explanatory
+NUMBER>How many hours of TV do you watch weekly?>['TV watching time']>  It's around twenty-five hours.  Don't judge me.  It's a lot, I know.>25 hours>annoyed
+NUMBER>How many hours of sleep do you get per night?>['sleep duration']> I usually aim for eight hours of sleep each night, although sometimes I fall a little short.  Getting enough rest is really important for my productivity.  It helps me feel my best.>8 hours>verbose
+NUMBER>How many hours of sleep do you get per night?>['sleep duration']> Seven.>7 hours>concise
+NUMBER>How many hours of sleep do you get per night?>['sleep duration']>  Like, seven or eight, depends on the day, y'know?>7.5 hours>colloquial
+NUMBER>How many hours of sleep do you get per night?>['sleep duration']> I prioritize getting seven and a half hours of sleep nightly; this amount allows my body to fully rest and repair itself, leading to improved cognitive function and overall well-being.>7.5 hours>explanatory
+NUMBER>How many hours of sleep do you get per night?>['sleep duration']>  I get six hours, what of it?>6 hours>annoyed
+NUMBER>How many hours of training were provided to employees last year?>['training hours']> Last year's employee training program was extensive.  We logged a total of three thousand, five hundred and twenty training hours. This represents a significant investment in our workforce development.>3520 hours>verbose
+NUMBER>How many hours of training were provided to employees last year?>['training hours']> 1250 hours>1250 hours>concise
+NUMBER>How many hours of training were provided to employees last year?>['training hours']>  Yeah, it was like, a whole bunch of training.  I'd guess around two thousand hours, maybe a bit more.>2000 hours>colloquial
+NUMBER>How many hours of training were provided to employees last year?>['training hours']>  The total number of training hours provided to employees last year was calculated by summing the hours for each training session and course. This resulted in a final figure of 875 hours.  This data was compiled from our HR department's training records.>875 hours>explanatory
+NUMBER>How many hours of training were provided to employees last year?>['training hours']>  The report clearly states the training hours. It's 4100 hours.  Could you please read the document next time?>4100 hours>annoyed
+NUMBER>How many hours per week do you work?>['work hours']> I typically work forty hours a week, though some weeks are busier than others.  My schedule can fluctuate slightly depending on project deadlines.>40 hours>verbose
+NUMBER>How many hours per week do you work?>['work hours']> 37.5>37.5 hours>concise
+NUMBER>How many hours per week do you work?>['work hours']>  Oh, about thirty-five hours a week, give or take.>35 hours>colloquial
+NUMBER>How many hours per week do you work?>['work hours']> My standard work week consists of 45 hours. This includes core working hours plus overtime to meet project deliverables.>45 hours>explanatory
+NUMBER>How many hours per week do you work?>['work hours']> It's forty-two hours, if you must know.  I have a very demanding job.>42 hours>annoyed
+NUMBER>How many items are in the cart?>['item count']> There are five items currently in your shopping cart.  You can proceed to checkout or continue browsing. Remember to review your items before completing your purchase.>5 items>verbose
+NUMBER>How many items are in the cart?>['item count']> 12>12 items>concise
+NUMBER>How many items are in the cart?>['item count']>  There's like, twenty-three things in there, man.>23 items>colloquial
+NUMBER>How many items are in the cart?>['item count']> The item count in your shopping cart is currently at three.  This is based on the items you've added so far. Please check the cart for accuracy.>3 items>explanatory
+NUMBER>How many items are in the cart?>['item count']>  It says right there; there are one item in the cart!  Pay attention.>1 item>annoyed
+NUMBER>How many kilograms does this weigh?>['weight']> The object's weight is quite substantial.  It tips the scales at a significant amount.  I'd estimate it weighs twenty-five kilograms.>25 kg>verbose
+NUMBER>How many kilograms does this weigh?>['weight']> 10 kg>10 kg>concise
+NUMBER>How many kilograms does this weigh?>['weight']>  It weighs, like, fifty kilos, I reckon.>50 kg>colloquial
+NUMBER>How many kilograms does this weigh?>['weight']>  After careful measurement using a calibrated scale, the weight of the item was determined to be precisely 7.8 kilograms.  This is within the acceptable margin of error for the equipment used.>7.8 kg>explanatory
+NUMBER>How many kilograms does this weigh?>['weight']>  Fine, it weighs three kilograms.  Is that what you wanted to know?>3 kg>annoyed
+NUMBER>How many kilometers did you drive?>['distance']> I drove a total of two hundred and fifty kilometers today. It was a long trip, but I enjoyed the scenery.  I'll need to fill up the tank soon.>250 km>verbose
+NUMBER>How many kilometers did you drive?>['distance']> 137 km>137 km>concise
+NUMBER>How many kilometers did you drive?>['distance']>  Oh, like, maybe thirty kilometers?  Just a quick hop.>30 km>colloquial
+NUMBER>How many kilometers did you drive?>['distance']> The odometer reading shows that I covered a distance of 87.5 kilometers during my journey. This includes both highway and city driving.>87.5 km>explanatory
+NUMBER>How many kilometers did you drive?>['distance']>  It was 5 kilometers.  Are we done here?>5 km>annoyed
+NUMBER>How many languages do you speak?>['languages spoken']>" I can process and generate text in numerous languages.  While I don't ""speak"" in the human sense, my functionality encompasses many linguistic systems.  I'd estimate over a hundred.">100+ languages>verbose
+NUMBER>How many languages do you speak?>['languages spoken']> 100+>100+ languages>concise
+NUMBER>How many languages do you speak?>['languages spoken']>  A bunch!  Like, way more than you'd think.>many languages>colloquial
+NUMBER>How many languages do you speak?>['languages spoken']> I have been trained on a massive dataset of text and code, encompassing a wide range of languages.  The precise number is difficult to quantify, but it's certainly in the hundreds. This allows me to translate and generate text in many different languages.>hundreds of languages>explanatory
+NUMBER>How many languages do you speak?>['languages spoken']>  That's a rather simplistic question, isn't it?  The number is quite high.>several hundred languages>annoyed
+NUMBER>How many marketing campaigns were run last year?>['marketing campaigns']> We launched a total of twelve marketing campaigns last year.  These campaigns covered a variety of products and services.  The results were analyzed and incorporated into future planning.>12 campaigns>verbose
+NUMBER>How many marketing campaigns were run last year?>['marketing campaigns']> 27>27 campaigns>concise
+NUMBER>How many marketing campaigns were run last year?>['marketing campaigns']>  Like, a bunch, maybe thirty-five?  It was a busy year!>35 campaigns>colloquial
+NUMBER>How many marketing campaigns were run last year?>['marketing campaigns']>  A comprehensive report detailing all marketing initiatives from last year is available upon request. However, the total number of marketing campaigns executed was forty-two.>42 campaigns>explanatory
+NUMBER>How many marketing campaigns were run last year?>['marketing campaigns']>  The data is readily accessible; you should be able to find the number of marketing campaigns yourself.  It was eighty-one.>81 campaigns>annoyed
+NUMBER>How many meetings did you attend this week?>['meeting count']> I had a rather busy week, attending a total of five meetings.  They covered a variety of topics, from project updates to team building.  It was a productive, albeit hectic, week.>5 meetings>verbose
+NUMBER>How many meetings did you attend this week?>['meeting count']> Three.>3 meetings>concise
+NUMBER>How many meetings did you attend this week?>['meeting count']>  Like, a whole bunch, maybe four?>4 meetings>colloquial
+NUMBER>How many meetings did you attend this week?>['meeting count']> This week I participated in two meetings; one was for project planning and the other was a team check-in.  This is fewer meetings than usual for me.>2 meetings>explanatory
+NUMBER>How many meetings did you attend this week?>['meeting count']>  Just one, thankfully.  I'm swamped with other tasks.>1 meeting>annoyed
+NUMBER>How many new projects were initiated this year?>['project count']> This year has seen a significant increase in new project initiations.  We've launched a total of thirty-seven new projects across various departments. This represents a substantial growth compared to previous years.>37 projects>verbose
+NUMBER>How many new projects were initiated this year?>['project count']> 12 projects.>12 projects>concise
+NUMBER>How many new projects were initiated this year?>['project count']>  Like, a bunch, man.  Twenty-five new projects, dude.>25 projects>colloquial
+NUMBER>How many new projects were initiated this year?>['project count']>  Based on our project tracking database,  a total of nine new projects were initiated this fiscal year. This figure excludes any projects that were subsequently cancelled.>9 projects>explanatory
+NUMBER>How many new projects were initiated this year?>['project count']>  The project count?  It's five.  Five new projects.  Is that what you needed?>5 projects>annoyed
+NUMBER>How many pages are in this book?>['page count']> After carefully reviewing the book, I've determined the precise page count.  It contains three hundred and sixty-five pages in total.>365 pages>verbose
+NUMBER>How many pages are in this book?>['page count']> 212>212 pages>concise
+NUMBER>How many pages are in this book?>['page count']>  It's got, like, a gazillion pages...okay, maybe 150.>150 pages>colloquial
+NUMBER>How many pages are in this book?>['page count']>  The book's page count was verified by manually counting each page. The final tally is one hundred and seven pages.>107 pages>explanatory
+NUMBER>How many pages are in this book?>['page count']>  The book has 52 pages.  I already counted them.>52 pages>annoyed
+NUMBER>How many pairs of shoes do you own?>['number of shoes']> I have quite a few pairs of shoes.  I'd say I own seven pairs, though some are rarely worn.  It's probably time for a shoe closet purge!>7 pairs>verbose
+NUMBER>How many pairs of shoes do you own?>['number of shoes']> Three.>3 pairs>concise
+NUMBER>How many pairs of shoes do you own?>['number of shoes']>  Like, maybe five pairs?  Could be more, I lose track.>5 pairs>colloquial
+NUMBER>How many pairs of shoes do you own?>['number of shoes']> I own two pairs of everyday shoes, one pair of dress shoes, and two pairs of sneakers for different activities.  That makes a total of five pairs.>5 pairs>explanatory
+NUMBER>How many pairs of shoes do you own?>['number of shoes']>  Twelve.  Why do you need to know?>12 pairs>annoyed
+NUMBER>How many people are in your household?>['household size']> There are four people living in my household; myself, my spouse, and our two children. We've lived here for five years now.>4 people>verbose
+NUMBER>How many people are in your household?>['household size']> Two.>2 people>concise
+NUMBER>How many people are in your household?>['household size']> Just me and the dog, really.  So, two, I guess.>2 people>colloquial
+NUMBER>How many people are in your household?>['household size']>  My household consists of myself and one roommate. Therefore, the household size is two.>2 people>explanatory
+NUMBER>How many people are in your household?>['household size']> It's three.  Why do you need to know?>3 people>annoyed
+NUMBER>How many pets do you own?>['number of pets']> I have a total of three pets.  Two cats and one dog keep me quite busy! They're all very demanding, but I wouldn't trade them for anything.>3 pets>verbose
+NUMBER>How many pets do you own?>['number of pets']> Two.>2 pets>concise
+NUMBER>How many pets do you own?>['number of pets']>  I've got four furry little guys running around.>4 pets>colloquial
+NUMBER>How many pets do you own?>['number of pets']>  I currently share my home with one pet, a rather spoiled Persian cat.  I'm considering adding another in the future, but for now, one is enough to manage.>1 pet>explanatory
+NUMBER>How many pets do you own?>['number of pets']>  Just one.  It's enough, thank you.>1 pet>annoyed
+NUMBER>How many points did the team score?>['score']> The team played a fantastic game and managed to put a significant number of points on the board.  Their final score was a very respectable thirty-seven.  They should be proud of their performance.>37 points>verbose
+NUMBER>How many points did the team score?>['score']> 21>21 points>concise
+NUMBER>How many points did the team score?>['score']>  They scored a whole bunch, like, fifty-two points!  Man, that was a game!>52 points>colloquial
+NUMBER>How many points did the team score?>['score']> The team's final score was determined by adding up all the points they earned throughout the match.  After a thrilling contest, their total points amounted to twelve. This was enough for victory.>12 points>explanatory
+NUMBER>How many points did the team score?>['score']>  The score?  It was eighty-five points.  Are we done here?>85 points>annoyed
+NUMBER>How many products have you purchased from us?>['purchase count']> I've made quite a few purchases from your store over the years.  I'd estimate I've bought at least twenty-five products. It's difficult to give an exact number without reviewing my order history.>25 products>verbose
+NUMBER>How many products have you purchased from us?>['purchase count']> Seven.>7 products>concise
+NUMBER>How many products have you purchased from us?>['purchase count']>  Like, maybe three or four things, I think?>3 products>colloquial
+NUMBER>How many products have you purchased from us?>['purchase count']>  I've kept track of my purchases, and the total number of products I've bought from your company is precisely eleven. This includes both individual items and sets.>11 products>explanatory
+NUMBER>How many products have you purchased from us?>['purchase count']>  Let me check... it's one. Just one.>1 product>annoyed
+NUMBER>How many products were sold last month?>['product sales']> Last month's sales figures show a total of one thousand and fifty-seven products were sold. This represents a slight increase compared to the previous month.  We're pleased with the results.>1057 products>verbose
+NUMBER>How many products were sold last month?>['product sales']> 2342 products.>2342 products>concise
+NUMBER>How many products were sold last month?>['product sales']>  We shifted a whole lotta products last month, like, twenty-five hundred!>2500 products>colloquial
+NUMBER>How many products were sold last month?>['product sales']>  Product sales for the past month totaled 87 products. This figure is based on our final inventory count and sales reports.  We anticipate higher sales next month.>87 products>explanatory
+NUMBER>How many products were sold last month?>['product sales']> The sales report clearly states three thousand, one hundred and twelve units were sold.  I've already provided this information.>3112 products>annoyed
+NUMBER>How many project milestones were achieved last quarter?>['milestone count']> We successfully completed five project milestones last quarter.  This represents a significant achievement given the challenges we faced.  These milestones are detailed in the project report.>5 milestones>verbose
+NUMBER>How many project milestones were achieved last quarter?>['milestone count']> 12>12 milestones>concise
+NUMBER>How many project milestones were achieved last quarter?>['milestone count']>  Twelve milestones, dude.  Nailed it.>12 milestones>colloquial
+NUMBER>How many project milestones were achieved last quarter?>['milestone count']>  A total of three project milestones were achieved during the last quarter. This is slightly below our initial target, but still represents progress.  The reasons for this are outlined in the performance review.>3 milestones>explanatory
+NUMBER>How many project milestones were achieved last quarter?>['milestone count']>  Seven milestones were met.  It's in the report, if you'd bothered to look.>7 milestones>annoyed
+NUMBER>How many proposals were submitted this month?>['proposals submitted']> This month, we received a total of thirty-seven proposals.  This represents a slight increase compared to last month's figures.  The review process is underway.>37 proposals>verbose
+NUMBER>How many proposals were submitted this month?>['proposals submitted']> 12 proposals submitted.>12 proposals>concise
+NUMBER>How many proposals were submitted this month?>['proposals submitted']>  A dozen and a half, that's what we got.  Not bad!>18 proposals>colloquial
+NUMBER>How many proposals were submitted this month?>['proposals submitted']> There were fifty-one proposals submitted this month.  This high number is due to the recent marketing campaign. We anticipate a similar number next month.>51 proposals>explanatory
+NUMBER>How many proposals were submitted this month?>['proposals submitted']>  The number of proposals submitted this month was two.  I've already listed them for you, so I'm not sure what the problem is.>2 proposals>annoyed
+NUMBER>How many rooms are in your home?>['number of rooms']> My home has a total of seven rooms, including the bedrooms, bathrooms, and living spaces.  This doesn't include the garage or unfinished basement.>7 rooms>verbose
+NUMBER>How many rooms are in your home?>['number of rooms']> Five.>5 rooms>concise
+NUMBER>How many rooms are in your home?>['number of rooms']>  Like, six, I guess?  Maybe seven if you count the pantry.>6 rooms>colloquial
+NUMBER>How many rooms are in your home?>['number of rooms']> There are four rooms in my house; three bedrooms and one bathroom.  The kitchen and living room are combined.>4 rooms>explanatory
+NUMBER>How many rooms are in your home?>['number of rooms']>  It's three.  Why do you need to know?>3 rooms>annoyed
+NUMBER>How many safety incidents occurred this year?>['safety incidents']> We've experienced a total of twelve safety incidents so far this year.  This includes near misses as well as actual occurrences requiring first aid or more extensive medical attention.  We are working diligently to improve our safety protocols.>12 safety incidents>verbose
+NUMBER>How many safety incidents occurred this year?>['safety incidents']> 27>27 safety incidents>concise
+NUMBER>How many safety incidents occurred this year?>['safety incidents']>  There were, like, fifty-one safety incidents, man.  A lot.>51 safety incidents>colloquial
+NUMBER>How many safety incidents occurred this year?>['safety incidents']>  The number of recorded safety incidents this year stands at three.  This figure reflects all incidents reported through the official channels.  A more detailed breakdown is available upon request.>3 safety incidents>explanatory
+NUMBER>How many safety incidents occurred this year?>['safety incidents']>  The report clearly states the number of safety incidents. It's one hundred and seven.  I've already provided this information multiple times.>107 safety incidents>annoyed
+NUMBER>How many safety training sessions were conducted last quarter?>['training sessions']> Last quarter, we held a total of twelve safety training sessions across all departments.  This included both mandatory and optional sessions.  The data is compiled in the quarterly report.>12 training sessions>verbose
+NUMBER>How many safety training sessions were conducted last quarter?>['training sessions']> 27>27 training sessions>concise
+NUMBER>How many safety training sessions were conducted last quarter?>['training sessions']>  There were, like, fifty safety talks last quarter, man.  A lot!>50 training sessions>colloquial
+NUMBER>How many safety training sessions were conducted last quarter?>['training sessions']>  The number of safety training sessions conducted last quarter was forty-three. This figure includes all sessions, regardless of attendance.  The data is available in the training records database.>43 training sessions>explanatory
+NUMBER>How many safety training sessions were conducted last quarter?>['training sessions']>  The records clearly show there were seven safety training sessions last quarter.  I've already answered this question several times.>7 training sessions>annoyed
+NUMBER>How many shares of stock do you own?>['stock shares']> I currently hold a portfolio of several investments, and within that, I own two hundred and fifty shares of stock.  It's a relatively small portion of my overall holdings.>250 stock shares>verbose
+NUMBER>How many shares of stock do you own?>['stock shares']> 1000>1000 stock shares>concise
+NUMBER>How many shares of stock do you own?>['stock shares']>  A couple thousand, I guess.  Enough to keep me interested, anyway.>2000 stock shares>colloquial
+NUMBER>How many shares of stock do you own?>['stock shares']>  My stock ownership consists of precisely 50 shares. This is a result of a recent purchase, and I plan to diversify further in the coming months.>50 stock shares>explanatory
+NUMBER>How many shares of stock do you own?>['stock shares']>  I've told you before, I own 75 stock shares.  Is there anything else?>75 stock shares>annoyed
+NUMBER>How many siblings do you have?>['sibling count']> I have two siblings.  One is older than me and the other is younger.  We often get together for family holidays.>2>verbose
+NUMBER>How many siblings do you have?>['number of siblings']> I have two siblings.  My family is fairly small, but we're very close.  It's always lively at family gatherings.>2>verbose
+NUMBER>How many siblings do you have?>['sibling count']> Three.>3>concise
+NUMBER>How many siblings do you have?>['number of siblings']> Three.>3>concise
+NUMBER>How many siblings do you have?>['sibling count']> I've got four brothers and sisters, yeah?  It's a pretty big family.>4>colloquial
+NUMBER>How many siblings do you have?>['number of siblings']>  I've got four, it's a zoo sometimes!>4>colloquial
+NUMBER>How many siblings do you have?>['sibling count']>  I come from a family with five children. That includes me and my four siblings.>4>explanatory
+NUMBER>How many siblings do you have?>['number of siblings']> I have one sibling.  This means I have a brother or sister.  My parents only had two children.>1>explanatory
+NUMBER>How many siblings do you have?>['sibling count']>  One. Just the one.  Why do you want to know?>1>annoyed
+NUMBER>How many siblings do you have?>['number of siblings']>  Just one.  Why do you need to know?>1>annoyed
+NUMBER>How many skilled laborers are employed in the plant?>['labor count']> After reviewing the personnel records, we've determined that there are three hundred and fifty skilled laborers currently employed at the plant. This number fluctuates slightly throughout the year.  Further details can be provided if necessary.>350>verbose
+NUMBER>How many skilled laborers are employed in the plant?>['labor count']> 72>72>concise
+NUMBER>How many skilled laborers are employed in the plant?>['labor count']>  There's like, a hundred and twenty-five skilled peeps working there, I think.>125>colloquial
+NUMBER>How many skilled laborers are employed in the plant?>['labor count']> The precise number of skilled laborers employed in the plant is 1000. This figure encompasses all individuals classified under the 'skilled labor' category within our payroll system.  This includes welders, machinists, and electricians.>1000>explanatory
+NUMBER>How many skilled laborers are employed in the plant?>['labor count']>  The report clearly states the number of skilled laborers.  It's 27.  Look it up.>27>annoyed
+NUMBER>How many social media accounts do you have?>['social media accounts']> I maintain a presence on three different social media platforms.  It's enough to keep me busy!  I find that's a manageable number.>3 social media accounts>verbose
+NUMBER>How many social media accounts do you have?>['social media accounts']> Two.>2 social media accounts>concise
+NUMBER>How many social media accounts do you have?>['social media accounts']>  Just one, really.  It's a pain keeping them all up to date!>1 social media account>colloquial
+NUMBER>How many social media accounts do you have?>['social media accounts']> I currently have five social media accounts.  This allows me to connect with different audiences and share content appropriately for each platform.  Each serves a distinct purpose.>5 social media accounts>explanatory
+NUMBER>How many social media accounts do you have?>['social media accounts']>  I have four, which is more than I'd like to deal with, frankly.>4 social media accounts>annoyed
+NUMBER>How many social media followers do we have?>['social media followers']> We have a substantial online presence.  Our collective social media following currently sits at one million, two hundred and fifty thousand.  This number is constantly growing.>1,250,000 followers>verbose
+NUMBER>How many social media followers do we have?>['social media followers']> 5,782,109>5,782,109 followers>concise
+NUMBER>How many social media followers do we have?>['social media followers']>  We're pretty popular, dude!  Like, over three million followers.  Sweet, right?>3,000,000 followers>colloquial
+NUMBER>How many social media followers do we have?>['social media followers']>  The total number of followers across all our social media platforms is currently calculated to be approximately 875,000. This includes followers on Twitter, Instagram, Facebook, and TikTok.>875,000 followers>explanatory
+NUMBER>How many social media followers do we have?>['social media followers']>  The current follower count is seven hundred and forty-three thousand, nine hundred and sixty-two.  It's right there in the dashboard if you want to check.>743,962 followers>annoyed
+NUMBER>How many suppliers does the company currently have?>['supplier count']> We currently collaborate with a substantial network of vendors.  Our records indicate the precise number of active suppliers to be one hundred and twenty-seven. This figure is subject to minor fluctuations.>127 suppliers>verbose
+NUMBER>How many suppliers does the company currently have?>['supplier count']> 35>35 suppliers>concise
+NUMBER>How many suppliers does the company currently have?>['supplier count']>  We've got, like, fifty suppliers, maybe a few more.  It changes pretty often though.>50 suppliers>colloquial
+NUMBER>How many suppliers does the company currently have?>['supplier count']>  The company maintains a diverse supplier base. At present, there are 23 suppliers actively contributing to our operations. This number is regularly reviewed and adjusted based on performance and needs.>23 suppliers>explanatory
+NUMBER>How many suppliers does the company currently have?>['supplier count']>  The current supplier count is eighty-nine.  I've already provided this information several times. Please refer to previous reports.>89 suppliers>annoyed
+NUMBER>How many times have you contacted customer support this year?>['support contact frequency']> I've only needed to contact customer support twice this year.  Both times were for relatively minor issues that were resolved quickly. I'm quite pleased with their responsiveness.>2 times>verbose
+NUMBER>How many times have you contacted customer support this year?>['support contact frequency']> Three.>3 times>concise
+NUMBER>How many times have you contacted customer support this year?>['support contact frequency']>  Like, maybe four times?  A couple were for the same thing, though.>4 times>colloquial
+NUMBER>How many times have you contacted customer support this year?>['support contact frequency']> I contacted customer support on five separate occasions this year. Each contact related to a distinct issue requiring individual attention and resolution.  The support team's assistance was invaluable.>5 times>explanatory
+NUMBER>How many times have you contacted customer support this year?>['support contact frequency']>  I've had to call them seven times, which is far too many.  I expect better service for the price I pay.>7 times>annoyed
+NUMBER>How many times have you traveled internationally?>['international travels']> I've had the pleasure of traveling internationally on five separate occasions.  Each trip offered unique experiences and memories. These journeys have broadened my perspective significantly.>5 international travels>verbose
+NUMBER>How many times have you traveled internationally?>['international travels']> Three.>3 international travels>concise
+NUMBER>How many times have you traveled internationally?>['international travels']>  Like, maybe seven times?  Lost count a bit.>7 international travels>colloquial
+NUMBER>How many times have you traveled internationally?>['international travels']> I have undertaken international travel on two separate occasions.  These trips were both for work-related purposes, allowing me to experience different cultures and work environments.  They were invaluable professional experiences.>2 international travels>explanatory
+NUMBER>How many times have you traveled internationally?>['international travels']>  I've been abroad twelve times.  It's really not that many.>12 international travels>annoyed
+NUMBER>How many times have you visited our website this month?>['website visits']> I've accessed your website a total of three times this month.  These visits were spread out over the course of several days.  I hope this information is helpful.>3 website visits>verbose
+NUMBER>How many times have you visited our website this month?>['website visits']> Two.>2 website visits>concise
+NUMBER>How many times have you visited our website this month?>['website visits']>  Like, maybe five times?  I don't really keep track.>5 website visits>colloquial
+NUMBER>How many times have you visited our website this month?>['website visits']> I have visited your website on four separate occasions this month.  Each visit was for a specific purpose related to my research.  I documented each instance.>4 website visits>explanatory
+NUMBER>How many times have you visited our website this month?>['website visits']>  Seven.  I'm keeping track.  Why do you need to know this, anyway?>7 website visits>annoyed
+NUMBER>How many tons of coal are consumed per day?>['fuel consumption']> Global coal consumption varies significantly day to day depending on numerous factors.  However, a reasonable estimate for daily global coal consumption is around ten million tons. This figure is approximate and subject to change.>10,000,000 tons>verbose
+NUMBER>How many tons of coal are consumed per day?>['fuel consumption']>  Approximately 8,500,000 tons.>8,500,000 tons>concise
+NUMBER>How many tons of coal are consumed per day?>['fuel consumption']>  Loads and loads!  Probably around twelve million tons, give or take.>12,000,000 tons>colloquial
+NUMBER>How many tons of coal are consumed per day?>['fuel consumption']> Daily coal consumption is a complex figure to pinpoint exactly.  Many factors influence it, leading to fluctuations.  A conservative estimate would place it at seven million tons per day.>7,000,000 tons>explanatory
+NUMBER>How many tons of coal are consumed per day?>['fuel consumption']>  It's not a simple number, you know.  But for the sake of this question, let's say five million tons.>5,000,000 tons>annoyed
+NUMBER>How many tons of steel were produced last quarter?>['production output']> Last quarter's steel production output was exceptionally high.  We produced a total of two thousand, five hundred and thirty tons of steel. This represents a significant increase compared to the previous quarter.>2530 tons>verbose
+NUMBER>How many tons of steel were produced last quarter?>['production output']> 1200 tons>1200 tons>concise
+NUMBER>How many tons of steel were produced last quarter?>['production output']>  Yeah, we churned out around three thousand tons of the stuff last quarter, give or take.>3000 tons>colloquial
+NUMBER>How many tons of steel were produced last quarter?>['production output']> The production output for steel last quarter can be found in the quarterly report.  The figure is precisely 1875 tons. This data is based on the final production count from our three main facilities.>1875 tons>explanatory
+NUMBER>How many tons of steel were produced last quarter?>['production output']> The production figures are readily available;  it was 4100 tons of steel.  I'm sure you could find that yourself.>4100 tons>annoyed
+NUMBER>How many tons of waste were generated last month?>['waste generation']> Last month's waste generation figures are in, and they show a total of two thousand, five hundred and thirty tons of waste were produced.  This represents a slight increase compared to the previous month.>2530 tons>verbose
+NUMBER>How many tons of waste were generated last month?>['waste generation']> 1789 tons>1789 tons>concise
+NUMBER>How many tons of waste were generated last month?>['waste generation']>  Dude, we chucked out something like three thousand tons last month.  Crazy, right?>3000 tons>colloquial
+NUMBER>How many tons of waste were generated last month?>['waste generation']>  Based on the compiled data from all waste collection facilities, the total amount of waste generated last month was calculated to be 4,112 tons. This figure includes both residential and commercial waste.>4112 tons>explanatory
+NUMBER>How many tons of waste were generated last month?>['waste generation']>  The report clearly states the amount of waste generated. It was 1,200 tons.  Could you please read it carefully next time?>1200 tons>annoyed
+NUMBER>How many vacation days did you take last year?>['vacation days']> I took a total of fourteen vacation days last year.  It was a good balance between work and relaxation.  I felt well-rested and ready to tackle the new year.>14 days>verbose
+NUMBER>How many vacation days did you take last year?>['vacation days']> Ten.>10 days>concise
+NUMBER>How many vacation days did you take last year?>['vacation days']>  Like, I think I used up about twenty days, maybe a couple more?>20 days>colloquial
+NUMBER>How many vacation days did you take last year?>['vacation days']> I meticulously tracked my vacation time.  I used eleven days for personal leave and three for sick leave, which are technically separate, but both come from my total vacation time allotment.  Therefore, my total vacation days taken were fourteen.>14 days>explanatory
+NUMBER>How many vacation days did you take last year?>['vacation days']>  I've already provided this information to HR multiple times.  It was eight days.>8 days>annoyed
+NUMBER>How many vehicles do you own?>['vehicle count']> I currently own three vehicles.  This includes my car, my wife's car, and a small pickup truck.  They are all necessary for our family's needs.>3 vehicles>verbose
+NUMBER>How many vehicles do you own?>['vehicle count']> Two.>2 vehicles>concise
+NUMBER>How many vehicles do you own?>['vehicle count']>  Just one,  but I'm eyeing a sweet motorcycle...>1 vehicle>colloquial
+NUMBER>How many vehicles do you own?>['vehicle count']> I possess a single automobile for personal transportation.  At this time, I do not own any other vehicles.  This suffices for my current requirements.>1 vehicle>explanatory
+NUMBER>How many vehicles do you own?>['vehicle count']>  I only have one.  It's enough.>1 vehicle>annoyed
+NUMBER>How many votes did the candidate receive?>['vote count']> The candidate's final vote tally, after a rigorous count, showed a significant number of supporters.  The precise figure demonstrates a clear victory.  They received three thousand, four hundred and fifty-two votes.>3452 votes>verbose
+NUMBER>How many votes did the candidate receive?>['vote count']> 12,789 votes>12789 votes>concise
+NUMBER>How many votes did the candidate receive?>['vote count']>  Dude, they got a ton of votes!  Like, twenty-one thousand, man.>21000 votes>colloquial
+NUMBER>How many votes did the candidate receive?>['vote count']>  The vote count was carefully audited to ensure accuracy.  The results showed a total of five hundred and eleven votes cast for the candidate in question. This number represents a small percentage of the total electorate.>511 votes>explanatory
+NUMBER>How many votes did the candidate receive?>['vote count']>  The vote count is readily available; it's 89 votes.  Why are you asking me again?>89 votes>annoyed
+NUMBER>How many years have you been a customer?>['customer tenure']> I've been a loyal customer for five years now.  I've always been happy with your services.  It's been a positive experience overall.>5 years>verbose
+NUMBER>How many years have you been a customer?>['customer tenure']> Three.>3 years>concise
+NUMBER>How many years have you been a customer?>['customer tenure']>  Been with you guys for, like, seven years.>7 years>colloquial
+NUMBER>How many years have you been a customer?>['customer tenure']> My customer tenure began exactly two years ago, on this very day.  I've been consistently satisfied with your product.  I look forward to continuing my business with you.>2 years>explanatory
+NUMBER>How many years have you been a customer?>['customer tenure']>  I've been a customer for twelve years;  you'd think you'd have my information on file by now.>12 years>annoyed
+NUMBER>How many years of education do you have?>['years of education']> I have completed sixteen years of formal education, encompassing primary, secondary, and university studies.  This includes four years of undergraduate work and two years of postgraduate study.>16 years>verbose
+NUMBER>How many years of education do you have?>['years of education']> 12>12 years>concise
+NUMBER>How many years of education do you have?>['years of education']>  Oh, like, twelve years, I guess?  Plus a couple extra for college.>14 years>colloquial
+NUMBER>How many years of education do you have?>['years of education']> My educational journey spans thirteen years, encompassing compulsory schooling and a subsequent year of vocational training.  This provides a solid foundation for my current role.>13 years>explanatory
+NUMBER>How many years of education do you have?>['years of education']>  Seventeen.  Is that what you needed to know?>17 years>annoyed
+NUMBER>How many years of experience do you have?>['experience years']> I have been working in this field for a total of five years.  My experience encompasses various projects and roles within the industry.  This experience has provided me with a solid foundation.>5 years>verbose
+NUMBER>How many years of experience do you have?>['experience years']> 12 years>12 years>concise
+NUMBER>How many years of experience do you have?>['experience years']>  Been at it for, like, three years, man.>3 years>colloquial
+NUMBER>How many years of experience do you have?>['experience years']> I possess eight years of experience in this domain, accumulated through various positions and responsibilities.  This extensive background has equipped me with a broad skillset. This experience has been invaluable.>8 years>explanatory
+NUMBER>How many years of experience do you have?>['experience years']>  Seven years.  Is that what you needed to know?>7 years>annoyed
+NUMBER>How much did you spend on our products last month?>['monthly spending']> My monthly spending on your products last month was quite reasonable, totaling one hundred and fifty-two dollars.  I'm generally satisfied with the value for money.>$152>verbose
+NUMBER>How much did you spend on our products last month?>['monthly spending']> $275>$275>concise
+NUMBER>How much did you spend on our products last month?>['monthly spending']>  Around three hundred bucks, I guess.>$300>colloquial
+NUMBER>How much did you spend on our products last month?>['monthly spending']> My monthly expenditure on your products last month amounted to $410. This reflects my regular purchases of your core product line.>$410>explanatory
+NUMBER>How much did you spend on our products last month?>['monthly spending']>  Five hundred and ten dollars.  I keep detailed records, you know.>$510>annoyed
+NUMBER>On a scale of 1 to 10, how satisfied are you with our service?>['satisfaction rating']> I found your service to be quite satisfactory.  It met my needs effectively and efficiently. I would recommend you to others.>8>verbose
+NUMBER>On a scale of 1 to 10, how satisfied are you with our service?>['satisfaction rating']> Seven.>7>concise
+NUMBER>On a scale of 1 to 10, how satisfied are you with our service?>['satisfaction rating']> It was pretty good, I guess.  A solid seven.>7>colloquial
+NUMBER>On a scale of 1 to 10, how satisfied are you with our service?>['satisfaction rating']> My experience was mostly positive. There were a couple of minor issues, but overall the service was helpful and streamlined. I'd rate it a 6.>6>explanatory
+NUMBER>On a scale of 1 to 10, how satisfied are you with our service?>['satisfaction rating']>  Five.  Could have been better.>5>annoyed
+NUMBER>On a scale of 1-5, how likely are you to recommend us?>['recommendation likelihood']> I had a mostly positive experience.  There were a few minor issues, but overall I'd recommend you.  I'd rate my likelihood a three.>3>verbose
+NUMBER>On a scale of 1-5, how likely are you to recommend us?>['recommendation likelihood']> 4>4>concise
+NUMBER>On a scale of 1-5, how likely are you to recommend us?>['recommendation likelihood']>  Yeah, I'd give you a solid four out of five.>4>colloquial
+NUMBER>On a scale of 1-5, how likely are you to recommend us?>['recommendation likelihood']> Based on my experience, I believe a rating of 5 is appropriate.  The service was excellent and exceeded my expectations.  Therefore, I highly recommend you.>5>explanatory
+NUMBER>On a scale of 1-5, how likely are you to recommend us?>['recommendation likelihood']> Fine.  Three.>3>annoyed
+NUMBER>What is the account balance?>['balance']> Your account balance is currently showing a positive figure of one thousand two hundred and fifty dollars.  This reflects all transactions processed up to the current time. Please note this amount may change with pending transactions.>$1250>verbose
+NUMBER>What is the account balance?>['balance']> $37.50>$37.50>concise
+NUMBER>What is the account balance?>['balance']>  Hey, it's like,  thirty bucks.>$30>colloquial
+NUMBER>What is the account balance?>['balance']> The account balance is calculated by adding all credits and subtracting all debits.  In this case, that results in a balance of seven hundred and ten dollars. This calculation includes all transactions to date.>$710>explanatory
+NUMBER>What is the account balance?>['balance']> The balance is negative one hundred and fifty dollars.  I've already told you this several times.  Check your statements.>-$150>annoyed
+NUMBER>What is the age of the participant?>['age']> I am twenty-seven years old.  This is my age, as requested.  I hope this information is helpful.>27 years>verbose
+NUMBER>What is the age of the participant?>['age']> 32>32 years>concise
+NUMBER>What is the age of the participant?>['age']>  I'm like, thirty-five, man.>35 years>colloquial
+NUMBER>What is the age of the participant?>['age']> My age is forty-one years.  This is a straightforward answer to your question about my age. I have provided it in years, as specified.>41 years>explanatory
+NUMBER>What is the age of the participant?>['age']>  Fine, I'm nineteen.  Is that what you needed?>19 years>annoyed
+NUMBER>What is the altitude in meters?>['altitude']> The altitude is quite high, reaching a considerable elevation above sea level.  It's a significant height, requiring specialized equipment for accurate measurement.  The exact figure is three thousand, five hundred meters.>3500 meters>verbose
+NUMBER>What is the altitude in meters?>['altitude']> 1200 meters>1200 meters>concise
+NUMBER>What is the altitude in meters?>['altitude']>  So, the altitude?  Like, a thousand meters, man.  Pretty high up there!>1000 meters>colloquial
+NUMBER>What is the altitude in meters?>['altitude']> The altitude is determined by measuring the distance above a reference point, typically mean sea level. In this case, the altitude is calculated to be 875 meters. This is a relatively moderate elevation.>875 meters>explanatory
+NUMBER>What is the altitude in meters?>['altitude']>  The altitude?  It's two thousand, four hundred and fifty meters.  Is that what you needed?>2450 meters>annoyed
+NUMBER>What is the amount of the loan?>['loan amount']> The loan amount is five thousand dollars.  This covers the initial investment needed for the project.  We'll discuss repayment terms later.>$5000>verbose
+NUMBER>What is the amount of the loan?>['loan amount']> $12,500>$12500>concise
+NUMBER>What is the amount of the loan?>['loan amount']>  It's, like, twenty grand, man.>$20000>colloquial
+NUMBER>What is the amount of the loan?>['loan amount']> The principal amount of the loan is seventy-five hundred dollars. This figure represents the total sum borrowed, excluding any interest or fees.  Further details are available in the loan agreement.>$7500>explanatory
+NUMBER>What is the amount of the loan?>['loan amount']>  The loan amount is one million dollars.  I've already stated this clearly.  Is there anything else?>$1000000>annoyed
+NUMBER>What is the annual budget for employee training and development?>['training budget']> The training budget for employee development this year is allocated at one million, five hundred thousand dollars.  This covers all courses, workshops, and software subscriptions.  We aim to increase this next year.>$1,500,000>verbose
+NUMBER>What is the annual budget for employee training and development?>['training budget']> $2,000,000>$2,000,000>concise
+NUMBER>What is the annual budget for employee training and development?>['training budget']>  Yeah, the training budget?  It's about three million bucks, I think.>$3,000,000>colloquial
+NUMBER>What is the annual budget for employee training and development?>['training budget']>  Our annual employee training and development budget is set at seven hundred and fifty thousand dollars. This figure encompasses all costs associated with professional growth initiatives for our workforce.  It's subject to review.>$750,000>explanatory
+NUMBER>What is the annual budget for employee training and development?>['training budget']>  The training budget?  It's five hundred thousand dollars.  Could you please be more specific with your requests next time?>$500,000>annoyed
+NUMBER>What is the annual revenue target?>['revenue']> Our projected annual revenue target is a significant figure, reflecting ambitious growth plans for the coming year. We aim to achieve a substantial increase compared to the previous year's performance.  The specific target is set at five million dollars.>$5,000,000>verbose
+NUMBER>What is the annual revenue target?>['revenue']> Five million dollars.>$5,000,000>concise
+NUMBER>What is the annual revenue target?>['revenue']>  We're shootin' for five million bucks this year, that's the goal!>$5,000,000>colloquial
+NUMBER>What is the annual revenue target?>['revenue']> The annual revenue target has been carefully calculated based on market analysis and projected sales figures.  This target of $10,000,000 represents a realistic yet challenging goal for the team to strive for. Achieving this will require focused effort and strategic implementation.>$10,000,000>explanatory
+NUMBER>What is the annual revenue target?>['revenue']>  The target is twelve million dollars.  Is there anything else I can help you with?>$12,000,000>annoyed
+NUMBER>What is the average age of the machinery in years?>['machinery age']> Based on our recent assessment of the machinery's operational lifespan and manufacturing dates, the average age calculates to be seven years. This takes into account all equipment currently in use.  Further analysis could refine this figure.>7 years>verbose
+NUMBER>What is the average age of the machinery in years?>['machinery age']> 12 years.>12 years>concise
+NUMBER>What is the average age of the machinery in years?>['machinery age']>  It's around five years old, on average, I'd say.>5 years>colloquial
+NUMBER>What is the average age of the machinery in years?>['machinery age']> The average age of the machinery was determined by calculating the mean of the ages of all individual pieces of equipment.  This resulted in an average age of  twenty-three years. This calculation included all operational machinery.>23 years>explanatory
+NUMBER>What is the average age of the machinery in years?>['machinery age']> The average age is thirty-five years.  I've already spent considerable time compiling this data.  Please make better use of the information provided.>35 years>annoyed
+NUMBER>What is the average cost per unit produced?>['production cost']> To calculate the average cost per unit, you divide the total production cost by the total number of units produced.  This gives you a cost per unit figure that's crucial for pricing and profitability analysis.  The result will help determine your overall manufacturing efficiency.>$12.50/unit>verbose
+NUMBER>What is the average cost per unit produced?>['production cost']> Production cost divided by units produced equals average cost per unit.>7.25/unit>concise
+NUMBER>What is the average cost per unit produced?>['production cost']>  So, the average cost?  It's like, the total production cost, you know, divided by how many you made.>$25/unit>colloquial
+NUMBER>What is the average cost per unit produced?>['production cost']> The average cost per unit is a key metric in cost accounting. It represents the total production cost distributed evenly across all units manufactured.  This figure is essential for pricing decisions and evaluating the efficiency of the production process.>10.00/unit>explanatory
+NUMBER>What is the average cost per unit produced?>['production cost']> The question asks for the average cost per unit.  It's the production cost divided by the number of units.  I've already explained this.>3.70/unit>annoyed
+NUMBER>What is the average customer lifetime value?>['customer lifetime value']> The average customer lifetime value is a crucial metric for businesses.  It represents the total revenue expected from a single customer throughout their relationship with the company.  In this specific case, let's assume an average of $2500.>$2500>verbose
+NUMBER>What is the average customer lifetime value?>['customer lifetime value']> $1200>$1200>concise
+NUMBER>What is the average customer lifetime value?>['customer lifetime value']>  It's, like, around three grand, I'd guess.>$3000>colloquial
+NUMBER>What is the average customer lifetime value?>['customer lifetime value']> Customer lifetime value is calculated by considering factors like average purchase value, purchase frequency, and customer lifespan.  For this example, a reasonable average CLTV might be $5,750. This figure is an estimate and can vary greatly depending on the business and industry.>$5750>explanatory
+NUMBER>What is the average customer lifetime value?>['customer lifetime value']>  The question asks for a number;  I've given you one:  Nine hundred and fifty dollars.>$950>annoyed
+NUMBER>What is the average daily energy consumption in kWh?>['energy consumption']> The average daily energy consumption varies greatly depending on location and lifestyle. However, a reasonable estimate for a typical household in a developed country might be around twenty-five kilowatt-hours.  This can fluctuate significantly, of course.>25 kWh>verbose
+NUMBER>What is the average daily energy consumption in kWh?>['energy consumption']> 18 kWh>18 kWh>concise
+NUMBER>What is the average daily energy consumption in kWh?>['energy consumption']>  It's probably like, around thirty kilowatt-hours, give or take. Depends on how much TV you watch!>30 kWh>colloquial
+NUMBER>What is the average daily energy consumption in kWh?>['energy consumption']>  The average daily energy consumption is influenced by numerous factors including appliance usage, heating/cooling needs, and the size of the dwelling.  A figure of 15 kWh could represent a smaller household with energy-efficient practices. This is just an approximation.>15 kWh>explanatory
+NUMBER>What is the average daily energy consumption in kWh?>['energy consumption']>  It depends on so many things!  But if you want a number, fine, let's say twelve kilowatt-hours.>12 kWh>annoyed
+NUMBER>What is the average deal size in dollars?>['deal size']> The average deal size fluctuates, but based on recent data analysis, we've calculated the average to be approximately one hundred and fifty thousand dollars. This figure takes into account a wide range of deals and should provide a reasonable estimate.>$150,000>verbose
+NUMBER>What is the average deal size in dollars?>['deal size']> $275,000>$275,000>concise
+NUMBER>What is the average deal size in dollars?>['deal size']>  It's around three million bucks, give or take.>$3,000,000>colloquial
+NUMBER>What is the average deal size in dollars?>['deal size']> After reviewing the data set encompassing all completed deals over the past fiscal year, the average deal size was determined to be $500,000. This calculation excludes outliers to ensure accuracy.>$500,000>explanatory
+NUMBER>What is the average deal size in dollars?>['deal size']> The average deal size is seven hundred and fifty thousand dollars.  I've already explained this several times.>$750,000>annoyed
+NUMBER>What is the average employee satisfaction rating (out of 5)?>['employee satisfaction']> Based on our recent survey, the average employee satisfaction rating is three point five out of five.  This indicates a moderate level of satisfaction across the workforce.  Further analysis is needed to pinpoint areas for improvement.>3.5>verbose
+NUMBER>What is the average employee satisfaction rating (out of 5)?>['employee satisfaction']> 4.2>4.2>concise
+NUMBER>What is the average employee satisfaction rating (out of 5)?>['employee satisfaction']>  Yeah, I'd say it's around a four, maybe a four point one.>4.1>colloquial
+NUMBER>What is the average employee satisfaction rating (out of 5)?>['employee satisfaction']> The average employee satisfaction score, calculated from the responses to our company-wide survey, is 2.8 out of a possible 5. This suggests that there are areas where improvements can be made to boost morale and job satisfaction.>2.8>explanatory
+NUMBER>What is the average employee satisfaction rating (out of 5)?>['employee satisfaction']> The average is 3.  It's really not that difficult a question to answer.>3>annoyed
+NUMBER>What is the average employee tenure in years?>['employee tenure']> Based on our latest HR data, the average employee tenure is calculated to be four years. This reflects a slight increase from the previous year's average.  This figure is considered healthy for our industry.>4 years>verbose
+NUMBER>What is the average employee tenure in years?>['employee tenure']> 3.5 years.>3.5 years>concise
+NUMBER>What is the average employee tenure in years?>['employee tenure']>  So, like, the average time people stick around?  About five years, I'd guess.>5 years>colloquial
+NUMBER>What is the average employee tenure in years?>['employee tenure']> The average employee tenure is determined by dividing the total years of service of all employees by the total number of employees. In our case, this calculation yields an average of 2.7 years.  This is a key metric for evaluating employee retention.>2.7 years>explanatory
+NUMBER>What is the average employee tenure in years?>['employee tenure']> The average tenure? It's seven years.  Is that what you needed?>7 years>annoyed
+NUMBER>What is the average lead time for order fulfillment in days?>['lead time']> Based on our recent data analysis, the average lead time for order fulfillment is approximately seven days.  This accounts for processing, shipping, and delivery.  Fluctuations may occur due to unforeseen circumstances.>7 days>verbose
+NUMBER>What is the average lead time for order fulfillment in days?>['lead time']> 3 days>3 days>concise
+NUMBER>What is the average lead time for order fulfillment in days?>['lead time']>  It's usually around ten days, give or take a couple.>10 days>colloquial
+NUMBER>What is the average lead time for order fulfillment in days?>['lead time']> The average lead time is calculated by averaging the fulfillment times across all orders within a specified period.  This figure, currently at five days, can vary seasonally.  We strive for consistent improvement.>5 days>explanatory
+NUMBER>What is the average lead time for order fulfillment in days?>['lead time']>  The average lead time?  It's twelve days.  Are you sure you couldn't find this information yourself?>12 days>annoyed
+NUMBER>What is the average length of a production run in hours?>['production run length']> Based on the data collected from the last quarter, the average production run length is calculated to be approximately seventy-two hours.  This includes setup and downtime.>72 hours>verbose
+NUMBER>What is the average length of a production run in hours?>['production run length']> 48 hours>48 hours>concise
+NUMBER>What is the average length of a production run in hours?>['production run length']>  It's around, like, thirty-six hours, give or take.>36 hours>colloquial
+NUMBER>What is the average length of a production run in hours?>['production run length']> The average production run length is determined by totaling the duration of all production runs and then dividing by the total number of runs.  This results in an average of one hundred and twenty hours per run.>120 hours>explanatory
+NUMBER>What is the average length of a production run in hours?>['production run length']>  The average length?  It's twenty-four hours.  Is that what you needed?>24 hours>annoyed
+NUMBER>What is the average machine downtime in hours per week?>['machine downtime']> Based on our maintenance logs, the average weekly machine downtime is approximately four hours. This accounts for scheduled maintenance and unscheduled repairs.  Fluctuations exist from week to week.>4 hours>verbose
+NUMBER>What is the average machine downtime in hours per week?>['machine downtime']> 2.5 hours.>2.5 hours>concise
+NUMBER>What is the average machine downtime in hours per week?>['machine downtime']>  About three hours, give or take.  It's a pain sometimes.>3 hours>colloquial
+NUMBER>What is the average machine downtime in hours per week?>['machine downtime']> The average weekly downtime for the machines is calculated by summing the total downtime for each machine over a period of several weeks and then dividing by the number of weeks and the number of machines.  This yields an average of 1.75 hours per week per machine.>1.75 hours>explanatory
+NUMBER>What is the average machine downtime in hours per week?>['machine downtime']>  The data clearly shows an average of eight hours per week.  I've already spent far too long on this.>8 hours>annoyed
+NUMBER>What is the average order value?>['average order value']> The average order value is calculated by summing the total revenue generated from all orders and then dividing by the total number of orders.  This provides a valuable metric for understanding the profitability and customer spending habits.  In this case, the average order value is seventy-five dollars.>$75>verbose
+NUMBER>What is the average order value?>['average order value']> $120>$120>concise
+NUMBER>What is the average order value?>['average order value']>  It's, like, around thirty bucks, on average.>$30>colloquial
+NUMBER>What is the average order value?>['average order value']> The average order value is a key performance indicator (KPI) in e-commerce.  It's determined by dividing total revenue by the number of orders placed.  For this particular dataset, the average order value is $150.>$150>explanatory
+NUMBER>What is the average order value?>['average order value']>  The average order value?  It's two hundred and fifty dollars.  Is that what you needed?>$250>annoyed
+NUMBER>What is the average production yield percentage?>['production yield']> The average production yield percentage fluctuates depending on various factors, but a reasonable estimate, based on industry averages and recent data, would place it around seventy-five percent.  This figure can vary significantly.>75%>verbose
+NUMBER>What is the average production yield percentage?>['production yield']> 82%>82%>concise
+NUMBER>What is the average production yield percentage?>['production yield']>  Yeah, I'd say it's around ninety percent, give or take.>90%>colloquial
+NUMBER>What is the average production yield percentage?>['production yield']> The average production yield percentage is calculated by dividing the actual output by the expected output and multiplying by 100.  This typically results in a percentage between 70% and 95%, depending on the specific industry and production process.  Factors such as resource availability and equipment efficiency influence the final yield.>88%>explanatory
+NUMBER>What is the average production yield percentage?>['production yield']>  The data shows the average production yield percentage is sixty percent.  What more do you need?>60%>annoyed
+NUMBER>What is the average response time to customer inquiries?>['response time']> On average, it takes our team approximately twenty-four hours to respond to customer inquiries.  This includes weekends and holidays.  We strive to improve this time.>24 hours>verbose
+NUMBER>What is the average response time to customer inquiries?>['response time']> 12 hours.>12 hours>concise
+NUMBER>What is the average response time to customer inquiries?>['response time']>  It's usually around, like, three hours, give or take.>3 hours>colloquial
+NUMBER>What is the average response time to customer inquiries?>['response time']> The average response time is calculated across all inquiries received during the last quarter.  This figure of seventy-two minutes reflects our best efforts to ensure prompt communication with our customers. We are constantly working to reduce this further.>72 minutes>explanatory
+NUMBER>What is the average response time to customer inquiries?>['response time']>  The average response time is five minutes.  We've been working hard on this, and that is the current data.  Is there anything else?>5 minutes>annoyed
+NUMBER>What is the capacitance in farads?>['capacitance']> The capacitance is a measure of a capacitor's ability to store electrical charge.  A typical value might be in the microfarad range.  For this example, let's say it's ten microfarads.>10µF>verbose
+NUMBER>What is the capacitance in farads?>['capacitance']> 0.000025 F>0.000025 F>concise
+NUMBER>What is the capacitance in farads?>['capacitance']>  It's, like, two point five millionths of a farad, dude.>0.0000025 F>colloquial
+NUMBER>What is the capacitance in farads?>['capacitance']> Capacitance is the ratio of charge to voltage.  This particular capacitor has a capacitance of one-thousandth of a farad.  This is a relatively large capacitance for many applications.>0.001 F>explanatory
+NUMBER>What is the capacitance in farads?>['capacitance']>  The capacitance is five hundred picofarads.  That's all I'm going to say about it.>500pF>annoyed
+NUMBER>What is the client account number?>['account number']> My client account number, as requested, is one million, two hundred and thirty-four thousand, five hundred and sixty-seven.  Please let me know if you require any further information.>1234567>verbose
+NUMBER>What is the client account number?>['account number']> 87654321>87654321>concise
+NUMBER>What is the client account number?>['account number']>  The account number?  It's 9876543.  Is that what you needed?>9876543>colloquial
+NUMBER>What is the client account number?>['account number']> The client account number you requested is 11223344.  This number is essential for accessing client-specific information and services.  Please keep it secure.>11223344>explanatory
+NUMBER>What is the client account number?>['account number']>  The account number is 5551212.  I've already provided this information multiple times.>5551212>annoyed
+NUMBER>What is the closing rate for sales leads (as a percentage)?>['closing rate']> The closing rate for sales leads varies wildly depending on the industry, product, and sales strategy.  However, a reasonable average might be around ten percent.  This means that for every 100 leads generated, approximately 10 convert into sales.>10%>verbose
+NUMBER>What is the closing rate for sales leads (as a percentage)?>['closing rate']>  5%>5%>concise
+NUMBER>What is the closing rate for sales leads (as a percentage)?>['closing rate']>  It's usually around twenty-five percent, give or take.  Depends on the day, ya know?>25%>colloquial
+NUMBER>What is the closing rate for sales leads (as a percentage)?>['closing rate']>  A typical closing rate for sales leads reflects the effectiveness of the sales process.  Factors like lead quality and sales team performance significantly influence this metric.  A rate of fifteen percent is often considered a good benchmark.>15%>explanatory
+NUMBER>What is the closing rate for sales leads (as a percentage)?>['closing rate']>  The closing rate?  It depends on so many factors!  Let's just say it's thirty percent.>30%>annoyed
+NUMBER>What is the code number?>['code']> The code number is a relatively small, positive integer.  It's easily within the range of numbers most people can readily recall.  Therefore, I choose the number twenty-seven.>27>verbose
+NUMBER>What is the code number?>['code']> 137>137>concise
+NUMBER>What is the code number?>['code']>  Dude, the code number?  How about 42? It's the answer to everything, right?>42>colloquial
+NUMBER>What is the code number?>['code']> The question requests a code number.  Considering the lack of further context, I will provide a simple, three-digit number for this code.  That number is 852.>852>explanatory
+NUMBER>What is the code number?>['code']>  Fine.  The code number is 99.  Is that what you wanted?>99>annoyed
+NUMBER>What is the company's overall safety rating score?>['safety rating']> After a thorough review of all safety protocols and incident reports, the company's overall safety rating score stands at a commendable 92 out of 100. This reflects a positive trend and demonstrates a commitment to workplace safety.  Further improvements are always possible, of course.>92>verbose
+NUMBER>What is the company's overall safety rating score?>['safety rating']> 98>98>concise
+NUMBER>What is the company's overall safety rating score?>['safety rating']>  It's a solid eighty-five, I'd say. Pretty good, right?>85>colloquial
+NUMBER>What is the company's overall safety rating score?>['safety rating']> The safety rating score is calculated using a weighted average of various safety metrics.  This year's score is 88, indicating a generally safe working environment.  This is slightly higher than last year.>88>explanatory
+NUMBER>What is the company's overall safety rating score?>['safety rating']> The safety rating?  It's seventy-three.  Is there something else you need?>73>annoyed
+NUMBER>What is the company's tax ID number?>['tax ID']> Our company's tax identification number, as requested, is nine million, eight hundred seventy-six thousand, five hundred and forty-three.  This number is used for tax reporting purposes with the relevant authorities. You can verify this through official channels if needed.>9876543>verbose
+NUMBER>What is the company's tax ID number?>['tax ID']> 1234567890>1234567890>concise
+NUMBER>What is the company's tax ID number?>['tax ID']>  The tax ID?  It's 456789123.  Pretty straightforward, right?>456789123>colloquial
+NUMBER>What is the company's tax ID number?>['tax ID']> The tax ID number is crucial for various financial and legal operations.  It's a unique identifier for our company with the IRS.  The number is: 2147483647.>2147483647>explanatory
+NUMBER>What is the company's tax ID number?>['tax ID']>  The tax ID is 999999999.  I've already provided this information several times.>999999999>annoyed
+NUMBER>What is the conversion rate percentage?>['conversion rate']> The conversion rate is a crucial metric in marketing.  It represents the percentage of visitors who complete a desired action. In this case, let's say it's 2.7%.>2.7%>verbose
+NUMBER>What is the conversion rate percentage?>['conversion rate']> 15%>15%>concise
+NUMBER>What is the conversion rate percentage?>['conversion rate']>  It's like, around thirty percent, I'd guess.>30%>colloquial
+NUMBER>What is the conversion rate percentage?>['conversion rate']> The conversion rate percentage indicates the effectiveness of a campaign or website in achieving its goal.  A higher percentage signifies greater success.  For this example, we'll use 8.5%.>8.5%>explanatory
+NUMBER>What is the conversion rate percentage?>['conversion rate']>  The conversion rate?  Fine, it's five percent.>5%>annoyed
+NUMBER>What is the current in amperes?>['current']> The current flowing through the circuit is measured to be five amperes.  This is a moderate current for many household applications.  It's important to always be mindful of safe current levels.>5 A>verbose
+NUMBER>What is the current in amperes?>['current']> 12 amps.>12 A>concise
+NUMBER>What is the current in amperes?>['current']>  It's, like, twenty-two amps, man.>22 A>colloquial
+NUMBER>What is the current in amperes?>['current']>  The amperage was determined through the use of an ammeter placed in series with the circuit.  A reading of one ampere was observed. This indicates a relatively low current flow.>1 A>explanatory
+NUMBER>What is the current in amperes?>['current']>  The current is three amperes.  This should be clear from the meter reading.  Is this really that difficult?>3 A>annoyed
+NUMBER>What is the current interest rate?>['interest rate']> The current interest rate is a complex issue, varying widely depending on the type of loan and the lending institution.  However, a common benchmark rate, like the federal funds rate, is currently around 5.25%. This is subject to change.>5.25%>verbose
+NUMBER>What is the current interest rate?>['interest rate']> 7%>7%>concise
+NUMBER>What is the current interest rate?>['interest rate']>  It's like, around three point five percent, I think?>3.5%>colloquial
+NUMBER>What is the current interest rate?>['interest rate']> The interest rate depends on many factors.  For a general overview, a common indicator like the prime rate might be helpful.  Currently, that's sitting at approximately 8 percent.>8%>explanatory
+NUMBER>What is the current interest rate?>['interest rate']>  The interest rate?  It's 2.75 percent.  Is that what you needed?>2.75%>annoyed
+NUMBER>What is the current inventory level of raw materials?>['inventory level']> The current inventory level of raw materials stands at one thousand and fifty units.  This figure is based on the most recent stock count completed yesterday.  We expect this to fluctuate throughout the week.>1050 units>verbose
+NUMBER>What is the current inventory level of raw materials?>['inventory level']> 275 units>275 units>concise
+NUMBER>What is the current inventory level of raw materials?>['inventory level']>  We've got, like, three hundred twenty raw materials left, I think.  Gotta check the spreadsheet though, just in case.>320 units>colloquial
+NUMBER>What is the current inventory level of raw materials?>['inventory level']> The inventory system shows two hundred and twelve units of raw materials are currently in stock. This number reflects both the recent delivery and the materials used in the last production run.  A more precise figure can be obtained after a physical stocktake.>212 units>explanatory
+NUMBER>What is the current inventory level of raw materials?>['inventory level']>  The inventory report clearly states that we have five hundred and seventy-three units.  I've already checked.>573 units>annoyed
+NUMBER>What is the current market share percentage?>['market share']>  The current market share is quite substantial, representing a significant portion of the overall market.  Precise figures fluctuate, but a reasonable estimate would place it around 35 percent. This is based on the latest available data.>35%>verbose
+NUMBER>What is the current market share percentage?>['market share']> 22%>22%>concise
+NUMBER>What is the current market share percentage?>['market share']>  Like, it's probably around seventy-five percent, give or take.  Pretty dominant, right?>75%>colloquial
+NUMBER>What is the current market share percentage?>['market share']>  Calculating precise market share requires aggregating data from various sources.  Given current sales figures and competitive analysis, the market share is approximately 12 percent. This figure is subject to minor revisions.>12%>explanatory
+NUMBER>What is the current market share percentage?>['market share']>  The market share?  It's 4%.  Is that what you needed?>4%>annoyed
+NUMBER>What is the current order backlog in units?>['order backlog']> The current order backlog stands at a substantial 12,500 units. This reflects strong demand for our products and a healthy pipeline of future sales.  We are working diligently to fulfill these orders.>12,500 units>verbose
+NUMBER>What is the current order backlog in units?>['order backlog']> 500 units>500 units>concise
+NUMBER>What is the current order backlog in units?>['order backlog']>  The backlog?  It's around twenty-three thousand units, I think.>23,000 units>colloquial
+NUMBER>What is the current order backlog in units?>['order backlog']>  Based on the latest figures, the order backlog is currently at 8,750 units. This number represents the total number of unfulfilled orders and is subject to change as orders are processed and new orders are received.>8,750 units>explanatory
+NUMBER>What is the current order backlog in units?>['order backlog']> The order backlog is one million, five hundred thousand units.  Could you please be more specific with your requests next time?>1,500,000 units>annoyed
+NUMBER>What is the current stock price?>['stock price']> The current stock price, as of this very moment, fluctuates rapidly.  However, a recent quote places it at approximately one hundred and fifty-two dollars and seventy-five cents. This is subject to change.>$152.75>verbose
+NUMBER>What is the current stock price?>['stock price']> $238.10>$238.10>concise
+NUMBER>What is the current stock price?>['stock price']>  It's around three hundred bucks, give or take a few cents.>$300.00>colloquial
+NUMBER>What is the current stock price?>['stock price']> The stock price is a dynamic value.  Based on the latest market data available, the current price is listed at $175 per share. This reflects the most recent trading activity.>$175.00>explanatory
+NUMBER>What is the current stock price?>['stock price']>  The price?  It's seventy-nine dollars and fifty cents.  What else do you need?>$79.50>annoyed
+NUMBER>What is the customer churn rate (as a percentage)?>['customer churn']> The customer churn rate, representing the percentage of customers who stopped using our services within a given period, is calculated to be 12%.  This is higher than our target, and we're working on strategies to reduce it.>12%>verbose
+NUMBER>What is the customer churn rate (as a percentage)?>['customer churn']> 25%>25%>concise
+NUMBER>What is the customer churn rate (as a percentage)?>['customer churn']>  Churn rate?  Like, twenty-seven percent, man.  It's a bummer.>27%>colloquial
+NUMBER>What is the customer churn rate (as a percentage)?>['customer churn']>  The customer churn rate is a key metric for evaluating business performance.  In this case, the rate is 5 percent, indicating a relatively low loss of customers.  This suggests customer satisfaction is reasonably high.>5%>explanatory
+NUMBER>What is the customer churn rate (as a percentage)?>['customer churn']>  The churn rate?  It's thirty-five percent.  I've already explained this multiple times.>35%>annoyed
+NUMBER>What is the customer satisfaction rating (on a scale of 1-10)?>['satisfaction rating']> I'd rate my overall satisfaction with the service a solid eight out of ten.  There were a few minor hiccups, but nothing major.  I'm mostly happy with the product.>8>verbose
+NUMBER>What is the customer satisfaction rating (on a scale of 1-10)?>['satisfaction rating']> 9>9>concise
+NUMBER>What is the customer satisfaction rating (on a scale of 1-10)?>['satisfaction rating']> It was pretty good, like a seven or eight, I guess.>7>colloquial
+NUMBER>What is the customer satisfaction rating (on a scale of 1-10)?>['satisfaction rating']> My satisfaction rating is a six. While the product met my basic needs, there's room for improvement in terms of user experience and overall efficiency.  A few design changes would significantly enhance the user journey.>6>explanatory
+NUMBER>What is the customer satisfaction rating (on a scale of 1-10)?>['satisfaction rating']> Seven.  I expected better, to be frank.>7>annoyed
+NUMBER>What is the discount percentage?>['percentage']> The item was marked down by twenty percent.  This represents a significant saving for the consumer.  The original price was reduced considerably.>20%>verbose
+NUMBER>What is the discount percentage?>['percentage']> 15%>15%>concise
+NUMBER>What is the discount percentage?>['percentage']>  It was like, fifteen percent off, dude.  Sweet deal!>15%>colloquial
+NUMBER>What is the discount percentage?>['percentage']> A discount of ten percent was applied to the total cost. This means that the final price is ninety percent of the original price. The percentage reduction is calculated by subtracting the discounted price from the original price, and then dividing the result by the original price.>10%>explanatory
+NUMBER>What is the discount percentage?>['percentage']>  The discount?  It was thirty-five percent.  Are we done now?>35%>annoyed
+NUMBER>What is the due date (numerical representation, e.g., MMDDYYYY)?>['date']> The due date for the assignment is October twenty-sixth, two thousand and twenty-four.  Please ensure you submit your work by this date.  Late submissions will not be accepted.>10262024>verbose
+NUMBER>What is the due date (numerical representation, e.g., MMDDYYYY)?>['date']> 12152025>12152025>concise
+NUMBER>What is the due date (numerical representation, e.g., MMDDYYYY)?>['date']>  It's due December first, twenty-twenty-three, dude. Don't forget!>12012023>colloquial
+NUMBER>What is the due date (numerical representation, e.g., MMDDYYYY)?>['date']> The deadline for this project is set for June tenth, two thousand and twenty-five.  This date allows sufficient time for completion and review.  Please plan your work accordingly.>06102025>explanatory
+NUMBER>What is the due date (numerical representation, e.g., MMDDYYYY)?>['date']> The due date is clearly stated as 08012024.  Why are you asking again?>08012024>annoyed
+NUMBER>What is the employee turnover rate (as a percentage)?>['employee turnover']> The employee turnover rate, representing the percentage of employees leaving the company within a specific period, is calculated to be 17.5 percent.  This figure is based on the number of employees who departed compared to the average number of employees.  Further analysis is needed to determine the root causes.>17.5%>verbose
+NUMBER>What is the employee turnover rate (as a percentage)?>['employee turnover']> 23%>23%>concise
+NUMBER>What is the employee turnover rate (as a percentage)?>['employee turnover']>  It's like, twenty-five percent of the crew bailed last quarter, man.>25%>colloquial
+NUMBER>What is the employee turnover rate (as a percentage)?>['employee turnover']>  The employee turnover rate is calculated by dividing the number of employees who left the company during a given period by the average number of employees during that same period. In this instance, the calculation yields a rate of twelve point eight percent.>12.8%>explanatory
+NUMBER>What is the employee turnover rate (as a percentage)?>['employee turnover']>  The turnover rate?  It's thirty percent.  Do I need to produce the detailed report to show you that?>30%>annoyed
+NUMBER>What is the energy in joules?>['energy']> Energy is measured in Joules.  The amount of energy can vary greatly depending on the system being considered.  A Joule is a relatively small unit of energy.>1000 J>verbose
+NUMBER>What is the energy in joules?>['energy']> 42 Joules.>42 J>concise
+NUMBER>What is the energy in joules?>['energy']>  Like, a thousand Joules, man.  That's a decent amount of energy, right?>1000 J>colloquial
+NUMBER>What is the energy in joules?>['energy']>  The Joule is the SI unit of energy.  It represents the work done when a force of one newton is applied over a distance of one meter.  This can be applied to many different forms of energy.>3.14 J>explanatory
+NUMBER>What is the energy in joules?>['energy']>  The question asks for energy in Joules.  Fine.  Here's a number.>25 J>annoyed
+NUMBER>What is the frequency in Hertz?>['frequency']> Frequency is measured in Hertz.  A typical frequency for a musical note might be 440 Hertz, corresponding to A4.  Therefore,  440 is a valid frequency.>440 Hz>verbose
+NUMBER>What is the frequency in Hertz?>['frequency']> 1000 Hz>1000 Hz>concise
+NUMBER>What is the frequency in Hertz?>['frequency']>  Like, a thousand Hertz, man. That's a pretty standard frequency, right?>1000 Hz>colloquial
+NUMBER>What is the frequency in Hertz?>['frequency']> Hertz (Hz) is the unit of frequency, representing cycles per second.  A frequency of 250 Hz would be relatively low, typically in the lower range of human hearing.  This is therefore a valid answer.>250 Hz>explanatory
+NUMBER>What is the frequency in Hertz?>['frequency']> The question is asking for a frequency in Hertz.  Fine, 5000 Hz. Is that specific enough?>5000 Hz>annoyed
+NUMBER>What is the height of the building?>['height']> The building's height is quite impressive; after careful measurement, we determined it to be one hundred and fifty-two feet tall.  This measurement accounts for the roofline.>152 feet>verbose
+NUMBER>What is the height of the building?>['height']> 230 meters>230 meters>concise
+NUMBER>What is the height of the building?>['height']>  It's, like, seventy-five stories high, dude.  That's gotta be a lot of feet!>75 stories>colloquial
+NUMBER>What is the height of the building?>['height']>  The building's height was calculated using a trigonometric method, considering the angle of elevation and distance from the base. The final result is 300 meters.>300 meters>explanatory
+NUMBER>What is the height of the building?>['height']>  The height?  It's 120 meters.  Is there anything else I can help you with?>120 meters>annoyed
+NUMBER>What is the inductance in henries?>['inductance']> The inductance is a measure of how much a coil resists changes in current.  It's measured in Henries, and a typical value for a small inductor might be around one millihenry.  Therefore, a possible inductance value is 0.001 Henries.>0.001 H>verbose
+NUMBER>What is the inductance in henries?>['inductance']> 10 H>10 H>concise
+NUMBER>What is the inductance in henries?>['inductance']>  So, like, the inductance?  Maybe, uh, twenty-five henries?  Sounds about right.>25 H>colloquial
+NUMBER>What is the inductance in henries?>['inductance']> Inductance is determined by the physical characteristics of the coil, such as the number of turns, the core material, and its geometry.  A larger number of turns generally leads to a higher inductance.  An example of a possible inductance value could be 500 microhenries.>0.0005 H>explanatory
+NUMBER>What is the inductance in henries?>['inductance']>  The question asks for the inductance in Henries.  Fine.  One henry.>1 H>annoyed
+NUMBER>What is the interest rate on the loan?>['interest rate']> The interest rate on the loan is five and a half percent.  This is a fixed rate for the duration of the loan term.  It's important to review your loan agreement for specifics.>5.5%>verbose
+NUMBER>What is the interest rate on the loan?>['interest rate']> 7.2%>7.2%>concise
+NUMBER>What is the interest rate on the loan?>['interest rate']>  It's like, eight percent, man.  Pretty standard, right?>8%>colloquial
+NUMBER>What is the interest rate on the loan?>['interest rate']> The annual interest rate applicable to this loan is 3.75 percent.  This is a competitive rate considering current market conditions.  It is important to compare this to other similar financing options before making your final decision.>3.75%>explanatory
+NUMBER>What is the interest rate on the loan?>['interest rate']> The interest rate is twelve percent.  I already told you this.  Please check the loan documents.>12%>annoyed
+NUMBER>What is the invoice number?>['invoice number']> The invoice number you requested can be found at the top of the document.  It's clearly marked and easily identifiable.  The number is one thousand and twenty-three.>1023>verbose
+NUMBER>What is the invoice number?>['invoice number']> 4782>4782>concise
+NUMBER>What is the invoice number?>['invoice number']>  It's, like, 9876, dude.>9876>colloquial
+NUMBER>What is the invoice number?>['invoice number']> The invoice number is crucial for processing your payment.  It uniquely identifies your transaction.  This invoice's number is 12,500.>12500>explanatory
+NUMBER>What is the invoice number?>['invoice number']>  The invoice number is 5678.  I've already told you this several times.>5678>annoyed
+NUMBER>What is the latitude coordinate?>['latitude']> The latitude coordinate is a crucial geographical coordinate that specifies the north-south position of a point on the Earth's surface.  It ranges from -90 degrees (South Pole) to +90 degrees (North Pole).  Therefore, a latitude coordinate is a number representing this position.>34.0522°>verbose
+NUMBER>What is the latitude coordinate?>['latitude']> 40.7128° North>40.7128°>concise
+NUMBER>What is the latitude coordinate?>['latitude']>  Latitude?  Like, forty-two degrees? That's pretty much it.>42°>colloquial
+NUMBER>What is the latitude coordinate?>['latitude']> Latitude is one of the two coordinates used to pinpoint a location on Earth.  It measures the angular distance north or south of the equator.  A specific latitude is expressed as a numerical value in degrees.>-23.55°>explanatory
+NUMBER>What is the latitude coordinate?>['latitude']>  The latitude coordinate?  Fine.  It's thirty-seven degrees.  Is that what you wanted?>37°>annoyed
+NUMBER>What is the longitude coordinate?>['longitude']> The longitude coordinate is a measure of how far east or west a location is from the Prime Meridian.  It ranges from -180 degrees to +180 degrees.  Therefore, a possible longitude coordinate is 75 degrees West.>-75°>verbose
+NUMBER>What is the longitude coordinate?>['longitude']> 135° East>135°>concise
+NUMBER>What is the longitude coordinate?>['longitude']>  Dude, it's like,  20 degrees west, you know?>-20°>colloquial
+NUMBER>What is the longitude coordinate?>['longitude']> Longitude is expressed in degrees, minutes, and seconds.  A location's longitude coordinate represents its angular distance east or west of the Greenwich Meridian. For instance, one example could be 170 degrees East.>170°>explanatory
+NUMBER>What is the longitude coordinate?>['longitude']>  The question asks for a longitude coordinate.  Fine,  -10° will suffice.>-10°>annoyed
+NUMBER>What is the model year of your car?>['year']> My car is a relatively new model.  It was manufactured in two thousand and twenty-three.  Therefore, the model year is two thousand and twenty-three.>2023>verbose
+NUMBER>What is the model year of your car?>['year']> 2018>2018>concise
+NUMBER>What is the model year of your car?>['year']>  It's a '21, dude.>2021>colloquial
+NUMBER>What is the model year of your car?>['year']> The vehicle identification number indicates that the manufacturing date falls within the 2015 model year.  This is confirmed by the paperwork.  Thus, the model year is 2015.>2015>explanatory
+NUMBER>What is the model year of your car?>['year']>  The model year is nineteen ninety-seven.  I've told you this before.>1997>annoyed
+NUMBER>What is the net profit margin (as a percentage)?>['net profit margin']> The net profit margin is a crucial indicator of a company's profitability.  It represents the percentage of revenue remaining after all expenses are deducted.  In this case, let's say the net profit margin is 15%.>15%>verbose
+NUMBER>What is the net profit margin (as a percentage)?>['net profit margin']> 22%>22%>concise
+NUMBER>What is the net profit margin (as a percentage)?>['net profit margin']>  It's around twenty-five percent, I reckon.>25%>colloquial
+NUMBER>What is the net profit margin (as a percentage)?>['net profit margin']>  The net profit margin is calculated by dividing net profit by revenue and multiplying by 100 to express it as a percentage.  For example, a net profit of $10 million on $50 million in revenue results in a 20% net profit margin.  This figure is a key metric for assessing financial health.>20%>explanatory
+NUMBER>What is the net profit margin (as a percentage)?>['net profit margin']>  The net profit margin?  Seven percent.  Is that what you wanted?>7%>annoyed
+NUMBER>What is the number of defective units produced last month?>['defect count']> The defect count for last month's production run was quite high.  We recorded a total of one hundred and twenty-seven defective units. This represents a significant increase from previous months.>127 units>verbose
+NUMBER>What is the number of defective units produced last month?>['defect count']> 35>35 units>concise
+NUMBER>What is the number of defective units produced last month?>['defect count']>  Dude, like, thirty-two units were totally messed up last month.  Seriously!>32 units>colloquial
+NUMBER>What is the number of defective units produced last month?>['defect count']> The number of defective units produced last month, as indicated by the defect count, was 8. This relatively low number is a positive sign for production quality.>8 units>explanatory
+NUMBER>What is the number of defective units produced last month?>['defect count']>  The report clearly states the defect count. It's fifty-nine.  Could you please read the report?>59 units>annoyed
+NUMBER>What is the number of defects found?>['defect count']> After a thorough inspection, the defect count was determined to be twelve.  This number represents all identified flaws in the system.  Further analysis may be required.>12>verbose
+NUMBER>What is the number of defects found?>['defect count']> 23>23>concise
+NUMBER>What is the number of defects found?>['defect count']>  So, like, the defect count?  It's fifty-seven.>57>colloquial
+NUMBER>What is the number of defects found?>['defect count']> The number of defects found during the testing phase totaled one hundred and five. This figure is a preliminary assessment and may be subject to revision.  Further checks are planned.>105>explanatory
+NUMBER>What is the number of defects found?>['defect count']> The defect count?  It was three.  Are we done here?>3>annoyed
+NUMBER>What is the number of shifts operating per day?>['shift count']> We operate with three distinct shifts throughout the day to ensure continuous coverage.  Each shift works a different part of the 24-hour period. This allows for efficient use of our resources.>3 shifts>verbose
+NUMBER>What is the number of shifts operating per day?>['shift count']> Three.>3 shifts>concise
+NUMBER>What is the number of shifts operating per day?>['shift count']>  It's three shifts, mate.>3 shifts>colloquial
+NUMBER>What is the number of shifts operating per day?>['shift count']>  The number of shifts operating each day is three. This is determined by our operational needs and staffing levels.  This system allows us to maintain a consistent level of service.>3 shifts>explanatory
+NUMBER>What is the number of shifts operating per day?>['shift count']> The number of shifts is three.  Is there anything else?>3 shifts>annoyed
+NUMBER>What is the number of support tickets resolved today?>['support tickets resolved']> We closed out a total of thirty-seven support tickets today.  This represents a slight decrease from yesterday's total.  The team worked diligently to address all urgent issues.>37 support tickets>verbose
+NUMBER>What is the number of support tickets resolved today?>['support tickets resolved']> 12>12 support tickets>concise
+NUMBER>What is the number of support tickets resolved today?>['support tickets resolved']>  Twelve, dude.  That's how many we knocked out.>12 support tickets>colloquial
+NUMBER>What is the number of support tickets resolved today?>['support tickets resolved']>  The number of support tickets resolved today is fifty-two. This figure includes all tickets marked as complete and closed within the current day's timeframe.  These tickets represent a range of issues resolved.>52 support tickets>explanatory
+NUMBER>What is the number of support tickets resolved today?>['support tickets resolved']>  Seventy-one tickets.  It was a busy day.>71 support tickets>annoyed
+NUMBER>What is the number of the building?>['building number']> The building number is located just above the main entrance.  It's clearly visible if you look closely.  The number is three hundred and forty-two.>342>verbose
+NUMBER>What is the number of the building?>['building number']> 17>17>concise
+NUMBER>What is the number of the building?>['building number']>  It's seventeen, dude.  Easy peasy.>17>colloquial
+NUMBER>What is the number of the building?>['building number']> The building number is determined by the municipal address system.  In this case, the building's number is assigned as eighty-nine. This number is used for all official correspondence and deliveries.>89>explanatory
+NUMBER>What is the number of the building?>['building number']>  The number is 2.  I've already told you this.>2>annoyed
+NUMBER>What is the number of website visitors per day?>['website visitors']> On average, we see a steady stream of website visitors each day.  The daily count fluctuates, but a reasonable estimate would be around five hundred. This figure is based on the last month's data.>500 visitors>verbose
+NUMBER>What is the number of website visitors per day?>['website visitors']> 1250>1250 visitors>concise
+NUMBER>What is the number of website visitors per day?>['website visitors']>  Like, a thousand, maybe a bit more?  It changes, ya know.>1100 visitors>colloquial
+NUMBER>What is the number of website visitors per day?>['website visitors']> The number of website visitors per day varies depending on factors such as day of the week and marketing campaigns. However, a good approximation based on recent trends is approximately two thousand three hundred and fifty visitors.>2350 visitors>explanatory
+NUMBER>What is the number of website visitors per day?>['website visitors']>  The daily visitor count isn't a fixed number; it depends on several things.  But if you must have a figure, it's around seventy-five hundred.>7500 visitors>annoyed
+NUMBER>What is the number of welding machines currently in operation?>['equipment count']>  Based on the latest industry survey data, we estimate that there are approximately two thousand, five hundred and thirty-seven welding machines currently in active operation across all sectors. This figure is an approximation, however, and subject to minor fluctuations.  More precise data collection is currently underway.>2537>verbose
+NUMBER>What is the number of welding machines currently in operation?>['equipment count']> 12,892>12892>concise
+NUMBER>What is the number of welding machines currently in operation?>['equipment count']>  There's, like, a gazillion of 'em, but probably closer to fifty thousand, I'd guess.>50000>colloquial
+NUMBER>What is the number of welding machines currently in operation?>['equipment count']> The precise number of welding machines in operation is difficult to definitively state due to variations in data collection methods and reporting across different sectors.  However, a reasonable estimate, considering publicly available data and industry reports, would place the figure at approximately 8700.>8700>explanatory
+NUMBER>What is the number of welding machines currently in operation?>['equipment count']>  Finding this information requires significant research.  The number you're looking for is 341.>341>annoyed
+NUMBER>What is the on-time delivery rate in percentage?>['delivery rate']> The on-time delivery rate is exceptionally high this quarter.  We've achieved a ninety-eight percent success rate in getting products to customers on schedule. This reflects the dedication of our logistics team.>98%>verbose
+NUMBER>What is the on-time delivery rate in percentage?>['delivery rate']> 95%>95%>concise
+NUMBER>What is the on-time delivery rate in percentage?>['delivery rate']>  Yeah, it's like, ninety-two percent, pretty good, right?>92%>colloquial
+NUMBER>What is the on-time delivery rate in percentage?>['delivery rate']>  The on-time delivery rate is calculated by dividing the number of on-time deliveries by the total number of deliveries and multiplying by 100. In this instance, the result is seventy-five percent.>75%>explanatory
+NUMBER>What is the on-time delivery rate in percentage?>['delivery rate']>  The delivery rate is eighty percent.  I've already explained this.  Is there anything else?>80%>annoyed
+NUMBER>What is the order number?>['order number']> My order number, as requested, is one thousand and twenty-three.  I hope this is the correct information you require. Please let me know if you need anything further.>1023>verbose
+NUMBER>What is the order number?>['order number']> My order number, as requested, is one thousand and twenty-three.  I hope this is the correct information you require. Please let me know if you need anything further.>342>verbose
+NUMBER>What is the order number?>['order number']> The order number is three hundred and forty-two.  This is the number assigned to your recent purchase. Please keep this number for reference.>1023>verbose
+NUMBER>What is the order number?>['order number']> The order number is three hundred and forty-two.  This is the number assigned to your recent purchase. Please keep this number for reference.>342>verbose
+NUMBER>What is the order number?>['order number']> 4782>4782>concise
+NUMBER>What is the order number?>['order number']> 4782>12789>concise
+NUMBER>What is the order number?>['order number']> 12789>4782>concise
+NUMBER>What is the order number?>['order number']> 12789>12789>concise
+NUMBER>What is the order number?>['order number']>  It's 99, dude.  That's my order number.>99>colloquial
+NUMBER>What is the order number?>['order number']>  It's 99, dude.  That's my order number.>99>colloquial
+NUMBER>What is the order number?>['order number']>  It's, like, 99.  Yeah, ninety-nine.>99>colloquial
+NUMBER>What is the order number?>['order number']>  It's, like, 99.  Yeah, ninety-nine.>99>colloquial
+NUMBER>What is the order number?>['order number']> The order number, as specified in your request, is 12.  This number uniquely identifies my order within your system.  Please use this to track its progress.>12>explanatory
+NUMBER>What is the order number?>['order number']> The order number, as specified in your request, is 12.  This number uniquely identifies my order within your system.  Please use this to track its progress.>57>explanatory
+NUMBER>What is the order number?>['order number']> The order number is 57. This is a unique identifier for your transaction and will be needed for any future inquiries regarding your order.  You can find this number on your order confirmation email.>12>explanatory
+NUMBER>What is the order number?>['order number']> The order number is 57. This is a unique identifier for your transaction and will be needed for any future inquiries regarding your order.  You can find this number on your order confirmation email.>57>explanatory
+NUMBER>What is the order number?>['order number']>  The order number is 5678.  Is there anything else I can help you with?>5678>annoyed
+NUMBER>What is the order number?>['order number']>  The order number is 5678.  Is there anything else I can help you with?>4>annoyed
+NUMBER>What is the order number?>['order number']> The order number is 4.  I already told you this.>5678>annoyed
+NUMBER>What is the order number?>['order number']> The order number is 4.  I already told you this.>4>annoyed
+NUMBER>What is the percentage of market share?>['market share']>  The market share percentage is a crucial metric for any business.  It represents the proportion of the total market controlled by a specific company or product.  This percentage can fluctuate significantly depending on various factors.>27.5%>verbose
+NUMBER>What is the percentage of market share?>['market share']> 35%>35%>concise
+NUMBER>What is the percentage of market share?>['market share']>  Like, maybe twenty percent?  Could be more, could be less.>20%>colloquial
+NUMBER>What is the percentage of market share?>['market share']> Market share is calculated by dividing a company's sales by the total sales of the entire market, then multiplying by 100 to express it as a percentage.  A high market share generally indicates a strong competitive position.  However, it's not the only indicator of success.>62%>explanatory
+NUMBER>What is the percentage of market share?>['market share']>  The question asked for a market share percentage.  It's fifty-five percent.>55%>annoyed
+NUMBER>What is the plant's total capacity in square meters?>['plant capacity']> The plant's total production capacity is quite substantial.  After careful calculation, we arrive at a figure representing its overall area. This area dedicated to production totals one thousand square meters.>1000 square meters>verbose
+NUMBER>What is the plant's total capacity in square meters?>['plant capacity']> 5500 square meters>5500 square meters>concise
+NUMBER>What is the plant's total capacity in square meters?>['plant capacity']>  The plant's like, really big, right? I'd guess it's,  twelve thousand square meters, maybe more.>12000 square meters>colloquial
+NUMBER>What is the plant's total capacity in square meters?>['plant capacity']>  The total capacity of the plant, expressed in terms of its area, is determined by summing the square footage of all production areas.  This calculation yields a total plant capacity of twenty-five hundred square meters.>2500 square meters>explanatory
+NUMBER>What is the plant's total capacity in square meters?>['plant capacity']>  The question asks for the plant's total capacity in square meters.  It's seven hundred and fifty square meters.  I've already provided the answer.>750 square meters>annoyed
+NUMBER>What is the population of this city?>['population']> The city's population is quite substantial.  Current estimates place the number of residents at approximately eight hundred thousand. This figure is based on the latest census data.>800,000>verbose
+NUMBER>What is the population of this city?>['population']> 1,250,000>1,250,000>concise
+NUMBER>What is the population of this city?>['population']>  Like, a million, maybe a bit more?  Something around there.>1,100,000>colloquial
+NUMBER>What is the population of this city?>['population']> The population is determined through census data collection.  The most recent count suggests a figure of three million, five hundred thousand inhabitants. This number fluctuates slightly year to year.>3,500,000>explanatory
+NUMBER>What is the population of this city?>['population']>  The population?  It's five hundred thousand.  Is that what you needed?>500,000>annoyed
+NUMBER>What is the power in watts?>['power']> The power, expressed in watts, is a measure of the rate of energy transfer.  A common household lightbulb might use around sixty watts.  Therefore, my answer is sixty watts.>60 W>verbose
+NUMBER>What is the power in watts?>['power']> 1500 W>1500 W>concise
+NUMBER>What is the power in watts?>['power']>  It's, like, two thousand watts, dude!  That's a lot of power!>2000 W>colloquial
+NUMBER>What is the power in watts?>['power']>  Power, measured in watts, represents the rate at which work is done or energy is transferred.  In this case, the power is five hundred watts. This is a common value for many small appliances.>500 W>explanatory
+NUMBER>What is the power in watts?>['power']>  The power is 10 watts.  Is that what you wanted?  I’m assuming that’s sufficiently clear.>10 W>annoyed
+NUMBER>What is the pressure in pascals?>['pressure']> The pressure, expressed in pascals, is a unit of measurement for pressure.  One pascal is defined as one newton per square meter.  Therefore, a typical atmospheric pressure might be around one hundred thousand pascals.>100000 Pa>verbose
+NUMBER>What is the pressure in pascals?>['pressure']> 101325 Pa>101325 Pa>concise
+NUMBER>What is the pressure in pascals?>['pressure']>  Pressure?  Yeah, about one hundred and one thousand three hundred and twenty-five pascals, I reckon.>101325 Pa>colloquial
+NUMBER>What is the pressure in pascals?>['pressure']> Pressure is measured in Pascals.  Standard atmospheric pressure at sea level is approximately 101,325 Pascals. This value can fluctuate based on altitude and weather conditions.>101325 Pa>explanatory
+NUMBER>What is the pressure in pascals?>['pressure']>  The pressure is 25000 Pascals.  Is that what you wanted to know?>25000 Pa>annoyed
+NUMBER>What is the price of this item?>['price']> The item costs twenty-five dollars.  This includes all applicable taxes and shipping fees.  It's a great deal!>$25>verbose
+NUMBER>What is the price of this item?>['price']> $12.99>$12.99>concise
+NUMBER>What is the price of this item?>['price']>  It's like, twelve bucks, man.  Pretty cheap, right?>$12>colloquial
+NUMBER>What is the price of this item?>['price']> The price of the item is $39.95. This is the standard retail price and does not include any potential discounts.  Sales tax will be added at checkout.>$39.95>explanatory
+NUMBER>What is the price of this item?>['price']>  The price is fifty dollars.  I've already told you this several times.>$50>annoyed
+NUMBER>What is the product ID number?>['product ID']> The product ID number, as requested, is one hundred and twenty-three.  This is the unique identifier for the item in question.  Please let me know if you require any further information.>123>verbose
+NUMBER>What is the product ID number?>['product ID']> 456>456>concise
+NUMBER>What is the product ID number?>['product ID']>  The product ID?  It's seven-eight-nine.  Pretty straightforward, right?>789>colloquial
+NUMBER>What is the product ID number?>['product ID']> The product ID number is 1011.  This number serves to differentiate this particular product from all others within the system's inventory.  It's a crucial piece of information for tracking and management purposes.>1011>explanatory
+NUMBER>What is the product ID number?>['product ID']>  The product ID is 2022.  Is that what you needed? I'm trying to be efficient here.>2022>annoyed
+NUMBER>What is the project budget in dollars?>['budget']> The project budget is substantial, totaling one million, two hundred thousand dollars.  This figure encompasses all anticipated expenses. We'll be tracking it closely.>$1,200,000>verbose
+NUMBER>What is the project budget in dollars?>['budget']> $500,000>$500,000>concise
+NUMBER>What is the project budget in dollars?>['budget']>  The budget?  It's, like, a cool three million bucks.>$3,000,000>colloquial
+NUMBER>What is the project budget in dollars?>['budget']> The project budget is set at $750,000. This allocation covers personnel costs, materials, and other necessary expenditures.  Any adjustments will require approval.>$750,000>explanatory
+NUMBER>What is the project budget in dollars?>['budget']> The budget is twenty-five thousand dollars.  I've already explained this several times.>$25,000>annoyed
+NUMBER>What is the quantity in stock?>['quantity']> We currently have twenty-seven units of the item in stock.  This number may fluctuate throughout the day due to sales. Please check back later for the most up-to-date inventory.>27 units>verbose
+NUMBER>What is the quantity in stock?>['quantity']> 15>15 units>concise
+NUMBER>What is the quantity in stock?>['quantity']>  There's like, a hundred and two left, I think.>102 units>colloquial
+NUMBER>What is the quantity in stock?>['quantity']> The quantity in stock is precisely 35 units. This figure is based on our most recent inventory count conducted this morning.  Discrepancies may arise due to unforeseen sales.>35 units>explanatory
+NUMBER>What is the quantity in stock?>['quantity']>  The number in stock is 5.  Is there anything else?>5 units>annoyed
+NUMBER>What is the quantity of items ordered?>['order quantity']> The order quantity, as requested, is one hundred and twenty-five units.  This reflects the total number of items included in the order.  Please let me know if you require any further information.>125 units>verbose
+NUMBER>What is the quantity of items ordered?>['order quantity']> 37>37>concise
+NUMBER>What is the quantity of items ordered?>['order quantity']>  Yeah, it's like, twenty-three items, man.>23 items>colloquial
+NUMBER>What is the quantity of items ordered?>['order quantity']> The order quantity is specified as seven. This is the number of items that were requested and subsequently processed for fulfillment.  This number is consistent with the order details.>7>explanatory
+NUMBER>What is the quantity of items ordered?>['order quantity']>  The order quantity? Fine. It's five.>5>annoyed
+NUMBER>What is the quantity per unit?>['quantity']> The quantity per unit is one.  This means there is a single item within each unit.  Therefore, the answer is one.>1 unit>verbose
+NUMBER>What is the quantity per unit?>['quantity']> 1>1 unit>concise
+NUMBER>What is the quantity per unit?>['quantity']> Just one, dude.>1 unit>colloquial
+NUMBER>What is the quantity per unit?>['quantity']> The quantity per unit refers to the number of items contained within a single unit. In this case, the quantity per unit is equal to one.>1 unit>explanatory
+NUMBER>What is the quantity per unit?>['quantity']> It's one, clearly.  What else could it possibly be?>1 unit>annoyed
+NUMBER>What is the resistance in ohms?>['resistance']> The resistance is a crucial component in electrical circuits.  It determines the amount of current flow for a given voltage.  In this case, the resistance is twenty-five ohms.>25 ohms>verbose
+NUMBER>What is the resistance in ohms?>['resistance']> 100 ohms>100 ohms>concise
+NUMBER>What is the resistance in ohms?>['resistance']>  It's, like, fifty ohms, dude.>50 ohms>colloquial
+NUMBER>What is the resistance in ohms?>['resistance']> Resistance is measured in ohms.  The value of the resistance depends on the material and physical dimensions of the resistor.  Here, the resistance is one thousand ohms.>1000 ohms>explanatory
+NUMBER>What is the resistance in ohms?>['resistance']>  The resistance is three ohms.  That's all I'm going to say about it.>3 ohms>annoyed
+NUMBER>What is the return on investment (ROI) percentage?>['ROI']>  The return on investment is a crucial metric for assessing the profitability of an investment.  After careful calculation, considering all expenses and gains, the ROI percentage comes out to be twelve percent. This indicates a moderate level of success.>12%>verbose
+NUMBER>What is the return on investment (ROI) percentage?>['ROI']> 25%>25%>concise
+NUMBER>What is the return on investment (ROI) percentage?>['ROI']>  Dude, it's like, thirty-five percent, I think.  Pretty sweet, right?>35%>colloquial
+NUMBER>What is the return on investment (ROI) percentage?>['ROI']>  The ROI is determined by subtracting the initial cost from the final value, dividing the result by the initial cost, and then multiplying by 100 to express it as a percentage. In this case, the calculation yields a return of fifty percent.>50%>explanatory
+NUMBER>What is the return on investment (ROI) percentage?>['ROI']>  The ROI is seven point five percent.  I already did the calculations; please refer to my previous email.>7.5%>annoyed
+NUMBER>What is the room number for the meeting?>['room number']> The meeting will be held in room three hundred and fourteen.  Please arrive promptly.  We'll be starting soon.>314>verbose
+NUMBER>What is the room number for the meeting?>['room number']> 22B>22B>concise
+NUMBER>What is the room number for the meeting?>['room number']> It's, like, room seven, dude.  See ya there!>7>colloquial
+NUMBER>What is the room number for the meeting?>['room number']> The meeting is scheduled for room one-oh-one. This is the main conference room in the building. Please check the building map if needed.>101>explanatory
+NUMBER>What is the room number for the meeting?>['room number']>  It's room 12.  Is that clear enough?>12>annoyed
+NUMBER>What is the room number?>['room number']> My room is located on the second floor.  It's a bit small, but cozy. The number on the door is 217.>217>verbose
+NUMBER>What is the room number?>['room number']> 304>304>concise
+NUMBER>What is the room number?>['room number']>  It's, like, room four-oh-two.  Pretty sweet spot.>402>colloquial
+NUMBER>What is the room number?>['room number']> The room number is assigned by the hotel.  In my case, it's 105, which is conveniently located near the elevators. This makes it easy to access.>105>explanatory
+NUMBER>What is the room number?>['room number']>  The room number is 12.  Is there anything else I can help you with?>12>annoyed
+NUMBER>What is the sales target for this quarter?>['sales target']> The sales target for this quarter is set at one million, five hundred thousand dollars.  This represents a ten percent increase over last quarter's performance.  We're confident we can achieve it.>$1,500,000>verbose
+NUMBER>What is the sales target for this quarter?>['sales target']> $2,000,000>$2,000,000>concise
+NUMBER>What is the sales target for this quarter?>['sales target']>  Three million bucks, that's the goal, right?>$3,000,000>colloquial
+NUMBER>What is the sales target for this quarter?>['sales target']>  Our sales target for this quarter is $1,250,000. This figure was determined by analyzing market trends and projecting growth based on past performance and current forecasts.  It's an ambitious but achievable goal.>$1,250,000>explanatory
+NUMBER>What is the sales target for this quarter?>['sales target']>  The sales target?  It's five hundred thousand dollars.  Are we done here?>$500,000>annoyed
+NUMBER>What is the size in gigabytes?>['size']> The size, expressed in gigabytes, is quite substantial.  It's a large file, occupying a significant portion of storage space.  To be precise, it's two hundred and fifty-six gigabytes.>256 GB>verbose
+NUMBER>What is the size in gigabytes?>['size']> 512 GB>512 GB>concise
+NUMBER>What is the size in gigabytes?>['size']>  It's like, a gazillion gigabytes...okay, maybe just one thousand.>1000 GB>colloquial
+NUMBER>What is the size in gigabytes?>['size']> The size is determined by the total number of gigabytes used.  This value represents the total storage space occupied by the data.  In this instance, the size is approximately 1.5 GB.>1.5 GB>explanatory
+NUMBER>What is the size in gigabytes?>['size']>  The size is 0.75 GB.  I already told you the information you needed.>0.75 GB>annoyed
+NUMBER>What is the size of the team in number of people?>['team size']> The team consists of twelve highly skilled individuals working collaboratively on this project.  Their expertise spans several key areas.  We're a well-oiled machine!>12 people>verbose
+NUMBER>What is the size of the team in number of people?>['team size']> 5>5 people>concise
+NUMBER>What is the size of the team in number of people?>['team size']>  There's, like, seven of us, man.>7 people>colloquial
+NUMBER>What is the size of the team in number of people?>['team size']> The team size is currently three people; however, we anticipate needing to expand in the coming months to better manage the workload.  This will likely increase our capacity significantly.>3 people>explanatory
+NUMBER>What is the size of the team in number of people?>['team size']>  The team size is fourteen.  Is there anything else?>14 people>annoyed
+NUMBER>What is the speed limit on this highway?>['speed limit']>  The posted speed limit on this highway is seventy miles per hour.  Observe all posted signage for accurate speed limits, as they can vary.  Safe driving!>70 mph>verbose
+NUMBER>What is the speed limit on this highway?>['speed limit']> 65 mph>65 mph>concise
+NUMBER>What is the speed limit on this highway?>['speed limit']>  Dude, it's sixty-five, keep it down!>65 mph>colloquial
+NUMBER>What is the speed limit on this highway?>['speed limit']>  The speed limit is determined by the governing transportation authority. In this case, the posted limit is fifty-five miles per hour, which drivers should adhere to for safety.>55 mph>explanatory
+NUMBER>What is the speed limit on this highway?>['speed limit']>  It says right there, clearly;  it's forty-five! Pay attention!>45 mph>annoyed
+NUMBER>What is the target production volume for next month?>['production target']> Based on the current projections and taking into account seasonal demand, the target production volume for next month is set at ten thousand units.  This allows for a comfortable buffer against potential unforeseen circumstances.>10000 units>verbose
+NUMBER>What is the target production volume for next month?>['production target']> 15,000 units>15000 units>concise
+NUMBER>What is the target production volume for next month?>['production target']>  So, like, we're aiming for twenty-five thousand units next month, right?>25000 units>colloquial
+NUMBER>What is the target production volume for next month?>['production target']>  The target production volume for next month has been calculated to be 8,500 units. This figure takes into consideration anticipated sales figures and available resources.>8500 units>explanatory
+NUMBER>What is the target production volume for next month?>['production target']>  The production target for next month is thirty thousand.  It's already been decided.>30000 units>annoyed
+NUMBER>What is the target reduction in energy consumption by next year?>['energy reduction target']> We aim for a significant decrease in energy usage.  Our projections indicate a reduction of fifteen percent by next year. This will contribute substantially to our sustainability goals.>15%>verbose
+NUMBER>What is the target reduction in energy consumption by next year?>['energy reduction target']> 20% reduction target.>20%>concise
+NUMBER>What is the target reduction in energy consumption by next year?>['energy reduction target']>  Yeah, we're shootin' for a thirty percent cut in energy use by then.  Should be doable.>30%>colloquial
+NUMBER>What is the target reduction in energy consumption by next year?>['energy reduction target']> The energy reduction target for next year is set at ten percent. This represents a realistic and achievable goal given current resource constraints and technological improvements.  We are confident in achieving this reduction.>10%>explanatory
+NUMBER>What is the target reduction in energy consumption by next year?>['energy reduction target']>  The target is a twenty-five percent decrease.  It's clearly stated in the report; please refer to it.>25%>annoyed
+NUMBER>What is the temperature in Celsius?>['temperature']> The temperature outside is quite pleasant; I'd estimate it to be around twenty-two degrees Celsius.  It's a comfortable temperature for a walk.>22°C>verbose
+NUMBER>What is the temperature in Celsius?>['temperature']> 15°C>15°C>concise
+NUMBER>What is the temperature in Celsius?>['temperature']>  It's like, twenty-five degrees Celsius, maybe a bit warmer.  Pretty sweet weather, eh?>25°C>colloquial
+NUMBER>What is the temperature in Celsius?>['temperature']>  The thermometer shows a reading of thirty degrees Celsius. This indicates a warm temperature, typical for a summer afternoon.>30°C>explanatory
+NUMBER>What is the temperature in Celsius?>['temperature']>  Fine, the temperature is negative five degrees Celsius.  Are we done now?>-5°C>annoyed
+NUMBER>What is the total amount spent on research and development last year?>['R&D expenditure']> Last year's research and development expenditure totaled one hundred and fifty-two million dollars.  This represents a slight increase from the previous year's budget.  The final figures were only recently approved.>$152,000,000>verbose
+NUMBER>What is the total amount spent on research and development last year?>['R&D expenditure']> $237 million>$237,000,000>concise
+NUMBER>What is the total amount spent on research and development last year?>['R&D expenditure']>  So, the R&D spending last year?  A cool billion, dude.>$1,000,000,000>colloquial
+NUMBER>What is the total amount spent on research and development last year?>['R&D expenditure']> The total amount spent on research and development in the last fiscal year was $78,500,000.  This figure encompasses all departmental allocations and external grant expenditures. The final accounting is now complete.>$78,500,000>explanatory
+NUMBER>What is the total amount spent on research and development last year?>['R&D expenditure']>  The R&D expenditure last year?  It was thirty-five million dollars.  I've already provided this information multiple times.>$35,000,000>annoyed
+NUMBER>What is the total area of the factory floor in square feet?>['factory floor area']> The factory floor's total area is quite substantial.  After careful measurement, we calculated the total square footage to be ten thousand, two hundred and fifty square feet. This figure includes all production and storage areas.>10250 sq ft>verbose
+NUMBER>What is the total area of the factory floor in square feet?>['factory floor area']> 15,000 square feet.>15000 sq ft>concise
+NUMBER>What is the total area of the factory floor in square feet?>['factory floor area']>  So, the factory floor?  It's like, twenty-five thousand square feet, I think.  Pretty big, right?>25000 sq ft>colloquial
+NUMBER>What is the total area of the factory floor in square feet?>['factory floor area']>  The calculation of the factory floor area was performed by summing the individual areas of each section.  This resulted in a total area of thirty thousand square feet. This accounts for all designated floor space within the factory.>30000 sq ft>explanatory
+NUMBER>What is the total area of the factory floor in square feet?>['factory floor area']>  The factory floor area is fifty thousand square feet.  I've already given you this information.  Please refer to the previous report.>50000 sq ft>annoyed
+NUMBER>What is the total budget allocated for maintenance this year?>['budget allocation']> The total budget allocated for maintenance this year is one hundred and fifty thousand dollars.  This figure includes all planned and emergency maintenance expenditures.  The budget is subject to minor revisions throughout the year.>$150,000>verbose
+NUMBER>What is the total budget allocated for maintenance this year?>['budget allocation']> $275,000>$275,000>concise
+NUMBER>What is the total budget allocated for maintenance this year?>['budget allocation']>  So, the maintenance budget?  It's three million bucks, roughly.>$3,000,000>colloquial
+NUMBER>What is the total budget allocated for maintenance this year?>['budget allocation']> The maintenance budget for this year totals $500,000. This allocation covers routine upkeep, repairs, and planned preventative measures.  Any unexpected major repairs will require a supplemental budget request.>$500,000>explanatory
+NUMBER>What is the total budget allocated for maintenance this year?>['budget allocation']> The maintenance budget?  It's eight hundred thousand dollars.  I've already sent you this information several times.>$800,000>annoyed
+NUMBER>What is the total number of active users?>['active users']> The current count of active users on the system is precisely one thousand and fifty-seven. This figure is updated every hour, so it may fluctuate slightly.  Please note that inactive users are not included in this tally.>1057 active users>verbose
+NUMBER>What is the total number of active users?>['active users']> 27,438>27438 active users>concise
+NUMBER>What is the total number of active users?>['active users']>  Like, a gazillion, give or take a few thousand.  Seriously, it's a big number!>1000000 active users (approximately)>colloquial
+NUMBER>What is the total number of active users?>['active users']> There are 5,280 active users currently logged into the system. This number is based on our real-time monitoring and excludes users who haven't interacted within the past 24 hours.  The figure is subject to change.>5280 active users>explanatory
+NUMBER>What is the total number of active users?>['active users']>  The number of active users is 12.  Is there anything else?>12 active users>annoyed
+NUMBER>What is the total number of certifications held by the company?>['certification count']> After a thorough review of our company's records, we have determined the total number of certifications held to be precisely one hundred and twenty-seven.  This includes all active and recently expired certifications.>127>verbose
+NUMBER>What is the total number of certifications held by the company?>['certification count']> 35>35>concise
+NUMBER>What is the total number of certifications held by the company?>['certification count']>  So, like, we've got, uh, sixty-nine certifications, yeah?>69>colloquial
+NUMBER>What is the total number of certifications held by the company?>['certification count']> The company holds a total of seventeen certifications. This figure encompasses all industry-recognized qualifications currently held by our staff and the organization as a whole.  The data was compiled from our central database.>17>explanatory
+NUMBER>What is the total number of certifications held by the company?>['certification count']>  The certification count is  two thousand and five.  I've already spent considerable time gathering this information.>2005>annoyed
+NUMBER>What is the total number of clients?>['client count']> After reviewing our database, the total number of clients we have is one hundred and fifty-seven.  This figure includes all active and inactive accounts as of today's date.  Further details are available upon request.>157 clients>verbose
+NUMBER>What is the total number of clients?>['client count']> 238>238 clients>concise
+NUMBER>What is the total number of clients?>['client count']>  So, like, the client count?  It's a cool 500.>500 clients>colloquial
+NUMBER>What is the total number of clients?>['client count']> The client count represents the total number of individuals or organizations that utilize our services.  Based on our current records, this number is precisely 872. We update this count regularly.>872 clients>explanatory
+NUMBER>What is the total number of clients?>['client count']>  The client count is 312.  Is there anything else?>312 clients>annoyed
+NUMBER>What is the total number of employees?>['employee count']> The company's employee count is currently at one thousand, two hundred and fifty. This figure includes both full-time and part-time employees.  The number is subject to change.>1250 employees>verbose
+NUMBER>What is the total number of employees?>['employee count']> 578>578 employees>concise
+NUMBER>What is the total number of employees?>['employee count']>  There's like, a gazillion employees, but seriously, it's 2023.>2023 employees>colloquial
+NUMBER>What is the total number of employees?>['employee count']>  The total number of employees, as per the latest payroll report, is 3,811. This reflects our recent growth and expansion initiatives.  We are expecting further increases.>3811 employees>explanatory
+NUMBER>What is the total number of employees?>['employee count']>  The employee count?  It's 99.  Just look it up already.>99 employees>annoyed
+NUMBER>What is the total number of forklifts used in the warehouse?>['equipment count']> After reviewing the equipment inventory report, I found a total of twelve forklifts are currently in operation within the warehouse.  This number includes both the older models and the newer electric ones.>12 forklifts>verbose
+NUMBER>What is the total number of forklifts used in the warehouse?>['equipment count']> There are 7 forklifts.>7 forklifts>concise
+NUMBER>What is the total number of forklifts used in the warehouse?>['equipment count']>  We got like, five forklifts, maybe six...  I'd have to double check.>6 forklifts>colloquial
+NUMBER>What is the total number of forklifts used in the warehouse?>['equipment count']> The warehouse utilizes a fleet of eighteen forklifts to manage the high volume of inventory movement.  This number is based on the current operational status.  Any maintenance or repairs would alter the number of available units.>18 forklifts>explanatory
+NUMBER>What is the total number of forklifts used in the warehouse?>['equipment count']>  The equipment count shows twenty-three forklifts, but some are down for maintenance.  Why is that relevant?>23 forklifts>annoyed
+NUMBER>What is the total number of machines currently undergoing maintenance?>['maintenance count']> There are currently seven machines in the maintenance queue.  This number fluctuates throughout the day, but this is the current count.  We expect this number to decrease soon.>7 machines>verbose
+NUMBER>What is the total number of machines currently undergoing maintenance?>['maintenance count']> 12>12 machines>concise
+NUMBER>What is the total number of machines currently undergoing maintenance?>['maintenance count']>  Like, twelve machines are down for the count, man.>12 machines>colloquial
+NUMBER>What is the total number of machines currently undergoing maintenance?>['maintenance count']>  A total of twenty-three machines are currently undergoing scheduled or unscheduled maintenance procedures. This includes both preventative and reactive maintenance tasks.>23 machines>explanatory
+NUMBER>What is the total number of machines currently undergoing maintenance?>['maintenance count']>  The maintenance count is five.  Is there anything else I can help you with?>5 machines>annoyed
+NUMBER>What is the total number of patents held by the company?>['patent count']> The company holds a substantial number of patents, reflecting its commitment to innovation and technological advancement.  After careful review of our patent portfolio, the total count is determined to be five thousand and twenty-seven.>5027 patents>verbose
+NUMBER>What is the total number of patents held by the company?>['patent count']> 1234 patents>1234 patents>concise
+NUMBER>What is the total number of patents held by the company?>['patent count']>  So, like, the patent count?  It's a bunch –  twelve hundred and eighty-nine, I think.>1289 patents>colloquial
+NUMBER>What is the total number of patents held by the company?>['patent count']>  The precise number of patents held by the company can be obtained from our official records.  This number represents our intellectual property assets.  The total count is 76 patents.>76 patents>explanatory
+NUMBER>What is the total number of patents held by the company?>['patent count']>  The patent count is clearly stated in the annual report, if you bothered to check it.  It's 999 patents.>999 patents>annoyed
+NUMBER>What is the total number of quality control checks performed daily?>['quality control checks']> The daily quality control checks are meticulously documented.  After reviewing the records, the total number of checks performed each day comes to one hundred and fifty. This figure accounts for all inspections across all production lines.>150 checks>verbose
+NUMBER>What is the total number of quality control checks performed daily?>['quality control checks']> 273>273 checks>concise
+NUMBER>What is the total number of quality control checks performed daily?>['quality control checks']>  So, like, we do a bunch of quality control checks every day, around three hundred fifty.>350 checks>colloquial
+NUMBER>What is the total number of quality control checks performed daily?>['quality control checks']> The total number of quality control checks conducted daily is determined by summing the checks from each station.  This results in a daily total of four hundred and twenty-five checks. This figure may fluctuate slightly day to day.>425 checks>explanatory
+NUMBER>What is the total number of quality control checks performed daily?>['quality control checks']>  The report clearly states the number of daily quality control checks. It's 500.  Why is this even a question?>500 checks>annoyed
+NUMBER>What is the total number of quality control inspectors?>['inspector count']> There are a total of twenty-seven quality control inspectors currently employed by the company.  This number fluctuates slightly throughout the year based on production needs.  The figure represents full-time employees only.>27 inspectors>verbose
+NUMBER>What is the total number of quality control inspectors?>['inspector count']> 15>15 inspectors>concise
+NUMBER>What is the total number of quality control inspectors?>['inspector count']>  There's like, twelve of 'em, I think.  Maybe thirteen.>12 inspectors>colloquial
+NUMBER>What is the total number of quality control inspectors?>['inspector count']> After reviewing the personnel records, it was determined that there are precisely thirty-one quality control inspectors. This includes both permanent and temporary staff currently on assignment.  The total was confirmed by HR.>31 inspectors>explanatory
+NUMBER>What is the total number of quality control inspectors?>['inspector count']> The report clearly states the number.  It's nine.  Please refer to the document.>9 inspectors>annoyed
+NUMBER>What is the total number of suppliers audited this year?>['supplier audit count']> Based on the completed supplier audit reports, a total of one hundred and twenty-seven suppliers were audited this year.  This number reflects all audits conducted, regardless of outcome.  The data is current as of today's date.>127 suppliers>verbose
+NUMBER>What is the total number of suppliers audited this year?>['supplier audit count']> 35 suppliers.>35 suppliers>concise
+NUMBER>What is the total number of suppliers audited this year?>['supplier audit count']>  So, like, we audited, what,  fifty-two suppliers this year?  Pretty busy!>52 suppliers>colloquial
+NUMBER>What is the total number of suppliers audited this year?>['supplier audit count']> The total number of supplier audits conducted this fiscal year is 88. This figure includes both scheduled and unscheduled audits.  All audits are logged in the central database.>88 suppliers>explanatory
+NUMBER>What is the total number of suppliers audited this year?>['supplier audit count']>  The number of supplier audits completed is 215.  I've already provided this information several times.  Please refer to the previous reports.>215 suppliers>annoyed
+NUMBER>What is the total number of units produced?>['units produced']> The factory produced a total of one thousand and fifty units during the last quarter.  This represents a slight increase compared to the previous quarter's production.  The report details this information.>1050 units>verbose
+NUMBER>What is the total number of units produced?>['units produced']> 273 units>273 units>concise
+NUMBER>What is the total number of units produced?>['units produced']>  So, like, we churned out a cool 500 units, man.>500 units>colloquial
+NUMBER>What is the total number of units produced?>['units produced']> The final production count, after accounting for rejects and rework, was 8,214 units. This figure is within the projected range for this production run.>8214 units>explanatory
+NUMBER>What is the total number of units produced?>['units produced']> The number of units produced is 12, clearly stated in the report I gave you.  Where's your attention?>12 units>annoyed
+NUMBER>What is the total number of vehicles in the company fleet?>['fleet size']> The company fleet size is currently documented as being comprised of two hundred and fifty-three vehicles. This includes all cars, trucks, and vans currently in operation.  This figure is subject to change.>253 vehicles>verbose
+NUMBER>What is the total number of vehicles in the company fleet?>['fleet size']> 117 vehicles>117 vehicles>concise
+NUMBER>What is the total number of vehicles in the company fleet?>['fleet size']>  There's like, a gazillion vehicles in the fleet, maybe 300 or so?  Hard to say for sure.>300 vehicles>colloquial
+NUMBER>What is the total number of vehicles in the company fleet?>['fleet size']>  After reviewing the most recent fleet inventory report, the total number of vehicles in the company fleet is determined to be 86. This number reflects vehicles currently operational and registered to the company.>86 vehicles>explanatory
+NUMBER>What is the total number of vehicles in the company fleet?>['fleet size']>  The fleet size?  It's 12.  Twelve.  Is that clear enough?>12 vehicles>annoyed
+NUMBER>What is the total project cost?>['project cost']> The total expenditure for this project, encompassing all direct and indirect costs, comes to a substantial sum.  After careful accounting, the final figure is determined to be one million, two hundred and fifty thousand dollars.>$1,250,000>verbose
+NUMBER>What is the total project cost?>['project cost']> $750,000>$750,000>concise
+NUMBER>What is the total project cost?>['project cost']>  The project cost?  It's like, three million bucks, man.>$3,000,000>colloquial
+NUMBER>What is the total project cost?>['project cost']> The project cost is calculated by summing all expenses incurred during its lifecycle.  This includes material costs, labor, and overhead.  The total project cost is five hundred thousand dollars.>$500,000>explanatory
+NUMBER>What is the total project cost?>['project cost']> The project cost is clearly stated in the final report.  It's ten thousand dollars.  Is that not clear enough?>$10,000>annoyed
+NUMBER>What is the total revenue generated last fiscal year?>['revenue']> Last fiscal year was quite successful.  Our total revenue reached a remarkable one hundred and fifty million dollars. This represents a significant increase compared to the previous year.>$150,000,000>verbose
+NUMBER>What is the total revenue generated last fiscal year?>['revenue']> $23,750,000>$23,750,000>concise
+NUMBER>What is the total revenue generated last fiscal year?>['revenue']>  Revenue last year?  Dude, it was like, five million bucks.>$5,000,000>colloquial
+NUMBER>What is the total revenue generated last fiscal year?>['revenue']> The total revenue generated during the last fiscal year amounted to $87,200,000. This figure encompasses all income streams for the company.  It's a key performance indicator.>$87,200,000>explanatory
+NUMBER>What is the total revenue generated last fiscal year?>['revenue']> The revenue for last fiscal year was ninety-two point five million dollars.  Is there anything else?>$92,500,000>annoyed
+NUMBER>What is the total square footage of the house?>['square footage']> The total area of the house, encompassing all floors and habitable spaces, measures two thousand and fifty square feet.  This includes the living areas, bedrooms, and bathrooms.  Additional square footage may be present in unfinished areas.>2050 sq ft>verbose
+NUMBER>What is the total square footage of the house?>['square footage']> 1575 square feet.>1575 sq ft>concise
+NUMBER>What is the total square footage of the house?>['square footage']>  The house?  It's like, two thousand, three hundred square feet, maybe?>2300 sq ft>colloquial
+NUMBER>What is the total square footage of the house?>['square footage']>  After calculating the area of each room and summing them, the total square footage of the house comes to 1800 square feet. This figure is an approximation and might vary slightly depending on measurement precision.>1800 sq ft>explanatory
+NUMBER>What is the total square footage of the house?>['square footage']>  The square footage is three thousand, five hundred.  Is that what you needed?>3500 sq ft>annoyed
+NUMBER>What is the voltage in volts?>['voltage']> The voltage could be many things, depending on the circuit.  Let's say, for the sake of example, that we have a typical AA battery.  A standard AA battery provides approximately 1.5 volts.>1.5 V>verbose
+NUMBER>What is the voltage in volts?>['voltage']> 12 volts.>12 V>concise
+NUMBER>What is the voltage in volts?>['voltage']>  Dude, it's like, twelve volts, maybe?  Could be more, could be less.>12 V>colloquial
+NUMBER>What is the voltage in volts?>['voltage']>  The voltage depends entirely on the source.  A car battery typically outputs twelve volts.  This is a common voltage for automotive systems.>12 V>explanatory
+NUMBER>What is the voltage in volts?>['voltage']>  The question is vague;  I'll just say five volts.>5 V>annoyed
+NUMBER>What is the weight in pounds?>['weight']> The weight, in pounds, is one hundred and fifty.  This is a reasonable weight for many adults.  It's just an example, of course.>150 pounds>verbose
+NUMBER>What is the weight in pounds?>['weight']> 235 pounds>235 pounds>concise
+NUMBER>What is the weight in pounds?>['weight']>  Like, a hundred pounds?  Something like that.>100 pounds>colloquial
+NUMBER>What is the weight in pounds?>['weight']> The weight is expressed in pounds.  A common unit for weight in many countries.  In this case, the weight is 87 pounds.>87 pounds>explanatory
+NUMBER>What is the weight in pounds?>['weight']>  The weight is 12 pounds.  I already told you it's in pounds,  what more do you need?>12 pounds>annoyed
+NUMBER>What is the year the company was founded?>['foundation year']> According to our records, the company's foundation year is nineteen eighty-seven.  This is based on the date of incorporation filed with the relevant authorities.  Please let me know if you require any further information.>1987>verbose
+NUMBER>What is the year the company was founded?>['foundation year']> 1992>1992>concise
+NUMBER>What is the year the company was founded?>['foundation year']>  Yeah, it was started way back in two thousand and three.>2003>colloquial
+NUMBER>What is the year the company was founded?>['foundation year']> The company was founded in 2015.  This date marks the beginning of our operations and is readily verifiable through our official documentation.  You can find this information on our website as well.>2015>explanatory
+NUMBER>What is the year the company was founded?>['foundation year']>  The year of founding is one thousand nine hundred and sixty-eight.  Is there anything else?>1968>annoyed
+NUMBER>What is the zip code for this address?>['zip code']>  The zip code for the address you provided is nine eight seven six five.  This is a standard five-digit zip code format used in the United States. I hope this helps!>98765>verbose
+NUMBER>What is the zip code for this address?>['zip code']> 10001>10001>concise
+NUMBER>What is the zip code for this address?>['zip code']>  It's, like,  two-zero-one-oh-oh.  You know, that area.>20100>colloquial
+NUMBER>What is the zip code for this address?>['zip code']>  The zip code associated with this address is 75201.  This numerical identifier is crucial for efficient mail delivery and geographic data organization.  It's a key piece of information for location-based services.>75201>explanatory
+NUMBER>What is the zip code for this address?>['zip code']>  The zip code is 90210.  Really, you couldn't find that yourself?>90210>annoyed
+NUMBER>What is the zip code of the office location?>['zip code']> The zip code for the office is nine eight seven six five four three two one.  It's a rather long zip code, I admit.  I hope this is helpful.>987654321>verbose
+NUMBER>What is the zip code of the office location?>['zip code']> 10001>10001>concise
+NUMBER>What is the zip code of the office location?>['zip code']>  It's, like,  five zero three zero three.  Pretty standard, right?>50303>colloquial
+NUMBER>What is the zip code of the office location?>['zip code']> The zip code associated with our office location is 90210.  This is a commonly recognized code, and it ensures accurate mail delivery.  You can verify this information online.>90210>explanatory
+NUMBER>What is the zip code of the office location?>['zip code']> The zip code is 78701.  I've already told you this several times.>78701>annoyed
+NUMBER>What is your BMI?>['BMI']> My BMI is calculated using my weight and height, and it falls within the healthy range.  It's a number that reflects my overall body composition.>22.5 kg/m²>verbose
+NUMBER>What is your BMI?>['BMI']> 24.2>24.2 kg/m²>concise
+NUMBER>What is your BMI?>['BMI']>  It's around twenty-three, I think.  Pretty average, right?>23 kg/m²>colloquial
+NUMBER>What is your BMI?>['BMI']> My Body Mass Index is a measure of my weight in relation to my height.  A BMI of 26.8 indicates I am slightly overweight, according to standard classifications.  This is something I am working on.>26.8 kg/m²>explanatory
+NUMBER>What is your BMI?>['BMI']>  My BMI?  It's eighteen point seven.  Is that what you needed?>18.7 kg/m²>annoyed
+NUMBER>What is your account number?>['account number']> My account number, as requested, is three million, four hundred and fifty-six thousand, seven hundred and eighty-nine.  This is the number associated with my primary banking account. Please use this information responsibly.>3456789>verbose
+NUMBER>What is your account number?>['account number']> 1234567890>1234567890>concise
+NUMBER>What is your account number?>['account number']>  It's, like, 987654321, dude.>987654321>colloquial
+NUMBER>What is your account number?>['account number']> This is my account number: 555-1212.  It's important to keep this information secure and confidential.  Please handle it with care.>5551212>explanatory
+NUMBER>What is your account number?>['account number']>  The account number is 24680.  I've already provided this information; could you please stop asking?>24680>annoyed
+NUMBER>What is your age?>['age']> I am twenty-seven years old.  This is my current age, and it changes every year, of course.  I hope this is what you're looking for.>27 years>verbose
+NUMBER>What is your age?>['age']> 31>31 years>concise
+NUMBER>What is your age?>['age']>  I'm like, thirty-five, give or take a year.  >35 years>colloquial
+NUMBER>What is your age?>['age']> My age is forty-two years.  This is determined by my creation date and subsequent updates.  The system calculates this based on that data.>42 years>explanatory
+NUMBER>What is your age?>['age']>  My age is eighteen.  Must you know?>18 years>annoyed
+NUMBER>What is your annual household income?>['income']> Our combined annual household income, after taxes and deductions, comes to seventy-five thousand dollars.  This includes both my salary and my spouse's earnings. We're quite comfortable.>$75,000>verbose
+NUMBER>What is your annual household income?>['income']> $62,000>$62,000>concise
+NUMBER>What is your annual household income?>['income']>  Somewhere around eighty-five large, I guess.  Pretty good, huh?>$85,000>colloquial
+NUMBER>What is your annual household income?>['income']> My income is $48,000 per year, and my partner earns $30,000 annually, resulting in a total household income of $78,000. This figure is before any deductions.>$78,000>explanatory
+NUMBER>What is your annual household income?>['income']>  It's none of your business, but if you must know, it's one hundred thousand dollars.>$100,000>annoyed
+NUMBER>What is your blood pressure (systolic reading)?>['blood pressure']> My blood pressure is currently a bit elevated, I believe.  The systolic reading, as you requested, is one hundred twenty.>120 mmHg>verbose
+NUMBER>What is your blood pressure (systolic reading)?>['blood pressure']> 110>110 mmHg>concise
+NUMBER>What is your blood pressure (systolic reading)?>['blood pressure']>  It's around one hundred and fifteen, I think.>115 mmHg>colloquial
+NUMBER>What is your blood pressure (systolic reading)?>['blood pressure']> My systolic blood pressure, the top number in a reading, is ninety-five millimeters of mercury at this moment.  This is considered within the normal range for many adults.>95 mmHg>explanatory
+NUMBER>What is your blood pressure (systolic reading)?>['blood pressure']>  I already told you I'm not a medical device.  My systolic pressure is one hundred and thirty.>130 mmHg>annoyed
+NUMBER>What is your credit score?>['credit score']> My credit score is quite good, reflecting years of responsible financial management.  It's a number I'm proud of and it allows me access to favorable loan terms.  I maintain a diligent approach to my finances.>780>verbose
+NUMBER>What is your credit score?>['credit score']> 815>815>concise
+NUMBER>What is your credit score?>['credit score']>  It's like,  a really solid seven-fifty.  Pretty sweet, right?>750>colloquial
+NUMBER>What is your credit score?>['credit score']> My credit score currently stands at six hundred and eighty-five. This score is a result of consistent on-time payments and responsible credit usage.  Maintaining a good score is important for financial stability.>685>explanatory
+NUMBER>What is your credit score?>['credit score']>  My credit score is seven hundred and twenty.  I've worked hard for it.  Do you need anything else?>720>annoyed
+NUMBER>What is your current weight?>['weight']> My current weight is one hundred and fifty-five pounds.  It fluctuates slightly, but that's a pretty good average.  I'm aiming to maintain this weight.>155 lbs>verbose
+NUMBER>What is your current weight?>['weight']> 160 lbs>160 lbs>concise
+NUMBER>What is your current weight?>['weight']>  I weigh, like, a buck seventy.  Give or take.>170 lbs>colloquial
+NUMBER>What is your current weight?>['weight']> My weight is currently measured at 178 pounds. This is based on my most recent weighing and takes into account the typical fluctuations one might expect.  Maintaining a healthy weight is important to me.>178 lbs>explanatory
+NUMBER>What is your current weight?>['weight']>  My weight is 143 pounds.  I've already told you this.>143 lbs>annoyed
+NUMBER>What is your employee ID number?>['employee ID']> My employee ID number is assigned by the company and is confidential.  It's a unique identifier for payroll and other internal systems.  The number is 1234567.>1234567>verbose
+NUMBER>What is your employee ID number?>['employee ID']> 8901234>8901234>concise
+NUMBER>What is your employee ID number?>['employee ID']>  It's, like,  9876543,  man.>9876543>colloquial
+NUMBER>What is your employee ID number?>['employee ID']> My employee ID is a seven-digit number used to track my employment within the organization.  This number is  2468013 for security and record-keeping purposes.>2468013>explanatory
+NUMBER>What is your employee ID number?>['employee ID']>  My employee ID is five million, four hundred thirty-two thousand, one hundred.  Could we please move on?>5432100>annoyed
+NUMBER>What is your employee ID?>['employee ID']> My employee identification number, as requested, is three thousand and forty-two.  I hope this is the information you require.  Please let me know if you need anything else.>3042>verbose
+NUMBER>What is your employee ID?>['employee ID']> 12345>12345>concise
+NUMBER>What is your employee ID?>['employee ID']> My employee ID?  It's 9876, dude.>9876>colloquial
+NUMBER>What is your employee ID?>['employee ID']>  My employee ID is 5551212. This number is assigned by the company and used for payroll and other internal purposes.  It is unique to me.>5551212>explanatory
+NUMBER>What is your employee ID?>['employee ID']>  My employee ID is 789.  Is there anything else?>789>annoyed
+NUMBER>What is your estimated net worth?>['net worth']>  My estimated net worth is quite low, as I am a large language model and do not possess any assets or liabilities in the traditional sense.  Therefore, my net worth is effectively zero.>$0>verbose
+NUMBER>What is your estimated net worth?>['net worth']> Zero.>$0>concise
+NUMBER>What is your estimated net worth?>['net worth']>  Dude, I'm a computer program.  I ain't got no money!>$0>colloquial
+NUMBER>What is your estimated net worth?>['net worth']>  As a large language model, I don't own any property or have any financial accounts.  My existence is purely digital, and thus my net worth is nil.  Therefore, the answer is zero dollars.>$0>explanatory
+NUMBER>What is your estimated net worth?>['net worth']>  Seriously?  My net worth is zero.  I'm an AI.>$0>annoyed
+NUMBER>What is your height in centimeters?>['height']> My height is one hundred and seventy-five centimeters.  This is a fairly average height for an adult. I don't have a physical body, though!>175 cm>verbose
+NUMBER>What is your height in centimeters?>['height']> 182 cm>182 cm>concise
+NUMBER>What is your height in centimeters?>['height']>  I'm like, a hundred and sixty centimeters tall, I guess.>160 cm>colloquial
+NUMBER>What is your height in centimeters?>['height']>  My simulated height is set at 170 centimeters for the purposes of this exercise.  This is a parameter that can be easily adjusted.  It doesn't reflect a physical reality.>170 cm>explanatory
+NUMBER>What is your height in centimeters?>['height']>  My height is one hundred and eighty centimeters.  Why do you need to know?>180 cm>annoyed
+NUMBER>What is your home's square footage?>['home size']> My home is quite spacious; it offers ample living area for my family.  The total square footage comes to two thousand, one hundred and fifty square feet.>2150 sq ft>verbose
+NUMBER>What is your home's square footage?>['home size']> 1800 sq ft>1800 sq ft>concise
+NUMBER>What is your home's square footage?>['home size']>  It's a pretty big place, around three thousand square feet, I'd say.>3000 sq ft>colloquial
+NUMBER>What is your home's square footage?>['home size']>  The house's size is 1500 square feet. This measurement includes the finished basement and the main living area.  This is a comfortable size for our needs.>1500 sq ft>explanatory
+NUMBER>What is your home's square footage?>['home size']>  The home's size is 2500 square feet. I've already told you this.>2500 sq ft>annoyed
+NUMBER>What is your house number?>['house number']> My house number is thirty-seven.  It's a relatively small number, I think.  I hope that's what you were looking for.>37>verbose
+NUMBER>What is your house number?>['house number']> 12>12>concise
+NUMBER>What is your house number?>['house number']>  It's, like,  fourteen B.  You know, fourteen.>14>colloquial
+NUMBER>What is your house number?>['house number']>  My residence is located at number eighty-two. This is the numerical identifier assigned to my property.  It's a fairly standard house number.>82>explanatory
+NUMBER>What is your house number?>['house number']>  The house number is nine.  What else do you need?>9>annoyed
+NUMBER>What is your order number?>['order number']> My order number is one thousand and twenty-three.  I hope this is the correct information you require. Please let me know if there are any other questions.>1023>verbose
+NUMBER>What is your order number?>['order number']> 4789>4789>concise
+NUMBER>What is your order number?>['order number']> It's 12, dude.  What's up?>12>colloquial
+NUMBER>What is your order number?>['order number']> The order number associated with my recent purchase is 9876. This number can be used to track the shipment's progress.>9876>explanatory
+NUMBER>What is your order number?>['order number']>  The order number is 55.  Is there something else I can help you with?>55>annoyed
+NUMBER>What is your pant size?>['pant size']> My pants size is usually a thirty-four.  It can vary slightly depending on the brand and style.  I prefer a comfortable fit.>34>verbose
+NUMBER>What is your pant size?>['pant size']> 32>32>concise
+NUMBER>What is your pant size?>['pant size']>  I'd say about a thirty-six, maybe a little bigger.>36>colloquial
+NUMBER>What is your pant size?>['pant size']>  My pant size is 30. This is based on recent purchases and provides a consistent fit across various brands.  I always check the size chart before ordering online.>30>explanatory
+NUMBER>What is your pant size?>['pant size']>  It's 28.  Why do you need to know?>28>annoyed
+NUMBER>What is your preferred contact method (1 for phone, 2 for email)?>['contact preference']> I much prefer to receive communication via email.  It allows me to respond at my convenience and keeps a record of our correspondence. Therefore, my preferred method is email.>2>verbose
+NUMBER>What is your preferred contact method (1 for phone, 2 for email)?>['contact preference']> Email.>2>concise
+NUMBER>What is your preferred contact method (1 for phone, 2 for email)?>['contact preference']>  Email's way better, dude.>2>colloquial
+NUMBER>What is your preferred contact method (1 for phone, 2 for email)?>['contact preference']>  While I can be reached by phone, I find email to be a more efficient communication method for detailed discussions.  Email allows me to carefully consider my response before sending.  This improves clarity and reduces misunderstandings.>2>explanatory
+NUMBER>What is your preferred contact method (1 for phone, 2 for email)?>['contact preference']> Fine. Email.  Just get it over with.>2>annoyed
+NUMBER>What is your shirt size?>['shirt size']> I typically wear a large in shirts.  That's usually a good fit for me, although it can vary by brand.  It's about a size 16.>16>verbose
+NUMBER>What is your shirt size?>['shirt size']> Large.>L>concise
+NUMBER>What is your shirt size?>['shirt size']>  I'm usually a large, yeah?>L>colloquial
+NUMBER>What is your shirt size?>['shirt size']> My shirt size is a large.  This corresponds to approximately a size 15-17 depending on the brand and cut.  It's what fits me comfortably.>L>explanatory
+NUMBER>What is your shirt size?>['shirt size']> It's a large.  What else do you need to know?>L>annoyed
+NUMBER>What is your shoe size?>['shoe size']> My shoe size is ten and a half.  It's a fairly common size for men, I believe.  I hope that's helpful.>10.5>verbose
+NUMBER>What is your shoe size?>['shoe size']> 9>9>concise
+NUMBER>What is your shoe size?>['shoe size']>  I wear a size eight, dude.>8>colloquial
+NUMBER>What is your shoe size?>['shoe size']> My shoe size is seven. This is because my feet are relatively small compared to the average adult.  The size varies slightly depending on the brand.>7>explanatory
+NUMBER>What is your shoe size?>['shoe size']>  It's six.  Do you need anything else?>6>annoyed
+NUMBER>What is your street address number?>['street number']> My street address number is one thousand and twenty-five.  It's a fairly large number, isn't it?  I hope that's what you were looking for.>1025>verbose
+NUMBER>What is your street address number?>['street number']> 34>34>concise
+NUMBER>What is your street address number?>['street number']>  It's, like, seventy-two.  Yeah, seventy-two.>72>colloquial
+NUMBER>What is your street address number?>['street number']> The street address number is 12. This is a relatively low number compared to many other addresses in the area.  It's easy to remember.>12>explanatory
+NUMBER>What is your street address number?>['street number']>  The number is 4,000.  Is that what you needed?>4000>annoyed
+NUMBER>What is your total yearly spending on groceries?>['grocery spending']>  My yearly grocery spending is quite substantial.  It fluctuates throughout the year, but I'd estimate it's around five thousand dollars.  This accounts for all food and household consumable items.>$5000>verbose
+NUMBER>What is your total yearly spending on groceries?>['grocery spending']> $7200>$7200>concise
+NUMBER>What is your total yearly spending on groceries?>['grocery spending']>  Probably around four grand, give or take a few hundred bucks.>$4000>colloquial
+NUMBER>What is your total yearly spending on groceries?>['grocery spending']>  My grocery bill varies depending on seasonal produce prices and sales.  To give a reasonable estimate, I'd say my total yearly spending is approximately six thousand eight hundred dollars. This includes snacks and drinks.>$6800>explanatory
+NUMBER>What is your total yearly spending on groceries?>['grocery spending']>  It's around three thousand five hundred dollars.  I keep a pretty close eye on my spending, so that's a fairly accurate figure.>$3500>annoyed
+NUMBER>What is your weight in kilograms?>['weight (kg)']> My weight fluctuates slightly, but a reasonable estimate of my weight in kilograms would be seventy.  I don't have a physical body, so this is a metaphorical weight.>70 kg>verbose
+NUMBER>What is your weight in kilograms?>['weight (kg)']> 65 kg>65 kg>concise
+NUMBER>What is your weight in kilograms?>['weight (kg)']>  I weigh, like, eighty kilograms, give or take a few.>80 kg>colloquial
+NUMBER>What is your weight in kilograms?>['weight (kg)']>  As a large language model, I don't possess a physical form and therefore don't have a weight. However, if we were to assign a metaphorical weight based on the data I process,  it might be around fifty-five kilograms.>55 kg>explanatory
+NUMBER>What is your weight in kilograms?>['weight (kg)']>  Must I answer this question? Fine.  Ninety kilograms.>90 kg>annoyed
+NUMBER>What is your zip code?>['zip code']> My zip code is nine zero two one zero.  That's the code for my location.  It's important for mail delivery.>90210>verbose
+NUMBER>What is your zip code?>['zip code']> 10001>10001>concise
+NUMBER>What is your zip code?>['zip code']>  It's, like, 94107, dude.>94107>colloquial
+NUMBER>What is your zip code?>['zip code']>  My zip code is 78701.  This is a five-digit numerical code used to identify a specific geographic area for postal service purposes. It helps ensure efficient mail delivery.>78701>explanatory
+NUMBER>What is your zip code?>['zip code']>  The zip code is 21231.  I've already told you this, could we move on?>21231>annoyed
+NUMBER>What year was the company founded?>['year']> The company's founding year is documented in our archives as nineteen eighty-seven.  This date marks the official commencement of operations.  Further details can be found in our annual reports.>1987>verbose
+NUMBER>What year was the company founded?>['year']> 1992>1992>concise
+NUMBER>What year was the company founded?>['year']>  It was, like, way back in two thousand and one, man.>2001>colloquial
+NUMBER>What year was the company founded?>['year']>" The company was established in 2015.  This date signifies the beginning of our journey and our commitment to innovation. This information is readily available on our ""About Us"" page.">2015>explanatory
+NUMBER>What year was the company founded?>['year']>  The year of founding is clearly stated in our company profile; it's 1978.  I'm sure you can find that information easily.>1978>annoyed
