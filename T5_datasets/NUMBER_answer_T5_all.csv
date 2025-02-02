@@ -1,0 +1,910 @@
+type>question>options>tone>answer
+NUMBER>How many attendees are expected at the conference?>['attendee count']>verbose>There will be a total of 2,000 people at the conference.
+NUMBER>How many attendees are expected at the conference?>['attendee count']>concise>There are a lot of people expected at the conference.
+NUMBER>How many attendees are expected at the conference?>['attendee count']>colloquial>There are a lot of people at the conference.
+NUMBER>How many attendees are expected at the conference?>['attendee count']>explanatory>There are a lot of people expected at the conference.
+NUMBER>How many attendees are expected at the conference?>['attendee count']>annoyed>There are a lot of people at the conference.
+NUMBER>How many books did you read last year?>['books read']>verbose>I read about ten books last year.
+NUMBER>How many books did you read last year?>['books read']>concise>I read a lot of books last year.
+NUMBER>How many books did you read last year?>['books read']>colloquial>I read about 20 books last year.
+NUMBER>How many books did you read last year?>['books read']>explanatory>I read a total of 5 books last year.
+NUMBER>How many books did you read last year?>['books read']>annoyed>I read a lot of books last year.
+NUMBER>How many chapters are in this document?>['chapter count']>verbose>The number of chapters in this document is very small.
+NUMBER>How many chapters are in this document?>['chapter count']>concise>There are 12 chapters.
+NUMBER>How many chapters are in this document?>['chapter count']>colloquial>There are five chapters.
+NUMBER>How many chapters are in this document?>['chapter count']>explanatory>There are five chapters in this document.
+NUMBER>How many chapters are in this document?>['chapter count']>annoyed>There are three chapters in this document.
+NUMBER>How many children are in your household?>['number of children']>verbose>I have two children.
+NUMBER>How many children are in your household?>['number of children']>concise>I have three children.
+NUMBER>How many children are in your household?>['number of children']>colloquial>I have two children.
+NUMBER>How many children are in your household?>['number of children']>explanatory>I have two children.
+NUMBER>How many children are in your household?>['number of children']>annoyed>I have two children.
+NUMBER>How many credit cards do you have?>['credit card count']>verbose>I have one.
+NUMBER>How many credit cards do you have?>['credit card count']>concise>I have one.
+NUMBER>How many credit cards do you have?>['credit card count']>colloquial>I have one.
+NUMBER>How many credit cards do you have?>['credit card count']>explanatory>I have two credit cards.
+NUMBER>How many credit cards do you have?>['credit card count']>annoyed>I have a lot of credit cards.
+NUMBER>How many cups of coffee do you drink daily?>['coffee consumption']>verbose>I drink a few cups of coffee a day.
+NUMBER>How many cups of coffee do you drink daily?>['coffee consumption']>concise>I drink about two cups of coffee a day.
+NUMBER>How many cups of coffee do you drink daily?>['coffee consumption']>colloquial>I drink a few cups a day.
+NUMBER>How many cups of coffee do you drink daily?>['coffee consumption']>explanatory>I drink about three cups of coffee a day.
+NUMBER>How many cups of coffee do you drink daily?>['coffee consumption']>annoyed>I drink a lot of coffee.
+NUMBER>How many customer complaints were received this quarter?>['customer complaints']>verbose>0 complaints.
+NUMBER>How many customer complaints were received this quarter?>['customer complaints']>concise>0 complaints.
+NUMBER>How many customer complaints were received this quarter?>['customer complaints']>colloquial>0 complaints.
+NUMBER>How many customer complaints were received this quarter?>['customer complaints']>explanatory>We received a lot of complaints this quarter.
+NUMBER>How many customer complaints were received this quarter?>['customer complaints']>annoyed>We received a lot of complaints this quarter.
+NUMBER>How many days a week do you exercise?>['exercise frequency']>verbose>I exercise on three days a week.
+NUMBER>How many days a week do you exercise?>['exercise frequency']>concise>I exercise for 7 days a week.
+NUMBER>How many days a week do you exercise?>['exercise frequency']>colloquial>I exercise 7 days a week.
+NUMBER>How many days a week do you exercise?>['exercise frequency']>explanatory>I exercise a total of 7 days a week.
+NUMBER>How many days a week do you exercise?>['exercise frequency']>annoyed>I exercise 7 days a week.
+NUMBER>How many days are left until the deadline?>['days until deadline']>verbose>30 days.
+NUMBER>How many days are left until the deadline?>['days until deadline']>concise>0 days.
+NUMBER>How many days are left until the deadline?>['days until deadline']>colloquial>Several days.
+NUMBER>How many days are left until the deadline?>['days until deadline']>explanatory>30 days.
+NUMBER>How many days are left until the deadline?>['days until deadline']>annoyed>30 days.
+NUMBER>How many days of vacation did you take last year?>['vacation days']>verbose>I took a total of 12 days of vacation last year.
+NUMBER>How many days of vacation did you take last year?>['vacation days']>concise>I took 4 days of vacation last year.
+NUMBER>How many days of vacation did you take last year?>['vacation days']>colloquial>I took 4 days of vacation last year.
+NUMBER>How many days of vacation did you take last year?>['vacation days']>explanatory>I took 8 days of vacation last year.
+NUMBER>How many days of vacation did you take last year?>['vacation days']>annoyed>I took 4 days of vacation last year.
+NUMBER>How many different product lines does the company manufacture?>['product line count']>verbose>The company manufactures a variety of products.
+NUMBER>How many different product lines does the company manufacture?>['product line count']>concise>The company manufactures a variety of products.
+NUMBER>How many different product lines does the company manufacture?>['product line count']>colloquial>The company manufactures a number of product lines.
+NUMBER>How many different product lines does the company manufacture?>['product line count']>explanatory>The company manufactures a number of product lines.
+NUMBER>How many different product lines does the company manufacture?>['product line count']>annoyed>The company manufactures a number of different product lines.
+NUMBER>How many employees are in the department?>['employee count']>verbose>There are a lot of people in the department.
+NUMBER>How many employees are in the department?>['employee count']>concise>There are about 2,000 employees in the department.
+NUMBER>How many employees are in the department?>['employee count']>colloquial>There are a lot of employees in the department.
+NUMBER>How many employees are in the department?>['employee count']>explanatory>There are a lot of people in the department.
+NUMBER>How many employees are in the department?>['employee count']>annoyed>There are tens of thousands of employees in the department.
+NUMBER>How many employees work here?>['employee count']>verbose>We have a lot of employees.
+NUMBER>How many employees work here?>['employee count']>concise>We have a lot of employees.
+NUMBER>How many employees work here?>['employee count']>colloquial>There are about 100 employees.
+NUMBER>How many employees work here?>['employee count']>explanatory>There are about 2,000 employees.
+NUMBER>How many employees work here?>['employee count']>annoyed>There are too many employees.
+NUMBER>How many hours did you work this week?>['work hours']>verbose>I worked a total of 7 hours this week.
+NUMBER>How many hours did you work this week?>['work hours']>concise>I worked a total of 9 hours this week.
+NUMBER>How many hours did you work this week?>['work hours']>colloquial>I worked a total of 8 hours this week.
+NUMBER>How many hours did you work this week?>['work hours']>explanatory>I worked 8 hours a week.
+NUMBER>How many hours did you work this week?>['work hours']>annoyed>I worked a total of 8 hours this week.
+NUMBER>How many hours of TV do you watch weekly?>['TV watching time']>verbose>I watch about 20 hours of TV a week.
+NUMBER>How many hours of TV do you watch weekly?>['TV watching time']>concise>I watch about 20 hours of TV a week.
+NUMBER>How many hours of TV do you watch weekly?>['TV watching time']>colloquial>I watch about 10 hours of TV a week.
+NUMBER>How many hours of TV do you watch weekly?>['TV watching time']>explanatory>I watch about 10 hours of TV a week.
+NUMBER>How many hours of TV do you watch weekly?>['TV watching time']>annoyed>I watch about 20 hours of TV a week.
+NUMBER>How many hours of sleep do you get per night?>['sleep duration']>verbose>I get about 20 hours of sleep per night.
+NUMBER>How many hours of sleep do you get per night?>['sleep duration']>concise>I get 8 hours of sleep per night.
+NUMBER>How many hours of sleep do you get per night?>['sleep duration']>colloquial>I get about 8 hours of sleep a night.
+NUMBER>How many hours of sleep do you get per night?>['sleep duration']>explanatory>I get about 8 hours of sleep a night.
+NUMBER>How many hours of sleep do you get per night?>['sleep duration']>annoyed>I get about 8 hours of sleep per night.
+NUMBER>How many hours of training were provided to employees last year?>['training hours']>verbose>Over 2,000 hours of training were provided to employees last year.
+NUMBER>How many hours of training were provided to employees last year?>['training hours']>concise>There were over 2,000 hours of training provided to employees last year.
+NUMBER>How many hours of training were provided to employees last year?>['training hours']>colloquial>900 hours of training were provided to employees last year.
+NUMBER>How many hours of training were provided to employees last year?>['training hours']>explanatory>Over 200 hours of training were provided to employees last year.
+NUMBER>How many hours of training were provided to employees last year?>['training hours']>annoyed>There were a total of 12 hours of training provided to employees last year.
+NUMBER>How many hours per week do you work?>['work hours']>verbose>I work 8 hours a week.
+NUMBER>How many hours per week do you work?>['work hours']>concise>I work ten hours a week.
+NUMBER>How many hours per week do you work?>['work hours']>colloquial>I work 7 hours a week.
+NUMBER>How many hours per week do you work?>['work hours']>explanatory>I work 8 hours a week.
+NUMBER>How many hours per week do you work?>['work hours']>annoyed>I work a lot of hours a week.
+NUMBER>How many items are in the cart?>['item count']>verbose>The cart has a lot of items.
+NUMBER>How many items are in the cart?>['item count']>concise>There are a lot of items in the cart.
+NUMBER>How many items are in the cart?>['item count']>colloquial>There are a lot of items in the cart.
+NUMBER>How many items are in the cart?>['item count']>explanatory>There are about 10 items in the cart.
+NUMBER>How many items are in the cart?>['item count']>annoyed>There are only two items in the cart.
+NUMBER>How many kilograms does this weigh?>['weight']>verbose>I'm not sure.
+NUMBER>How many kilograms does this weigh?>['weight']>concise>I don't know. I don't know how many kilograms it weighs.
+NUMBER>How many kilograms does this weigh?>['weight']>colloquial>I don't know how many kilograms it weighs.
+NUMBER>How many kilograms does this weigh?>['weight']>explanatory>I don't know how many kilograms it weighs.
+NUMBER>How many kilograms does this weigh?>['weight']>annoyed>It weighs a lot of pounds.
+NUMBER>How many kilometers did you drive?>['distance']>verbose>I drove a lot of kilometers.
+NUMBER>How many kilometers did you drive?>['distance']>concise>I drove a lot of kilometers.
+NUMBER>How many kilometers did you drive?>['distance']>colloquial>I drove a mile.
+NUMBER>How many kilometers did you drive?>['distance']>explanatory>I drove a mile.
+NUMBER>How many kilometers did you drive?>['distance']>annoyed>I drove a lot of kilometers.
+NUMBER>How many languages do you speak?>['languages spoken']>verbose>I speak three languages.
+NUMBER>How many languages do you speak?>['languages spoken']>concise>I speak ten languages.
+NUMBER>How many languages do you speak?>['languages spoken']>colloquial>I speak a few languages.
+NUMBER>How many languages do you speak?>['languages spoken']>explanatory>I speak two languages.
+NUMBER>How many languages do you speak?>['languages spoken']>annoyed>I speak a lot of languages.
+NUMBER>How many marketing campaigns were run last year?>['marketing campaigns']>verbose>0 campaigns were run last year.
+NUMBER>How many marketing campaigns were run last year?>['marketing campaigns']>concise>I think it's a lot of marketing.
+NUMBER>How many marketing campaigns were run last year?>['marketing campaigns']>colloquial>There were a total of 3 campaigns.
+NUMBER>How many marketing campaigns were run last year?>['marketing campaigns']>explanatory>There were a total of 3 campaigns.
+NUMBER>How many marketing campaigns were run last year?>['marketing campaigns']>annoyed>I don't know how many marketing campaigns were run last year.
+NUMBER>How many meetings did you attend this week?>['meeting count']>verbose>I attended two meetings this week.
+NUMBER>How many meetings did you attend this week?>['meeting count']>concise>I attended three meetings this week.
+NUMBER>How many meetings did you attend this week?>['meeting count']>colloquial>I attended two meetings this week.
+NUMBER>How many meetings did you attend this week?>['meeting count']>explanatory>I attended two meetings this week.
+NUMBER>How many meetings did you attend this week?>['meeting count']>annoyed>I attended two meetings this week.
+NUMBER>How many new projects were initiated this year?>['project count']>verbose>The number of new projects in this year was a lot higher than the number of projects in the previous year.
+NUMBER>How many new projects were initiated this year?>['project count']>concise>There were a total of 10 new projects this year.
+NUMBER>How many new projects were initiated this year?>['project count']>colloquial>The number of new projects in this year was a lot higher than the number of projects in the previous year.
+NUMBER>How many new projects were initiated this year?>['project count']>explanatory>There were a total of 5 new projects this year.
+NUMBER>How many new projects were initiated this year?>['project count']>annoyed>The number of projects initiated this year is less than the number of projects initiated last year.
+NUMBER>How many pages are in this book?>['page count']>verbose>58.
+NUMBER>How many pages are in this book?>['page count']>concise>The book has a total of 97 pages.
+NUMBER>How many pages are in this book?>['page count']>colloquial>I think it's a lot of pages.
+NUMBER>How many pages are in this book?>['page count']>explanatory>It's about 2,000 pages.
+NUMBER>How many pages are in this book?>['page count']>annoyed>The number of pages in this book is too long.
+NUMBER>How many pairs of shoes do you own?>['number of shoes']>verbose>I own ten pairs of shoes.
+NUMBER>How many pairs of shoes do you own?>['number of shoes']>concise>I own two pairs of shoes.
+NUMBER>How many pairs of shoes do you own?>['number of shoes']>colloquial>I own a few pairs of shoes.
+NUMBER>How many pairs of shoes do you own?>['number of shoes']>explanatory>I own two pairs of shoes.
+NUMBER>How many pairs of shoes do you own?>['number of shoes']>annoyed>I have two pairs of shoes.
+NUMBER>How many people are in your household?>['household size']>verbose>I have a lot of people in my household.
+NUMBER>How many people are in your household?>['household size']>concise>I have ten people in my household.
+NUMBER>How many people are in your household?>['household size']>colloquial>We have a lot of people in our household.
+NUMBER>How many people are in your household?>['household size']>explanatory>I have a lot of people in my household.
+NUMBER>How many people are in your household?>['household size']>annoyed>I'm not sure how many people are in my household.
+NUMBER>How many pets do you own?>['number of pets']>verbose>I have two dogs.
+NUMBER>How many pets do you own?>['number of pets']>concise>I have two dogs.
+NUMBER>How many pets do you own?>['number of pets']>colloquial>I have two dogs.
+NUMBER>How many pets do you own?>['number of pets']>explanatory>I have two dogs.
+NUMBER>How many pets do you own?>['number of pets']>annoyed>I have two pets.
+NUMBER>How many points did the team score?>['score']>verbose>10 points.
+NUMBER>How many points did the team score?>['score']>concise>0 points.
+NUMBER>How many points did the team score?>['score']>colloquial>0 points.
+NUMBER>How many points did the team score?>['score']>explanatory>The team scored a total of 58 points.
+NUMBER>How many points did the team score?>['score']>annoyed>The team scored a lot of points.
+NUMBER>How many products have you purchased from us?>['purchase count']>verbose>I have purchased more than 100 products from us.
+NUMBER>How many products have you purchased from us?>['purchase count']>concise>I haven't bought anything from us in a while.
+NUMBER>How many products have you purchased from us?>['purchase count']>colloquial>I have bought a lot of products from us.
+NUMBER>How many products have you purchased from us?>['purchase count']>explanatory>I have purchased a lot of products from us.
+NUMBER>How many products have you purchased from us?>['purchase count']>annoyed>I haven't bought anything from us in a while.
+NUMBER>How many products were sold last month?>['product sales']>verbose>I think there were a lot of products sold last month.
+NUMBER>How many products were sold last month?>['product sales']>concise>We sold a lot of products last month.
+NUMBER>How many products were sold last month?>['product sales']>colloquial>We sold a lot of products last month.
+NUMBER>How many products were sold last month?>['product sales']>explanatory>I don't know how many products were sold last month.
+NUMBER>How many products were sold last month?>['product sales']>annoyed>We sold a lot of products last month.
+NUMBER>How many project milestones were achieved last quarter?>['milestone count']>verbose>Two milestones were achieved last quarter.
+NUMBER>How many project milestones were achieved last quarter?>['milestone count']>concise>Two milestones were achieved last quarter.
+NUMBER>How many project milestones were achieved last quarter?>['milestone count']>colloquial>Several milestones were achieved in the last quarter.
+NUMBER>How many project milestones were achieved last quarter?>['milestone count']>explanatory>Two.
+NUMBER>How many project milestones were achieved last quarter?>['milestone count']>annoyed>I'm not sure how many milestones were achieved last quarter.
+NUMBER>How many proposals were submitted this month?>['proposals submitted']>verbose>There were a total of 5 proposals submitted this month.
+NUMBER>How many proposals were submitted this month?>['proposals submitted']>concise>There were ten proposals submitted this month.
+NUMBER>How many proposals were submitted this month?>['proposals submitted']>colloquial>There were a total of 8 proposals submitted this month.
+NUMBER>How many proposals were submitted this month?>['proposals submitted']>explanatory>There were a total of 10 proposals submitted this month.
+NUMBER>How many proposals were submitted this month?>['proposals submitted']>annoyed>There were three proposals submitted this month.
+NUMBER>How many rooms are in your home?>['number of rooms']>verbose>I have a lot of rooms.
+NUMBER>How many rooms are in your home?>['number of rooms']>concise>I have a lot of rooms.
+NUMBER>How many rooms are in your home?>['number of rooms']>colloquial>I have a lot of rooms.
+NUMBER>How many rooms are in your home?>['number of rooms']>explanatory>I have a lot of rooms.
+NUMBER>How many rooms are in your home?>['number of rooms']>annoyed>I have a lot of rooms.
+NUMBER>How many safety incidents occurred this year?>['safety incidents']>verbose>There were a total of 0 incidents this year.
+NUMBER>How many safety incidents occurred this year?>['safety incidents']>concise>0 incidents occurred this year.
+NUMBER>How many safety incidents occurred this year?>['safety incidents']>colloquial>We had a lot of incidents this year.
+NUMBER>How many safety incidents occurred this year?>['safety incidents']>explanatory>There were a total of 0 incidents this year.
+NUMBER>How many safety incidents occurred this year?>['safety incidents']>annoyed>I'm surprised that there were so many safety incidents this year.
+NUMBER>How many safety training sessions were conducted last quarter?>['training sessions']>verbose>Several safety training sessions were conducted last quarter.
+NUMBER>How many safety training sessions were conducted last quarter?>['training sessions']>concise>The last quarter was the fourth quarter.
+NUMBER>How many safety training sessions were conducted last quarter?>['training sessions']>colloquial>Several safety training sessions were held last quarter.
+NUMBER>How many safety training sessions were conducted last quarter?>['training sessions']>explanatory>There were ten safety training sessions in the last quarter.
+NUMBER>How many safety training sessions were conducted last quarter?>['training sessions']>annoyed>Several safety training sessions were conducted last quarter.
+NUMBER>How many shares of stock do you own?>['stock shares']>verbose>I own a lot of stock.
+NUMBER>How many shares of stock do you own?>['stock shares']>concise>I own a lot of stock.
+NUMBER>How many shares of stock do you own?>['stock shares']>colloquial>I own a lot of stock.
+NUMBER>How many shares of stock do you own?>['stock shares']>explanatory>I own a lot of stock.
+NUMBER>How many shares of stock do you own?>['stock shares']>annoyed>I own a lot of stock.
+NUMBER>How many siblings do you have?>['sibling count']>verbose>I have two.
+NUMBER>How many siblings do you have?>['sibling count']>concise>I have two.
+NUMBER>How many siblings do you have?>['sibling count']>colloquial>I have two.
+NUMBER>How many siblings do you have?>['sibling count']>explanatory>I have two.
+NUMBER>How many siblings do you have?>['sibling count']>annoyed>I have two siblings.
+NUMBER>How many skilled laborers are employed in the plant?>['labor count']>verbose>We have a large number of skilled laborers.
+NUMBER>How many skilled laborers are employed in the plant?>['labor count']>concise>The plant employs a large number of skilled laborers.
+NUMBER>How many skilled laborers are employed in the plant?>['labor count']>colloquial>The plant employs a large number of skilled laborers.
+NUMBER>How many skilled laborers are employed in the plant?>['labor count']>explanatory>The plant employs a number of skilled laborers.
+NUMBER>How many skilled laborers are employed in the plant?>['labor count']>annoyed>We have a lot of skilled laborers.
+NUMBER>How many social media accounts do you have?>['social media accounts']>verbose>I have a lot of social media accounts.
+NUMBER>How many social media accounts do you have?>['social media accounts']>concise>I have two.
+NUMBER>How many social media accounts do you have?>['social media accounts']>colloquial>I have a lot of social media accounts.
+NUMBER>How many social media accounts do you have?>['social media accounts']>explanatory>I have a lot of social media accounts.
+NUMBER>How many social media accounts do you have?>['social media accounts']>annoyed>I have a lot of social media accounts.
+NUMBER>How many social media followers do we have?>['social media followers']>verbose>We have a lot of followers on social media.
+NUMBER>How many social media followers do we have?>['social media followers']>concise>We have a lot of followers on social media.
+NUMBER>How many social media followers do we have?>['social media followers']>colloquial>We have a lot of followers on social media.
+NUMBER>How many social media followers do we have?>['social media followers']>explanatory>We have a lot of followers on social media.
+NUMBER>How many social media followers do we have?>['social media followers']>annoyed>We have a lot of followers on social media.
+NUMBER>How many suppliers does the company currently have?>['supplier count']>verbose>The company currently has a number of suppliers.
+NUMBER>How many suppliers does the company currently have?>['supplier count']>concise>The company currently has 3 suppliers.
+NUMBER>How many suppliers does the company currently have?>['supplier count']>colloquial>The company currently has a number of suppliers.
+NUMBER>How many suppliers does the company currently have?>['supplier count']>explanatory>The company currently has three suppliers.
+NUMBER>How many suppliers does the company currently have?>['supplier count']>annoyed>The company currently has a number of suppliers.
+NUMBER>How many times have you contacted customer support this year?>['support contact frequency']>verbose>I've contacted customer support a few times this year.
+NUMBER>How many times have you contacted customer support this year?>['support contact frequency']>concise>I've contacted customer support five times this year.
+NUMBER>How many times have you contacted customer support this year?>['support contact frequency']>colloquial>I've contacted customer support about a dozen times this year.
+NUMBER>How many times have you contacted customer support this year?>['support contact frequency']>explanatory>I have contacted customer support three times this year.
+NUMBER>How many times have you contacted customer support this year?>['support contact frequency']>annoyed>I've contacted customer support three times this year.
+NUMBER>How many times have you traveled internationally?>['international travels']>verbose>I've traveled a lot.
+NUMBER>How many times have you traveled internationally?>['international travels']>concise>I've traveled a lot.
+NUMBER>How many times have you traveled internationally?>['international travels']>colloquial>I've traveled a lot.
+NUMBER>How many times have you traveled internationally?>['international travels']>explanatory>I've traveled a lot.
+NUMBER>How many times have you traveled internationally?>['international travels']>annoyed>I've traveled a lot.
+NUMBER>How many times have you visited our website this month?>['website visits']>verbose>I've visited our website 3 times this month.
+NUMBER>How many times have you visited our website this month?>['website visits']>concise>I've been here a few times.
+NUMBER>How many times have you visited our website this month?>['website visits']>colloquial>I've been here a few times.
+NUMBER>How many times have you visited our website this month?>['website visits']>explanatory>I've visited a few times this month.
+NUMBER>How many times have you visited our website this month?>['website visits']>annoyed>I've visited our website a few times this month.
+NUMBER>How many tons of coal are consumed per day?>['fuel consumption']>verbose>The amount of coal consumed per day depends on how much coal is burned.
+NUMBER>How many tons of coal are consumed per day?>['fuel consumption']>concise>I'm not sure how many tons are consumed per day. I'm not sure how many tons of coal are consumed per day. I'm not sure how many tons of coal are consumed per day. I'm not sure how many tons of coal are consumed per day. I'm not sure how many tons of coal are consumed per day. I'm not sure how many tons of coal are consumed per day. I'm not sure how many tons of coal are consumed per day. I'm not sure how many tons of coal are consumed per day. I'm not sure how many tons of coal are consumed per day. I'm not sure how many tons of coal are consumed per day. I'm not sure how many tons of coal are consumed per day. I'm not sure how many tons of coal are consumed per day. I'm not sure how many tons of coal are consumed per day. I'm not sure how many tons of coal are consumed per day. I'm not sure how many tons of coal are consumed per day. I'm not sure how many tons of coal are consumed per day. I'm not sure how many tons of coal are consumed per day. I'm not sure how many tons of coal are consumed per day. I'm not sure how many tons of coal are consumed per day. I'm not sure how many tons of coal are consumed per day. I'm not sure how many tons of coal are consumed per day. I'm not sure how many tons of coal are consumed per day. I'm not sure how many tons of coal are consumed per day. I'm not sure how many tons of coal are consumed per day. I'm not sure how many tons of coal are consumed per day. I'm not sure how many tons of coal are consumed per day. I'm not sure how many tons of coal are consumed per day. I'm not sure how many tons of coal are consumed per day. I'm not sure how many tons of coal are consumed per day. I'm not sure how many tons of coal are consumed per day. I'm not sure how many tons of coal are consumed per day. I'm not sure how many tons of coal are consumed per day. I'm not sure how many tons of coal are consumed per day. I'm not sure how many tons of coal are consumed per day. I'm not sure how many tons of coal are consumed per day. I'm not sure how many tons of coal are consumed per day. I'm not sure how many tons of coal are consumed per day. I'm not sure how many tons of coal are consumed per day. I'm not sure how many tons of coal are consumed per day. I'm not sure how many tons of coal are consumed per day. I'm not sure how many tons of coal are consumed per day. I'm not sure how many tons of coal are consumed per day. I'm not sure how many tons of coal are consumed per day. I'm not sure how many tons of coal are consumed per day. I'm not sure how many tons of coal are consumed per day. I'm not sure how many tons of coal are consumed per day. I'm not sure how many tons of coal are consumed per day. I'm not sure how many tons of coal are consumed per day. I'm not sure how many tons of coal are consumed per day. I'm not sure how many tons of coal are consumed per day. I'm not sure how many tons of coal are consumed per day. I'm not sure how many tons of coal are consumed per day. I'm not sure how many tons of coal are consumed per day. I'm not sure how many tons of coal are consumed per day.
+NUMBER>How many tons of coal are consumed per day?>['fuel consumption']>colloquial>I'm not sure how many tons of coal are consumed per day, but I'm not sure how many tons of coal are consumed per day.
+NUMBER>How many tons of coal are consumed per day?>['fuel consumption']>explanatory>I don't know how many tons of coal are consumed per day.
+NUMBER>How many tons of coal are consumed per day?>['fuel consumption']>annoyed>I don't know how many tons of coal are consumed per day.
+NUMBER>How many tons of steel were produced last quarter?>['production output']>verbose>1.3 million tons of steel were produced last quarter.
+NUMBER>How many tons of steel were produced last quarter?>['production output']>concise>The total number of tons of steel produced last quarter was 2.2 million tons.
+NUMBER>How many tons of steel were produced last quarter?>['production output']>colloquial>About 2.8 million tons of steel were produced last quarter.
+NUMBER>How many tons of steel were produced last quarter?>['production output']>explanatory>1.3 million tons.
+NUMBER>How many tons of steel were produced last quarter?>['production output']>annoyed>We produced a lot of tons of steel last quarter.
+NUMBER>How many tons of waste were generated last month?>['waste generation']>verbose>About 20,000 tons of waste were generated last month.
+NUMBER>How many tons of waste were generated last month?>['waste generation']>concise>The number of tons of waste generated in a month was a few thousand tons.
+NUMBER>How many tons of waste were generated last month?>['waste generation']>colloquial>I think there were a lot of tons of waste generated last month.
+NUMBER>How many tons of waste were generated last month?>['waste generation']>explanatory>I don't know how many tons of waste were generated last month.
+NUMBER>How many tons of waste were generated last month?>['waste generation']>annoyed>Thousands of tons of waste were generated last month.
+NUMBER>How many vacation days did you take last year?>['vacation days']>verbose>I took 4 days of vacation last year.
+NUMBER>How many vacation days did you take last year?>['vacation days']>concise>I took a total of 8 days of vacation last year.
+NUMBER>How many vacation days did you take last year?>['vacation days']>colloquial>I took ten days of vacation last year.
+NUMBER>How many vacation days did you take last year?>['vacation days']>explanatory>I took 5 vacation days last year.
+NUMBER>How many vacation days did you take last year?>['vacation days']>annoyed>I took a lot of vacation days last year.
+NUMBER>How many vehicles do you own?>['vehicle count']>verbose>I own a lot of cars.
+NUMBER>How many vehicles do you own?>['vehicle count']>concise>I own a lot of cars.
+NUMBER>How many vehicles do you own?>['vehicle count']>colloquial>I own a lot of cars.
+NUMBER>How many vehicles do you own?>['vehicle count']>explanatory>I own a lot of cars.
+NUMBER>How many vehicles do you own?>['vehicle count']>annoyed>I own four vehicles.
+NUMBER>How many votes did the candidate receive?>['vote count']>verbose>0 votes.
+NUMBER>How many votes did the candidate receive?>['vote count']>concise>We were able to get a lot of votes.
+NUMBER>How many votes did the candidate receive?>['vote count']>colloquial>The candidate received a lot of votes.
+NUMBER>How many votes did the candidate receive?>['vote count']>explanatory>The candidate received a total of 0 votes.
+NUMBER>How many votes did the candidate receive?>['vote count']>annoyed>The candidate received a lot of votes.
+NUMBER>How many years have you been a customer?>['customer tenure']>verbose>I've been a customer for ten years.
+NUMBER>How many years have you been a customer?>['customer tenure']>concise>I've been a customer for over 10 years.
+NUMBER>How many years have you been a customer?>['customer tenure']>colloquial>I've been a customer for 20 years.
+NUMBER>How many years have you been a customer?>['customer tenure']>explanatory>I've been a customer for over 20 years.
+NUMBER>How many years have you been a customer?>['customer tenure']>annoyed>I've been a customer for over 20 years.
+NUMBER>How many years of education do you have?>['years of education']>verbose>I have ten years of education.
+NUMBER>How many years of education do you have?>['years of education']>concise>I have ten years of education.
+NUMBER>How many years of education do you have?>['years of education']>colloquial>I have ten years of education.
+NUMBER>How many years of education do you have?>['years of education']>explanatory>I have ten years of education.
+NUMBER>How many years of education do you have?>['years of education']>annoyed>I have ten years of education.
+NUMBER>How many years of experience do you have?>['experience years']>verbose>I have ten years of experience.
+NUMBER>How many years of experience do you have?>['experience years']>concise>I have ten years of experience.
+NUMBER>How many years of experience do you have?>['experience years']>colloquial>I have ten years of experience.
+NUMBER>How many years of experience do you have?>['experience years']>explanatory>I have a lot of experience.
+NUMBER>How many years of experience do you have?>['experience years']>annoyed>I have ten years of experience.
+NUMBER>How much did you spend on our products last month?>['monthly spending']>verbose>I spent about $1000 on our products last month.
+NUMBER>How much did you spend on our products last month?>['monthly spending']>concise>I spent about $600 on our products last month.
+NUMBER>How much did you spend on our products last month?>['monthly spending']>colloquial>I spent a lot of money on our products last month.
+NUMBER>How much did you spend on our products last month?>['monthly spending']>explanatory>I spent about $1000 on our products last month.
+NUMBER>How much did you spend on our products last month?>['monthly spending']>annoyed>I spent a lot of money on our products last month.
+NUMBER>On a scale of 1 to 10, how satisfied are you with our service?>['satisfaction rating']>verbose>I'm satisfied with the service.
+NUMBER>On a scale of 1 to 10, how satisfied are you with our service?>['satisfaction rating']>concise>I'm satisfied with the service.
+NUMBER>On a scale of 1 to 10, how satisfied are you with our service?>['satisfaction rating']>colloquial>I'm satisfied with the service.
+NUMBER>On a scale of 1 to 10, how satisfied are you with our service?>['satisfaction rating']>explanatory>I'm satisfied with the service.
+NUMBER>On a scale of 1 to 10, how satisfied are you with our service?>['satisfaction rating']>annoyed>I'm satisfied with the service.
+NUMBER>On a scale of 1-5, how likely are you to recommend us?>['recommendation likelihood']>verbose>I'm not sure.
+NUMBER>On a scale of 1-5, how likely are you to recommend us?>['recommendation likelihood']>concise>I'm very likely to recommend you.
+NUMBER>On a scale of 1-5, how likely are you to recommend us?>['recommendation likelihood']>colloquial>I'm not sure if I'm going to recommend you or not.
+NUMBER>On a scale of 1-5, how likely are you to recommend us?>['recommendation likelihood']>explanatory>I'm very likely to recommend you.
+NUMBER>On a scale of 1-5, how likely are you to recommend us?>['recommendation likelihood']>annoyed>I'm not sure.
+NUMBER>What is the account balance?>['balance']>verbose>The account balance is a balance of a company's assets, not a company's liabilities.
+NUMBER>What is the account balance?>['balance']>concise>The balance is the balance of the account.
+NUMBER>What is the account balance?>['balance']>colloquial>The balance is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account, which is the balance of the account.
+NUMBER>What is the account balance?>['balance']>explanatory>The balance of the account balance is a balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the balance of the
+NUMBER>What is the account balance?>['balance']>annoyed>I don't know.
+NUMBER>What is the age of the participant?>['age']>verbose>The age of the participant is 35.
+NUMBER>What is the age of the participant?>['age']>concise>I'm 18 years old.
+NUMBER>What is the age of the participant?>['age']>colloquial>I'm 25 years old.
+NUMBER>What is the age of the participant?>['age']>explanatory>The age of the participant is 25 years old.
+NUMBER>What is the age of the participant?>['age']>annoyed>The age of the participant is 20 years old.
+NUMBER>What is the altitude in meters?>['altitude']>verbose>The altitude is.585 meters above sea level.
+NUMBER>What is the altitude in meters?>['altitude']>concise>The altitude is about 2,000 meters above sea level.
+NUMBER>What is the altitude in meters?>['altitude']>colloquial>The altitude in meters.
+NUMBER>What is the altitude in meters?>['altitude']>explanatory>The altitude in meters.
+NUMBER>What is the altitude in meters?>['altitude']>annoyed>The altitude in meters is about 0 meters above sea level.
+NUMBER>What is the amount of the loan?>['loan amount']>verbose>$500,000.
+NUMBER>What is the amount of the loan?>['loan amount']>concise>$1 million.
+NUMBER>What is the amount of the loan?>['loan amount']>colloquial>$500,000.
+NUMBER>What is the amount of the loan?>['loan amount']>explanatory>$500,000.
+NUMBER>What is the amount of the loan?>['loan amount']>annoyed>The amount of the loan is a lot of money.
+NUMBER>What is the annual budget for employee training and development?>['training budget']>verbose>The annual budget for employee training and development is $600,000 per year.
+NUMBER>What is the annual budget for employee training and development?>['training budget']>concise>The annual budget for employee training and development is $30,000 per year.
+NUMBER>What is the annual budget for employee training and development?>['training budget']>colloquial>The annual budget for employee training and development is $600,000 per year.
+NUMBER>What is the annual budget for employee training and development?>['training budget']>explanatory>The annual budget for employee training and development is $600,000 per year.
+NUMBER>What is the annual budget for employee training and development?>['training budget']>annoyed>The annual budget for employee training and development is $600,000 per year.
+NUMBER>What is the annual revenue target?>['revenue']>verbose>The annual revenue target is $1.5 billion.
+NUMBER>What is the annual revenue target?>['revenue']>concise>The annual revenue target is $2.2 billion.
+NUMBER>What is the annual revenue target?>['revenue']>colloquial>I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure.
+NUMBER>What is the annual revenue target?>['revenue']>explanatory>The annual revenue target for the company is $2.2 billion.
+NUMBER>What is the annual revenue target?>['revenue']>annoyed>The annual revenue target is $1.5 billion.
+NUMBER>What is the average age of the machinery in years?>['machinery age']>verbose>The machinery has been in operation for a long time.
+NUMBER>What is the average age of the machinery in years?>['machinery age']>concise>The machinery has been in operation for more than a century.
+NUMBER>What is the average age of the machinery in years?>['machinery age']>colloquial>The machinery has been around for a few years now.
+NUMBER>What is the average age of the machinery in years?>['machinery age']>explanatory>The machinery is about 50 years old.
+NUMBER>What is the average age of the machinery in years?>['machinery age']>annoyed>The machinery is about ten years old.
+NUMBER>What is the average cost per unit produced?>['production cost']>verbose>The average cost per unit produced is $3.75.
+NUMBER>What is the average cost per unit produced?>['production cost']>concise>The average cost per unit produced is $1.50 per unit.
+NUMBER>What is the average cost per unit produced?>['production cost']>colloquial>The average cost per unit produced is $1.25 per unit.
+NUMBER>What is the average cost per unit produced?>['production cost']>explanatory>The average cost per unit produced is $1.25 per unit.
+NUMBER>What is the average cost per unit produced?>['production cost']>annoyed>Average cost per unit produced.
+NUMBER>What is the average customer lifetime value?>['customer lifetime value']>verbose>The average customer lifetime value is $1,500 per year.
+NUMBER>What is the average customer lifetime value?>['customer lifetime value']>concise>Average customer lifetime value is a customer's lifetime value.
+NUMBER>What is the average customer lifetime value?>['customer lifetime value']>colloquial>Average customer lifetime value is 30 years.
+NUMBER>What is the average customer lifetime value?>['customer lifetime value']>explanatory>The average customer lifetime value is 30 years.
+NUMBER>What is the average customer lifetime value?>['customer lifetime value']>annoyed>Average customer lifetime value is 3 years.
+NUMBER>What is the average daily energy consumption in kWh?>['energy consumption']>verbose>The average daily energy consumption in kWh in the United States is 7.5 kWh per day.
+NUMBER>What is the average daily energy consumption in kWh?>['energy consumption']>concise>Average daily energy consumption in kWh.
+NUMBER>What is the average daily energy consumption in kWh?>['energy consumption']>colloquial>Average daily energy consumption in kWh.
+NUMBER>What is the average daily energy consumption in kWh?>['energy consumption']>explanatory>Average daily energy consumption in kWh.
+NUMBER>What is the average daily energy consumption in kWh?>['energy consumption']>annoyed>The average daily energy consumption in kWh is about 0.5 kWh per day.
+NUMBER>What is the average deal size in dollars?>['deal size']>verbose>$600.
+NUMBER>What is the average deal size in dollars?>['deal size']>concise>The average deal size in dollars is $1000.
+NUMBER>What is the average deal size in dollars?>['deal size']>colloquial>The average deal size in dollars.
+NUMBER>What is the average deal size in dollars?>['deal size']>explanatory>The average deal size in dollars is $27.
+NUMBER>What is the average deal size in dollars?>['deal size']>annoyed>The average deal size in dollars is $1000.
+NUMBER>What is the average employee satisfaction rating (out of 5)?>['employee satisfaction']>verbose>Average satisfaction rating.
+NUMBER>What is the average employee satisfaction rating (out of 5)?>['employee satisfaction']>concise>Average satisfaction rating is 5 out of 5.
+NUMBER>What is the average employee satisfaction rating (out of 5)?>['employee satisfaction']>colloquial>Average employee satisfaction rating is 5 out of 5.
+NUMBER>What is the average employee satisfaction rating (out of 5)?>['employee satisfaction']>explanatory>Average employee satisfaction rating is 5 out of 5.
+NUMBER>What is the average employee satisfaction rating (out of 5)?>['employee satisfaction']>annoyed>The average employee satisfaction rating is 5 out of 5.
+NUMBER>What is the average employee tenure in years?>['employee tenure']>verbose>Average tenure is 12 years.
+NUMBER>What is the average employee tenure in years?>['employee tenure']>concise>The average tenure in years is 5 years.
+NUMBER>What is the average employee tenure in years?>['employee tenure']>colloquial>The average tenure in years is ten years.
+NUMBER>What is the average employee tenure in years?>['employee tenure']>explanatory>The average tenure of an employee in years is 3 years.
+NUMBER>What is the average employee tenure in years?>['employee tenure']>annoyed>The average tenure in years is 3 years.
+NUMBER>What is the average lead time for order fulfillment in days?>['lead time']>verbose>The average lead time for order fulfillment in days is 3 days.
+NUMBER>What is the average lead time for order fulfillment in days?>['lead time']>concise>The average lead time for order fulfillment in days is 3 days.
+NUMBER>What is the average lead time for order fulfillment in days?>['lead time']>colloquial>The average lead time for order fulfillment in days is 3 days.
+NUMBER>What is the average lead time for order fulfillment in days?>['lead time']>explanatory>The average lead time for order fulfillment in days is 365 days.
+NUMBER>What is the average lead time for order fulfillment in days?>['lead time']>annoyed>The average lead time for order fulfillment in days is 365 days.
+NUMBER>What is the average length of a production run in hours?>['production run length']>verbose>The average length of a production run in hours is 1 hour.
+NUMBER>What is the average length of a production run in hours?>['production run length']>concise>The average length of a production run in hours is 12 hours.
+NUMBER>What is the average length of a production run in hours?>['production run length']>colloquial>The average length of a production run in hours is 8 hours.
+NUMBER>What is the average length of a production run in hours?>['production run length']>explanatory>The average length of a production run in hours is 1 hour.
+NUMBER>What is the average length of a production run in hours?>['production run length']>annoyed>Average length of a production run in hours.
+NUMBER>What is the average machine downtime in hours per week?>['machine downtime']>verbose>The average machine downtime per week is 3 hours per week.
+NUMBER>What is the average machine downtime in hours per week?>['machine downtime']>concise>The average machine downtime per week is 3 hours per week.
+NUMBER>What is the average machine downtime in hours per week?>['machine downtime']>colloquial>The average downtime in a week is about 8 hours per week.
+NUMBER>What is the average machine downtime in hours per week?>['machine downtime']>explanatory>The average downtime per week is 8 hours per week.
+NUMBER>What is the average machine downtime in hours per week?>['machine downtime']>annoyed>The average machine downtime in hours per week is 3 hours per week.
+NUMBER>What is the average order value?>['average order value']>verbose>The average order value for a single item is $1.25.
+NUMBER>What is the average order value?>['average order value']>concise>The average order value is a dollar.
+NUMBER>What is the average order value?>['average order value']>colloquial>The average order value is $80.
+NUMBER>What is the average order value?>['average order value']>explanatory>Average order value.
+NUMBER>What is the average order value?>['average order value']>annoyed>The average order value is 1.
+NUMBER>What is the average production yield percentage?>['production yield']>verbose>5%.
+NUMBER>What is the average production yield percentage?>['production yield']>concise>Average production yield percentage.
+NUMBER>What is the average production yield percentage?>['production yield']>colloquial>Average production yield percentage.
+NUMBER>What is the average production yield percentage?>['production yield']>explanatory>Average production yield percentage.
+NUMBER>What is the average production yield percentage?>['production yield']>annoyed>Average production yield percentage.
+NUMBER>What is the average response time to customer inquiries?>['response time']>verbose>Average response time is 5 minutes.
+NUMBER>What is the average response time to customer inquiries?>['response time']>concise>The average response time is a few minutes.
+NUMBER>What is the average response time to customer inquiries?>['response time']>colloquial>The average response time to customer inquiries is a few minutes.
+NUMBER>What is the average response time to customer inquiries?>['response time']>explanatory>The average response time to customer inquiries is a few minutes.
+NUMBER>What is the average response time to customer inquiries?>['response time']>annoyed>The average response time to customer inquiries is a few minutes.
+NUMBER>What is the capacitance in farads?>['capacitance']>verbose>The capacitance of a farad is a constant.
+NUMBER>What is the capacitance in farads?>['capacitance']>concise>The capacitance of a farad is about a tenth of a farad's power.
+NUMBER>What is the capacitance in farads?>['capacitance']>colloquial>The capacitance of a farad is equal to the number of farads in a meter.
+NUMBER>What is the capacitance in farads?>['capacitance']>explanatory>The capacitance of a farad is 0.5 farads.
+NUMBER>What is the capacitance in farads?>['capacitance']>annoyed>The capacitance in farads is very low.
+NUMBER>What is the client account number?>['account number']>verbose>The client account number is 128.
+NUMBER>What is the client account number?>['account number']>concise>The client account number is 1.
+NUMBER>What is the client account number?>['account number']>colloquial>The client account number is 212.
+NUMBER>What is the client account number?>['account number']>explanatory>The client account number is 212.
+NUMBER>What is the client account number?>['account number']>annoyed>0
+NUMBER>What is the closing rate for sales leads (as a percentage)?>['closing rate']>verbose>The closing rate for sales leads (as a percentage) is 80%.
+NUMBER>What is the closing rate for sales leads (as a percentage)?>['closing rate']>concise>The closing rate for sales leads (as a percentage) is 80%.
+NUMBER>What is the closing rate for sales leads (as a percentage)?>['closing rate']>colloquial>The closing rate for sales leads (as a percentage) is 11%.
+NUMBER>What is the closing rate for sales leads (as a percentage)?>['closing rate']>explanatory>The closing rate for sales leads (as a percentage) is 14%.
+NUMBER>What is the closing rate for sales leads (as a percentage)?>['closing rate']>annoyed>The closing rate for sales leads (as a percentage) is about 20%.
+NUMBER>What is the code number?>['code']>verbose>I don't know.
+NUMBER>What is the code number?>['code']>concise>The code number is 00.
+NUMBER>What is the code number?>['code']>colloquial>0
+NUMBER>What is the code number?>['code']>explanatory>I don't know.
+NUMBER>What is the code number?>['code']>annoyed>I didn't know.
+NUMBER>What is the company's overall safety rating score?>['safety rating']>verbose>It has a score of 0 out of 100.
+NUMBER>What is the company's overall safety rating score?>['safety rating']>concise>The company's overall safety rating score is 79.
+NUMBER>What is the company's overall safety rating score?>['safety rating']>colloquial>The company's overall safety rating score is 0 or below.
+NUMBER>What is the company's overall safety rating score?>['safety rating']>explanatory>The company's overall safety rating score is 94.
+NUMBER>What is the company's overall safety rating score?>['safety rating']>annoyed>The company's overall safety rating score is 0 out of 100.
+NUMBER>What is the company's tax ID number?>['tax ID']>verbose>401.
+NUMBER>What is the company's tax ID number?>['tax ID']>concise>501.
+NUMBER>What is the company's tax ID number?>['tax ID']>colloquial>I'm not sure, but I don't know.
+NUMBER>What is the company's tax ID number?>['tax ID']>explanatory>450.
+NUMBER>What is the company's tax ID number?>['tax ID']>annoyed>I don't know.
+NUMBER>What is the conversion rate percentage?>['conversion rate']>verbose>The conversion rate is a percentage of the total conversion rate.
+NUMBER>What is the conversion rate percentage?>['conversion rate']>concise>The conversion rate is about a tenth of a percent.
+NUMBER>What is the conversion rate percentage?>['conversion rate']>colloquial>The conversion rate is a percentage of the total conversion rate.
+NUMBER>What is the conversion rate percentage?>['conversion rate']>explanatory>The conversion rate is a percentage of the total conversion rate.
+NUMBER>What is the conversion rate percentage?>['conversion rate']>annoyed>The conversion rate is a percentage of the total conversion rate.
+NUMBER>What is the current in amperes?>['current']>verbose>The current in amperes is constant.
+NUMBER>What is the current in amperes?>['current']>concise>The current in amperes is constant.
+NUMBER>What is the current in amperes?>['current']>colloquial>The current in amperes is the current in a meter. The current in amperes is the current in a meter. The current in amperes is the current in a meter. The current in amperes is the current in a meter. The current in amperes is the current in a meter. The current in amperes is the current in a meter. The current in amperes is the current in a meter. The current in amperes is the current in a meter. The current in amperes is the current in a meter. The current in amperes is the current in a meter. The current in amperes is the current in a meter. The current in amperes is the current in a meter. The current in amperes is the current in a meter. The current in amperes is the current in a meter. The current in amperes is the current in a meter. The current in amperes is the current in a meter. The current in amperes is the current in a meter. The current in amperes is the current in a meter. The current in amperes is the current in a meter. The current in amperes is the current in a meter. The current in amperes is the current in a meter. The current in amperes is the current in a meter. The current in amperes is the current in a meter. The current in amperes is the current in a meter. The current in amperes is the current in a meter. The current in amperes is the current in a meter.
+NUMBER>What is the current in amperes?>['current']>explanatory>The current in amperes is constant.
+NUMBER>What is the current in amperes?>['current']>annoyed>The current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes is the current in amperes
+NUMBER>What is the current interest rate?>['interest rate']>verbose>The current interest rate is 0.25%.
+NUMBER>What is the current interest rate?>['interest rate']>concise>The current interest rate is 0.25%.
+NUMBER>What is the current interest rate?>['interest rate']>colloquial>The current interest rate is 0.15%.
+NUMBER>What is the current interest rate?>['interest rate']>explanatory>The current interest rate is 0.15%.
+NUMBER>What is the current interest rate?>['interest rate']>annoyed>The current interest rate is 0.25%.
+NUMBER>What is the current inventory level of raw materials?>['inventory level']>verbose>The current inventory level of raw materials is 30,000.
+NUMBER>What is the current inventory level of raw materials?>['inventory level']>concise>The inventory level of raw materials is about 80% of the total inventory of raw materials.
+NUMBER>What is the current inventory level of raw materials?>['inventory level']>colloquial>The current inventory level of raw materials is 80%.
+NUMBER>What is the current inventory level of raw materials?>['inventory level']>explanatory>The current inventory level of raw materials is 20,000.
+NUMBER>What is the current inventory level of raw materials?>['inventory level']>annoyed>The current inventory level of raw materials is 20 million tons.
+NUMBER>What is the current market share percentage?>['market share']>verbose>The current market share percentage is 80%.
+NUMBER>What is the current market share percentage?>['market share']>concise>It's about 80%.
+NUMBER>What is the current market share percentage?>['market share']>colloquial>The current market share percentage is 80%.
+NUMBER>What is the current market share percentage?>['market share']>explanatory>The current market share percentage is 80%.
+NUMBER>What is the current market share percentage?>['market share']>annoyed>The current market share percentage is 12%.
+NUMBER>What is the current order backlog in units?>['order backlog']>verbose>The backlog in units is high.
+NUMBER>What is the current order backlog in units?>['order backlog']>concise>The current order backlog in units is a total of 12 units.
+NUMBER>What is the current order backlog in units?>['order backlog']>colloquial>The backlog in units in the U.S. is a backlog in units in the U.S.
+NUMBER>What is the current order backlog in units?>['order backlog']>explanatory>The current order backlog in units is a lot of units.
+NUMBER>What is the current order backlog in units?>['order backlog']>annoyed>The backlog in units is high.
+NUMBER>What is the current stock price?>['stock price']>verbose>The current stock price is $2.65.
+NUMBER>What is the current stock price?>['stock price']>concise>The current stock price is $2.50.
+NUMBER>What is the current stock price?>['stock price']>colloquial>$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+NUMBER>What is the current stock price?>['stock price']>explanatory>The current stock price is $1.25.
+NUMBER>What is the current stock price?>['stock price']>annoyed>The current stock price is $1.50.
+NUMBER>What is the customer churn rate (as a percentage)?>['customer churn']>verbose>The customer churn rate is a percentage.
+NUMBER>What is the customer churn rate (as a percentage)?>['customer churn']>concise>The customer churn rate is a percentage.
+NUMBER>What is the customer churn rate (as a percentage)?>['customer churn']>colloquial>The customer churn rate is a percentage.
+NUMBER>What is the customer churn rate (as a percentage)?>['customer churn']>explanatory>The customer churn rate is a percentage.
+NUMBER>What is the customer churn rate (as a percentage)?>['customer churn']>annoyed>The customer churn rate is about 1%.
+NUMBER>What is the customer satisfaction rating (on a scale of 1-10)?>['satisfaction rating']>verbose>1/10.
+NUMBER>What is the customer satisfaction rating (on a scale of 1-10)?>['satisfaction rating']>concise>1/10.
+NUMBER>What is the customer satisfaction rating (on a scale of 1-10)?>['satisfaction rating']>colloquial>1/10.
+NUMBER>What is the customer satisfaction rating (on a scale of 1-10)?>['satisfaction rating']>explanatory>1/10.
+NUMBER>What is the customer satisfaction rating (on a scale of 1-10)?>['satisfaction rating']>annoyed>1/10.
+NUMBER>What is the discount percentage?>['percentage']>verbose>It's a percentage of the price of a product.
+NUMBER>What is the discount percentage?>['percentage']>concise>The discount percentage is a percentage of the total price of a product.
+NUMBER>What is the discount percentage?>['percentage']>colloquial>The discount percentage is a percentage of the total price of the product.
+NUMBER>What is the discount percentage?>['percentage']>explanatory>The discount percentage is a percentage.
+NUMBER>What is the discount percentage?>['percentage']>annoyed>The discount percentage is very low.
+NUMBER>What is the due date (numerical representation, e.g., MMDDYYYY)?>['date']>verbose>YYYYY.
+NUMBER>What is the due date (numerical representation, e.g., MMDDYYYY)?>['date']>concise>YYYYY.
+NUMBER>What is the due date (numerical representation, e.g., MMDDYYYY)?>['date']>colloquial>MNDDYYYYY.
+NUMBER>What is the due date (numerical representation, e.g., MMDDYYYY)?>['date']>explanatory>MNDDYYYYY.
+NUMBER>What is the due date (numerical representation, e.g., MMDDYYYY)?>['date']>annoyed>YYYYY.
+NUMBER>What is the employee turnover rate (as a percentage)?>['employee turnover']>verbose>The turnover rate is a percentage of the employee turnover rate.
+NUMBER>What is the employee turnover rate (as a percentage)?>['employee turnover']>concise>The rate of employee turnover is a percentage of the total number of employees in a company.
+NUMBER>What is the employee turnover rate (as a percentage)?>['employee turnover']>colloquial>The turnover rate is a percentage of the total employee turnover.
+NUMBER>What is the employee turnover rate (as a percentage)?>['employee turnover']>explanatory>The rate of employee turnover is about 1%.
+NUMBER>What is the employee turnover rate (as a percentage)?>['employee turnover']>annoyed>The turnover rate is a percentage of the total number of employees.
+NUMBER>What is the energy in joules?>['energy']>verbose>joules.
+NUMBER>What is the energy in joules?>['energy']>concise>joules.
+NUMBER>What is the energy in joules?>['energy']>colloquial>The energy in joules is the same as the energy in kilowatts.
+NUMBER>What is the energy in joules?>['energy']>explanatory>joules.
+NUMBER>What is the energy in joules?>['energy']>annoyed>The energy in joules is the same as the energy in joules.
+NUMBER>What is the frequency in Hertz?>['frequency']>verbose>The frequency in Hertz is the frequency in kHz.
+NUMBER>What is the frequency in Hertz?>['frequency']>concise>Hertz is the frequency of light.
+NUMBER>What is the frequency in Hertz?>['frequency']>colloquial>Hertz is the frequency of light.
+NUMBER>What is the frequency in Hertz?>['frequency']>explanatory>Hertz is the frequency of light.
+NUMBER>What is the frequency in Hertz?>['frequency']>annoyed>Hertz is the frequency of light.
+NUMBER>What is the height of the building?>['height']>verbose>The height of the building is about 5 feet.
+NUMBER>What is the height of the building?>['height']>concise>The height of the building is about 2,000 feet.
+NUMBER>What is the height of the building?>['height']>colloquial>The height of the building is about a foot above sea level.
+NUMBER>What is the height of the building?>['height']>explanatory>The height of the building is about a foot.
+NUMBER>What is the height of the building?>['height']>annoyed>The building is about a foot tall.
+NUMBER>What is the inductance in henries?>['inductance']>verbose>He was inducted into the Hall of Fame.
+NUMBER>What is the inductance in henries?>['inductance']>concise>He was inducted into the Hall of Fame.
+NUMBER>What is the inductance in henries?>['inductance']>colloquial>He was inducted into the Hall of Fame.
+NUMBER>What is the inductance in henries?>['inductance']>explanatory>He was inducted into the Hall of Fame.
+NUMBER>What is the inductance in henries?>['inductance']>annoyed>He is a mediocre player.
+NUMBER>What is the interest rate on the loan?>['interest rate']>verbose>The interest rate is 2%.
+NUMBER>What is the interest rate on the loan?>['interest rate']>concise>The interest rate on the loan is 0%.
+NUMBER>What is the interest rate on the loan?>['interest rate']>colloquial>The interest rate on the loan is 1 percent.
+NUMBER>What is the interest rate on the loan?>['interest rate']>explanatory>The interest rate on the loan is 7.5 percent.
+NUMBER>What is the interest rate on the loan?>['interest rate']>annoyed>The interest rate is a bit high.
+NUMBER>What is the invoice number?>['invoice number']>verbose>5000.
+NUMBER>What is the invoice number?>['invoice number']>concise>I'm not sure.
+NUMBER>What is the invoice number?>['invoice number']>colloquial>The invoice number is 1.
+NUMBER>What is the invoice number?>['invoice number']>explanatory>I don't know.
+NUMBER>What is the invoice number?>['invoice number']>annoyed>The invoice number is 5000.
+NUMBER>What is the latitude coordinate?>['latitude']>verbose>The latitude coordinate is -90°, and the compass coordinate is -90°.
+NUMBER>What is the latitude coordinate?>['latitude']>concise>The latitude coordinate is -74°N.
+NUMBER>What is the latitude coordinate?>['latitude']>colloquial>The latitude coordinate is -80°N and the longitude coordinate is -90°N.
+NUMBER>What is the latitude coordinate?>['latitude']>explanatory>The latitude coordinate of the Earth's axis is -45°N.
+NUMBER>What is the latitude coordinate?>['latitude']>annoyed>I'm not sure.
+NUMBER>What is the longitude coordinate?>['longitude']>verbose>The coordinates for the longitude and longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the longitude coordinates for the long
+NUMBER>What is the longitude coordinate?>['longitude']>concise>I'm not sure. I'm not sure. I'm not sure. I'm not sure.
+NUMBER>What is the longitude coordinate?>['longitude']>colloquial>-83.0.
+NUMBER>What is the longitude coordinate?>['longitude']>explanatory>The longitude coordinates of the longitude coordinates are 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°, 0°
+NUMBER>What is the longitude coordinate?>['longitude']>annoyed>The longitude coordinates are: -34°, -34°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°, -35°,
+NUMBER>What is the model year of your car?>['year']>verbose>The model year of my car is 2000.
+NUMBER>What is the model year of your car?>['year']>concise>2001.
+NUMBER>What is the model year of your car?>['year']>colloquial>The model year of my car is 2002.
+NUMBER>What is the model year of your car?>['year']>explanatory>The model year of my car is 2005.
+NUMBER>What is the model year of your car?>['year']>annoyed>It's a 2006 model year.
+NUMBER>What is the net profit margin (as a percentage)?>['net profit margin']>verbose>The net profit margin (as a percentage) is a percentage of a company's revenue.
+NUMBER>What is the net profit margin (as a percentage)?>['net profit margin']>concise>The net profit margin (as a percentage) is a percentage of a company's revenue.
+NUMBER>What is the net profit margin (as a percentage)?>['net profit margin']>colloquial>The net profit margin is a percentage of the company's revenue.
+NUMBER>What is the net profit margin (as a percentage)?>['net profit margin']>explanatory>The net profit margin is a percentage of a company's profits.
+NUMBER>What is the net profit margin (as a percentage)?>['net profit margin']>annoyed>The net profit margin is a percentage of the company's earnings.
+NUMBER>What is the number of defective units produced last month?>['defect count']>verbose>The number of defective units produced last month was 57.
+NUMBER>What is the number of defective units produced last month?>['defect count']>concise>The number of defective units produced last month was a quarter of the total number of units produced last month.
+NUMBER>What is the number of defective units produced last month?>['defect count']>colloquial>The number of defective units produced last month was 57.
+NUMBER>What is the number of defective units produced last month?>['defect count']>explanatory>0 defective units produced last month.
+NUMBER>What is the number of defective units produced last month?>['defect count']>annoyed>There were a total of 104 defective units produced last month.
+NUMBER>What is the number of defects found?>['defect count']>verbose>0
+NUMBER>What is the number of defects found?>['defect count']>concise>The number of defects found is 0 defects.
+NUMBER>What is the number of defects found?>['defect count']>colloquial>The number of defects found.
+NUMBER>What is the number of defects found?>['defect count']>explanatory>The number of defects found is one.
+NUMBER>What is the number of defects found?>['defect count']>annoyed>0
+NUMBER>What is the number of shifts operating per day?>['shift count']>verbose>There are two shifts per day.
+NUMBER>What is the number of shifts operating per day?>['shift count']>concise>Each shift has two shifts.
+NUMBER>What is the number of shifts operating per day?>['shift count']>colloquial>The number of shifts operating per day.
+NUMBER>What is the number of shifts operating per day?>['shift count']>explanatory>There are three shifts per day.
+NUMBER>What is the number of shifts operating per day?>['shift count']>annoyed>The number of shifts operating per day.
+NUMBER>What is the number of support tickets resolved today?>['support tickets resolved']>verbose>The number of support tickets resolved today is one.
+NUMBER>What is the number of support tickets resolved today?>['support tickets resolved']>concise>The number of support tickets resolved today is 1.
+NUMBER>What is the number of support tickets resolved today?>['support tickets resolved']>colloquial>I'm not sure.
+NUMBER>What is the number of support tickets resolved today?>['support tickets resolved']>explanatory>I'm not sure. I'm not sure. I'm not sure.
+NUMBER>What is the number of support tickets resolved today?>['support tickets resolved']>annoyed>The number of support tickets resolved today is over 100.
+NUMBER>What is the number of the building?>['building number']>verbose>The number of the building is 50.
+NUMBER>What is the number of the building?>['building number']>concise>123.
+NUMBER>What is the number of the building?>['building number']>colloquial>The building is located on the left side of the street.
+NUMBER>What is the number of the building?>['building number']>explanatory>117.
+NUMBER>What is the number of the building?>['building number']>annoyed>The building's number is 111.
+NUMBER>What is the number of website visitors per day?>['website visitors']>verbose>The number of visitors per day.
+NUMBER>What is the number of website visitors per day?>['website visitors']>concise>The number of visitors per day.
+NUMBER>What is the number of website visitors per day?>['website visitors']>colloquial>I think it's about a dozen people per day.
+NUMBER>What is the number of website visitors per day?>['website visitors']>explanatory>The number of visitors per day.
+NUMBER>What is the number of website visitors per day?>['website visitors']>annoyed>There are a lot of people on the website every day.
+NUMBER>What is the number of welding machines currently in operation?>['equipment count']>verbose>The number of welding machines currently in operation is about 2,000.
+NUMBER>What is the number of welding machines currently in operation?>['equipment count']>concise>The number of welding machines currently in operation is about 2,000.
+NUMBER>What is the number of welding machines currently in operation?>['equipment count']>colloquial>The number of welding machines currently in operation is about 200.
+NUMBER>What is the number of welding machines currently in operation?>['equipment count']>explanatory>Welding machines are currently in operation.
+NUMBER>What is the number of welding machines currently in operation?>['equipment count']>annoyed>Welding machines are currently in operation.
+NUMBER>What is the on-time delivery rate in percentage?>['delivery rate']>verbose>On-time delivery rate.
+NUMBER>What is the on-time delivery rate in percentage?>['delivery rate']>concise>On-time delivery rate.
+NUMBER>What is the on-time delivery rate in percentage?>['delivery rate']>colloquial>On-time delivery rate.
+NUMBER>What is the on-time delivery rate in percentage?>['delivery rate']>explanatory>On-time delivery rate.
+NUMBER>What is the on-time delivery rate in percentage?>['delivery rate']>annoyed>On-time delivery rate.
+NUMBER>What is the order number?>['order number']>verbose>I think the order number is 1.
+NUMBER>What is the order number?>['order number']>concise>I don't know.
+NUMBER>What is the order number?>['order number']>colloquial>I don't know.
+NUMBER>What is the order number?>['order number']>explanatory>I don't know.
+NUMBER>What is the order number?>['order number']>annoyed>I'm not sure.
+NUMBER>What is the percentage of market share?>['market share']>verbose>The percentage of market share is about 1%.
+NUMBER>What is the percentage of market share?>['market share']>concise>The percentage of market share is about 1%.
+NUMBER>What is the percentage of market share?>['market share']>colloquial>The percentage of market share is about 1%.
+NUMBER>What is the percentage of market share?>['market share']>explanatory>The percentage of market share is about 1%.
+NUMBER>What is the percentage of market share?>['market share']>annoyed>I think it's about half the market share.
+NUMBER>What is the plant's total capacity in square meters?>['plant capacity']>verbose>The plant's total capacity in square meters is 25,000 square meters.
+NUMBER>What is the plant's total capacity in square meters?>['plant capacity']>concise>The plant's total capacity is 50,000 square meters.
+NUMBER>What is the plant's total capacity in square meters?>['plant capacity']>colloquial>The plant's total capacity is 30,000 square meters.
+NUMBER>What is the plant's total capacity in square meters?>['plant capacity']>explanatory>The plant's total capacity is 250,000 square meters.
+NUMBER>What is the plant's total capacity in square meters?>['plant capacity']>annoyed>The plant's total capacity in square meters is 30,000 square meters.
+NUMBER>What is the population of this city?>['population']>verbose>The population of this city is about 30,000.
+NUMBER>What is the population of this city?>['population']>concise>The population of this city is about 250,000.
+NUMBER>What is the population of this city?>['population']>colloquial>There are a lot of people living in this city.
+NUMBER>What is the population of this city?>['population']>explanatory>The population of this city is about 30,000.
+NUMBER>What is the population of this city?>['population']>annoyed>The population of this city is about 75,000.
+NUMBER>What is the power in watts?>['power']>verbose>240 watts.
+NUMBER>What is the power in watts?>['power']>concise>watts is the power in watts.
+NUMBER>What is the power in watts?>['power']>colloquial>5000 watts.
+NUMBER>What is the power in watts?>['power']>explanatory>watts is the power in watts.
+NUMBER>What is the power in watts?>['power']>annoyed>watts.
+NUMBER>What is the pressure in pascals?>['pressure']>verbose>The pressure of a syllable is the same as the pressure of a syllable, but the pressure of a syllable is the same as the pressure of a syllable, and the pressure of a syllable is the same as the pressure of a syllable, and the pressure of a syllable is the same as the pressure of a syllable, and the pressure of a syllable is the same as the pressure of a syllable, and the pressure of a syllable is the same as the pressure of a syllable, and the pressure of a syllable is the same as the pressure of a syllable, and the pressure of a syllable is the same as the pressure of a syllable, and the pressure of a syllable is the same as the pressure of a syllable, and the pressure of a syllable is the same as the pressure of a syllable, and the pressure of a syllable is the same as the pressure of a syllable, and the pressure of a syllable is the same as the pressure of a syllable, and the pressure of a syllable is the same as the pressure of a syllable, and the pressure of a syllable is the same as the pressure of a syllable, and the pressure of a syllable is the same as the pressure of a syllable, and the pressure of a syllable is the same as the pressure of a syllable, and the pressure of a syllable is the same as the pressure of a syllable, and the pressure of a syllable is the same as the pressure of a syllable, and the pressure of a syllable is the same as the pressure of a syllable, and the pressure of a syllable is the same as the pressure of a syllable, and the pressure of a syllable is the same as the pressure of a syllable, and the pressure of a syllable is the same as the pressure of a syllable, and the pressure of a syllable is the same as the pressure of a syllable, and the pressure of a syllable is the same as the pressure of a syllable, and the pressure of a syllable is the same as the pressure of a syllable, and the pressure of a syllable is the same as the pressure of a syllable, and the pressure of a syllable is the same as the pressure of a syllable, and the pressure of a syllable is the same as the pressure of a syllable, and the pressure of a syllable is the same as the pressure of a syllable, and the pressure of a syllable is the same as the pressure of a syllable, and the pressure of a syllable is the same as the pressure of a syllable, and the pressure of a syllable is the same as the pressure of a syllable, and the pressure of a syllable is the same as the pressure of a syllable, and the pressure of a syllable is the same as the pressure of a syllable.
+NUMBER>What is the pressure in pascals?>['pressure']>concise>The pressure of a syllable is the pressure of the syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's syllable's
+NUMBER>What is the pressure in pascals?>['pressure']>colloquial>The pressure in the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the syllables of the sy
+NUMBER>What is the pressure in pascals?>['pressure']>explanatory>The pressure in pascals is equal to the pressure in a syllable.
+NUMBER>What is the pressure in pascals?>['pressure']>annoyed>None of the above choices.
+NUMBER>What is the price of this item?>['price']>verbose>The price of this item is a lot more than the price of the item itself.
+NUMBER>What is the price of this item?>['price']>concise>The price of this item is $1.25.
+NUMBER>What is the price of this item?>['price']>colloquial>The price of this item is $2.50.
+NUMBER>What is the price of this item?>['price']>explanatory>The price is a lot of money.
+NUMBER>What is the price of this item?>['price']>annoyed>The price of this item is a lot more than the price of the item itself.
+NUMBER>What is the product ID number?>['product ID']>verbose>0
+NUMBER>What is the product ID number?>['product ID']>concise>The product ID number is 00.
+NUMBER>What is the product ID number?>['product ID']>colloquial>I have not found a product ID number, but I have found a product ID number.
+NUMBER>What is the product ID number?>['product ID']>explanatory>I think the product ID number is 512.
+NUMBER>What is the product ID number?>['product ID']>annoyed>I don't know.
+NUMBER>What is the project budget in dollars?>['budget']>verbose>$1.5 million.
+NUMBER>What is the project budget in dollars?>['budget']>concise>The project budget is $600,000 per year.
+NUMBER>What is the project budget in dollars?>['budget']>colloquial>$500,000.
+NUMBER>What is the project budget in dollars?>['budget']>explanatory>The project budget in dollars.
+NUMBER>What is the project budget in dollars?>['budget']>annoyed>The project budget is about $1 million.
+NUMBER>What is the quantity in stock?>['quantity']>verbose>We have a lot of stock, but we don't have a lot of stock.
+NUMBER>What is the quantity in stock?>['quantity']>concise>We have a lot of stock.
+NUMBER>What is the quantity in stock?>['quantity']>colloquial>We have a lot of stock, but we don't have a lot of stock.
+NUMBER>What is the quantity in stock?>['quantity']>explanatory>We have a lot of stock.
+NUMBER>What is the quantity in stock?>['quantity']>annoyed>We have a lot of stock.
+NUMBER>What is the quantity of items ordered?>['order quantity']>verbose>I need to order a lot of items.
+NUMBER>What is the quantity of items ordered?>['order quantity']>concise>I ordered a lot of items.
+NUMBER>What is the quantity of items ordered?>['order quantity']>colloquial>I've ordered a lot of items.
+NUMBER>What is the quantity of items ordered?>['order quantity']>explanatory>I ordered a lot of items.
+NUMBER>What is the quantity of items ordered?>['order quantity']>annoyed>I ordered a lot of items.
+NUMBER>What is the quantity per unit?>['quantity']>verbose>0.000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+NUMBER>What is the quantity per unit?>['quantity']>concise>The quantity per unit is the quantity per unit.
+NUMBER>What is the quantity per unit?>['quantity']>colloquial>I'm not sure, but I'm not sure.
+NUMBER>What is the quantity per unit?>['quantity']>explanatory>The quantity per unit is a unit.
+NUMBER>What is the quantity per unit?>['quantity']>annoyed>I'm not sure.
+NUMBER>What is the resistance in ohms?>['resistance']>concise>The resistance in ohms is 0.1 ohms.
+NUMBER>What is the resistance in ohms?>['resistance']>colloquial>ohms.
+NUMBER>What is the resistance in ohms?>['resistance']>explanatory>ohms.
+NUMBER>What is the resistance in ohms?>['resistance']>annoyed>The resistance in ohms is very low.
+NUMBER>What is the return on investment (ROI) percentage?>['ROI']>verbose>A percentage of a company's revenue.
+NUMBER>What is the return on investment (ROI) percentage?>['ROI']>concise>1%.
+NUMBER>What is the return on investment (ROI) percentage?>['ROI']>colloquial>I think the return on investment (ROI) is about 4%.
+NUMBER>What is the return on investment (ROI) percentage?>['ROI']>explanatory>The return on investment (ROI) is a percentage of the total investment.
+NUMBER>What is the return on investment (ROI) percentage?>['ROI']>annoyed>The ROI is a percentage of the return on investment (ROI) of a company.
+NUMBER>What is the room number for the meeting?>['room number']>verbose>The room number for the meeting is 20.
+NUMBER>What is the room number for the meeting?>['room number']>concise>58.
+NUMBER>What is the room number for the meeting?>['room number']>colloquial>The meeting starts at 7:00.
+NUMBER>What is the room number for the meeting?>['room number']>explanatory>The meeting is scheduled to start at 7:00 pm.
+NUMBER>What is the room number for the meeting?>['room number']>annoyed>I'm not sure.
+NUMBER>What is the room number?>['room number']>verbose>The number of people in the room.
+NUMBER>What is the room number?>['room number']>concise>I'm not sure.
+NUMBER>What is the room number?>['room number']>colloquial>The number of people in the room.
+NUMBER>What is the room number?>['room number']>explanatory>The room number is 102.
+NUMBER>What is the room number?>['room number']>annoyed>The room number is 2.
+NUMBER>What is the sales target for this quarter?>['sales target']>verbose>We have a target of 3 million new customers.
+NUMBER>What is the sales target for this quarter?>['sales target']>concise>We have a target of 3 million units sold in the first quarter of this year.
+NUMBER>What is the sales target for this quarter?>['sales target']>colloquial>The sales target for this quarter is $27 million.
+NUMBER>What is the sales target for this quarter?>['sales target']>explanatory>I'm not sure. I don't know. I don't know.
+NUMBER>What is the sales target for this quarter?>['sales target']>annoyed>The sales target for this quarter is a quarter-to-quarter increase in sales.
+NUMBER>What is the size in gigabytes?>['size']>verbose>I'd like to know how many gigabytes are in a terabyte.
+NUMBER>What is the size in gigabytes?>['size']>concise>The size of a gigabyte is 256 gigabytes.
+NUMBER>What is the size in gigabytes?>['size']>colloquial>I'm not sure. I don't know how many gigabytes are in a terabyte.
+NUMBER>What is the size in gigabytes?>['size']>explanatory>I'm not sure. I'm not sure.
+NUMBER>What is the size in gigabytes?>['size']>annoyed>The size of a terabyte is 512 gigabytes.
+NUMBER>What is the size of the team in number of people?>['team size']>verbose>The team is a team.
+NUMBER>What is the size of the team in number of people?>['team size']>concise>The team is a team.
+NUMBER>What is the size of the team in number of people?>['team size']>colloquial>The team is a team.
+NUMBER>What is the size of the team in number of people?>['team size']>explanatory>The team has a total of 8 people.
+NUMBER>What is the size of the team in number of people?>['team size']>annoyed>The team is too small.
+NUMBER>What is the speed limit on this highway?>['speed limit']>verbose>The speed limit is 50 mph.
+NUMBER>What is the speed limit on this highway?>['speed limit']>concise>The speed limit is.5 miles per hour.
+NUMBER>What is the speed limit on this highway?>['speed limit']>colloquial>The speed limit is 25 miles per hour.
+NUMBER>What is the speed limit on this highway?>['speed limit']>explanatory>The speed limit is 155 mph.
+NUMBER>What is the speed limit on this highway?>['speed limit']>annoyed>The speed limit is 30mph.
+NUMBER>What is the target production volume for next month?>['production target']>verbose>The target production volume for next month is 3 million units.
+NUMBER>What is the target production volume for next month?>['production target']>concise>The target production volume for next month is 2 million units.
+NUMBER>What is the target production volume for next month?>['production target']>colloquial>The target production volume for next month is 50,000.
+NUMBER>What is the target production volume for next month?>['production target']>explanatory>The target production volume for next month is 2 million units.
+NUMBER>What is the target production volume for next month?>['production target']>annoyed>The target production volume for next month is 50,000 units.
+NUMBER>What is the target reduction in energy consumption by next year?>['energy reduction target']>verbose>The target reduction in energy consumption by the year 2020.
+NUMBER>What is the target reduction in energy consumption by next year?>['energy reduction target']>concise>The target reduction in energy consumption by the year 2020.
+NUMBER>What is the target reduction in energy consumption by next year?>['energy reduction target']>colloquial>The target reduction in energy consumption by 2020 is to reduce energy consumption by 80% by 2020.
+NUMBER>What is the target reduction in energy consumption by next year?>['energy reduction target']>explanatory>The target reduction in energy consumption by the year 2020.
+NUMBER>What is the target reduction in energy consumption by next year?>['energy reduction target']>annoyed>The target reduction in energy consumption by next year is 20 percent.
+NUMBER>What is the temperature in Celsius?>['temperature']>verbose>The temperature in Fahrenheit.
+NUMBER>What is the temperature in Celsius?>['temperature']>concise>The temperature in Celsius is -100 degrees Fahrenheit.
+NUMBER>What is the temperature in Celsius?>['temperature']>colloquial>The temperature in Celsius is 0.002 degrees Fahrenheit.
+NUMBER>What is the temperature in Celsius?>['temperature']>explanatory>The temperature in Celsius is 0.004 degrees Fahrenheit.
+NUMBER>What is the temperature in Celsius?>['temperature']>annoyed>The temperature in Celsius is minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minuscule, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minusculi, minuscul
+NUMBER>What is the total amount spent on research and development last year?>['R&D expenditure']>verbose>$70 million.
+NUMBER>What is the total amount spent on research and development last year?>['R&D expenditure']>concise>The total amount spent on research and development last year was $2 billion.
+NUMBER>What is the total amount spent on research and development last year?>['R&D expenditure']>colloquial>The total amount spent on research and development last year was $5 billion.
+NUMBER>What is the total amount spent on research and development last year?>['R&D expenditure']>explanatory>The total amount spent on research and development last year was $2 billion.
+NUMBER>What is the total amount spent on research and development last year?>['R&D expenditure']>annoyed>The total amount spent on research and development last year was $1.5 billion.
+NUMBER>What is the total area of the factory floor in square feet?>['factory floor area']>verbose>The total area of the factory floor is about 900 square feet.
+NUMBER>What is the total area of the factory floor in square feet?>['factory floor area']>concise>The total area of the factory floor in square feet.
+NUMBER>What is the total area of the factory floor in square feet?>['factory floor area']>colloquial>The total area of the factory floor in square feet.
+NUMBER>What is the total area of the factory floor in square feet?>['factory floor area']>explanatory>The total area of the factory floor in square feet is 5000 square feet.
+NUMBER>What is the total area of the factory floor in square feet?>['factory floor area']>annoyed>The total floor area of the factory floor in square feet is 900 square feet.
+NUMBER>What is the total budget allocated for maintenance this year?>['budget allocation']>verbose>The total budget allocated for maintenance this year is $600,000 per year.
+NUMBER>What is the total budget allocated for maintenance this year?>['budget allocation']>concise>The total budget allocated for maintenance this year is $1.5 million.
+NUMBER>What is the total budget allocated for maintenance this year?>['budget allocation']>colloquial>The total budget allocated for maintenance this year is $600,000 per year.
+NUMBER>What is the total budget allocated for maintenance this year?>['budget allocation']>explanatory>The total budget allocated for maintenance this year is $1,300,000 per year.
+NUMBER>What is the total budget allocated for maintenance this year?>['budget allocation']>annoyed>The total budget allocated for maintenance this year is $2.2 million.
+NUMBER>What is the total number of active users?>['active users']>verbose>The total number of active users is 3000.
+NUMBER>What is the total number of active users?>['active users']>concise>The total number of active users is tens of thousands of users.
+NUMBER>What is the total number of active users?>['active users']>colloquial>There are a total of 58 active users.
+NUMBER>What is the total number of active users?>['active users']>explanatory>There are a total of 3 million active users.
+NUMBER>What is the total number of active users?>['active users']>annoyed>The total number of active users is 30,000.
+NUMBER>What is the total number of certifications held by the company?>['certification count']>verbose>The number of certifications held by the company is over 5000.
+NUMBER>What is the total number of certifications held by the company?>['certification count']>concise>The number of certifications held by the company is about 100.
+NUMBER>What is the total number of certifications held by the company?>['certification count']>colloquial>The total number of certifications held by the company is ten.
+NUMBER>What is the total number of certifications held by the company?>['certification count']>explanatory>The number of certifications held by the company is more than 100.
+NUMBER>What is the total number of certifications held by the company?>['certification count']>annoyed>The number of certifications held by the company is a very small number.
+NUMBER>What is the total number of clients?>['client count']>verbose>There are a lot of clients.
+NUMBER>What is the total number of clients?>['client count']>concise>The total number of clients is tens of thousands of clients.
+NUMBER>What is the total number of clients?>['client count']>colloquial>The total number of clients is 30.
+NUMBER>What is the total number of clients?>['client count']>explanatory>There are a lot of clients.
+NUMBER>What is the total number of clients?>['client count']>annoyed>There are a lot of clients.
+NUMBER>What is the total number of employees?>['employee count']>verbose>The total number of employees in the company is 3000.
+NUMBER>What is the total number of employees?>['employee count']>concise>The total number of employees in the company is about 900.
+NUMBER>What is the total number of employees?>['employee count']>colloquial>There are a total of 0 employees.
+NUMBER>What is the total number of employees?>['employee count']>explanatory>The total number of employees at the company is about 2,000.
+NUMBER>What is the total number of employees?>['employee count']>annoyed>The total number of employees is tens of thousands of employees.
+NUMBER>What is the total number of forklifts used in the warehouse?>['equipment count']>verbose>The total number of forklifts used in the warehouse is about 3,000.
+NUMBER>What is the total number of forklifts used in the warehouse?>['equipment count']>concise>The total number of forklifts in the warehouse is 30,000.
+NUMBER>What is the total number of forklifts used in the warehouse?>['equipment count']>colloquial>There are about 2,000 forklifts in the warehouse.
+NUMBER>What is the total number of forklifts used in the warehouse?>['equipment count']>explanatory>The total number of forklifts in the warehouse is about 2,000.
+NUMBER>What is the total number of forklifts used in the warehouse?>['equipment count']>annoyed>The total number of forklifts in the warehouse is 260.
+NUMBER>What is the total number of machines currently undergoing maintenance?>['maintenance count']>verbose>The total number of machines undergoing maintenance.
+NUMBER>What is the total number of machines currently undergoing maintenance?>['maintenance count']>concise>The number of machines currently undergoing maintenance is about 50.
+NUMBER>What is the total number of machines currently undergoing maintenance?>['maintenance count']>colloquial>The number of machines undergoing maintenance is about 2,000.
+NUMBER>What is the total number of machines currently undergoing maintenance?>['maintenance count']>explanatory>The number of machines currently undergoing maintenance is a number of machines.
+NUMBER>What is the total number of machines currently undergoing maintenance?>['maintenance count']>annoyed>The number of machines undergoing maintenance is about 100.
+NUMBER>What is the total number of patents held by the company?>['patent count']>verbose>The total number of patents held by the company is tens of thousands of patents.
+NUMBER>What is the total number of patents held by the company?>['patent count']>concise>The total number of patents held by the company is 5000.
+NUMBER>What is the total number of patents held by the company?>['patent count']>colloquial>The total number of patents held by the company is over 100.
+NUMBER>What is the total number of patents held by the company?>['patent count']>explanatory>The number of patents held by the company is about 2,000 patents.
+NUMBER>What is the total number of patents held by the company?>['patent count']>annoyed>The company has a number of patents.
+NUMBER>What is the total number of quality control checks performed daily?>['quality control checks']>verbose>The total number of quality control checks performed daily.
+NUMBER>What is the total number of quality control checks performed daily?>['quality control checks']>concise>The total number of quality control checks performed daily.
+NUMBER>What is the total number of quality control checks performed daily?>['quality control checks']>colloquial>There are a total of 365 checks a day.
+NUMBER>What is the total number of quality control checks performed daily?>['quality control checks']>explanatory>The total number of quality control checks performed daily.
+NUMBER>What is the total number of quality control checks performed daily?>['quality control checks']>annoyed>I'd like to know how many checks are performed daily.
+NUMBER>What is the total number of quality control inspectors?>['inspector count']>verbose>The total number of quality control inspectors in the United States is about 2,000.
+NUMBER>What is the total number of quality control inspectors?>['inspector count']>concise>The number of inspectors is about 100.
+NUMBER>What is the total number of quality control inspectors?>['inspector count']>colloquial>The number of quality control inspectors in the United States is about 20,000.
+NUMBER>What is the total number of quality control inspectors?>['inspector count']>explanatory>The total number of quality control inspectors in the United States is about 30,000.
+NUMBER>What is the total number of quality control inspectors?>['inspector count']>annoyed>The number of quality control inspectors is over a million.
+NUMBER>What is the total number of suppliers audited this year?>['supplier audit count']>verbose>The total number of suppliers audited this year is 25.
+NUMBER>What is the total number of suppliers audited this year?>['supplier audit count']>concise>The total number of suppliers audited this year is 58.
+NUMBER>What is the total number of suppliers audited this year?>['supplier audit count']>colloquial>The total number of suppliers audited this year is 25.
+NUMBER>What is the total number of suppliers audited this year?>['supplier audit count']>explanatory>The total number of suppliers audited this year is 220.
+NUMBER>What is the total number of suppliers audited this year?>['supplier audit count']>annoyed>The total number of suppliers audited this year is 68.
+NUMBER>What is the total number of units produced?>['units produced']>verbose>The number of units produced.
+NUMBER>What is the total number of units produced?>['units produced']>concise>I'd like to know how many units were produced.
+NUMBER>What is the total number of units produced?>['units produced']>colloquial>5000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+NUMBER>What is the total number of units produced?>['units produced']>explanatory>The number of units produced.
+NUMBER>What is the total number of units produced?>['units produced']>annoyed>The total number of units produced is 20.
+NUMBER>What is the total number of vehicles in the company fleet?>['fleet size']>verbose>There are about 2,000 vehicles in the company fleet.
+NUMBER>What is the total number of vehicles in the company fleet?>['fleet size']>concise>The fleet consists of about 2,000 vehicles.
+NUMBER>What is the total number of vehicles in the company fleet?>['fleet size']>colloquial>The company fleet has a fleet of over 5,000 vehicles.
+NUMBER>What is the total number of vehicles in the company fleet?>['fleet size']>explanatory>The fleet has a fleet of about 2,000 vehicles.
+NUMBER>What is the total number of vehicles in the company fleet?>['fleet size']>annoyed>The fleet has a total of 66 vehicles.
+NUMBER>What is the total project cost?>['project cost']>verbose>The total cost of the project.
+NUMBER>What is the total project cost?>['project cost']>concise>The total project cost was $1 million.
+NUMBER>What is the total project cost?>['project cost']>colloquial>The total project cost was $900,000 and the total cost of the project was $900,000 and the total cost of the project was $900,000 and the total cost of the project was $900,000 and the total cost of the project was $900,000 and the total cost of the project was $900,000 and the total cost of the project was $900,000 and the total cost of the project was $900,000 and the total cost of the project was $900,000 and the total cost of the project was $900,000 and the total cost of the project was $900,000 and the total cost of the project was $900,000 and the total cost of the project was $900,000 and the total cost of the project was $900,000 and the total cost of the project was $900,000 and the total cost of the project was $900,000 and the total cost of the project was $900,000 and the total cost of the project was $900,000 and the total cost of the project was $900,000 and the total cost of the project was $900,000 and the total cost of the project was $900,000 and the total cost of the project was $900,000 and the total cost of the project was $900,000 and the total cost of the project was $900,000 and the total cost of the project was $900,000 and the total cost of the project was $900,000 and the total cost of the project was $900,000 and the total cost of the project was $900,000 and the total cost of the project was $900,000 and the total cost of the project was $900,000 and the total cost of the project was $900,000 and the total cost of the project was $900,000 and the total cost of the project was $900,000 and the total cost of the project was $900,000 and the total cost of the project was $900,000 and the total cost of the project was $900,000 and the total cost of the project was $900,000 and the total cost of the project was $900,000 and the total cost of the project was $900,000 and the total cost of the project was $900,000 and the total cost of the project was $900,000 and the total cost of the project was $900,000 and the total cost of the project was $900,000 and the total cost of the project was $900,000 and the total cost of the project was $900,000 and the total cost of the project was $900,000 and the total cost of the project was $900,000 and the total cost of the project was $900,000 and the total cost of the project was $900,000 and the total cost of the project was $900,000 and the total cost of the project was $900,000 and the total cost of the project was $900,000 and the total cost of the project was $900,000 and the total cost of the project was $900,000 and the total cost of the project was $900,000 and the total cost of the project was $900,000 and the total cost of the project was $900,000 and the total cost of the project was $900,000 and the total cost of the project was $900,000 and the total cost of the project was $900,000.
+NUMBER>What is the total project cost?>['project cost']>explanatory>The project cost was $500,000.
+NUMBER>What is the total project cost?>['project cost']>annoyed>The total cost of the project is $120 million.
+NUMBER>What is the total revenue generated last fiscal year?>['revenue']>verbose>$2.5 billion.
+NUMBER>What is the total revenue generated last fiscal year?>['revenue']>concise>$27.6 billion.
+NUMBER>What is the total revenue generated last fiscal year?>['revenue']>colloquial>The total revenue generated last fiscal year was $1.5 billion.
+NUMBER>What is the total revenue generated last fiscal year?>['revenue']>explanatory>The total revenue generated last fiscal year was $2.2 billion.
+NUMBER>What is the total revenue generated last fiscal year?>['revenue']>annoyed>The total revenue generated last fiscal year was $27 billion.
+NUMBER>What is the total square footage of the house?>['square footage']>verbose>900 square feet.
+NUMBER>What is the total square footage of the house?>['square footage']>concise>The total square footage of the house is 840 square feet.
+NUMBER>What is the total square footage of the house?>['square footage']>colloquial>The house has a total area of 750 square feet.
+NUMBER>What is the total square footage of the house?>['square footage']>explanatory>The total square footage of the house is 750 square feet.
+NUMBER>What is the total square footage of the house?>['square footage']>annoyed>The house has a total of 750 sq. ft.
+NUMBER>What is the voltage in volts?>['voltage']>verbose>The voltage in volts is tens of thousands of volts.
+NUMBER>What is the voltage in volts?>['voltage']>concise>The voltage in volts is the same as the voltage in volts.
+NUMBER>What is the voltage in volts?>['voltage']>colloquial>The voltage in volts is equal to the number of volts in a meter.
+NUMBER>What is the voltage in volts?>['voltage']>explanatory>The voltage in volts is the same as the voltage in volts.
+NUMBER>What is the voltage in volts?>['voltage']>annoyed>volts are the same as volts in volts.
+NUMBER>What is the weight in pounds?>['weight']>verbose>I'm not sure.
+NUMBER>What is the weight in pounds?>['weight']>concise>I'm not sure. I'm not sure.
+NUMBER>What is the weight in pounds?>['weight']>colloquial>I'm not sure.
+NUMBER>What is the weight in pounds?>['weight']>explanatory>I think it's a lot of pounds.
+NUMBER>What is the weight in pounds?>['weight']>annoyed>I'm not sure. I'm not sure. I'm not sure.
+NUMBER>What is the year the company was founded?>['foundation year']>verbose>1994.
+NUMBER>What is the year the company was founded?>['foundation year']>concise>It was founded in the 1980s.
+NUMBER>What is the year the company was founded?>['foundation year']>colloquial>It was founded in 2001.
+NUMBER>What is the year the company was founded?>['foundation year']>explanatory>The company was founded in 2000.
+NUMBER>What is the year the company was founded?>['foundation year']>annoyed>1990.
+NUMBER>What is the zip code for this address?>['zip code']>verbose>55505.
+NUMBER>What is the zip code for this address?>['zip code']>concise>20705.
+NUMBER>What is the zip code for this address?>['zip code']>colloquial>12345.
+NUMBER>What is the zip code for this address?>['zip code']>explanatory>7805.
+NUMBER>What is the zip code for this address?>['zip code']>annoyed>20739.
+NUMBER>What is the zip code of the office location?>['zip code']>verbose>76005.
+NUMBER>What is the zip code of the office location?>['zip code']>concise>76080.
+NUMBER>What is the zip code of the office location?>['zip code']>colloquial>20732.
+NUMBER>What is the zip code of the office location?>['zip code']>explanatory>84005.
+NUMBER>What is the zip code of the office location?>['zip code']>annoyed>11753.
+NUMBER>What is your BMI?>['BMI']>verbose>I have a BMI.
+NUMBER>What is your BMI?>['BMI']>concise>I have a BMI.
+NUMBER>What is your BMI?>['BMI']>colloquial>I am a BMI.
+NUMBER>What is your BMI?>['BMI']>explanatory>I have a BMI.
+NUMBER>What is your BMI?>['BMI']>annoyed>I have a BMI.
+NUMBER>What is your account number?>['account number']>verbose>My account number is 212.
+NUMBER>What is your account number?>['account number']>concise>I don't know.
+NUMBER>What is your account number?>['account number']>colloquial>My account number is 865.
+NUMBER>What is your account number?>['account number']>explanatory>My account number is 555.
+NUMBER>What is your account number?>['account number']>annoyed>I don't know.
+NUMBER>What is your age?>['age']>verbose>I'm 26 years old.
+NUMBER>What is your age?>['age']>concise>I'm 25 years old.
+NUMBER>What is your age?>['age']>colloquial>I'm 26 years old.
+NUMBER>What is your age?>['age']>explanatory>I'm 26 years old.
+NUMBER>What is your age?>['age']>annoyed>I'm 35.
+NUMBER>What is your annual household income?>['income']>verbose>I make about $30,000 a year.
+NUMBER>What is your annual household income?>['income']>concise>I earn about $30,000 a year.
+NUMBER>What is your annual household income?>['income']>colloquial>I earn about $60,000 a year.
+NUMBER>What is your annual household income?>['income']>explanatory>I earn about $3,000 a year.
+NUMBER>What is your annual household income?>['income']>annoyed>I have a monthly household income of $1,700, and a monthly household income of $1,800, and a monthly household income of $1,800, and a monthly household income of $1,800, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200, and a monthly household income of $1,200.
+NUMBER>What is your blood pressure (systolic reading)?>['blood pressure']>verbose>I'm 63.
+NUMBER>What is your blood pressure (systolic reading)?>['blood pressure']>concise>I have a high blood pressure.
+NUMBER>What is your blood pressure (systolic reading)?>['blood pressure']>colloquial>I have a high blood pressure.
+NUMBER>What is your blood pressure (systolic reading)?>['blood pressure']>explanatory>I have a high blood pressure.
+NUMBER>What is your blood pressure (systolic reading)?>['blood pressure']>annoyed>I have a high blood pressure.
+NUMBER>What is your credit score?>['credit score']>verbose>I have a score of 0 on my credit report.
+NUMBER>What is your credit score?>['credit score']>concise>I have a score of 0 on my credit report.
+NUMBER>What is your credit score?>['credit score']>colloquial>My credit score is 0 if you have a bad credit score.
+NUMBER>What is your credit score?>['credit score']>explanatory>I have a credit score of 620.
+NUMBER>What is your credit score?>['credit score']>annoyed>I'm not sure. I don't have a credit score.
+NUMBER>What is your current weight?>['weight']>verbose>I'm 185 pounds.
+NUMBER>What is your current weight?>['weight']>concise>I'm 185 lbs.
+NUMBER>What is your current weight?>['weight']>colloquial>I'm 176 pounds.
+NUMBER>What is your current weight?>['weight']>explanatory>I'm 185 lbs.
+NUMBER>What is your current weight?>['weight']>annoyed>I'm a heavy weight.
+NUMBER>What is your employee ID number?>['employee ID']>verbose>I'm not sure.
+NUMBER>What is your employee ID number?>['employee ID']>concise>I don't know.
+NUMBER>What is your employee ID number?>['employee ID']>colloquial>I don't know.
+NUMBER>What is your employee ID number?>['employee ID']>explanatory>I'm not sure.
+NUMBER>What is your employee ID number?>['employee ID']>annoyed>I don't know.
+NUMBER>What is your employee ID?>['employee ID']>verbose>I am a manager.
+NUMBER>What is your employee ID?>['employee ID']>concise>I am a full-time employee of a company.
+NUMBER>What is your employee ID?>['employee ID']>colloquial>I have a job number.
+NUMBER>What is your employee ID?>['employee ID']>explanatory>I am a manager.
+NUMBER>What is your employee ID?>['employee ID']>annoyed>I am an employee of the company I work for.
+NUMBER>What is your estimated net worth?>['net worth']>verbose>I'm not sure.
+NUMBER>What is your estimated net worth?>['net worth']>concise>I'm a millionaire.
+NUMBER>What is your estimated net worth?>['net worth']>colloquial>I'm a millionaire.
+NUMBER>What is your estimated net worth?>['net worth']>explanatory>I'm a millionaire.
+NUMBER>What is your estimated net worth?>['net worth']>annoyed>I'm a millionaire.
+NUMBER>What is your height in centimeters?>['height']>verbose>"I'm 6'2"" tall."
+NUMBER>What is your height in centimeters?>['height']>concise>I'm 5 feet 6 inches.
+NUMBER>What is your height in centimeters?>['height']>colloquial>"I'm 5'9"" tall."
+NUMBER>What is your height in centimeters?>['height']>explanatory>I'm 178 cm tall.
+NUMBER>What is your height in centimeters?>['height']>annoyed>"I'm 5'8"" tall."
+NUMBER>What is your home's square footage?>['home size']>verbose>I live in a home that has a lot of square footage.
+NUMBER>What is your home's square footage?>['home size']>concise>It's a lot of square feet.
+NUMBER>What is your home's square footage?>['home size']>colloquial>It's a lot of square feet.
+NUMBER>What is your home's square footage?>['home size']>explanatory>I've lived in a house that has a lot of square footage.
+NUMBER>What is your home's square footage?>['home size']>annoyed>My home's square footage is about 100 square feet.
+NUMBER>What is your house number?>['house number']>verbose>I'm not sure.
+NUMBER>What is your house number?>['house number']>concise>My house number is 202.
+NUMBER>What is your house number?>['house number']>colloquial>My house number is 111.
+NUMBER>What is your house number?>['house number']>explanatory>I'm not sure.
+NUMBER>What is your house number?>['house number']>annoyed>I'm not sure.
+NUMBER>What is your order number?>['order number']>verbose>I have a number.
+NUMBER>What is your order number?>['order number']>concise>I don't know.
+NUMBER>What is your order number?>['order number']>colloquial>I'm not sure.
+NUMBER>What is your order number?>['order number']>explanatory>I'm not sure.
+NUMBER>What is your order number?>['order number']>annoyed>I don't know.
+NUMBER>What is your pant size?>['pant size']>verbose>"I'm a 6'0"" pant."
+NUMBER>What is your pant size?>['pant size']>concise>"I'm 5'9"" tall."
+NUMBER>What is your pant size?>['pant size']>colloquial>I'm a 4.5 lb pant size.
+NUMBER>What is your pant size?>['pant size']>explanatory>I'm a size 8 pant.
+NUMBER>What is your pant size?>['pant size']>annoyed>"I'm a 5'9"" pant."
+NUMBER>What is your preferred contact method (1 for phone, 2 for email)?>['contact preference']>verbose>I prefer phone.
+NUMBER>What is your preferred contact method (1 for phone, 2 for email)?>['contact preference']>concise>I prefer phone.
+NUMBER>What is your preferred contact method (1 for phone, 2 for email)?>['contact preference']>colloquial>I prefer phone.
+NUMBER>What is your preferred contact method (1 for phone, 2 for email)?>['contact preference']>explanatory>I prefer phone.
+NUMBER>What is your preferred contact method (1 for phone, 2 for email)?>['contact preference']>annoyed>I prefer phone.
+NUMBER>What is your shirt size?>['shirt size']>verbose>I'm a XL.
+NUMBER>What is your shirt size?>['shirt size']>concise>I'm a XL.
+NUMBER>What is your shirt size?>['shirt size']>colloquial>I'm a size small.
+NUMBER>What is your shirt size?>['shirt size']>explanatory>I'm a size XXL.
+NUMBER>What is your shirt size?>['shirt size']>annoyed>I'm a XL.
+NUMBER>What is your shoe size?>['shoe size']>verbose>I'm a medium size.
+NUMBER>What is your shoe size?>['shoe size']>concise>I'm a medium.
+NUMBER>What is your shoe size?>['shoe size']>colloquial>I'm a medium size.
+NUMBER>What is your shoe size?>['shoe size']>explanatory>"I'm a 6'8"" shoe size."
+NUMBER>What is your shoe size?>['shoe size']>annoyed>I'm not sure.
+NUMBER>What is your street address number?>['street number']>verbose>I have a street address number.
+NUMBER>What is your street address number?>['street number']>concise>I don't have a street address number.
+NUMBER>What is your street address number?>['street number']>colloquial>I have a street address number.
+NUMBER>What is your street address number?>['street number']>explanatory>I'm a street address number, but I don't have a street address number.
+NUMBER>What is your street address number?>['street number']>annoyed>I don't know.
+NUMBER>What is your total yearly spending on groceries?>['grocery spending']>verbose>I spend a total of about $1,200 a year on groceries.
+NUMBER>What is your total yearly spending on groceries?>['grocery spending']>concise>I spend about $2,000 a year on groceries.
+NUMBER>What is your total yearly spending on groceries?>['grocery spending']>colloquial>I spend about $2,000 a year on groceries.
+NUMBER>What is your total yearly spending on groceries?>['grocery spending']>explanatory>I spend about $600 a year on groceries.
+NUMBER>What is your total yearly spending on groceries?>['grocery spending']>annoyed>I spend about $120 a month on groceries.
+NUMBER>What is your weight in kilograms?>['weight (kg)']>verbose>I weigh a lot of weight in kilograms.
+NUMBER>What is your weight in kilograms?>['weight (kg)']>concise>I weigh a lot of pounds.
+NUMBER>What is your weight in kilograms?>['weight (kg)']>colloquial>I weigh 155 lbs.
+NUMBER>What is your weight in kilograms?>['weight (kg)']>explanatory>I weigh 185 lb.
+NUMBER>What is your weight in kilograms?>['weight (kg)']>annoyed>I weigh a lot of pounds.
+NUMBER>What is your zip code?>['zip code']>verbose>I'm in California.
+NUMBER>What is your zip code?>['zip code']>concise>I don't have a zip code.
+NUMBER>What is your zip code?>['zip code']>colloquial>I'm located in the United States.
+NUMBER>What is your zip code?>['zip code']>explanatory>I'm in New York City.
+NUMBER>What is your zip code?>['zip code']>annoyed>I live in a city that has a ZIP code.
+NUMBER>What year was the company founded?>['year']>verbose>In the early 20th century.
+NUMBER>What year was the company founded?>['year']>concise>It was founded in the 1880s.
+NUMBER>What year was the company founded?>['year']>colloquial>The company was founded in the 1880s.
+NUMBER>What year was the company founded?>['year']>explanatory>The company was founded in the 1960s.
+NUMBER>What year was the company founded?>['year']>annoyed>The year the company was founded.

@@ -1,0 +1,931 @@
+type>question>options>tone>answer
+DATE>On what date did the project officially commence? Provide a date.>['Date']>verbose>The project officially began on October 1, 2006.
+DATE>On what date did the project officially commence? Provide a date.>['Date']>concise>The project officially began on October 1, 2001.
+DATE>On what date did the project officially commence? Provide a date.>['Date']>colloquial>The project officially began on January 1, 2006.
+DATE>On what date did the project officially commence? Provide a date.>['Date']>explanatory>The project officially began on January 1, 2006.
+DATE>On what date did the project officially commence? Provide a date.>['Date']>annoyed>The project officially began on March 1, 2019.
+DATE>On what date was the training session conducted? Provide a date.>['Date']>verbose>The training session was held on March 2, 2001.
+DATE>On what date was the training session conducted? Provide a date.>['Date']>concise>The training session was held on October 30, 2015.
+DATE>On what date was the training session conducted? Provide a date.>['Date']>colloquial>The training session was held on January 30, 2018.
+DATE>On what date was the training session conducted? Provide a date.>['Date']>explanatory>The training session was held on October 30, 2017.
+DATE>On what date was the training session conducted? Provide a date.>['Date']>annoyed>The training session was held on October 10, 2001.
+DATE>What date did the equipment malfunction?>['Date']>verbose>The equipment malfunctioned on January 1, 1999.
+DATE>What date did the equipment malfunction?>['Date']>concise>The equipment malfunctioned on December 31, 1998.
+DATE>What date did the equipment malfunction?>['Date']>colloquial>The equipment malfunctioned on January 23, 2004.
+DATE>What date did the equipment malfunction?>['Date']>explanatory>The equipment malfunctioned on January 1, 2001.
+DATE>What date did the equipment malfunction?>['Date']>annoyed>The equipment malfunctioned on December 7, 2009.
+DATE>What date did the initial deployment occur? Provide a date.>['Date']>verbose>The initial deployment began on September 11, 2001.
+DATE>What date did the initial deployment occur? Provide a date.>['Date']>concise>The first deployment took place on December 1, 2001.
+DATE>What date did the initial deployment occur? Provide a date.>['Date']>colloquial>The initial deployment began on October 1, 2001.
+DATE>What date did the initial deployment occur? Provide a date.>['Date']>explanatory>The initial deployment began on November 3, 2001.
+DATE>What date did the initial deployment occur? Provide a date.>['Date']>annoyed>The initial deployment began on February 1, 2001.
+DATE>What date did the issue begin? Provide a date.>['Date']>verbose>The issue began in the early part of the 20th century.
+DATE>What date did the issue begin? Provide a date.>['Date']>concise>The issue began on January 1, 2001.
+DATE>What date did the issue begin? Provide a date.>['Date']>colloquial>The issue began on September 29, 2001.
+DATE>What date did the issue begin? Provide a date.>['Date']>explanatory>The issue began on November 20, 2000.
+DATE>What date did the issue begin? Provide a date.>['Date']>annoyed>I don't know. I don't know. I don't know.
+DATE>What date did the order ship? Provide a date.>['Date']>verbose>The order was shipped on December 15, 2001.
+DATE>What date did the order ship? Provide a date.>['Date']>concise>The order was shipped on May 15, 2001.
+DATE>What date did the order ship? Provide a date.>['Date']>colloquial>The order was shipped on October 31, 2001.
+DATE>What date did the order ship? Provide a date.>['Date']>explanatory>The order was shipped on December 15, 2012.
+DATE>What date did the order ship? Provide a date.>['Date']>annoyed>The order was shipped on May 29, 2001.
+DATE>What date did the permit expire? Provide a date.>['Date']>verbose>The permit expired on July 1, 2017.
+DATE>What date did the permit expire? Provide a date.>['Date']>concise>The permit expired on January 1, 2001.
+DATE>What date did the permit expire? Provide a date.>['Date']>colloquial>The permit expires on July 1, 2018.
+DATE>What date did the permit expire? Provide a date.>['Date']>explanatory>The permit expires on December 31, 2018.
+DATE>What date did the permit expire? Provide a date.>['Date']>annoyed>The permit expires on January 1, 2020.
+DATE>What date did the technical issue arise? Provide a date.>['Date']>verbose>The issue was a technical one.
+DATE>What date did the technical issue arise? Provide a date.>['Date']>concise>The issue was a technical one.
+DATE>What date did the technical issue arise? Provide a date.>['Date']>colloquial>The issue was resolved on March 15, 2017.
+DATE>What date did the technical issue arise? Provide a date.>['Date']>explanatory>The issue was a technical one.
+DATE>What date did the technical issue arise? Provide a date.>['Date']>annoyed>The problem was resolved on March 30, 2001.
+DATE>What date did the training begin for the new software? Provide a date.>['Date']>verbose>The training began on January 1, 2001.
+DATE>What date did the training begin for the new software? Provide a date.>['Date']>concise>The training began on January 1, 2001.
+DATE>What date did the training begin for the new software? Provide a date.>['Date']>colloquial>The training began on January 1st.
+DATE>What date did the training begin for the new software? Provide a date.>['Date']>explanatory>The training began on January 1, 2002.
+DATE>What date did the training begin for the new software? Provide a date.>['Date']>annoyed>The training began on April 1, 2001.
+DATE>What date did the training session conclude? Provide a date.>['Date']>verbose>The training session concluded on March 18, 2019.
+DATE>What date did the training session conclude? Provide a date.>['Date']>concise>The training session ended on March 30, 2018.
+DATE>What date did the training session conclude? Provide a date.>['Date']>colloquial>The training session ended on March 23, 2018.
+DATE>What date did the training session conclude? Provide a date.>['Date']>explanatory>The training session was concluded on June 12, 2001.
+DATE>What date did the training session conclude? Provide a date.>['Date']>annoyed>The training session ended on March 20, 2018.
+DATE>What date did you attend the webinar? Provide a date.>['Date']>verbose>I attended the webinar on January 10, 2001.
+DATE>What date did you attend the webinar? Provide a date.>['Date']>concise>I attended the webinar on February 18, 2001.
+DATE>What date did you attend the webinar? Provide a date.>['Date']>colloquial>I attended the webinar on March 7, 2015, and I attended the webinar on March 7, 2015, and I attended the webinar on March 7, 2015, and I attended the webinar on March 7, 2015, and I attended the webinar on March 7, 2015, and I attended the webinar on March 7, 2015, and I attended the webinar on March 7, 2015, and I attended the webinar on March 7, 2015, and I attended the webinar on March 7, 2015, and I attended the webinar on March 7, 2015, and I attended the webinar on March 7, 2015, and I attended the webinar on March 7, 2015, and I attended the webinar on March 7, 2015, and I attended the webinar on March 7, 2015, and I attended the webinar on March 7, 2015, and I attended the webinar on March 7, 2015, and I attended the webinar on March 7, 2015, and I attended the webinar on March 7, 2015, and I attended the webinar on March 7, 2015, and I attended the webinar on March 7, 2015, and I attended the webinar on March 7, 2015, and I attended the webinar on March 7, 2015, and I attended the webinar on March 7, 2015, and I attended the webinar on March 7, 2015, and I attended the webinar on March 7, 2015, and I attended the webinar on March 7, 2015, and I attended the webinar on March 8, 2015, and I attended the webinar on March 7, 2015, and I attended the webinar on March 8, 2015, and I attended the webinar on March 7, 2015, and I attended the webinar on March 8, 2015, and I attended the webinar on March 7, 2015, and I attended the webinar on March 7, 2015, and I attended the webinar on March 8, 2015, and I attended the webinar on March 7, 2015, and I attended the webinar on March 8, 2015, and I attended the webinar on March 7, 2015, and I attended the webinar on March 8, 2015, and I attended the webinar on March 7, 2015, and I attended the webinar on March 7, 2015, and I attended the webinar on March 8, 2015, and I attended the webinar on March 7, 2015, and I attended the webinar on March 8, 2015, and I attended the webinar on March 7, 2015, and I attended the webinar on March 8, 2015, and I attended the webinar on March 7, 2015, and I attended the webinar on March 8, 2015, and I attended the webinar on March 7, 2015, and I attended the webinar on March 8, 2015, and I attended the webinar on March 7, 2015, and I attended the webinar on March 8, 2015, and I attended the webinar on March 7, 2015, and I attended the webinar on March 8, 2015, and I attended the webinar on March 7, 2015, and I attended the webinar on March 8, 2015, and I attended the webinar on March 7, 2015, and I attended the webinar on March 8, 2015, and I attended the webinar on March 7, 2015, and I attended the webinar on March 8, 2015, and I attended the webinar on March 8, 2015, and I attended the webinar on March 7, 2015, and I attended the webinar on March 8, 2015, and I attended the webinar on March 7, 2015, and I attended the webinar on March 8, 2015, and I attended the webinar on March 7, 2015, and I attended the webinar on March 8, 2015, and I attended the webinar on March 7, 2015, and I attended the webinar on March 8, 2015, and I attended the webinar on March 7, 2015, and I attended the webinar on March 8, 2015, and I attended the webinar on March 7, 2015, and I attended the webinar on March 8, 2015, and I attended the webinar on March 7, 2015, and I attended the webinar on March 8, 2015, and I attended the webinar on March 8, 2015, and I attended the webinar on March 7, 2015, and I attended the webinar on March 8, 2015, and I attended the webinar on March 8, 2015, and I attended the webinar on March 8, 2015, and I attended the webinar on March 7, 2015, and I attended the webinar on March 8, 2015, and I attended the webinar on March 8, 2015, and I attended the webinar on March 7, 2015, and I attended the webinar on March 8, 2015, and I attended the webinar on March 8, 2015, and I attended the webinar on March 7, 2015, and I attended the webinar on March 7, 2015, and I attended the webinar on March 8, 2015, and I attended the webinar on March 8, 2015, and I attended the webinar on March 8, 2015, and I attended the webinar on March 8, 2015, and I attended the webinar on March 7, 2015, and I attended the webinar on March 8, 2015, and I attended the webinar on March 8, 2015, and I attended the webinar on March 8, 2015, and I attended the webinar on March 8, 2015, and I attended the webinar on March 7, 2015, and I attended the webinar on March 8, 2015, and I attended the webinar on March 7, 2015, and I attended the webinar on March 8, 2015, and I attended the webinar on March 8, 2015, and I attended the webinar on March 7, 2015, and I attended the
+DATE>What date did you attend the webinar? Provide a date.>['Date']>explanatory>I attended the webinar on Thursday.
+DATE>What date did you attend the webinar? Provide a date.>['Date']>annoyed>I attended the webinar on March 18, 2001.
+DATE>What date did you receive the notification about your test results? Provide a date.>['Date']>verbose>I received the notification on October 1, 2001.
+DATE>What date did you receive the notification about your test results? Provide a date.>['Date']>concise>I received my test results on April 15, 2017.
+DATE>What date did you receive the notification about your test results? Provide a date.>['Date']>colloquial>I received the notification on March 15, 2015.
+DATE>What date did you receive the notification about your test results? Provide a date.>['Date']>explanatory>I received the notification on March 6, 2015.
+DATE>What date did you receive the notification about your test results? Provide a date.>['Date']>annoyed>I received the notification on February 1, 2001.
+DATE>What date did you start feeling unwell? Provide a date.>['Date']>verbose>I started feeling unwell on January 1, 2001.
+DATE>What date did you start feeling unwell? Provide a date.>['Date']>concise>I started feeling unwell on February 7, 2009.
+DATE>What date did you start feeling unwell? Provide a date.>['Date']>colloquial>I started feeling unwell on January 1.
+DATE>What date did you start feeling unwell? Provide a date.>['Date']>explanatory>I started feeling unwell on January 1, 1983.
+DATE>What date did you start feeling unwell? Provide a date.>['Date']>annoyed>I started feeling unwell on February 15, 2013.
+DATE>What date is the company anniversary? Provide a date.>['Date']>verbose>The company's anniversary is on May 31st.
+DATE>What date is the company anniversary? Provide a date.>['Date']>concise>The company's anniversary is on October 31st.
+DATE>What date is the company anniversary? Provide a date.>['Date']>colloquial>The company's anniversary is on June 30th.
+DATE>What date is the company anniversary? Provide a date.>['Date']>explanatory>The company's anniversary is on March 30, 2019.
+DATE>What date is the company anniversary? Provide a date.>['Date']>annoyed>The company's anniversary is in January.
+DATE>What date is the conference taking place? Provide a date.>['Date']>verbose>The conference is taking place on March 6, 2018 at the University of California, Berkeley.
+DATE>What date is the conference taking place? Provide a date.>['Date']>concise>The conference is scheduled to take place on March 18, 2019.
+DATE>What date is the conference taking place? Provide a date.>['Date']>colloquial>The conference is scheduled to take place on March 27th.
+DATE>What date is the conference taking place? Provide a date.>['Date']>explanatory>The conference is scheduled to take place on March 20.
+DATE>What date is the conference taking place? Provide a date.>['Date']>annoyed>The conference is taking place on November 20th.
+DATE>What date is the contract renewal due? Provide a date.>['Date']>verbose>The contract renewal is due on December 31, 2018.
+DATE>What date is the contract renewal due? Provide a date.>['Date']>concise>The contract renewal is due on March 31, 2019.
+DATE>What date is the contract renewal due? Provide a date.>['Date']>colloquial>The contract renewal is due on March 30, 2020.
+DATE>What date is the contract renewal due? Provide a date.>['Date']>explanatory>The contract renewal is due on December 31, 2018.
+DATE>What date is the contract renewal due? Provide a date.>['Date']>annoyed>The contract renewal is due on January 1, 2019.
+DATE>What date is the deadline for submitting feedback? Provide a date.>['Date']>verbose>The deadline for submitting feedback is January 1, 2018.
+DATE>What date is the deadline for submitting feedback? Provide a date.>['Date']>concise>The deadline for submitting feedback is November 30, 2018.
+DATE>What date is the deadline for submitting feedback? Provide a date.>['Date']>colloquial>The deadline for submitting feedback is October 30, 2018.
+DATE>What date is the deadline for submitting feedback? Provide a date.>['Date']>explanatory>The deadline for submitting feedback is January 1, 2018.
+DATE>What date is the deadline for submitting feedback? Provide a date.>['Date']>annoyed>The deadline for submitting feedback is May 1.
+DATE>What date is the end of the probationary period? Provide a date.>['Date']>verbose>The end of the probationary period begins on January 1, 2019.
+DATE>What date is the end of the probationary period? Provide a date.>['Date']>concise>The end of the probationary period ends on December 31, 2018.
+DATE>What date is the end of the probationary period? Provide a date.>['Date']>colloquial>The end of the probationary period ends on December 31st.
+DATE>What date is the end of the probationary period? Provide a date.>['Date']>explanatory>The end of the probationary period ends on December 31st.
+DATE>What date is the end of the probationary period? Provide a date.>['Date']>annoyed>The end of the probationary period ends on December 31, 2018.
+DATE>What date is the next board meeting scheduled for? Provide a date.>['Date']>verbose>The next board meeting is on Thursday.
+DATE>What date is the next board meeting scheduled for? Provide a date.>['Date']>concise>The next board meeting is on Thursday, March 6, 2018 at 5:00 p.m.
+DATE>What date is the next board meeting scheduled for? Provide a date.>['Date']>colloquial>The next board meeting is scheduled for Thursday.
+DATE>What date is the next board meeting scheduled for? Provide a date.>['Date']>explanatory>The next board meeting is scheduled for Thursday, March 29, 2018 at 5:00 p.m.
+DATE>What date is the next board meeting scheduled for? Provide a date.>['Date']>annoyed>The next board meeting is scheduled for Friday, March 29th.
+DATE>What date is the next scheduled backup? Provide a date.>['Date']>verbose>The next backup will be on December 31st.
+DATE>What date is the next scheduled backup? Provide a date.>['Date']>concise>The next backup is scheduled to take place on January 31st.
+DATE>What date is the next scheduled backup? Provide a date.>['Date']>colloquial>The next backup will be on Friday.
+DATE>What date is the next scheduled backup? Provide a date.>['Date']>explanatory>The next backup will be on January 1, 2020.
+DATE>What date is the next scheduled backup? Provide a date.>['Date']>annoyed>The next backup will be on January 1st.
+DATE>What date is the next staff meeting? Provide a date.>['Date']>verbose>The next staff meeting will be on Monday, February 23rd.
+DATE>What date is the next staff meeting? Provide a date.>['Date']>concise>The next staff meeting will be on Friday, October 19.
+DATE>What date is the next staff meeting? Provide a date.>['Date']>colloquial>The next staff meeting will be held on Friday.
+DATE>What date is the next staff meeting? Provide a date.>['Date']>explanatory>The next staff meeting will be on Thursday, November 2, 2018.
+DATE>What date is the next staff meeting? Provide a date.>['Date']>annoyed>The next staff meeting will be held on Friday, March 27th.
+DATE>What date is the next team-building exercise? Provide a date.>['Date']>verbose>The next team-building exercise will take place on Friday, July 20th.
+DATE>What date is the next team-building exercise? Provide a date.>['Date']>concise>The next team-building exercise will be held on Friday, October 29th.
+DATE>What date is the next team-building exercise? Provide a date.>['Date']>colloquial>The next team-building exercise will be on Friday, November 29th.
+DATE>What date is the next team-building exercise? Provide a date.>['Date']>explanatory>The next team-building exercise is on Friday, July 21st.
+DATE>What date is the next team-building exercise? Provide a date.>['Date']>annoyed>The next team-building exercise will be on Monday, February 23rd.
+DATE>What date is your next review scheduled? Provide a date.>['Date']>verbose>I'm scheduled to review the next review on January 27th.
+DATE>What date is your next review scheduled? Provide a date.>['Date']>concise>I'm scheduled to review the next review on Friday.
+DATE>What date is your next review scheduled? Provide a date.>['Date']>colloquial>I'm scheduled to review a book on Thursday.
+DATE>What date is your next review scheduled? Provide a date.>['Date']>explanatory>The next review will be on Friday.
+DATE>What date is your next review scheduled? Provide a date.>['Date']>annoyed>I'm scheduled to review my next review on Thursday.
+DATE>What date should we schedule the site visit? Provide a date.>['Date']>verbose>We should schedule the visit on Friday.
+DATE>What date should we schedule the site visit? Provide a date.>['Date']>concise>We should schedule a visit on Friday.
+DATE>What date should we schedule the site visit? Provide a date.>['Date']>colloquial>We should schedule the site visit on Friday.
+DATE>What date should we schedule the site visit? Provide a date.>['Date']>explanatory>We should schedule the visit on Friday.
+DATE>What date should we schedule the site visit? Provide a date.>['Date']>annoyed>We need to schedule a visit on Friday.
+DATE>What date was the final testing report submitted? Provide a date.>['Date']>verbose>The final testing report was submitted on October 31, 2002.
+DATE>What date was the final testing report submitted? Provide a date.>['Date']>concise>The final testing report was submitted on March 16, 2018.
+DATE>What date was the final testing report submitted? Provide a date.>['Date']>colloquial>The final testing report was submitted on March 30, 2018.
+DATE>What date was the final testing report submitted? Provide a date.>['Date']>explanatory>The final testing report was submitted on December 15, 2001.
+DATE>What date was the final testing report submitted? Provide a date.>['Date']>annoyed>The final testing report was submitted on October 31, 2001.
+DATE>What date was the infrastructure upgrade completed? Provide a date.>['Date']>verbose>The upgrade was completed on December 31, 2001.
+DATE>What date was the infrastructure upgrade completed? Provide a date.>['Date']>concise>The upgrade was completed on December 30, 2017.
+DATE>What date was the infrastructure upgrade completed? Provide a date.>['Date']>colloquial>The upgrade was completed on December 1, 2001.
+DATE>What date was the infrastructure upgrade completed? Provide a date.>['Date']>explanatory>The upgrade was completed on December 31, 2016.
+DATE>What date was the infrastructure upgrade completed? Provide a date.>['Date']>annoyed>The upgrade was completed on March 1, 2001.
+DATE>What date was the requirement specification finalized? Provide a date.>['Date']>verbose>The requirement specification was finalized on January 1, 2003.
+DATE>What date was the requirement specification finalized? Provide a date.>['Date']>concise>The requirement specification was finalized on December 15, 2000.
+DATE>What date was the requirement specification finalized? Provide a date.>['Date']>colloquial>The requirement specification was finalized on December 15, 2001.
+DATE>What date was the requirement specification finalized? Provide a date.>['Date']>explanatory>The requirement specification was finalized on January 1, 2000.
+DATE>What date was the requirement specification finalized? Provide a date.>['Date']>annoyed>The requirement specification was finalized on January 1, 2000.
+DATE>What date was the system architecture documented? Provide a date.>['Date']>verbose>The system architecture was documented in 1998.
+DATE>What date was the system architecture documented? Provide a date.>['Date']>concise>The system architecture was documented in the 1990s.
+DATE>What date was the system architecture documented? Provide a date.>['Date']>colloquial>The system architecture was documented in the 1990s.
+DATE>What date was the system architecture documented? Provide a date.>['Date']>explanatory>The system architecture was documented in 2001.
+DATE>What date was the system architecture documented? Provide a date.>['Date']>annoyed>The system architecture was documented in 2001.
+DATE>What date will the new system be decommissioned? Provide a date.>['Date']>verbose>The system will be decommissioned on January 1, 2020.
+DATE>What date will the new system be decommissioned? Provide a date.>['Date']>concise>The new system will be decommissioned on January 1, 2020.
+DATE>What date will the new system be decommissioned? Provide a date.>['Date']>colloquial>The new system will be decommissioned on April 1, 2020.
+DATE>What date will the new system be decommissioned? Provide a date.>['Date']>explanatory>The new system will be decommissioned on March 1, 2020.
+DATE>What date will the new system be decommissioned? Provide a date.>['Date']>annoyed>The new system will be decommissioned on March 1, 2020.
+DATE>What date will the system go live? Provide a date.>['Date']>verbose>The system will go live on November 1, 2020.
+DATE>What date will the system go live? Provide a date.>['Date']>concise>The system will go live on March 31, 2020.
+DATE>What date will the system go live? Provide a date.>['Date']>colloquial>The system will go live on April 1, 2020.
+DATE>What date will the system go live? Provide a date.>['Date']>explanatory>The system will go live on April 1, 2020.
+DATE>What date will the system go live? Provide a date.>['Date']>annoyed>The system will go live on January 1, 2020.
+DATE>What is the cut-off date for registering for the event? Provide a date.>['Date']>verbose>The cut-off date for registering for the event is October 1st.
+DATE>What is the cut-off date for registering for the event? Provide a date.>['Date']>concise>The cut-off date for registering for the event is March 18, 2019.
+DATE>What is the cut-off date for registering for the event? Provide a date.>['Date']>colloquial>I'm not sure. I'm not sure if I'll be able to register for the event on that date.
+DATE>What is the cut-off date for registering for the event? Provide a date.>['Date']>explanatory>The cut-off date for registering for the event is January 1st.
+DATE>What is the cut-off date for registering for the event? Provide a date.>['Date']>annoyed>The event starts at 5:00 p.m., and the event closes at 5:00 p.m.
+DATE>What is the date of the next billing cycle? Provide a date.>['Date']>verbose>The next billing cycle will start on December 31st.
+DATE>What is the date of the next billing cycle? Provide a date.>['Date']>concise>The next billing cycle will start on January 1, 2018 and end on December 31, 2018.
+DATE>What is the date of the next billing cycle? Provide a date.>['Date']>colloquial>The next billing cycle will start on January 1st.
+DATE>What is the date of the next billing cycle? Provide a date.>['Date']>explanatory>The next billing cycle will begin on March 1, 2018 and end on March 31, 2018.
+DATE>What is the date of the next billing cycle? Provide a date.>['Date']>annoyed>The next billing cycle will begin on January 1, 2018 and end on December 31, 2018.
+DATE>What is the date of the next code review? Provide a date.>['Date']>verbose>The next code review will be held on December 15, 2018.
+DATE>What is the date of the next code review? Provide a date.>['Date']>concise>The next code review will take place on January 1, 2020.
+DATE>What is the date of the next code review? Provide a date.>['Date']>colloquial>The next code review will take place on January 1, 2020.
+DATE>What is the date of the next code review? Provide a date.>['Date']>explanatory>The next code review will take place on January 1, 2018 at 5:00 p.m. Eastern Time.
+DATE>What is the date of the next code review? Provide a date.>['Date']>annoyed>The next code review will be on January 30, 2020.
+DATE>What is the date of the next performance review? Provide a date.>['Date']>verbose>The performance review will be held on Thursday, March 30, 2018 at 5:00 p.m.
+DATE>What is the date of the next performance review? Provide a date.>['Date']>concise>The performance review will be held on Friday, May 2, 2018 at 5:00 p.m.
+DATE>What is the date of the next performance review? Provide a date.>['Date']>colloquial>The performance review will be held on Thursday, February 7, 2018 at 5:00 p.m.
+DATE>What is the date of the next performance review? Provide a date.>['Date']>explanatory>The performance review will be held on Friday, February 2, 2018 at 5:00 p.m.
+DATE>What is the date of the next performance review? Provide a date.>['Date']>annoyed>The next performance review will be on Thursday, February 2, 2018 at 5:00 p.m.
+DATE>What is the date of the next software review? Provide a date.>['Date']>verbose>The next software review will take place on March 15, 2019.
+DATE>What is the date of the next software review? Provide a date.>['Date']>concise>The next software review will take place on June 30, 2018.
+DATE>What is the date of the next software review? Provide a date.>['Date']>colloquial>The next software review will take place on March 15, 2019.
+DATE>What is the date of the next software review? Provide a date.>['Date']>explanatory>The next software review will take place on December 15, 2018.
+DATE>What is the date of the next software review? Provide a date.>['Date']>annoyed>The next software review will take place on January 1, 2020.
+DATE>What is the date of the next stakeholder meeting? Provide a date.>['Date']>verbose>The next stakeholder meeting will be held on March 18, 2019.
+DATE>What is the date of the next stakeholder meeting? Provide a date.>['Date']>concise>The next stakeholder meeting will be held on January 7, 2018 at 5:00 p.m.
+DATE>What is the date of the next stakeholder meeting? Provide a date.>['Date']>colloquial>The next stakeholder meeting will be held on Friday, November 7, 2017.
+DATE>What is the date of the next stakeholder meeting? Provide a date.>['Date']>explanatory>The next stakeholder meeting will be held on January 30, 2020.
+DATE>What is the date of the next stakeholder meeting? Provide a date.>['Date']>annoyed>The next stakeholder meeting is scheduled to be held on Friday, March 30, 2018 at 2:00 p.m.
+DATE>What is the date of the next team meeting? Provide a date.>['Date']>verbose>The next team meeting will be on Friday.
+DATE>What is the date of the next team meeting? Provide a date.>['Date']>concise>The next team meeting will be held on Friday, November 23rd.
+DATE>What is the date of the next team meeting? Provide a date.>['Date']>colloquial>The next team meeting will be on Thursday, February 7, 2019.
+DATE>What is the date of the next team meeting? Provide a date.>['Date']>explanatory>The next team meeting will be held on Friday, November 30, 2018.
+DATE>What is the date of the next team meeting? Provide a date.>['Date']>annoyed>The next team meeting will be held on Monday, February 2, 2018 at 3:00 p.m.
+DATE>What is the date of your last prescription refill? Provide a date.>['Date']>verbose>I had my last prescription refill on October 31, 2016.
+DATE>What is the date of your last prescription refill? Provide a date.>['Date']>concise>I had my last prescription refill on January 1, 2001.
+DATE>What is the date of your last prescription refill? Provide a date.>['Date']>colloquial>I had my last prescription refill on July 1, 2001.
+DATE>What is the date of your last prescription refill? Provide a date.>['Date']>explanatory>I had my last prescription refill on January 1, 2001.
+DATE>What is the date of your last prescription refill? Provide a date.>['Date']>annoyed>I had my last prescription refill on March 31, 2016.
+DATE>What is the date of your last purchase? Provide a date.>['Date']>verbose>I bought a new car on April 1, 2002.
+DATE>What is the date of your last purchase? Provide a date.>['Date']>concise>I bought a new car on January 1, 1998.
+DATE>What is the date of your last purchase? Provide a date.>['Date']>colloquial>I bought a new car on March 1, 2002.
+DATE>What is the date of your last purchase? Provide a date.>['Date']>explanatory>I bought a new car on March 31, 2000.
+DATE>What is the date of your last purchase? Provide a date.>['Date']>annoyed>I bought a new car on January 1st.
+DATE>What is the date of your next appointment? Provide a date.>['Date']>verbose>I'm going to be at the office on Friday.
+DATE>What is the date of your next appointment? Provide a date.>['Date']>concise>I'll be there on Friday.
+DATE>What is the date of your next appointment? Provide a date.>['Date']>colloquial>I'll be at work on Friday.
+DATE>What is the date of your next appointment? Provide a date.>['Date']>explanatory>I'll be there on Friday.
+DATE>What is the date of your next appointment? Provide a date.>['Date']>annoyed>I'll be there on Friday.
+DATE>What is the date of your next blood test? Provide a date.>['Date']>verbose>I will be able to get a blood test on Friday.
+DATE>What is the date of your next blood test? Provide a date.>['Date']>concise>The next blood test will be on Monday, November 15.
+DATE>What is the date of your next blood test? Provide a date.>['Date']>colloquial>I'll be able to test for a blood clot on January 1st.
+DATE>What is the date of your next blood test? Provide a date.>['Date']>explanatory>The next blood test will be on February 1st.
+DATE>What is the date of your next blood test? Provide a date.>['Date']>annoyed>The next blood test will take place on April 1, 2018 at 2:00 p.m.
+DATE>What is the date of your next physician consultation? Provide a date.>['Date']>verbose>I'll be there on Friday.
+DATE>What is the date of your next physician consultation? Provide a date.>['Date']>concise>The next physician consultation will be on Tuesday, October 20th.
+DATE>What is the date of your next physician consultation? Provide a date.>['Date']>colloquial>I'll be there on Friday.
+DATE>What is the date of your next physician consultation? Provide a date.>['Date']>explanatory>I'll be in the office on Friday.
+DATE>What is the date of your next physician consultation? Provide a date.>['Date']>annoyed>I will be in the office for the next couple of weeks.
+DATE>What is the date of your next scheduled check-up? Provide a date.>['Date']>verbose>I will be in for a check-up on Friday.
+DATE>What is the date of your next scheduled check-up? Provide a date.>['Date']>concise>I'll be in for a check-up on Friday.
+DATE>What is the date of your next scheduled check-up? Provide a date.>['Date']>colloquial>I'm scheduled for a check-up on Friday.
+DATE>What is the date of your next scheduled check-up? Provide a date.>['Date']>explanatory>I'm scheduled for a check-up on Friday.
+DATE>What is the date of your next scheduled check-up? Provide a date.>['Date']>annoyed>I'll be in for a check-up on Friday.
+DATE>What is the date of your next scheduled maintenance?>['Date']>verbose>I'll be out of town on Friday.
+DATE>What is the date of your next scheduled maintenance?>['Date']>concise>The next maintenance will be on Friday.
+DATE>What is the date of your next scheduled maintenance?>['Date']>colloquial>I'll be out of town on Friday.
+DATE>What is the date of your next scheduled maintenance?>['Date']>explanatory>The next maintenance will be on Monday, May 29th.
+DATE>What is the date of your next scheduled maintenance?>['Date']>annoyed>I'll be in the office until the end of the month.
+DATE>What is the date of your next scheduled therapy session? Provide a date.>['Date']>verbose>I'll be there on Friday.
+DATE>What is the date of your next scheduled therapy session? Provide a date.>['Date']>concise>I'll be there on Friday.
+DATE>What is the date of your next scheduled therapy session? Provide a date.>['Date']>colloquial>I'll be there on Friday.
+DATE>What is the date of your next scheduled therapy session? Provide a date.>['Date']>explanatory>I'm scheduled to be there on Friday.
+DATE>What is the date of your next scheduled therapy session? Provide a date.>['Date']>annoyed>I'll be in for a therapy session on Friday.
+DATE>What is the date of your next software update? Provide a date.>['Date']>verbose>The latest version of the software was released on March 30, 2018 and will be available for download on March 30, 2018.
+DATE>What is the date of your next software update? Provide a date.>['Date']>concise>The next software update will take place on October 30, 2018.
+DATE>What is the date of your next software update? Provide a date.>['Date']>colloquial>The software update date is October 30, 2018.
+DATE>What is the date of your next software update? Provide a date.>['Date']>explanatory>The next software update will take place on January 1, 2020.
+DATE>What is the date of your next software update? Provide a date.>['Date']>annoyed>The next software update will be released on January 15, 2020.
+DATE>What is the date of your surgery? Provide a date.>['Date']>verbose>I had my surgery on March 15, 2018.
+DATE>What is the date of your surgery? Provide a date.>['Date']>concise>I had my surgery on May 20, 2001.
+DATE>What is the date of your surgery? Provide a date.>['Date']>colloquial>I'm going to have my surgery on Friday.
+DATE>What is the date of your surgery? Provide a date.>['Date']>explanatory>I had my surgery on January 2, 2014, and I had my surgery on January 3, 2014.
+DATE>What is the date of your surgery? Provide a date.>['Date']>annoyed>I'll be back in a few days.
+DATE>What is the deadline for submitting the project report? Provide a date.>['Date']>verbose>The deadline for submitting a project report is October 1, 2002.
+DATE>What is the deadline for submitting the project report? Provide a date.>['Date']>concise>The deadline for submitting a project report is January 1, 2018.
+DATE>What is the deadline for submitting the project report? Provide a date.>['Date']>colloquial>The deadline for submitting a project report is October 30, 2018.
+DATE>What is the deadline for submitting the project report? Provide a date.>['Date']>explanatory>The deadline for submitting the project report is December 15, 2018.
+DATE>What is the deadline for submitting the project report? Provide a date.>['Date']>annoyed>The deadline for submitting a project report is December 15, 2018.
+DATE>What is the deadline for submitting your application? Provide a date.>['Date']>verbose>The deadline for submitting your application is January 1, 2018.
+DATE>What is the deadline for submitting your application? Provide a date.>['Date']>concise>The deadline for submitting your application is January 1, 2018.
+DATE>What is the deadline for submitting your application? Provide a date.>['Date']>colloquial>The deadline for submitting your application is October 1st.
+DATE>What is the deadline for submitting your application? Provide a date.>['Date']>explanatory>The deadline for submitting your application is February 15, 2018.
+DATE>What is the deadline for submitting your application? Provide a date.>['Date']>annoyed>The deadline for submitting your application is April 15, 2018.
+DATE>What is the delivery date? Provide a date.>['Date']>verbose>The delivery date is November 1, 2018.
+DATE>What is the delivery date? Provide a date.>['Date']>concise>The delivery date is October 31st.
+DATE>What is the delivery date? Provide a date.>['Date']>colloquial>The delivery date is January 15, 2019.
+DATE>What is the delivery date? Provide a date.>['Date']>explanatory>The delivery date is January 1, 2020.
+DATE>What is the delivery date? Provide a date.>['Date']>annoyed>I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know.
+DATE>What is the due date for payment? Provide a date.>['Date']>verbose>The due date for payment is December 31, 2018.
+DATE>What is the due date for payment? Provide a date.>['Date']>concise>The due date for payment is December 31, 2018.
+DATE>What is the due date for payment? Provide a date.>['Date']>colloquial>The due date for payment is December 31st.
+DATE>What is the due date for payment? Provide a date.>['Date']>explanatory>The due date for payment is December 31, 2018.
+DATE>What is the due date for payment? Provide a date.>['Date']>annoyed>The due date for payment is March 30, 2019.
+DATE>What is the end date of your subscription? Provide a date.>['Date']>verbose>The end date of your subscription is November 30, 2018.
+DATE>What is the end date of your subscription? Provide a date.>['Date']>concise>It's December 31st.
+DATE>What is the end date of your subscription? Provide a date.>['Date']>colloquial>I'll be able to finish my subscription by the end of the month.
+DATE>What is the end date of your subscription? Provide a date.>['Date']>explanatory>The end date of your subscription is December 31, 2018.
+DATE>What is the end date of your subscription? Provide a date.>['Date']>annoyed>I would like to end my subscription at the end of the month.
+DATE>What is the expected completion date of the current project? Provide a date.>['Date']>verbose>The project is expected to be completed by the end of the year.
+DATE>What is the expected completion date of the current project? Provide a date.>['Date']>concise>The project is expected to be completed by the end of the year.
+DATE>What is the expected completion date of the current project? Provide a date.>['Date']>colloquial>The project is expected to be completed by the end of the year.
+DATE>What is the expected completion date of the current project? Provide a date.>['Date']>explanatory>The project is expected to be completed by the end of the year.
+DATE>What is the expected completion date of the current project? Provide a date.>['Date']>annoyed>The project is expected to be completed by the end of the year.
+DATE>What is the expected date of project sign-off? Provide a date.>['Date']>verbose>The project is expected to be signed off by the end of the year. The project is expected to be signed off by the end of the year.
+DATE>What is the expected date of project sign-off? Provide a date.>['Date']>concise>The project is expected to be signed off by the end of the year.
+DATE>What is the expected date of project sign-off? Provide a date.>['Date']>colloquial>The project is expected to be completed by the end of the year.
+DATE>What is the expected date of project sign-off? Provide a date.>['Date']>explanatory>The project will be signed off on January 1, 2020.
+DATE>What is the expected date of project sign-off? Provide a date.>['Date']>annoyed>The project is expected to be completed by the end of the year.
+DATE>What is the expected date of your recovery? Provide a date.>['Date']>verbose>I will be able to recover in a few days.
+DATE>What is the expected date of your recovery? Provide a date.>['Date']>concise>I will be able to return to work in a few days.
+DATE>What is the expected date of your recovery? Provide a date.>['Date']>colloquial>I will be able to recover by the end of the month.
+DATE>What is the expected date of your recovery? Provide a date.>['Date']>explanatory>I will be able to return to work in a few days.
+DATE>What is the expected date of your recovery? Provide a date.>['Date']>annoyed>I'll be back in the hospital in a few days.
+DATE>What is the expected delivery date for the new order? Provide a date.>['Date']>verbose>The delivery date for the new order is Friday, November 30th.
+DATE>What is the expected delivery date for the new order? Provide a date.>['Date']>concise>The delivery date for the new order will be March 15, 2019.
+DATE>What is the expected delivery date for the new order? Provide a date.>['Date']>colloquial>The delivery date for the new order will be on December 1st.
+DATE>What is the expected delivery date for the new order? Provide a date.>['Date']>explanatory>The delivery date for the new order is January 1, 2020.
+DATE>What is the expected delivery date for the new order? Provide a date.>['Date']>annoyed>We expect to deliver the new order by the end of the month.
+DATE>What is the expiration date of the coupon? Provide a date.>['Date']>verbose>The expiration date of the coupon is October 30, 2018.
+DATE>What is the expiration date of the coupon? Provide a date.>['Date']>concise>The coupon expires on March 30, 2020.
+DATE>What is the expiration date of the coupon? Provide a date.>['Date']>colloquial>The coupon expires on January 30, 2020.
+DATE>What is the expiration date of the coupon? Provide a date.>['Date']>explanatory>The coupon expires on December 31, 2018.
+DATE>What is the expiration date of the coupon? Provide a date.>['Date']>annoyed>The coupon expires on March 31, 2020.
+DATE>What is the implementation date for the new feature? Provide a date.>['Date']>verbose>The new feature was implemented on January 1, 2017.
+DATE>What is the implementation date for the new feature? Provide a date.>['Date']>concise>The new feature is expected to be implemented by the end of the year.
+DATE>What is the implementation date for the new feature? Provide a date.>['Date']>colloquial>The new feature is expected to be implemented by the end of the year.
+DATE>What is the implementation date for the new feature? Provide a date.>['Date']>explanatory>The new feature is expected to be implemented by the end of the year.
+DATE>What is the implementation date for the new feature? Provide a date.>['Date']>annoyed>The new feature is expected to be implemented by the end of the year.
+DATE>What is the invoice date? Provide a date.>['Date']>verbose>The invoice date is March 30, 2018.
+DATE>What is the invoice date? Provide a date.>['Date']>concise>The invoice date is January 1, 2019.
+DATE>What is the invoice date? Provide a date.>['Date']>colloquial>The date of the invoice is the day after the date of the invoice.
+DATE>What is the invoice date? Provide a date.>['Date']>explanatory>The date of the invoice is March 31, 2019.
+DATE>What is the invoice date? Provide a date.>['Date']>annoyed>The invoice date is January 1, 2020.
+DATE>What is the invoice due date? Provide a date.>['Date']>verbose>The invoice due date is December 31, 2018.
+DATE>What is the invoice due date? Provide a date.>['Date']>concise>The invoice due date is December 31, 2018.
+DATE>What is the invoice due date? Provide a date.>['Date']>colloquial>The invoice due date is January 31, 2020.
+DATE>What is the invoice due date? Provide a date.>['Date']>explanatory>The invoice due date is March 31, 2018.
+DATE>What is the invoice due date? Provide a date.>['Date']>annoyed>The invoice due date is January 1, 2020.
+DATE>What is the last day to submit expense reports? Provide a date.>['Date']>verbose>The last day to submit expense reports is October 31st.
+DATE>What is the last day to submit expense reports? Provide a date.>['Date']>concise>The last day to submit expense reports is December 31st.
+DATE>What is the last day to submit expense reports? Provide a date.>['Date']>colloquial>The last day to submit expense reports is January 1st.
+DATE>What is the last day to submit expense reports? Provide a date.>['Date']>explanatory>The last day to submit expense reports is December 31st.
+DATE>What is the last day to submit expense reports? Provide a date.>['Date']>annoyed>The last day to submit expense reports is January 1st.
+DATE>What is the latest date for feedback submission? Provide a date.>['Date']>verbose>The latest date for feedback submission is January 1, 2019.
+DATE>What is the latest date for feedback submission? Provide a date.>['Date']>concise>The latest date for feedback submission is January 1, 2018.
+DATE>What is the latest date for feedback submission? Provide a date.>['Date']>colloquial>The latest date for feedback submission is March 15, 2018.
+DATE>What is the latest date for feedback submission? Provide a date.>['Date']>explanatory>The latest date for feedback submission is October 1, 2018.
+DATE>What is the latest date for feedback submission? Provide a date.>['Date']>annoyed>I'm not sure if it's the latest, but I'm sure it's the earliest.
+DATE>What is the planned date for the database migration? Provide a date.>['Date']>verbose>The migration will take place on June 30, 2020.
+DATE>What is the planned date for the database migration? Provide a date.>['Date']>concise>The migration will take place on January 1, 2020.
+DATE>What is the planned date for the database migration? Provide a date.>['Date']>colloquial>The migration will take place on June 30, 2018.
+DATE>What is the planned date for the database migration? Provide a date.>['Date']>explanatory>The migration will take place on January 1st, 2020.
+DATE>What is the planned date for the database migration? Provide a date.>['Date']>annoyed>The migration will take place on January 1, 2020.
+DATE>What is the planned date for the next release? Provide a date.>['Date']>verbose>The next release is scheduled for June 18, 2019.
+DATE>What is the planned date for the next release? Provide a date.>['Date']>concise>The next release will be released on March 18, 2019.
+DATE>What is the planned date for the next release? Provide a date.>['Date']>colloquial>The release date for the next release is October 30, 2018.
+DATE>What is the planned date for the next release? Provide a date.>['Date']>explanatory>The release date for the next release is January 20, 2020.
+DATE>What is the planned date for the next release? Provide a date.>['Date']>annoyed>The next release will be released on March 7, 2018 and will be released on March 7, 2018 and will be released on March 6, 2018 and will be released on March 7, 2018 and will be released on March 6, 2018 and will be released on March 7, 2018 and will be released on March 6, 2018 and will be released on March 6, 2018 and will be released on March 7, 2018 and will be released on March 7, 2018 and will be released on March 7, 2018 and will be released on March 6, 2018 and will be released on March 7, 2018 and will be released on March 7, 2018 and will be released on March 6, 2018 and will be released on March 7, 2018 and will be released on March 7, 2018 and will be released on March 6, 2018 and will be released on March 7, 2018 and will be released on March 7, 2018 and will be released on March 8, 2018 and will be released on March 7, 2018 and will be released on March 8, 2018 and will be released on March 7, 2018 and will be released on March 7, 2018 and will be released on March 7, 2018 and will be released on March 8, 2018 and will be released on March 7, 2018 and will be released on March 8, 2018 and will be released on March 7, 2018 and will be released on March 7, 2018 and will be released on March 8, 2018 and will be released on March 7, 2018 and will be released on March 8, 2018 and will be released on March 7, 2018 and will be released on March 8, 2018 and will be released on March 7, 2018 and will be released on March 8, 2018 and will be released on March 7, 2018 and will be released on March 7, 2018 and will be released on March 8, 2018 and will be released on March 7, 2018 and will be released on March 8, 2018 and will be released on March 7, 2018 and will be released on March 8, 2018 and will be released on March 7, 2018 and will be released on March 8, 2018 and will be released on March 7, 2018 and will be released on March 8, 2018 and will be released on March 7, 2018 and will be released on March 8, 2018 and will be released on March 7, 2018 and will be released on March 8, 2018 and will be released on March 7, 2018 and will be released on March 8, 2018 and will be released on March 7, 2018 and will be released on March 7, 2018 and will be released on March 8, 2018 and will be released on March 7, 2018 and will be released on March 7, 2018 and will be released on March 8, 2018 and will be released on March 7, 2018 and will be released on March 8, 2018 and will be released on March 7, 2018 and will be released on March 8, 2018 and will be released on March 7, 2018 and will be released on March 8, 2018 and will be released on March 9, 2018 and will be released on March 7, 2018 and will be released on March 7, 2018 and will be released on March 7, 2018 and will be released on March 11, 2018 and will be released on March 7, 2018 and will be released on March 7, 2018 and will be released on March 7, 2018 and will be released on March 7, 2018 and will be released on March 8, 2018 and will be released on March 7, 2018 and will be released on March 7, 2018 and will be released on March 8, 2018 and will be released on March 10, 2018 and will be released on March 7, 2018 and will be released on March 7, 2018 and will be released on March 8, 2018 and will be released on March 7, 2018 and will be released on March 7, 2018 and will be released on March 7, 2018 and will be released on March 8, 2018 and will be released on March 7, 2018 and will be released on March 7, 2018 and will be released on March 7, 2018 and will be released on March 7, 2018 and will be released on March 7, 2018 and will be released on March 7, 2018 and will be released on March 8, 2018 and will be released on March 7, 2018 and will be released on March 9, 2018 and will be released on March 7, 2018 and will be released on March 7, 2018 and will be released on March 7, 2018 and will be released on March 7, 2018 and will be available on March 7, 2018 and will be released on March 7, 2018 and will be released on March 7, 2018 and will be released on March 7, 2018 and will be available on March 7, 2018 and will be available on March 7, 2018 and will be released on March 7, 2018 and will be available on March 7, 2018
+DATE>What is the project completion date? Provide a date.>['Date']>verbose>The project is expected to be completed by the end of the year.
+DATE>What is the project completion date? Provide a date.>['Date']>concise>The project completion date is December 31, 2020.
+DATE>What is the project completion date? Provide a date.>['Date']>colloquial>The project was completed on December 15, 2018.
+DATE>What is the project completion date? Provide a date.>['Date']>explanatory>The project is expected to be completed by the end of the year.
+DATE>What is the project completion date? Provide a date.>['Date']>annoyed>The project completion date is January 1, 2020.
+DATE>What is the project's milestone date? Provide a date.>['Date']>verbose>The project's milestone date is January 1, 2020.
+DATE>What is the project's milestone date? Provide a date.>['Date']>concise>The project's milestone date is January 1, 2020.
+DATE>What is the project's milestone date? Provide a date.>['Date']>colloquial>The project's milestone date is July 1, 2020.
+DATE>What is the project's milestone date? Provide a date.>['Date']>explanatory>The project's milestone date is January 1, 2020.
+DATE>What is the project's milestone date? Provide a date.>['Date']>annoyed>The project's milestone date is March 1, 2020.
+DATE>What is the return deadline? Provide a date.>['Date']>verbose>The return deadline is January 15, 2018.
+DATE>What is the return deadline? Provide a date.>['Date']>concise>The return deadline is January 1, 2020.
+DATE>What is the return deadline? Provide a date.>['Date']>colloquial>The return deadline is January 15th.
+DATE>What is the return deadline? Provide a date.>['Date']>explanatory>The return deadline is April 30, 2018.
+DATE>What is the return deadline? Provide a date.>['Date']>annoyed>I'll be back in a few days.
+DATE>What is the start date for the training course? Provide a date.>['Date']>verbose>The start date for the training course is October 1st.
+DATE>What is the start date for the training course? Provide a date.>['Date']>concise>The start date for the training course is January 1, 2020.
+DATE>What is the start date for the training course? Provide a date.>['Date']>colloquial>The start date for the training course is May 1, 2020.
+DATE>What is the start date for the training course? Provide a date.>['Date']>explanatory>The start date for the training course is January 1st.
+DATE>What is the start date for the training course? Provide a date.>['Date']>annoyed>The start date for the training course is January 1, 2020.
+DATE>What is the start date of the new fiscal year? Provide a date.>['Date']>verbose>The start date of the new fiscal year is January 1, 2020.
+DATE>What is the start date of the new fiscal year? Provide a date.>['Date']>concise>The start date for the new fiscal year is January 1, 2020.
+DATE>What is the start date of the new fiscal year? Provide a date.>['Date']>colloquial>The start date of the new fiscal year is January 1, 2020.
+DATE>What is the start date of the new fiscal year? Provide a date.>['Date']>explanatory>The start date of the new fiscal year is January 1, 2020.
+DATE>What is the start date of the new fiscal year? Provide a date.>['Date']>annoyed>The start date of the new fiscal year is January 1st.
+DATE>What is the target completion date for the current sprint? Provide a date.>['Date']>verbose>The target completion date for the current sprint is January 1, 2020.
+DATE>What is the target completion date for the current sprint? Provide a date.>['Date']>concise>The target completion date for the current sprint is March 30, 2020.
+DATE>What is the target completion date for the current sprint? Provide a date.>['Date']>colloquial>The target completion date for the current sprint is January 1, 2020.
+DATE>What is the target completion date for the current sprint? Provide a date.>['Date']>explanatory>The target completion date for the current sprint is January 1, 2020.
+DATE>What is the target completion date for the current sprint? Provide a date.>['Date']>annoyed>The target completion date for the current sprint is January 1, 2020.
+DATE>What is the target launch date for the new application? Provide a date.>['Date']>verbose>The target launch date for the new application is January 1, 2020.
+DATE>What is the target launch date for the new application? Provide a date.>['Date']>concise>The target launch date for the new application is January 1, 2020.
+DATE>What is the target launch date for the new application? Provide a date.>['Date']>colloquial>The target launch date for the new application is October 15, 2018.
+DATE>What is the target launch date for the new application? Provide a date.>['Date']>explanatory>The target launch date for the new application is January 1, 2020.
+DATE>What is the target launch date for the new application? Provide a date.>['Date']>annoyed>The target launch date for the new application is January 15, 2020.
+DATE>What is the target launch date for the new product? Provide a date.>['Date']>verbose>The target launch date for the new product is January 1, 2020.
+DATE>What is the target launch date for the new product? Provide a date.>['Date']>concise>The target launch date for the new product is March 15, 2020.
+DATE>What is the target launch date for the new product? Provide a date.>['Date']>colloquial>The target launch date for the new product is January 1, 2020.
+DATE>What is the target launch date for the new product? Provide a date.>['Date']>explanatory>The target launch date for the new product is March 15, 2020.
+DATE>What is the target launch date for the new product? Provide a date.>['Date']>annoyed>It is expected to be released in the first quarter of 2017.
+DATE>What is the warranty expiration date? Provide a date.>['Date']>verbose>The warranty expiration date is January 1, 2020.
+DATE>What is the warranty expiration date? Provide a date.>['Date']>concise>The warranty expiration date is December 31, 2018.
+DATE>What is the warranty expiration date? Provide a date.>['Date']>colloquial>The warranty expiration date is March 30, 2020.
+DATE>What is the warranty expiration date? Provide a date.>['Date']>explanatory>The warranty expiration date is December 31, 2018.
+DATE>What is the warranty expiration date? Provide a date.>['Date']>annoyed>The warranty expiration date is December 31, 2018.
+DATE>What is your date of birth? Provide a date.>['Date']>verbose>I was born on March 29, 1967.
+DATE>What is your date of birth? Provide a date.>['Date']>concise>I was born on March 29, 1967.
+DATE>What is your date of birth? Provide a date.>['Date']>colloquial>I was born on March 15, 1989.
+DATE>What is your date of birth? Provide a date.>['Date']>explanatory>I was born on March 15, 1977.
+DATE>What is your date of birth? Provide a date.>['Date']>annoyed>I was born on December 31, 1967.
+DATE>What is your preferred date for a service call? Provide a date.>['Date']>verbose>I would like to call on Friday.
+DATE>What is your preferred date for a service call? Provide a date.>['Date']>concise>I would like to have a service call on Friday.
+DATE>What is your preferred date for a service call? Provide a date.>['Date']>colloquial>I'd like to call on Friday.
+DATE>What is your preferred date for a service call? Provide a date.>['Date']>explanatory>I would like to call on Monday.
+DATE>What is your preferred date for a service call? Provide a date.>['Date']>annoyed>I would like to call on Friday.
+DATE>When did the development phase conclude? Provide a date.>['Date']>verbose>The development phase concluded in late April.
+DATE>When did the development phase conclude? Provide a date.>['Date']>concise>The development phase concluded on May 30, 2005.
+DATE>When did the development phase conclude? Provide a date.>['Date']>colloquial>The development phase concluded on October 1, 2001.
+DATE>When did the development phase conclude? Provide a date.>['Date']>explanatory>The development phase concluded on June 30, 2018.
+DATE>When did the development phase conclude? Provide a date.>['Date']>annoyed>The development phase concluded on January 1, 2006.
+DATE>When did the employee start working for the company? Provide a date.>['Date']>verbose>The employee started working for the company in January 2000.
+DATE>When did the employee start working for the company? Provide a date.>['Date']>concise>It started in the early 1990s and ended in the early 2000s.
+DATE>When did the employee start working for the company? Provide a date.>['Date']>colloquial>When did the employee start working for the company?
+DATE>When did the employee start working for the company? Provide a date.>['Date']>explanatory>When did the employee start working for the company?
+DATE>When did the employee start working for the company? Provide a date.>['Date']>annoyed>When did the employee start working for the company?
+DATE>When did the equipment become operational? Provide a date.>['Date']>verbose>The equipment was operational in the mid-1980s.
+DATE>When did the equipment become operational? Provide a date.>['Date']>concise>The equipment became operational on December 31, 1992.
+DATE>When did the equipment become operational? Provide a date.>['Date']>colloquial>The equipment became operational in the mid-1980s.
+DATE>When did the equipment become operational? Provide a date.>['Date']>explanatory>The equipment was commissioned in March 2008.
+DATE>When did the equipment become operational? Provide a date.>['Date']>annoyed>The equipment was in operation at the time of the accident.
+DATE>When did the event take place? Provide a date.>['Date']>verbose>It took place on October 12, 2013.
+DATE>When did the event take place? Provide a date.>['Date']>concise>The event took place on April 30, 2019.
+DATE>When did the event take place? Provide a date.>['Date']>colloquial>It took place on April 23, 2005.
+DATE>When did the event take place? Provide a date.>['Date']>explanatory>The event took place on October 29, 2001.
+DATE>When did the event take place? Provide a date.>['Date']>annoyed>It took place on March 20, 2017.
+DATE>When did the incident occur? Provide a date.>['Date']>verbose>The incident occurred on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 29, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 29, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 29, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 29, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 29, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 29, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to have taken place on January 30, 2018 and was reported to
+DATE>When did the incident occur? Provide a date.>['Date']>concise>The incident occurred on October 23, 2001.
+DATE>When did the incident occur? Provide a date.>['Date']>colloquial>The incident occurred on February 7, 2001.
+DATE>When did the incident occur? Provide a date.>['Date']>explanatory>The incident occurred on October 23, 2001.
+DATE>When did the incident occur? Provide a date.>['Date']>annoyed>I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know.
+DATE>When did the payment process begin? Provide a date.>['Date']>verbose>The payment process began in December 2000.
+DATE>When did the payment process begin? Provide a date.>['Date']>concise>The payment process began in the early 1990s.
+DATE>When did the payment process begin? Provide a date.>['Date']>colloquial>When did the payment process begin?
+DATE>When did the payment process begin? Provide a date.>['Date']>explanatory>The payment process began in the early 1990s.
+DATE>When did the payment process begin? Provide a date.>['Date']>annoyed>When did the payment process begin?
+DATE>When did the performance testing commence? Provide a date.>['Date']>verbose>The performance testing began on October 1, 2008.
+DATE>When did the performance testing commence? Provide a date.>['Date']>concise>The performance testing began on January 1, 1999.
+DATE>When did the performance testing commence? Provide a date.>['Date']>colloquial>The performance testing began on January 1, 2017.
+DATE>When did the performance testing commence? Provide a date.>['Date']>explanatory>The performance testing began on March 1, 2001.
+DATE>When did the performance testing commence? Provide a date.>['Date']>annoyed>The performance testing began on December 1, 2001.
+DATE>When did the refund process start? Provide a date.>['Date']>verbose>The refund process began in September 2017.
+DATE>When did the refund process start? Provide a date.>['Date']>concise>The refund process started in January.
+DATE>When did the refund process start? Provide a date.>['Date']>colloquial>The refund process started in April 2001.
+DATE>When did the refund process start? Provide a date.>['Date']>explanatory>The refund process began in September 2001.
+DATE>When did the refund process start? Provide a date.>['Date']>annoyed>The refund process started in the late 1990s.
+DATE>When did the server outage begin? Provide a date.>['Date']>verbose>The server outage began on January 1, 2003.
+DATE>When did the server outage begin? Provide a date.>['Date']>concise>The server outage began on December 1, 2001.
+DATE>When did the server outage begin? Provide a date.>['Date']>colloquial>The server outage began on December 11, 2001.
+DATE>When did the server outage begin? Provide a date.>['Date']>explanatory>The server outage began on January 1, 2001.
+DATE>When did the server outage begin? Provide a date.>['Date']>annoyed>The server outage began on December 7, 2001.
+DATE>When did the shipment arrive at the warehouse? Provide a date.>['Date']>verbose>The shipment arrived at the warehouse on March 6, 2018.
+DATE>When did the shipment arrive at the warehouse? Provide a date.>['Date']>concise>The shipment arrived at the warehouse on Friday.
+DATE>When did the shipment arrive at the warehouse? Provide a date.>['Date']>colloquial>The shipment arrived at the warehouse on October 30, 2012.
+DATE>When did the shipment arrive at the warehouse? Provide a date.>['Date']>explanatory>The shipment arrived at the warehouse on December 15, 2013.
+DATE>When did the shipment arrive at the warehouse? Provide a date.>['Date']>annoyed>The shipment arrived at the warehouse on Friday morning.
+DATE>When did the trial period begin? Provide a date.>['Date']>verbose>The trial period began on March 1, 2003.
+DATE>When did the trial period begin? Provide a date.>['Date']>concise>The trial period began on January 1, 2001.
+DATE>When did the trial period begin? Provide a date.>['Date']>colloquial>The trial period began on April 1, 2003.
+DATE>When did the trial period begin? Provide a date.>['Date']>explanatory>The trial period began on January 1, 2002.
+DATE>When did the trial period begin? Provide a date.>['Date']>annoyed>The trial period began on June 1, 2001.
+DATE>When did the user acceptance testing begin? Provide a date.>['Date']>verbose>The user acceptance testing began in September 2017.
+DATE>When did the user acceptance testing begin? Provide a date.>['Date']>concise>We began user acceptance testing in April 2001.
+DATE>When did the user acceptance testing begin? Provide a date.>['Date']>colloquial>The user acceptance testing began in November 2008.
+DATE>When did the user acceptance testing begin? Provide a date.>['Date']>explanatory>The user acceptance testing began in January 2017.
+DATE>When did the user acceptance testing begin? Provide a date.>['Date']>annoyed>The testing began in April 2001.
+DATE>When did the warranty expire on this piece of equipment? Provide a date.>['Date']>verbose>The warranty expires at the end of the year.
+DATE>When did the warranty expire on this piece of equipment? Provide a date.>['Date']>concise>The warranty expires on December 31, 2002.
+DATE>When did the warranty expire on this piece of equipment? Provide a date.>['Date']>colloquial>The warranty expires on June 30, 2018.
+DATE>When did the warranty expire on this piece of equipment? Provide a date.>['Date']>explanatory>The warranty expires on January 31, 2020.
+DATE>When did the warranty expire on this piece of equipment? Provide a date.>['Date']>annoyed>The warranty expires on March 31, 2020.
+DATE>When did you begin experiencing this allergic reaction? Provide a date.>['Date']>verbose>I began experiencing this allergic reaction in January of this year.
+DATE>When did you begin experiencing this allergic reaction? Provide a date.>['Date']>concise>I began experiencing this allergic reaction in the early 1990s.
+DATE>When did you begin experiencing this allergic reaction? Provide a date.>['Date']>colloquial>I began experiencing this allergic reaction in the early 1990s.
+DATE>When did you begin experiencing this allergic reaction? Provide a date.>['Date']>explanatory>I began experiencing this allergic reaction in the early 1990s.
+DATE>When did you begin experiencing this allergic reaction? Provide a date.>['Date']>annoyed>I began experiencing this allergic reaction in the early 1990s.
+DATE>When did you begin experiencing this specific symptom? Provide a date.>['Date']>verbose>I began experiencing this symptom in the early 1990s.
+DATE>When did you begin experiencing this specific symptom? Provide a date.>['Date']>concise>I began experiencing this specific symptom in the early 1990s.
+DATE>When did you begin experiencing this specific symptom? Provide a date.>['Date']>colloquial>I began experiencing this symptom in the early 1990s.
+DATE>When did you begin experiencing this specific symptom? Provide a date.>['Date']>explanatory>I began experiencing this symptom in the early 1990s.
+DATE>When did you begin experiencing this specific symptom? Provide a date.>['Date']>annoyed>I started experiencing this symptom when I was a child.
+DATE>When did you begin taking this new medication? Provide a date.>['Date']>verbose>I began taking this medication in March of this year.
+DATE>When did you begin taking this new medication? Provide a date.>['Date']>concise>I began taking this medication in January of this year.
+DATE>When did you begin taking this new medication? Provide a date.>['Date']>colloquial>I began taking this medication in April of this year.
+DATE>When did you begin taking this new medication? Provide a date.>['Date']>explanatory>I began taking this medication in the early 1990s.
+DATE>When did you begin taking this new medication? Provide a date.>['Date']>annoyed>I began taking this medication in January of this year.
+DATE>When did you begin this new exercise regimen? Provide a date.>['Date']>verbose>I began this new exercise regimen in January of this year.
+DATE>When did you begin this new exercise regimen? Provide a date.>['Date']>concise>I began this new exercise regimen in January of this year.
+DATE>When did you begin this new exercise regimen? Provide a date.>['Date']>colloquial>I began this new exercise regimen in January of this year.
+DATE>When did you begin this new exercise regimen? Provide a date.>['Date']>explanatory>I began this new exercise regimen in January of this year.
+DATE>When did you begin this new exercise regimen? Provide a date.>['Date']>annoyed>I began this new exercise regimen in January of this year.
+DATE>When did you complete the online form? Provide a date.>['Date']>verbose>I completed the form on May 1, 2017.
+DATE>When did you complete the online form? Provide a date.>['Date']>concise>I completed the online form on March 8, 2013.
+DATE>When did you complete the online form? Provide a date.>['Date']>colloquial>I completed the form on March 15, 2013.
+DATE>When did you complete the online form? Provide a date.>['Date']>explanatory>I completed the form on March 15, 2018.
+DATE>When did you complete the online form? Provide a date.>['Date']>annoyed>I completed the online form on March 18, 2013.
+DATE>When did you complete the survey? Provide a date.>['Date']>verbose>I completed the survey on October 1st.
+DATE>When did you complete the survey? Provide a date.>['Date']>concise>I completed the survey on March 1, 2012.
+DATE>When did you complete the survey? Provide a date.>['Date']>colloquial>I completed the survey on March 15, 2016.
+DATE>When did you complete the survey? Provide a date.>['Date']>explanatory>I completed the survey on March 15, 2017.
+DATE>When did you complete the survey? Provide a date.>['Date']>annoyed>I completed the survey on October 30, 2013.
+DATE>When did you complete your prescribed rehabilitation? Provide a date.>['Date']>verbose>I completed my rehabilitation in May of last year.
+DATE>When did you complete your prescribed rehabilitation? Provide a date.>['Date']>concise>I completed my rehabilitation on October 30, 2015.
+DATE>When did you complete your prescribed rehabilitation? Provide a date.>['Date']>colloquial>I completed my rehabilitation in March.
+DATE>When did you complete your prescribed rehabilitation? Provide a date.>['Date']>explanatory>I completed my rehabilitation in January of this year.
+DATE>When did you complete your prescribed rehabilitation? Provide a date.>['Date']>annoyed>I completed my rehabilitation in January of this year.
+DATE>When did you experience a significant change in your health condition? Provide a date.>['Date']>verbose>I experienced a significant change in my health condition in the early 1990s.
+DATE>When did you experience a significant change in your health condition? Provide a date.>['Date']>concise>I experienced a significant change in my health condition at the age of 35.
+DATE>When did you experience a significant change in your health condition? Provide a date.>['Date']>colloquial>I experienced a significant change in my health condition in the early 1990's.
+DATE>When did you experience a significant change in your health condition? Provide a date.>['Date']>explanatory>I had a significant change in my health condition in the early part of the 20th century.
+DATE>When did you experience a significant change in your health condition? Provide a date.>['Date']>annoyed>I experienced a significant change in my health condition in the early 1990's.
+DATE>When did you experience the onset of this condition? Provide a date.>['Date']>verbose>I experienced the onset of this condition at the age of 20.
+DATE>When did you experience the onset of this condition? Provide a date.>['Date']>concise>I experienced the onset of this condition in the early 1990s.
+DATE>When did you experience the onset of this condition? Provide a date.>['Date']>colloquial>I experienced the onset of this condition in the early 1990s.
+DATE>When did you experience the onset of this condition? Provide a date.>['Date']>explanatory>I experienced the onset of this condition at the age of 20.
+DATE>When did you experience the onset of this condition? Provide a date.>['Date']>annoyed>I experienced the onset of this condition in March.
+DATE>When did you first encounter this problem? Provide a date.>['Date']>verbose>I first encountered this problem in the early 1990s.
+DATE>When did you first encounter this problem? Provide a date.>['Date']>concise>I first encountered this problem when I was a child.
+DATE>When did you first encounter this problem? Provide a date.>['Date']>colloquial>I first encountered this problem in the early 1990s.
+DATE>When did you first encounter this problem? Provide a date.>['Date']>explanatory>I first encountered this problem in the early 1990s.
+DATE>When did you first encounter this problem? Provide a date.>['Date']>annoyed>I first encountered this problem when I was a child.
+DATE>When did you first experience these symptoms? Provide a date.>['Date']>verbose>I first experienced these symptoms in the early 1980s.
+DATE>When did you first experience these symptoms? Provide a date.>['Date']>concise>I first experienced these symptoms in the early 1980s.
+DATE>When did you first experience these symptoms? Provide a date.>['Date']>colloquial>I first experienced these symptoms in the early 1980s.
+DATE>When did you first experience these symptoms? Provide a date.>['Date']>explanatory>I first experienced these symptoms in the early 1980s.
+DATE>When did you first experience these symptoms? Provide a date.>['Date']>annoyed>I first experienced these symptoms in the early 1990's.
+DATE>When did you first notice this skin condition? Provide a date.>['Date']>verbose>I first noticed this skin condition in the early 1990s.
+DATE>When did you first notice this skin condition? Provide a date.>['Date']>concise>I first noticed this skin condition in the early 1990s.
+DATE>When did you first notice this skin condition? Provide a date.>['Date']>colloquial>I first noticed this skin condition in the early 1990s.
+DATE>When did you first notice this skin condition? Provide a date.>['Date']>explanatory>I first noticed this skin condition in the early 1990s.
+DATE>When did you first notice this skin condition? Provide a date.>['Date']>annoyed>I first noticed this skin condition in the early 1990's.
+DATE>When did you last consume alcohol? Provide a date.>['Date']>verbose>I drank a lot of alcohol in the past year.
+DATE>When did you last consume alcohol? Provide a date.>['Date']>concise>I last consumed alcohol in August of last year.
+DATE>When did you last consume alcohol? Provide a date.>['Date']>colloquial>I've been drinking since I was a child.
+DATE>When did you last consume alcohol? Provide a date.>['Date']>explanatory>I last consumed alcohol in January of last year.
+DATE>When did you last consume alcohol? Provide a date.>['Date']>annoyed>I ate a lot of alcohol in the past few months.
+DATE>When did you last contact customer support? Provide a date.>['Date']>verbose>I spoke to customer support on March 15, 2015.
+DATE>When did you last contact customer support? Provide a date.>['Date']>concise>I spoke to customer support on November 30, 2017.
+DATE>When did you last contact customer support? Provide a date.>['Date']>colloquial>I last called customer support on May 1, 2013.
+DATE>When did you last contact customer support? Provide a date.>['Date']>explanatory>I spoke to the customer support team on January 30, 2018.
+DATE>When did you last contact customer support? Provide a date.>['Date']>annoyed>I last called customer support on March 15, 2018.
+DATE>When did you last have a flu shot? Provide a date.>['Date']>verbose>I had a flu shot in March of last year.
+DATE>When did you last have a flu shot? Provide a date.>['Date']>concise>I last had a flu shot in October.
+DATE>When did you last have a flu shot? Provide a date.>['Date']>colloquial>I had a flu shot in March of last year.
+DATE>When did you last have a flu shot? Provide a date.>['Date']>explanatory>I had a flu shot in March of last year.
+DATE>When did you last have a flu shot? Provide a date.>['Date']>annoyed>I last had a flu shot in February of last year.
+DATE>When did you last have a significant injury? Provide a date.>['Date']>verbose>I had a serious injury in January of last year.
+DATE>When did you last have a significant injury? Provide a date.>['Date']>concise>I last had a serious injury in January of last year.
+DATE>When did you last have a significant injury? Provide a date.>['Date']>colloquial>I had a serious injury in January of last year.
+DATE>When did you last have a significant injury? Provide a date.>['Date']>explanatory>I had a serious injury in January of last year.
+DATE>When did you last have a significant injury? Provide a date.>['Date']>annoyed>I had a serious injury in December of last year.
+DATE>When did you last see a mental health professional? Provide a date.>['Date']>verbose>I last saw a mental health professional about two years ago.
+DATE>When did you last see a mental health professional? Provide a date.>['Date']>concise>I last saw a mental health professional in March of this year.
+DATE>When did you last see a mental health professional? Provide a date.>['Date']>colloquial>I last saw a mental health professional in October of last year.
+DATE>When did you last see a mental health professional? Provide a date.>['Date']>explanatory>I saw a mental health professional in January of this year.
+DATE>When did you last see a mental health professional? Provide a date.>['Date']>annoyed>I saw a mental health professional in January.
+DATE>When did you last undergo a medical imaging procedure? Provide a date.>['Date']>verbose>I had a medical imaging procedure in January of this year.
+DATE>When did you last undergo a medical imaging procedure? Provide a date.>['Date']>concise>I had a medical imaging procedure on May 1, 2001.
+DATE>When did you last undergo a medical imaging procedure? Provide a date.>['Date']>colloquial>I last undergoing a medical imaging procedure in July of last year.
+DATE>When did you last undergo a medical imaging procedure? Provide a date.>['Date']>explanatory>I had a medical imaging procedure on December 30, 2013.
+DATE>When did you last undergo a medical imaging procedure? Provide a date.>['Date']>annoyed>I last underwent a medical imaging procedure in November of last year.
+DATE>When did you last update your health information? Provide a date.>['Date']>verbose>I updated my health information in January 2018.
+DATE>When did you last update your health information? Provide a date.>['Date']>concise>I last updated my health information in April of last year.
+DATE>When did you last update your health information? Provide a date.>['Date']>colloquial>I last updated my health information on July 1, 2013.
+DATE>When did you last update your health information? Provide a date.>['Date']>explanatory>I last updated my health information on March 1, 2017.
+DATE>When did you last update your health information? Provide a date.>['Date']>annoyed>I last updated my health information on January 1, 2015.
+DATE>When did you last visit the emergency room? Provide a date.>['Date']>verbose>I went to the emergency room on March 12, 2013.
+DATE>When did you last visit the emergency room? Provide a date.>['Date']>concise>I went to the emergency room in the morning.
+DATE>When did you last visit the emergency room? Provide a date.>['Date']>colloquial>I went to the emergency room on Friday.
+DATE>When did you last visit the emergency room? Provide a date.>['Date']>explanatory>I went to the emergency room on March 5, 2013.
+DATE>When did you last visit the emergency room? Provide a date.>['Date']>annoyed>I went to the emergency room on March 12, 2014, and I was rushed to the hospital.
+DATE>When did you purchase our product? Provide a date.>['Date']>verbose>I purchased the product in March of this year.
+DATE>When did you purchase our product? Provide a date.>['Date']>concise>We purchased our product in March of last year.
+DATE>When did you purchase our product? Provide a date.>['Date']>colloquial>We bought it in March of last year.
+DATE>When did you purchase our product? Provide a date.>['Date']>explanatory>We purchased the product in November of 2000.
+DATE>When did you purchase our product? Provide a date.>['Date']>annoyed>I purchased the product in March of this year.
+DATE>When did you receive the confirmation email? Provide a date.>['Date']>verbose>I received the confirmation email on March 1, 2001.
+DATE>When did you receive the confirmation email? Provide a date.>['Date']>concise>I received the email on March 28, 2013.
+DATE>When did you receive the confirmation email? Provide a date.>['Date']>colloquial>I received the email on Friday.
+DATE>When did you receive the confirmation email? Provide a date.>['Date']>explanatory>I received the email on May 1, 2001.
+DATE>When did you receive the confirmation email? Provide a date.>['Date']>annoyed>I received the confirmation email on October 17, 2013.
+DATE>When did you receive the initial diagnosis? Provide a date.>['Date']>verbose>I received the initial diagnosis on January 1, 2001.
+DATE>When did you receive the initial diagnosis? Provide a date.>['Date']>concise>I received the initial diagnosis on March 15, 1994.
+DATE>When did you receive the initial diagnosis? Provide a date.>['Date']>colloquial>I received the diagnosis in January of this year.
+DATE>When did you receive the initial diagnosis? Provide a date.>['Date']>explanatory>I received the initial diagnosis on March 15, 2001.
+DATE>When did you receive the initial diagnosis? Provide a date.>['Date']>annoyed>I received the initial diagnosis in March of this year.
+DATE>When did you receive the product? Provide a date.>['Date']>verbose>I received the product on December 15, 2017.
+DATE>When did you receive the product? Provide a date.>['Date']>concise>I received the product on December 15, 2013.
+DATE>When did you receive the product? Provide a date.>['Date']>colloquial>I received the product on May 20, 2012.
+DATE>When did you receive the product? Provide a date.>['Date']>explanatory>I received the product on December 15, 2012.
+DATE>When did you receive the product? Provide a date.>['Date']>annoyed>I received the product on November 16, 2001.
+DATE>When did you receive the results of your latest tests? Provide a date.>['Date']>verbose>I received the results of my latest tests on March 30, 2016.
+DATE>When did you receive the results of your latest tests? Provide a date.>['Date']>concise>I received the results on January 1, 2018.
+DATE>When did you receive the results of your latest tests? Provide a date.>['Date']>colloquial>I received the results of my latest tests on March 30, 2016.
+DATE>When did you receive the results of your latest tests? Provide a date.>['Date']>explanatory>I received the results of my latest tests on January 3, 2018.
+DATE>When did you receive the results of your latest tests? Provide a date.>['Date']>annoyed>I received the results on March 23, 2018.
+DATE>When did you receive your first shipment? Provide a date.>['Date']>verbose>I received my first shipment in May of this year.
+DATE>When did you receive your first shipment? Provide a date.>['Date']>concise>I received my first shipment on January 1, 2000.
+DATE>When did you receive your first shipment? Provide a date.>['Date']>colloquial>I received my first shipment in January.
+DATE>When did you receive your first shipment? Provide a date.>['Date']>explanatory>I received my first shipment on March 29, 1999.
+DATE>When did you receive your first shipment? Provide a date.>['Date']>annoyed>I received my first shipment in March of that year.
+DATE>When did you register your account? Provide a date.>['Date']>verbose>I registered my account on May 1, 2012.
+DATE>When did you register your account? Provide a date.>['Date']>concise>I registered my account on March 18, 2001.
+DATE>When did you register your account? Provide a date.>['Date']>colloquial>I registered my account on May 1, 2001.
+DATE>When did you register your account? Provide a date.>['Date']>explanatory>I registered my account on January 1, 2002.
+DATE>When did you register your account? Provide a date.>['Date']>annoyed>When did you register your account?
+DATE>When did you sign the contract? Provide a date.>['Date']>verbose>I signed the contract on March 1, 1998.
+DATE>When did you sign the contract? Provide a date.>['Date']>concise>I signed the contract on April 1, 1992.
+DATE>When did you sign the contract? Provide a date.>['Date']>colloquial>I signed the contract on October 1, 2001.
+DATE>When did you sign the contract? Provide a date.>['Date']>explanatory>I signed the contract on January 20, 2001.
+DATE>When did you sign the contract? Provide a date.>['Date']>annoyed>I signed the contract on January 1, 2001.
+DATE>When did you start experiencing pain in this area? Provide a date.>['Date']>verbose>I started experiencing pain in this area in January of this year.
+DATE>When did you start experiencing pain in this area? Provide a date.>['Date']>concise>I started experiencing pain in this area in January of this year.
+DATE>When did you start experiencing pain in this area? Provide a date.>['Date']>colloquial>I started experiencing pain in this area in the early 1990s.
+DATE>When did you start experiencing pain in this area? Provide a date.>['Date']>explanatory>I started experiencing pain in this area in the early 1990s.
+DATE>When did you start experiencing pain in this area? Provide a date.>['Date']>annoyed>I started experiencing pain in this area in the early 1990s.
+DATE>When did you start experiencing shortness of breath? Provide a date.>['Date']>verbose>I started experiencing shortness of breath in the early 1990's.
+DATE>When did you start experiencing shortness of breath? Provide a date.>['Date']>concise>I started experiencing shortness of breath in the early 1990's.
+DATE>When did you start experiencing shortness of breath? Provide a date.>['Date']>colloquial>I started experiencing shortness of breath in the early 1990's.
+DATE>When did you start experiencing shortness of breath? Provide a date.>['Date']>explanatory>I started experiencing shortness of breath in the early 1990s.
+DATE>When did you start experiencing shortness of breath? Provide a date.>['Date']>annoyed>I started experiencing shortness of breath in the early 1990's.
+DATE>When did you start this medication? Provide a date.>['Date']>verbose>I started this medication in January of last year.
+DATE>When did you start this medication? Provide a date.>['Date']>concise>I started taking this medication in the fall of 2001.
+DATE>When did you start this medication? Provide a date.>['Date']>colloquial>I started this medication in the early 1990's.
+DATE>When did you start this medication? Provide a date.>['Date']>explanatory>I started this medication in March of last year.
+DATE>When did you start this medication? Provide a date.>['Date']>annoyed>I started this medication in the early 1990's.
+DATE>When did you start this new diet? Provide a date.>['Date']>verbose>I started this diet in the early 1990's.
+DATE>When did you start this new diet? Provide a date.>['Date']>concise>I started this new diet in January of this year.
+DATE>When did you start this new diet? Provide a date.>['Date']>colloquial>I started this diet in the early 1990's.
+DATE>When did you start this new diet? Provide a date.>['Date']>explanatory>I started this new diet in January of this year.
+DATE>When did you start this new diet? Provide a date.>['Date']>annoyed>I started this new diet in March of this year.
+DATE>When did you start using our service? Provide a date.>['Date']>verbose>I started using our service in August of last year.
+DATE>When did you start using our service? Provide a date.>['Date']>concise>I started using our service in June of 2001.
+DATE>When did you start using our service? Provide a date.>['Date']>colloquial>I started using our service in September of last year.
+DATE>When did you start using our service? Provide a date.>['Date']>explanatory>We started using our service in January of this year.
+DATE>When did you start using our service? Provide a date.>['Date']>annoyed>We started using our service in September 2015.
+DATE>When did you stop smoking? Provide a date.>['Date']>verbose>I stopped smoking in the early 1980s.
+DATE>When did you stop smoking? Provide a date.>['Date']>concise>I stopped smoking in the early 1980s.
+DATE>When did you stop smoking? Provide a date.>['Date']>colloquial>I stopped smoking in the early 1980s.
+DATE>When did you stop smoking? Provide a date.>['Date']>explanatory>I stopped smoking in the early 1980s.
+DATE>When did you stop smoking? Provide a date.>['Date']>annoyed>I stopped smoking in the early 1980s.
+DATE>When did you submit your order? Provide a date.>['Date']>verbose>I submitted my order on May 7, 2013.
+DATE>When did you submit your order? Provide a date.>['Date']>concise>I submitted my order on March 30, 2013.
+DATE>When did you submit your order? Provide a date.>['Date']>colloquial>I submitted my order on Friday.
+DATE>When did you submit your order? Provide a date.>['Date']>explanatory>I submitted my order on March 30, 2013.
+DATE>When did you submit your order? Provide a date.>['Date']>annoyed>I submitted my order on March 18, 2012.
+DATE>When did you subscribe to the service? Provide a date.>['Date']>verbose>I subscribed to the service in April of last year.
+DATE>When did you subscribe to the service? Provide a date.>['Date']>concise>I subscribed to the service on March 1, 2013.
+DATE>When did you subscribe to the service? Provide a date.>['Date']>colloquial>I subscribed to the service on March 1, 2013.
+DATE>When did you subscribe to the service? Provide a date.>['Date']>explanatory>I subscribed to the service in March 2018.
+DATE>When did you subscribe to the service? Provide a date.>['Date']>annoyed>I subscribed to the service on October 1, 2001.
+DATE>When did your symptoms begin to improve? Provide a date.>['Date']>verbose>When did my symptoms begin to improve?
+DATE>When did your symptoms begin to improve? Provide a date.>['Date']>concise>I started to feel better in the early part of the year.
+DATE>When did your symptoms begin to improve? Provide a date.>['Date']>colloquial>I began to feel better in the early part of the year.
+DATE>When did your symptoms begin to improve? Provide a date.>['Date']>explanatory>When did symptoms begin to improve?
+DATE>When did your symptoms begin to improve? Provide a date.>['Date']>annoyed>I started to feel better about my symptoms in the early part of the year.
+DATE>When is the annual general meeting? Provide a date.>['Date']>verbose>The annual general meeting is held on December 31st.
+DATE>When is the annual general meeting? Provide a date.>['Date']>concise>The annual general meeting is held on the first Friday in May.
+DATE>When is the annual general meeting? Provide a date.>['Date']>colloquial>The annual general meeting is on January 1st.
+DATE>When is the annual general meeting? Provide a date.>['Date']>explanatory>The annual general meeting is held on January 1st.
+DATE>When is the annual general meeting? Provide a date.>['Date']>annoyed>The annual general meeting is held on January 3, 2018 at 5:00 p.m.
+DATE>When is the conference scheduled? Provide a date.>['Date']>verbose>The conference is scheduled to be held on September 23rd.
+DATE>When is the conference scheduled? Provide a date.>['Date']>concise>The conference is scheduled to start at 8:00 a.m.
+DATE>When is the conference scheduled? Provide a date.>['Date']>colloquial>The conference is scheduled to start on Friday.
+DATE>When is the conference scheduled? Provide a date.>['Date']>explanatory>The conference is scheduled to be held on May 29.
+DATE>When is the conference scheduled? Provide a date.>['Date']>annoyed>The conference is scheduled for May 20th.
+DATE>When is the deadline for submitting the report? Provide a date.>['Date']>verbose>The deadline for submitting the report is March 30, 2018.
+DATE>When is the deadline for submitting the report? Provide a date.>['Date']>concise>The deadline for submitting the report is March 1, 2017.
+DATE>When is the deadline for submitting the report? Provide a date.>['Date']>colloquial>The deadline for submitting a report is October 30, 2018.
+DATE>When is the deadline for submitting the report? Provide a date.>['Date']>explanatory>The deadline for submitting the report is March 15, 2018.
+DATE>When is the deadline for submitting the report? Provide a date.>['Date']>annoyed>The deadline for submitting a report is February 1, 2018.
+DATE>When is the deadline for the project bid? Provide a date.>['Date']>verbose>The deadline for the project bid is March 15, 2018.
+DATE>When is the deadline for the project bid? Provide a date.>['Date']>concise>The deadline is January 1, 2020.
+DATE>When is the deadline for the project bid? Provide a date.>['Date']>colloquial>The deadline for the project bid is January 1, 2020.
+DATE>When is the deadline for the project bid? Provide a date.>['Date']>explanatory>The deadline for the project bid is January 1, 2020.
+DATE>When is the deadline for the project bid? Provide a date.>['Date']>annoyed>The deadline for the project bid is December 15, 2018.
+DATE>When is the deadline for the project completion? Provide a date.>['Date']>verbose>The deadline is March 31, 2020.
+DATE>When is the deadline for the project completion? Provide a date.>['Date']>concise>The deadline for completion of the project is October 31, 2018.
+DATE>When is the deadline for the project completion? Provide a date.>['Date']>colloquial>The deadline is October 31, 2020.
+DATE>When is the deadline for the project completion? Provide a date.>['Date']>explanatory>The deadline for the project completion is January 1, 2020.
+DATE>When is the deadline for the project completion? Provide a date.>['Date']>annoyed>The deadline is November 30, 2018.
+DATE>When is the deadline for the proposal submission? Provide a date.>['Date']>verbose>The deadline for submission of a proposal is October 1, 2018.
+DATE>When is the deadline for the proposal submission? Provide a date.>['Date']>concise>The deadline for submission of a proposal is March 30, 2018.
+DATE>When is the deadline for the proposal submission? Provide a date.>['Date']>colloquial>The deadline for submission of a proposal is January 1, 2018.
+DATE>When is the deadline for the proposal submission? Provide a date.>['Date']>explanatory>The deadline for submission of a proposal is February 15, 2018.
+DATE>When is the deadline for the proposal submission? Provide a date.>['Date']>annoyed>The deadline for submission of a proposal is March 15, 2018.
+DATE>When is the next budget review scheduled? Provide a date.>['Date']>verbose>The next budget review is scheduled for June 1st.
+DATE>When is the next budget review scheduled? Provide a date.>['Date']>concise>The next budget review is scheduled for December 31, 2017.
+DATE>When is the next budget review scheduled? Provide a date.>['Date']>colloquial>The next budget review is scheduled for January 2020.
+DATE>When is the next budget review scheduled? Provide a date.>['Date']>explanatory>The next budget review is scheduled for January 1, 2020.
+DATE>When is the next budget review scheduled? Provide a date.>['Date']>annoyed>The next budget review is scheduled for December 31, 2017.
+DATE>When is the next holiday? Provide a date.>['Date']>verbose>The next holiday is on December 31st.
+DATE>When is the next holiday? Provide a date.>['Date']>concise>The next holiday will be on Friday, December 23rd.
+DATE>When is the next holiday? Provide a date.>['Date']>colloquial>The next holiday is on December 23rd.
+DATE>When is the next holiday? Provide a date.>['Date']>explanatory>The next holiday is on December 31st.
+DATE>When is the next holiday? Provide a date.>['Date']>annoyed>The next holiday will be on Sunday, December 31st.
+DATE>When is the next quality control inspection scheduled? Provide a date.>['Date']>verbose>The next inspection is scheduled for October.
+DATE>When is the next quality control inspection scheduled? Provide a date.>['Date']>concise>The next inspection is scheduled for April 1, 2020.
+DATE>When is the next quality control inspection scheduled? Provide a date.>['Date']>colloquial>The next inspection is scheduled for June 30, 2018.
+DATE>When is the next quality control inspection scheduled? Provide a date.>['Date']>explanatory>The next inspection is scheduled for January 30, 2020.
+DATE>When is the next quality control inspection scheduled? Provide a date.>['Date']>annoyed>The next inspection is scheduled for October 20.
+DATE>When is the next safety training scheduled? Provide a date.>['Date']>verbose>The next safety training is scheduled for September 30th.
+DATE>When is the next safety training scheduled? Provide a date.>['Date']>concise>The next safety training is scheduled for April 1.
+DATE>When is the next safety training scheduled? Provide a date.>['Date']>colloquial>The next safety training will be held on October 30.
+DATE>When is the next safety training scheduled? Provide a date.>['Date']>explanatory>The next safety training will be held on September 20.
+DATE>When is the next safety training scheduled? Provide a date.>['Date']>annoyed>The next safety training will be held on Friday, February 6, 2018 at 2:00 p.m.
+DATE>When is the next scheduled audit? Provide a date.>['Date']>verbose>The next audit will be scheduled for January, 2020.
+DATE>When is the next scheduled audit? Provide a date.>['Date']>concise>The next audit will be scheduled on Friday, October 23rd.
+DATE>When is the next scheduled audit? Provide a date.>['Date']>colloquial>The next audit will be scheduled for January 1, 2020.
+DATE>When is the next scheduled audit? Provide a date.>['Date']>explanatory>The next audit will be scheduled for December 31st.
+DATE>When is the next scheduled audit? Provide a date.>['Date']>annoyed>The next audit will be scheduled for October 31st.
+DATE>When is the next scheduled maintenance window? Provide a date.>['Date']>verbose>The next maintenance window is scheduled for Monday, February 26, 2019.
+DATE>When is the next scheduled maintenance window? Provide a date.>['Date']>concise>The next maintenance window is scheduled for June 1.
+DATE>When is the next scheduled maintenance window? Provide a date.>['Date']>colloquial>The next maintenance window is scheduled for June 20th.
+DATE>When is the next scheduled maintenance window? Provide a date.>['Date']>explanatory>The next maintenance window is scheduled for Monday, December 15, 2018.
+DATE>When is the next scheduled maintenance window? Provide a date.>['Date']>annoyed>The next maintenance window is scheduled to start on Monday, December 15, 2018.
+DATE>When is the next scheduled maintenance? Provide a date.>['Date']>verbose>The next maintenance is scheduled for May.
+DATE>When is the next scheduled maintenance? Provide a date.>['Date']>concise>The next maintenance is scheduled for Monday, February 6, 2018.
+DATE>When is the next scheduled maintenance? Provide a date.>['Date']>colloquial>The next maintenance will be on Monday.
+DATE>When is the next scheduled maintenance? Provide a date.>['Date']>explanatory>The next maintenance will be on Monday, December 15, 2018.
+DATE>When is the next scheduled maintenance? Provide a date.>['Date']>annoyed>The next maintenance is scheduled to start on Friday.
+DATE>When is the next scheduled system backup? Provide a date.>['Date']>verbose>The next scheduled system backup will be on December 15, 2017.
+DATE>When is the next scheduled system backup? Provide a date.>['Date']>concise>The next system backup is scheduled for November 30, 2017.
+DATE>When is the next scheduled system backup? Provide a date.>['Date']>colloquial>The next scheduled system backup will take place on Friday, January 29, 2020.
+DATE>When is the next scheduled system backup? Provide a date.>['Date']>explanatory>The next scheduled system backup will be on December 31, 2018.
+DATE>When is the next scheduled system backup? Provide a date.>['Date']>annoyed>The next system backup will be on January 1st.
+DATE>When is the next software release planned? Provide a date.>['Date']>verbose>The next software release is scheduled for June 1, 2018.
+DATE>When is the next software release planned? Provide a date.>['Date']>concise>The next software release is scheduled to be released in mid-2017.
+DATE>When is the next software release planned? Provide a date.>['Date']>colloquial>The next software release is scheduled to be released in late 2018 or early 2019.
+DATE>When is the next software release planned? Provide a date.>['Date']>explanatory>The next software release is scheduled for December 15, 2018.
+DATE>When is the next software release planned? Provide a date.>['Date']>annoyed>The next software release is scheduled for December 15, 2018.
+DATE>When is the next technology audit scheduled? Provide a date.>['Date']>verbose>The next technology audit is scheduled for October.
+DATE>When is the next technology audit scheduled? Provide a date.>['Date']>concise>The next technology audit is scheduled for June 30, 2018.
+DATE>When is the next technology audit scheduled? Provide a date.>['Date']>colloquial>The next technology audit is scheduled for October 31st.
+DATE>When is the next technology audit scheduled? Provide a date.>['Date']>explanatory>The next technology audit is scheduled for June 30, 2017.
+DATE>When is the next technology audit scheduled? Provide a date.>['Date']>annoyed>The next technology audit is scheduled to be held in March.
+DATE>When is the payment due? Provide a date.>['Date']>verbose>The payment is due on October 1st.
+DATE>When is the payment due? Provide a date.>['Date']>concise>The payment is due on March 30, 2019.
+DATE>When is the payment due? Provide a date.>['Date']>colloquial>The payment is due on the day of the event.
+DATE>When is the payment due? Provide a date.>['Date']>explanatory>The payment is due on March 31st.
+DATE>When is the payment due? Provide a date.>['Date']>annoyed>The payment is due on the day of the event.
+DATE>When is your next appointment? Provide a date.>['Date']>verbose>I'm scheduled for a meeting on Friday.
+DATE>When is your next appointment? Provide a date.>['Date']>concise>I'll be there on Friday.
+DATE>When is your next appointment? Provide a date.>['Date']>colloquial>I'm looking forward to my next appointment.
+DATE>When is your next appointment? Provide a date.>['Date']>explanatory>I'm going to be at a meeting on Friday.
+DATE>When is your next appointment? Provide a date.>['Date']>annoyed>I'm not sure.
+DATE>When is your preferred date for delivery? Provide a date.>['Date']>verbose>I'd like to have delivery on Friday.
+DATE>When is your preferred date for delivery? Provide a date.>['Date']>concise>I prefer to receive my food on Friday.
+DATE>When is your preferred date for delivery? Provide a date.>['Date']>colloquial>I'd like to have it delivered on the same day.
+DATE>When is your preferred date for delivery? Provide a date.>['Date']>explanatory>I prefer delivery on a Friday.
+DATE>When is your preferred date for delivery? Provide a date.>['Date']>annoyed>I'd like to pick up my food on Friday.
+DATE>When is your preferred shipping date? Provide a date.>['Date']>verbose>I would like to ship a new car on the same day.
+DATE>When is your preferred shipping date? Provide a date.>['Date']>concise>I would like to ship on Friday.
+DATE>When is your preferred shipping date? Provide a date.>['Date']>colloquial>I prefer to ship on a Friday.
+DATE>When is your preferred shipping date? Provide a date.>['Date']>explanatory>I would like to ship on a Friday, and I would like to ship on a Saturday, and I would like to ship on a Friday, and I would like to ship on a Saturday, and I would like to ship on a Friday, and I would like to ship on a Saturday, and I would like to ship on a Friday, and I would like to ship on a Saturday, and I would like to ship on a Friday, and I would like to ship on a Saturday, and I would like to ship on a Friday, and I would like to ship on a Saturday, and I would like to ship on a Friday, and I would like to ship on a Saturday, and I would like to ship on a Friday, and I would like to ship on a Saturday, and I would like to ship on a Friday, and I would like to ship on a Saturday, and I would like to ship on a Friday, and I would like to ship on a Saturday, and I would like to ship on a Friday, and I would like to ship on a Saturday, and I would like to ship on a Friday, and I would like to ship on a Saturday, and I would like to ship on a Friday, and I would like to ship on a Saturday, and I would like to ship on a Friday, and I would like to ship on a Saturday, and I would like to ship on a Friday, and I would like to ship on a Saturday, and I would like to ship on a Friday, and I would like to ship on a Saturday, and I would like to ship on a Friday, and I would like to ship on a Saturday, and I would like to ship on a Friday, and I would like to ship on a Saturday, and I would like to ship on a Friday, and I would like to ship on a Saturday, and I would like to ship on a Friday, and I would like to ship on a Saturday, and I would like to ship on a Friday, and I would like to ship on a Saturday, and I would like to ship on a Friday, and I would like to ship on a Saturday, and I would like to ship on a Friday, and I would like to ship on a Saturday, and I would like to ship on a Friday, and I would like to ship on a Saturday, and I would like to ship on a Friday, and I would like to ship on a Saturday, and I would like to ship on a Friday, and I would like to ship on a Friday, and I would like to ship on a Saturday, and I would like to ship on a Friday, and I would like to ship on a Saturday, and I would like to ship on a Friday, and I would like to ship on a Saturday, and I would like to ship on a Friday, and I would like to ship on a Friday, and I would like to ship on a Saturday, and I would like to ship on a Friday, and I would like to ship on a Saturday, and I would like to ship on a Friday, and I would like to ship on a Friday, and I would like to ship on a Saturday, and I would like to ship on a Friday, and I would like to ship on a Saturday, and I would like to ship on a Friday, and I would like to ship on a Saturday, and I would like to ship on a Friday, and I would like to ship on a Friday, and I would like to ship on a Saturday, and I would like to ship on a Friday, and I would like to ship on a Saturday, and I would like to ship on a Saturday, and I would like to ship on a Sunday, and I would like to ship on a Saturday, and I would like to ship on a Sunday, and I would like to ship on a Saturday, and I would like to ship on a Sunday, and I would like to ship on a Saturday, and I would like to ship on a Sunday, and I would like to ship on a Sunday, and I would like to ship on a Sunday, and I would like to ship on a Sunday, and I would like to ship on a Sunday, and I would like to ship on a Sunday, and I would like to ship on a Sunday, and I would like to ship on a Sunday, and I would like to ship on a Sunday, and I would like to ship on a Sunday, and I would like to ship on a Sunday, and I would like to ship on a Sunday, and
+DATE>When is your preferred shipping date? Provide a date.>['Date']>annoyed>I prefer to ship on Friday.
+DATE>When was the account created? Provide a date.>['Date']>verbose>When was the account created?
+DATE>When was the account created? Provide a date.>['Date']>concise>When was the account created?
+DATE>When was the account created? Provide a date.>['Date']>colloquial>The account was created in January 2012.
+DATE>When was the account created? Provide a date.>['Date']>explanatory>The account was created in January, 2019.
+DATE>When was the account created? Provide a date.>['Date']>annoyed>The account was created on January 1, 1999.
+DATE>When was the bug report submitted? Provide a date.>['Date']>verbose>The bug report was submitted on March 15, 2015.
+DATE>When was the bug report submitted? Provide a date.>['Date']>concise>The bug report was submitted on March 7, 2018.
+DATE>When was the bug report submitted? Provide a date.>['Date']>colloquial>The bug report was submitted on December 7, 2003.
+DATE>When was the bug report submitted? Provide a date.>['Date']>explanatory>The bug report was submitted on December 7, 2001.
+DATE>When was the bug report submitted? Provide a date.>['Date']>annoyed>The bug report was submitted on October 30, 2001.
+DATE>When was the building permit issued? Provide a date.>['Date']>verbose>The building permit was issued on January 1, 1990.
+DATE>When was the building permit issued? Provide a date.>['Date']>concise>The building permit was issued on January 1, 1967.
+DATE>When was the building permit issued? Provide a date.>['Date']>colloquial>The building permit was issued on January 1, 2001.
+DATE>When was the building permit issued? Provide a date.>['Date']>explanatory>The building permit was issued on January 15, 1987.
+DATE>When was the building permit issued? Provide a date.>['Date']>annoyed>When was the building permit issued?
+DATE>When was the database schema updated? Provide a date.>['Date']>verbose>The database schema was updated on January 1, 2001.
+DATE>When was the database schema updated? Provide a date.>['Date']>concise>The database schema was updated on January 1, 2000.
+DATE>When was the database schema updated? Provide a date.>['Date']>colloquial>The database schema was updated in January 2000.
+DATE>When was the database schema updated? Provide a date.>['Date']>explanatory>The database schema was updated on December 31, 2002.
+DATE>When was the database schema updated? Provide a date.>['Date']>annoyed>The database schema was updated on January 1, 2001.
+DATE>When was the incident reported? Provide a date.>['Date']>verbose>The incident was reported on October 26, 2017.
+DATE>When was the incident reported? Provide a date.>['Date']>concise>The incident was reported on December 20, 2012.
+DATE>When was the incident reported? Provide a date.>['Date']>colloquial>The incident was reported on November 30, 2001.
+DATE>When was the incident reported? Provide a date.>['Date']>explanatory>It was reported on October 29, 2012.
+DATE>When was the incident reported? Provide a date.>['Date']>annoyed>The incident was reported on February 20, 2001.
+DATE>When was the initial contract signed? Provide a date.>['Date']>verbose>The initial contract was signed on March 30, 1999.
+DATE>When was the initial contract signed? Provide a date.>['Date']>concise>The initial contract was signed on January 1, 1999.
+DATE>When was the initial contract signed? Provide a date.>['Date']>colloquial>The initial contract was signed on December 1, 1998.
+DATE>When was the initial contract signed? Provide a date.>['Date']>explanatory>The initial contract was signed on March 1, 1998.
+DATE>When was the initial contract signed? Provide a date.>['Date']>annoyed>The initial contract was signed on October 1, 1998.
+DATE>When was the initial design concept finalized? Provide a date.>['Date']>verbose>The design concept was finalized in September 2000.
+DATE>When was the initial design concept finalized? Provide a date.>['Date']>concise>The initial design concept was finalized in April 2001.
+DATE>When was the initial design concept finalized? Provide a date.>['Date']>colloquial>The initial design concept was finalized in May 2009.
+DATE>When was the initial design concept finalized? Provide a date.>['Date']>explanatory>The initial design concept was finalized in April 2017.
+DATE>When was the initial design concept finalized? Provide a date.>['Date']>annoyed>The initial design concept was finalized in June 2000.
+DATE>When was the last major system upgrade implemented? Provide a date.>['Date']>verbose>The last major system upgrade was implemented in September 2001.
+DATE>When was the last major system upgrade implemented? Provide a date.>['Date']>concise>The last major system upgrade was implemented in March 2003.
+DATE>When was the last major system upgrade implemented? Provide a date.>['Date']>colloquial>The last major system upgrade was implemented in March 2000.
+DATE>When was the last major system upgrade implemented? Provide a date.>['Date']>explanatory>The last major system upgrade was implemented in November 2001.
+DATE>When was the last major system upgrade implemented? Provide a date.>['Date']>annoyed>The last major system upgrade was implemented in the year 2000.
+DATE>When was the last performance review conducted? Provide a date.>['Date']>verbose>The last performance review was conducted in November 2006.
+DATE>When was the last performance review conducted? Provide a date.>['Date']>concise>The last performance review was conducted on January 30, 2015.
+DATE>When was the last performance review conducted? Provide a date.>['Date']>colloquial>The last performance review was conducted on March 26, 2018.
+DATE>When was the last performance review conducted? Provide a date.>['Date']>explanatory>The last performance review was conducted on December 30, 2018.
+DATE>When was the last performance review conducted? Provide a date.>['Date']>annoyed>The last performance review was conducted on May 2, 2015.
+DATE>When was the last safety inspection conducted? Provide a date.>['Date']>verbose>The last safety inspection was conducted on October 1, 2000.
+DATE>When was the last safety inspection conducted? Provide a date.>['Date']>concise>The last safety inspection was conducted on December 30, 2005.
+DATE>When was the last safety inspection conducted? Provide a date.>['Date']>colloquial>The last safety inspection was conducted on December 31, 2012.
+DATE>When was the last safety inspection conducted? Provide a date.>['Date']>explanatory>The last safety inspection was conducted on December 15, 2015.
+DATE>When was the last safety inspection conducted? Provide a date.>['Date']>annoyed>The last safety inspection was conducted on December 14, 2015.
+DATE>When was the last security patch implemented? Provide a date.>['Date']>verbose>The last security patch was implemented on January 1, 2017.
+DATE>When was the last security patch implemented? Provide a date.>['Date']>concise>The last security patch was implemented on December 11, 2002.
+DATE>When was the last security patch implemented? Provide a date.>['Date']>colloquial>The last security patch was implemented in November 2001.
+DATE>When was the last security patch implemented? Provide a date.>['Date']>explanatory>The last security patch was implemented on December 15, 2017.
+DATE>When was the last security patch implemented? Provide a date.>['Date']>annoyed>The last security patch was released on September 11, 2001.
+DATE>When was the last software update installed? Provide a date.>['Date']>verbose>The latest software update was installed on December 15, 2015.
+DATE>When was the last software update installed? Provide a date.>['Date']>concise>The last software update was installed in March, 2018.
+DATE>When was the last software update installed? Provide a date.>['Date']>colloquial>The last software update was installed on January 1, 2001.
+DATE>When was the last software update installed? Provide a date.>['Date']>explanatory>The last software update was installed on December 31, 2015.
+DATE>When was the last software update installed? Provide a date.>['Date']>annoyed>The last software update was installed in March, 2017.
+DATE>When was the last system backup performed? Provide a date.>['Date']>verbose>The last system backup was in October, 2002.
+DATE>When was the last system backup performed? Provide a date.>['Date']>concise>The last system backup was completed in January 2001.
+DATE>When was the last system backup performed? Provide a date.>['Date']>colloquial>The last system backup was in January 2000.
+DATE>When was the last system backup performed? Provide a date.>['Date']>explanatory>The last system backup was in November 2001.
+DATE>When was the last system backup performed? Provide a date.>['Date']>annoyed>The last system backup was completed in January 2000.
+DATE>When was the last time the software was updated? Provide a date.>['Date']>verbose>The software was last updated in November 2000.
+DATE>When was the last time the software was updated? Provide a date.>['Date']>concise>The software was updated in the year 2000.
+DATE>When was the last time the software was updated? Provide a date.>['Date']>colloquial>The software was updated in March, 2019.
+DATE>When was the last time the software was updated? Provide a date.>['Date']>explanatory>The software was updated in March 2015.
+DATE>When was the last time the software was updated? Provide a date.>['Date']>annoyed>The software was last updated in March, 2018.
+DATE>When was the last time you saw a specialist? Provide a date.>['Date']>verbose>I saw a specialist in January of this year.
+DATE>When was the last time you saw a specialist? Provide a date.>['Date']>concise>I saw a specialist on January 3, 2013.
+DATE>When was the last time you saw a specialist? Provide a date.>['Date']>colloquial>I saw a specialist in January of this year.
+DATE>When was the last time you saw a specialist? Provide a date.>['Date']>explanatory>I saw a specialist on January 1, 2012.
+DATE>When was the last time you saw a specialist? Provide a date.>['Date']>annoyed>I saw a specialist in January.
+DATE>When was the last time you updated your profile? Provide a date.>['Date']>verbose>I updated my profile on March 18, 2018.
+DATE>When was the last time you updated your profile? Provide a date.>['Date']>concise>I updated my profile on January 30, 2019.
+DATE>When was the last time you updated your profile? Provide a date.>['Date']>colloquial>I updated my profile on January 1, 2018.
+DATE>When was the last time you updated your profile? Provide a date.>['Date']>explanatory>I updated my profile on March 30, 2019.
+DATE>When was the last time you updated your profile? Provide a date.>['Date']>annoyed>I haven't updated my profile in a while.
+DATE>When was the new hardware installed? Provide a date.>['Date']>verbose>The hardware was installed in March 2002.
+DATE>When was the new hardware installed? Provide a date.>['Date']>concise>The hardware was installed in April of this year.
+DATE>When was the new hardware installed? Provide a date.>['Date']>colloquial>The hardware was installed in March 2008.
+DATE>When was the new hardware installed? Provide a date.>['Date']>explanatory>It was installed on January 1, 2005.
+DATE>When was the new hardware installed? Provide a date.>['Date']>annoyed>The new hardware was installed in the spring of 2006.
+DATE>When was the product released? Provide a date.>['Date']>verbose>The product was released in May 2006.
+DATE>When was the product released? Provide a date.>['Date']>concise>The product was released in March of that year.
+DATE>When was the product released? Provide a date.>['Date']>colloquial>The product was released on December 9, 2012.
+DATE>When was the product released? Provide a date.>['Date']>explanatory>The product was released in November 2002.
+DATE>When was the product released? Provide a date.>['Date']>annoyed>The product was released in March 2000.
+DATE>When was the prototype developed? Provide a date.>['Date']>verbose>The prototype was developed in the late 1990s.
+DATE>When was the prototype developed? Provide a date.>['Date']>concise>The prototype was developed in the early 1990s.
+DATE>When was the prototype developed? Provide a date.>['Date']>colloquial>The prototype was developed in the early 1990s.
+DATE>When was the prototype developed? Provide a date.>['Date']>explanatory>The prototype was developed in the early 1990s.
+DATE>When was the prototype developed? Provide a date.>['Date']>annoyed>The prototype was developed in the mid-1990s.
+DATE>When was the risk assessment completed? Provide a date.>['Date']>verbose>The risk assessment was completed in April 2017.
+DATE>When was the risk assessment completed? Provide a date.>['Date']>concise>The risk assessment was completed on October 1, 2001.
+DATE>When was the risk assessment completed? Provide a date.>['Date']>colloquial>The risk assessment was completed in March 2015.
+DATE>When was the risk assessment completed? Provide a date.>['Date']>explanatory>The risk assessment was completed in April 2015.
+DATE>When was the risk assessment completed? Provide a date.>['Date']>annoyed>The risk assessment was completed on January 1, 2001.
+DATE>When was the service outage reported? Provide a date.>['Date']>verbose>The service outage was reported on March 30, 2018.
+DATE>When was the service outage reported? Provide a date.>['Date']>concise>The service outage was reported on December 7, 2017.
+DATE>When was the service outage reported? Provide a date.>['Date']>colloquial>The service outage was reported on March 20, 2018.
+DATE>When was the service outage reported? Provide a date.>['Date']>explanatory>The service outage was reported on November 20, 2017.
+DATE>When was the service outage reported? Provide a date.>['Date']>annoyed>The service outage was reported on December 15, 2017.
+DATE>When was the software license renewed? Provide a date.>['Date']>verbose>The software license was renewed in May 2017.
+DATE>When was the software license renewed? Provide a date.>['Date']>concise>The software license was renewed on March 1, 2018.
+DATE>When was the software license renewed? Provide a date.>['Date']>colloquial>The software license was renewed on June 30, 2002.
+DATE>When was the software license renewed? Provide a date.>['Date']>explanatory>The software license was renewed on December 31, 2001.
+DATE>When was the software license renewed? Provide a date.>['Date']>annoyed>The software license was renewed on December 7, 2001.
+DATE>When was the system last upgraded? Provide a date.>['Date']>verbose>The system was last upgraded in December 2009.
+DATE>When was the system last upgraded? Provide a date.>['Date']>concise>The system was last upgraded in January 2006.
+DATE>When was the system last upgraded? Provide a date.>['Date']>colloquial>The system was last upgraded in September 2003.
+DATE>When was the system last upgraded? Provide a date.>['Date']>explanatory>The system was last upgraded in January 2015.
+DATE>When was the system last upgraded? Provide a date.>['Date']>annoyed>The system was last upgraded in December 2000.
+DATE>When was the system's capacity increased? Provide a date.>['Date']>verbose>The system's capacity was increased in the 1980s.
+DATE>When was the system's capacity increased? Provide a date.>['Date']>concise>The system's capacity was increased in January 2000.
+DATE>When was the system's capacity increased? Provide a date.>['Date']>colloquial>The system's capacity was increased in the 1980s.
+DATE>When was the system's capacity increased? Provide a date.>['Date']>explanatory>The system's capacity was increased in the 1980s.
+DATE>When was the system's capacity increased? Provide a date.>['Date']>annoyed>It was upgraded in July 2000.
+DATE>When was the system's security policy last reviewed? Provide a date.>['Date']>verbose>The system's security policy was last reviewed in November 2001.
+DATE>When was the system's security policy last reviewed? Provide a date.>['Date']>concise>The system's security policy was last reviewed in March 2003.
+DATE>When was the system's security policy last reviewed? Provide a date.>['Date']>colloquial>The system's security policy was last reviewed in September 2001.
+DATE>When was the system's security policy last reviewed? Provide a date.>['Date']>explanatory>The system's security policy was last reviewed in June 2001.
+DATE>When was the system's security policy last reviewed? Provide a date.>['Date']>annoyed>The system's security policy was last reviewed in September 2001.
+DATE>When was the technical support ticket resolved? Provide a date.>['Date']>verbose>The ticket was resolved on January 1, 2002.
+DATE>When was the technical support ticket resolved? Provide a date.>['Date']>concise>Today.
+DATE>When was the technical support ticket resolved? Provide a date.>['Date']>colloquial>We resolved the ticket on November 7, 2001.
+DATE>When was the technical support ticket resolved? Provide a date.>['Date']>explanatory>The ticket was resolved on December 30, 2001.
+DATE>When was the technical support ticket resolved? Provide a date.>['Date']>annoyed>We resolved the technical support ticket on December 16, 2001.
+DATE>When was the user feedback collected? Provide a date.>['Date']>verbose>We collected user feedback in the mid-1990s.
+DATE>When was the user feedback collected? Provide a date.>['Date']>concise>It was collected in the mid-1990s.
+DATE>When was the user feedback collected? Provide a date.>['Date']>colloquial>We collected user feedback in March of this year.
+DATE>When was the user feedback collected? Provide a date.>['Date']>explanatory>It was collected in April 2015.
+DATE>When was the user feedback collected? Provide a date.>['Date']>annoyed>It was collected in May.
+DATE>When was the vulnerability assessment performed? Provide a date.>['Date']>verbose>The vulnerability assessment was performed in the mid-1980s and mid-1990s.
+DATE>When was the vulnerability assessment performed? Provide a date.>['Date']>concise>The vulnerability assessment was performed on June 15, 2002.
+DATE>When was the vulnerability assessment performed? Provide a date.>['Date']>colloquial>The vulnerability assessment was performed on January 1, 2001.
+DATE>When was the vulnerability assessment performed? Provide a date.>['Date']>explanatory>The vulnerability assessment was performed in April 2005.
+DATE>When was the vulnerability assessment performed? Provide a date.>['Date']>annoyed>The vulnerability assessment was performed in the mid-1990s.
+DATE>When was the warranty claim submitted? Provide a date.>['Date']>verbose>The warranty claim was filed on December 15, 2000.
+DATE>When was the warranty claim submitted? Provide a date.>['Date']>concise>The warranty claim was filed on December 13, 1999.
+DATE>When was the warranty claim submitted? Provide a date.>['Date']>colloquial>The warranty claim was filed on April 1, 1999.
+DATE>When was the warranty claim submitted? Provide a date.>['Date']>explanatory>The warranty claim was submitted on December 31, 1998.
+DATE>When was the warranty claim submitted? Provide a date.>['Date']>annoyed>We filed the claim on October 30, 2001.
+DATE>When was your last blood pressure check? Provide a date.>['Date']>verbose>I had a blood pressure check on November 30, 2001.
+DATE>When was your last blood pressure check? Provide a date.>['Date']>concise>I had a blood pressure check on Friday.
+DATE>When was your last blood pressure check? Provide a date.>['Date']>colloquial>I had a blood pressure check in January of last year.
+DATE>When was your last blood pressure check? Provide a date.>['Date']>explanatory>I had my blood pressure check on March 30, 2015, and it was on March 30, 2015, and I had a blood pressure check on March 30, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had a blood pressure check on March 31, 2015, and I had
+DATE>When was your last blood pressure check? Provide a date.>['Date']>annoyed>I had a blood pressure check in February of this year.
+DATE>When was your last colonoscopy? Provide a date.>['Date']>verbose>I had my last colonoscopy on March 30, 2018.
+DATE>When was your last colonoscopy? Provide a date.>['Date']>concise>I haven't had a colonoscopy for over a year.
+DATE>When was your last colonoscopy? Provide a date.>['Date']>colloquial>I had my last colonoscopy on May 30, 2013.
+DATE>When was your last colonoscopy? Provide a date.>['Date']>explanatory>I had my last colonoscopy on January 30, 2002.
+DATE>When was your last colonoscopy? Provide a date.>['Date']>annoyed>I had my last colonoscopy on October 1, 2001.
+DATE>When was your last dental checkup? Provide a date.>['Date']>verbose>I had my last dental checkup in January.
+DATE>When was your last dental checkup? Provide a date.>['Date']>concise>I had my last dental checkup on January 1, 2001.
+DATE>When was your last dental checkup? Provide a date.>['Date']>colloquial>I had my last dental checkup on October 1, 2001.
+DATE>When was your last dental checkup? Provide a date.>['Date']>explanatory>I had my last dental checkup on March 1, 2000.
+DATE>When was your last dental checkup? Provide a date.>['Date']>annoyed>I had my last dental checkup on October 1, 2001.
+DATE>When was your last eye exam? Provide a date.>['Date']>verbose>I had my last eye exam on March 1, 2006.
+DATE>When was your last eye exam? Provide a date.>['Date']>concise>I had my last eye exam on October 29, 2001.
+DATE>When was your last eye exam? Provide a date.>['Date']>colloquial>I had my last eye exam on March 15, 2015.
+DATE>When was your last eye exam? Provide a date.>['Date']>explanatory>My last eye exam was on May 30, 2015.
+DATE>When was your last eye exam? Provide a date.>['Date']>annoyed>I had my last eye exam on March 2, 2002.
+DATE>When was your last hospital visit? Provide a date.>['Date']>verbose>I was in the hospital for my last visit.
+DATE>When was your last hospital visit? Provide a date.>['Date']>concise>I went to the hospital on October 12, 2013.
+DATE>When was your last hospital visit? Provide a date.>['Date']>colloquial>I went to the hospital on March 29, 2001.
+DATE>When was your last hospital visit? Provide a date.>['Date']>explanatory>I was in the hospital for the first time in January of this year.
+DATE>When was your last hospital visit? Provide a date.>['Date']>annoyed>I had my last hospital visit on May 1, 2013.
+DATE>When was your last influenza vaccination? Provide a date.>['Date']>verbose>I was vaccinated on March 31, 2001.
+DATE>When was your last influenza vaccination? Provide a date.>['Date']>concise>I was vaccinated on October 1, 2002, and I was vaccinated on January 1, 2002.
+DATE>When was your last influenza vaccination? Provide a date.>['Date']>colloquial>I was vaccinated on March 7, 2018 and I haven't been vaccinated since then.
+DATE>When was your last influenza vaccination? Provide a date.>['Date']>explanatory>I was vaccinated in March.
+DATE>When was your last influenza vaccination? Provide a date.>['Date']>annoyed>I had my last influenza vaccination on January 1, 2001.
+DATE>When was your last mammogram? Provide a date.>['Date']>verbose>I had my last mammogram on March 30, 2018.
+DATE>When was your last mammogram? Provide a date.>['Date']>concise>I had my last mammogram on January 1, 2002.
+DATE>When was your last mammogram? Provide a date.>['Date']>colloquial>I had my last mammogram on March 5, 2018.
+DATE>When was your last mammogram? Provide a date.>['Date']>explanatory>I had my last mammogram on March 1, 2018.
+DATE>When was your last mammogram? Provide a date.>['Date']>annoyed>I had my last mammogram on March 1, 2018.
+DATE>When was your last physical examination? Provide a date.>['Date']>verbose>I had my last physical examination on March 2, 2001.
+DATE>When was your last physical examination? Provide a date.>['Date']>concise>I had my last physical examination on March 29, 2002.
+DATE>When was your last physical examination? Provide a date.>['Date']>colloquial>I had my last physical examination on October 30, 2006.
+DATE>When was your last physical examination? Provide a date.>['Date']>explanatory>I had my last physical examination on January 23, 2018.
+DATE>When was your last physical examination? Provide a date.>['Date']>annoyed>I had my last physical examination on March 31, 2001.
+DATE>When was your last physical therapy appointment? Provide a date.>['Date']>verbose>I had my last physical therapy appointment on March 18, 2015.
+DATE>When was your last physical therapy appointment? Provide a date.>['Date']>concise>I had my last physical therapy appointment on March 30, 2013.
+DATE>When was your last physical therapy appointment? Provide a date.>['Date']>colloquial>I had my last physical therapy appointment on March 15, 2017.
+DATE>When was your last physical therapy appointment? Provide a date.>['Date']>explanatory>I had my last physical therapy appointment on March 18, 2015.
+DATE>When was your last physical therapy appointment? Provide a date.>['Date']>annoyed>I had a physical therapy appointment on Friday.
+DATE>When was your last pneumonia vaccination? Provide a date.>['Date']>verbose>I had my last pneumonia vaccination on January 1, 2001.
+DATE>When was your last pneumonia vaccination? Provide a date.>['Date']>concise>I had my last pneumonia vaccination on March 1, 2001.
+DATE>When was your last pneumonia vaccination? Provide a date.>['Date']>colloquial>I had my last pneumonia vaccination on January 3, 2012.
+DATE>When was your last pneumonia vaccination? Provide a date.>['Date']>explanatory>I had my last pneumonia vaccination on March 30, 2015.
+DATE>When was your last pneumonia vaccination? Provide a date.>['Date']>annoyed>I had my last pneumonia vaccination on November 7, 2002.
+DATE>When was your last tetanus shot? Provide a date.>['Date']>verbose>I had my last tetanus shot in March of 2015, and I haven't had a tetanus shot since.
+DATE>When was your last tetanus shot? Provide a date.>['Date']>concise>I had my last tetanus shot in April of last year.
+DATE>When was your last tetanus shot? Provide a date.>['Date']>colloquial>I had my last tetanus shot in April.
+DATE>When was your last tetanus shot? Provide a date.>['Date']>explanatory>I had my last tetanus shot in July of last year.
+DATE>When was your last tetanus shot? Provide a date.>['Date']>annoyed>I had my last tetanus shot in November of last year.
+DATE>When will the product be ready for pickup? Provide a date.>['Date']>verbose>The product will be ready to be picked up by the end of the month.
+DATE>When will the product be ready for pickup? Provide a date.>['Date']>concise>It will be ready for pickup in about a week.
+DATE>When will the product be ready for pickup? Provide a date.>['Date']>colloquial>The product will be ready for pickup on Friday, November 30th.
+DATE>When will the product be ready for pickup? Provide a date.>['Date']>explanatory>The product will be ready for pickup in the fall.
+DATE>When will the product be ready for pickup? Provide a date.>['Date']>annoyed>The product will be ready for pickup on April 1st.
