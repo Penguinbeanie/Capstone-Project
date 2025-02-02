@@ -1,0 +1,741 @@
+type>question>options>tone>answer
+SINGLE-SELECT>Are you currently using a similar product?>Yes; No>verbose>Yes
+SINGLE-SELECT>Are you currently using a similar product?>Yes; No>concise>Yes.
+SINGLE-SELECT>Are you currently using a similar product?>Yes; No>colloquial>Yes.
+SINGLE-SELECT>Are you currently using a similar product?>Yes; No>explanatory>Yes.
+SINGLE-SELECT>Are you currently using a similar product?>Yes; No>annoyed>Yes.
+SINGLE-SELECT>Are you familiar with DevOps practices?>Yes; No>verbose>Yes.
+SINGLE-SELECT>Are you familiar with DevOps practices?>Yes; No>concise>Yes.
+SINGLE-SELECT>Are you familiar with DevOps practices?>Yes; No>colloquial>Yes.
+SINGLE-SELECT>Are you familiar with DevOps practices?>Yes; No>explanatory>Yes.
+SINGLE-SELECT>Are you familiar with DevOps practices?>Yes; No>annoyed>Yes.
+SINGLE-SELECT>Are you satisfied with the amount of communication you receive from our team?>Yes; No>verbose>Yes
+SINGLE-SELECT>Are you satisfied with the amount of communication you receive from our team?>Yes; No>concise>Yes.
+SINGLE-SELECT>Are you satisfied with the amount of communication you receive from our team?>Yes; No>colloquial>Yes
+SINGLE-SELECT>Are you satisfied with the amount of communication you receive from our team?>Yes; No>explanatory>Yes
+SINGLE-SELECT>Are you satisfied with the amount of communication you receive from our team?>Yes; No>annoyed>Yes.
+SINGLE-SELECT>Communication frequency>Daily; Weekly; Bi-weekly; Monthly>verbose>Daily.
+SINGLE-SELECT>Communication frequency>Daily; Weekly; Bi-weekly; Monthly>concise>Daily.
+SINGLE-SELECT>Communication frequency>Daily; Weekly; Bi-weekly; Monthly>colloquial>Daily.
+SINGLE-SELECT>Communication frequency>Daily; Weekly; Bi-weekly; Monthly>explanatory>Daily.
+SINGLE-SELECT>Communication frequency>Daily; Weekly; Bi-weekly; Monthly>annoyed>Daily.
+SINGLE-SELECT>Communication style preference>Formal; Informal>verbose>Formal.
+SINGLE-SELECT>Communication style preference>Formal; Informal>concise>Formal.
+SINGLE-SELECT>Communication style preference>Formal; Informal>colloquial>Formal.
+SINGLE-SELECT>Communication style preference>Formal; Informal>explanatory>Formal.
+SINGLE-SELECT>Communication style preference>Formal; Informal>annoyed>Formal.
+SINGLE-SELECT>Do you have any accessibility needs that affect communication?>Yes; No>verbose>Yes.
+SINGLE-SELECT>Do you have any accessibility needs that affect communication?>Yes; No>concise>Yes.
+SINGLE-SELECT>Do you have any accessibility needs that affect communication?>Yes; No>colloquial>Yes.
+SINGLE-SELECT>Do you have any accessibility needs that affect communication?>Yes; No>explanatory>Yes.
+SINGLE-SELECT>Do you have any accessibility needs that affect communication?>Yes; No>annoyed>Yes.
+SINGLE-SELECT>Do you have any specific requirements for this project?>Yes; No>verbose>No
+SINGLE-SELECT>Do you have any specific requirements for this project?>Yes; No>concise>No
+SINGLE-SELECT>Do you have any specific requirements for this project?>Yes; No>colloquial>No
+SINGLE-SELECT>Do you have any specific requirements for this project?>Yes; No>explanatory>No
+SINGLE-SELECT>Do you have any specific requirements for this project?>Yes; No>annoyed>No
+SINGLE-SELECT>Do you prefer synchronous or asynchronous communication?>Synchronous; Asynchronous; Both>verbose>Asynchronous.
+SINGLE-SELECT>Do you prefer synchronous or asynchronous communication?>Synchronous; Asynchronous; Both>concise>Asynchronous.
+SINGLE-SELECT>Do you prefer synchronous or asynchronous communication?>Synchronous; Asynchronous; Both>colloquial>Asynchronous.
+SINGLE-SELECT>Do you prefer synchronous or asynchronous communication?>Synchronous; Asynchronous; Both>explanatory>Asynchronous.
+SINGLE-SELECT>Do you prefer synchronous or asynchronous communication?>Synchronous; Asynchronous; Both>annoyed>Asynchronous.
+SINGLE-SELECT>Do you prefer to communicate in writing or verbally?>Writing; Verbally; Both equally>verbose>Verbally.
+SINGLE-SELECT>Do you prefer to communicate in writing or verbally?>Writing; Verbally; Both equally>concise>Verbally.
+SINGLE-SELECT>Do you prefer to communicate in writing or verbally?>Writing; Verbally; Both equally>colloquial>Verbally.
+SINGLE-SELECT>Do you prefer to communicate in writing or verbally?>Writing; Verbally; Both equally>explanatory>Verbally.
+SINGLE-SELECT>Do you prefer to communicate in writing or verbally?>Writing; Verbally; Both equally>annoyed>Verbally.
+SINGLE-SELECT>How clear is our communication?>Very Clear; Clear; Somewhat Clear; Unclear; Very Unclear>verbose>Very Clear
+SINGLE-SELECT>How clear is our communication?>Very Clear; Clear; Somewhat Clear; Unclear; Very Unclear>concise>Very Clear
+SINGLE-SELECT>How clear is our communication?>Very Clear; Clear; Somewhat Clear; Unclear; Very Unclear>colloquial>Very Clear
+SINGLE-SELECT>How clear is our communication?>Very Clear; Clear; Somewhat Clear; Unclear; Very Unclear>explanatory>Very Clear
+SINGLE-SELECT>How clear is our communication?>Very Clear; Clear; Somewhat Clear; Unclear; Very Unclear>annoyed>Very Clear
+SINGLE-SELECT>How comfortable are you using technology for communication?>Very Comfortable; Comfortable; Somewhat Comfortable; Uncomfortable>verbose>Very Comfortable
+SINGLE-SELECT>How comfortable are you using technology for communication?>Very Comfortable; Comfortable; Somewhat Comfortable; Uncomfortable>concise>Very Comfortable
+SINGLE-SELECT>How comfortable are you using technology for communication?>Very Comfortable; Comfortable; Somewhat Comfortable; Uncomfortable>colloquial>Very Comfortable
+SINGLE-SELECT>How comfortable are you using technology for communication?>Very Comfortable; Comfortable; Somewhat Comfortable; Uncomfortable>explanatory>Very Comfortable
+SINGLE-SELECT>How comfortable are you using technology for communication?>Very Comfortable; Comfortable; Somewhat Comfortable; Uncomfortable>annoyed>Very Comfortable
+SINGLE-SELECT>How did you hear about our company?>Google Search; Social Media; Referral; Trade Show; Other>verbose>Google Search.
+SINGLE-SELECT>How did you hear about our company?>Google Search; Social Media; Referral; Trade Show; Other>concise>Google Search.
+SINGLE-SELECT>How did you hear about our company?>Google Search; Social Media; Referral; Trade Show; Other>colloquial>Google Search.
+SINGLE-SELECT>How did you hear about our company?>Google Search; Social Media; Referral; Trade Show; Other>explanatory>Google Search.
+SINGLE-SELECT>How did you hear about our company?>Google Search; Social Media; Referral; Trade Show; Other>annoyed>Google Search.
+SINGLE-SELECT>How do you handle creative block?>Take a break; Seek inspiration from others; Experiment with new techniques; Change my environment; Try a different approach>verbose>Try a different approach.
+SINGLE-SELECT>How do you handle creative block?>Take a break; Seek inspiration from others; Experiment with new techniques; Change my environment; Try a different approach>concise>Try a different approach.
+SINGLE-SELECT>How do you handle creative block?>Take a break; Seek inspiration from others; Experiment with new techniques; Change my environment; Try a different approach>colloquial>Try a different approach.
+SINGLE-SELECT>How do you handle creative block?>Take a break; Seek inspiration from others; Experiment with new techniques; Change my environment; Try a different approach>explanatory>Try a different approach.
+SINGLE-SELECT>How do you handle creative block?>Take a break; Seek inspiration from others; Experiment with new techniques; Change my environment; Try a different approach>annoyed>Try a different approach.
+SINGLE-SELECT>How do you prefer to receive feedback?>Email; In-person Meeting; Video Call>verbose>Email.
+SINGLE-SELECT>How do you prefer to receive feedback?>Email; In-person Meeting; Video Call>concise>Email.
+SINGLE-SELECT>How do you prefer to receive feedback?>Email; In-person Meeting; Video Call>colloquial>Email.
+SINGLE-SELECT>How do you prefer to receive feedback?>Email; In-person Meeting; Video Call>explanatory>Email.
+SINGLE-SELECT>How do you prefer to receive feedback?>Email; In-person Meeting; Video Call>annoyed>Email.
+SINGLE-SELECT>How do you stay current with design trends?>Design Blogs; Design Magazines; Social Media; Industry Conferences; Design Workshops>verbose>Design Blogs.
+SINGLE-SELECT>How do you stay current with design trends?>Design Blogs; Design Magazines; Social Media; Industry Conferences; Design Workshops>concise>Design Blogs.
+SINGLE-SELECT>How do you stay current with design trends?>Design Blogs; Design Magazines; Social Media; Industry Conferences; Design Workshops>colloquial>Design Blogs.
+SINGLE-SELECT>How do you stay current with design trends?>Design Blogs; Design Magazines; Social Media; Industry Conferences; Design Workshops>explanatory>Design Blogs.
+SINGLE-SELECT>How do you stay current with design trends?>Design Blogs; Design Magazines; Social Media; Industry Conferences; Design Workshops>annoyed>Design Blogs.
+SINGLE-SELECT>How effective is our team at resolving communication issues?>Very Effective; Effective; Somewhat Effective; Ineffective>verbose>Very Effective
+SINGLE-SELECT>How effective is our team at resolving communication issues?>Very Effective; Effective; Somewhat Effective; Ineffective>concise>Very Effective
+SINGLE-SELECT>How effective is our team at resolving communication issues?>Very Effective; Effective; Somewhat Effective; Ineffective>colloquial>Very Effective
+SINGLE-SELECT>How effective is our team at resolving communication issues?>Very Effective; Effective; Somewhat Effective; Ineffective>explanatory>Very Effective
+SINGLE-SELECT>How effective is our team at resolving communication issues?>Very Effective; Effective; Somewhat Effective; Ineffective>annoyed>Very Effective.
+SINGLE-SELECT>How important is it for you to receive a response to your communications?>Very Important; Important; Somewhat Important; Not Important>verbose>Not Important
+SINGLE-SELECT>How important is it for you to receive a response to your communications?>Very Important; Important; Somewhat Important; Not Important>concise>Not Important.
+SINGLE-SELECT>How important is it for you to receive a response to your communications?>Very Important; Important; Somewhat Important; Not Important>colloquial>Not Important
+SINGLE-SELECT>How important is it for you to receive a response to your communications?>Very Important; Important; Somewhat Important; Not Important>explanatory>Not Important
+SINGLE-SELECT>How important is it for you to receive a response to your communications?>Very Important; Important; Somewhat Important; Not Important>annoyed>Not Important
+SINGLE-SELECT>How important is it to you that communication is documented?>Very Important; Important; Somewhat Important; Not Important>verbose>Not Important
+SINGLE-SELECT>How important is it to you that communication is documented?>Very Important; Important; Somewhat Important; Not Important>concise>Not Important
+SINGLE-SELECT>How important is it to you that communication is documented?>Very Important; Important; Somewhat Important; Not Important>colloquial>Not Important
+SINGLE-SELECT>How important is it to you that communication is documented?>Very Important; Important; Somewhat Important; Not Important>explanatory>Not Important
+SINGLE-SELECT>How important is it to you that communication is documented?>Very Important; Important; Somewhat Important; Not Important>annoyed>Not Important.
+SINGLE-SELECT>How important is it to you that communication is transparent?>Very Important; Important; Somewhat Important; Not Important>verbose>Very Important
+SINGLE-SELECT>How important is it to you that communication is transparent?>Very Important; Important; Somewhat Important; Not Important>concise>Very Important
+SINGLE-SELECT>How important is it to you that communication is transparent?>Very Important; Important; Somewhat Important; Not Important>colloquial>Very Important.
+SINGLE-SELECT>How important is it to you that communication is transparent?>Very Important; Important; Somewhat Important; Not Important>explanatory>Very Important
+SINGLE-SELECT>How important is it to you that communication is transparent?>Very Important; Important; Somewhat Important; Not Important>annoyed>Very Important.
+SINGLE-SELECT>How important is timely communication to you?>Very Important; Important; Somewhat Important; Not Important>verbose>Not Important
+SINGLE-SELECT>How important is timely communication to you?>Very Important; Important; Somewhat Important; Not Important>concise>Not Important
+SINGLE-SELECT>How important is timely communication to you?>Very Important; Important; Somewhat Important; Not Important>colloquial>Very Important.
+SINGLE-SELECT>How important is timely communication to you?>Very Important; Important; Somewhat Important; Not Important>explanatory>Not Important
+SINGLE-SELECT>How important is timely communication to you?>Very Important; Important; Somewhat Important; Not Important>annoyed>Not Important.
+SINGLE-SELECT>How many employees does your company have?>1-10; 11-50; 51-100; 101-500; 500+>verbose>51-100
+SINGLE-SELECT>How many employees does your company have?>1-10; 11-50; 51-100; 101-500; 500+>concise>51-100
+SINGLE-SELECT>How many employees does your company have?>1-10; 11-50; 51-100; 101-500; 500+>colloquial>51-100.
+SINGLE-SELECT>How many employees does your company have?>1-10; 11-50; 51-100; 101-500; 500+>explanatory>51-100.
+SINGLE-SELECT>How many employees does your company have?>1-10; 11-50; 51-100; 101-500; 500+>annoyed>51-100.
+SINGLE-SELECT>How many people are typically involved in your team's communications?>1-5; 6-10; 11-20; More than 20>verbose>More than 20.
+SINGLE-SELECT>How many people are typically involved in your team's communications?>1-5; 6-10; 11-20; More than 20>concise>More than 20.
+SINGLE-SELECT>How many people are typically involved in your team's communications?>1-5; 6-10; 11-20; More than 20>colloquial>More than 20 people are typically involved in your team's communications.
+SINGLE-SELECT>How many people are typically involved in your team's communications?>1-5; 6-10; 11-20; More than 20>explanatory>More than 20 people are typically involved in your team's communications.
+SINGLE-SELECT>How many people are typically involved in your team's communications?>1-5; 6-10; 11-20; More than 20>annoyed>More than 20 people are typically involved in your team's communications.
+SINGLE-SELECT>How much time do you typically spend communicating with our team each week?>Less than 1 hour; 1-3 hours; 3-5 hours; More than 5 hours>verbose>More than 5 hours.
+SINGLE-SELECT>How much time do you typically spend communicating with our team each week?>Less than 1 hour; 1-3 hours; 3-5 hours; More than 5 hours>concise>More than 5 hours.
+SINGLE-SELECT>How much time do you typically spend communicating with our team each week?>Less than 1 hour; 1-3 hours; 3-5 hours; More than 5 hours>colloquial>More than 5 hours.
+SINGLE-SELECT>How much time do you typically spend communicating with our team each week?>Less than 1 hour; 1-3 hours; 3-5 hours; More than 5 hours>explanatory>More than 5 hours.
+SINGLE-SELECT>How much time do you typically spend communicating with our team each week?>Less than 1 hour; 1-3 hours; 3-5 hours; More than 5 hours>annoyed>More than 5 hours.
+SINGLE-SELECT>How often do you feel your communication is misunderstood?>Very Often; Often; Sometimes; Rarely; Never>verbose>Often
+SINGLE-SELECT>How often do you feel your communication is misunderstood?>Very Often; Often; Sometimes; Rarely; Never>concise>Often
+SINGLE-SELECT>How often do you feel your communication is misunderstood?>Very Often; Often; Sometimes; Rarely; Never>colloquial>Often
+SINGLE-SELECT>How often do you feel your communication is misunderstood?>Very Often; Often; Sometimes; Rarely; Never>explanatory>Often
+SINGLE-SELECT>How often do you feel your communication is misunderstood?>Very Often; Often; Sometimes; Rarely; Never>annoyed>Often
+SINGLE-SELECT>How often do you need updates?>Daily; Weekly; Monthly; As needed>verbose>Daily.
+SINGLE-SELECT>How often do you need updates?>Daily; Weekly; Monthly; As needed>concise>Daily.
+SINGLE-SELECT>How often do you need updates?>Daily; Weekly; Monthly; As needed>colloquial>Daily.
+SINGLE-SELECT>How often do you need updates?>Daily; Weekly; Monthly; As needed>explanatory>Daily.
+SINGLE-SELECT>How often do you need updates?>Daily; Weekly; Monthly; As needed>annoyed>Daily.
+SINGLE-SELECT>How often do you prefer to receive project updates?>Daily; Weekly; Bi-weekly; Monthly>verbose>Daily.
+SINGLE-SELECT>How often do you prefer to receive project updates?>Daily; Weekly; Bi-weekly; Monthly>concise>Daily.
+SINGLE-SELECT>How often do you prefer to receive project updates?>Daily; Weekly; Bi-weekly; Monthly>colloquial>Daily.
+SINGLE-SELECT>How often do you prefer to receive project updates?>Daily; Weekly; Bi-weekly; Monthly>explanatory>Daily.
+SINGLE-SELECT>How often do you prefer to receive project updates?>Daily; Weekly; Bi-weekly; Monthly>annoyed>Daily.
+SINGLE-SELECT>How responsive is our team to your communication?>Very Responsive; Responsive; Somewhat Responsive; Unresponsive; Very Unresponsive>verbose>Very Responsive
+SINGLE-SELECT>How responsive is our team to your communication?>Very Responsive; Responsive; Somewhat Responsive; Unresponsive; Very Unresponsive>concise>Very Responsive
+SINGLE-SELECT>How responsive is our team to your communication?>Very Responsive; Responsive; Somewhat Responsive; Unresponsive; Very Unresponsive>colloquial>Very Responsive
+SINGLE-SELECT>How responsive is our team to your communication?>Very Responsive; Responsive; Somewhat Responsive; Unresponsive; Very Unresponsive>explanatory>Very Responsive
+SINGLE-SELECT>How responsive is our team to your communication?>Very Responsive; Responsive; Somewhat Responsive; Unresponsive; Very Unresponsive>annoyed>Very Responsive
+SINGLE-SELECT>How satisfied are you with our communication?>Very Satisfied; Satisfied; Neutral; Dissatisfied; Very Dissatisfied>verbose>Very Satisfied
+SINGLE-SELECT>How satisfied are you with our communication?>Very Satisfied; Satisfied; Neutral; Dissatisfied; Very Dissatisfied>concise>Very Satisfied
+SINGLE-SELECT>How satisfied are you with our communication?>Very Satisfied; Satisfied; Neutral; Dissatisfied; Very Dissatisfied>colloquial>Very Satisfied
+SINGLE-SELECT>How satisfied are you with our communication?>Very Satisfied; Satisfied; Neutral; Dissatisfied; Very Dissatisfied>explanatory>Very Satisfied
+SINGLE-SELECT>How satisfied are you with our communication?>Very Satisfied; Satisfied; Neutral; Dissatisfied; Very Dissatisfied>annoyed>Very Dissatisfied
+SINGLE-SELECT>How satisfied are you with our current service?>Very Satisfied; Satisfied; Neutral; Dissatisfied; Very Dissatisfied>verbose>Very Satisfied
+SINGLE-SELECT>How satisfied are you with our current service?>Very Satisfied; Satisfied; Neutral; Dissatisfied; Very Dissatisfied>concise>Very Satisfied
+SINGLE-SELECT>How satisfied are you with our current service?>Very Satisfied; Satisfied; Neutral; Dissatisfied; Very Dissatisfied>colloquial>Very Satisfied
+SINGLE-SELECT>How satisfied are you with our current service?>Very Satisfied; Satisfied; Neutral; Dissatisfied; Very Dissatisfied>explanatory>Very Satisfied
+SINGLE-SELECT>How satisfied are you with our current service?>Very Satisfied; Satisfied; Neutral; Dissatisfied; Very Dissatisfied>annoyed>Very Dissatisfied
+SINGLE-SELECT>How would you describe the tone of our communication?>Professional; Friendly; Informal; Formal>verbose>Friendly
+SINGLE-SELECT>How would you describe the tone of our communication?>Professional; Friendly; Informal; Formal>concise>Friendly
+SINGLE-SELECT>How would you describe the tone of our communication?>Professional; Friendly; Informal; Formal>colloquial>Friendly
+SINGLE-SELECT>How would you describe the tone of our communication?>Professional; Friendly; Informal; Formal>explanatory>Friendly
+SINGLE-SELECT>How would you describe the tone of our communication?>Professional; Friendly; Informal; Formal>annoyed>Informal
+SINGLE-SELECT>How would you rate the overall effectiveness of our communication?>Excellent; Good; Fair; Poor>verbose>Good
+SINGLE-SELECT>How would you rate the overall effectiveness of our communication?>Excellent; Good; Fair; Poor>concise>Good
+SINGLE-SELECT>How would you rate the overall effectiveness of our communication?>Excellent; Good; Fair; Poor>colloquial>Good
+SINGLE-SELECT>How would you rate the overall effectiveness of our communication?>Excellent; Good; Fair; Poor>explanatory>Good
+SINGLE-SELECT>How would you rate the overall effectiveness of our communication?>Excellent; Good; Fair; Poor>annoyed>Good
+SINGLE-SELECT>How would you rate your experience with our customer support?>Excellent; Good; Fair; Poor>verbose>Good
+SINGLE-SELECT>How would you rate your experience with our customer support?>Excellent; Good; Fair; Poor>concise>Good
+SINGLE-SELECT>How would you rate your experience with our customer support?>Excellent; Good; Fair; Poor>colloquial>Good
+SINGLE-SELECT>How would you rate your experience with our customer support?>Excellent; Good; Fair; Poor>explanatory>Good
+SINGLE-SELECT>How would you rate your experience with our customer support?>Excellent; Good; Fair; Poor>annoyed>Poor
+SINGLE-SELECT>Is there anything we can improve in our communication?>Yes; No>verbose>Yes.
+SINGLE-SELECT>Is there anything we can improve in our communication?>Yes; No>concise>Yes.
+SINGLE-SELECT>Is there anything we can improve in our communication?>Yes; No>colloquial>Yes.
+SINGLE-SELECT>Is there anything we can improve in our communication?>Yes; No>explanatory>Yes.
+SINGLE-SELECT>Is there anything we can improve in our communication?>Yes; No>annoyed>Yes.
+SINGLE-SELECT>Level of communication detail>High; Medium; Low>verbose>High
+SINGLE-SELECT>Level of communication detail>High; Medium; Low>concise>High
+SINGLE-SELECT>Level of communication detail>High; Medium; Low>colloquial>High
+SINGLE-SELECT>Level of communication detail>High; Medium; Low>explanatory>High
+SINGLE-SELECT>Level of communication detail>High; Medium; Low>annoyed>High
+SINGLE-SELECT>Preferred communication method>Email; Phone; Video Call; In-person Meeting>verbose>Email.
+SINGLE-SELECT>Preferred communication method>Email; Phone; Video Call; In-person Meeting>concise>Email.
+SINGLE-SELECT>Preferred communication method>Email; Phone; Video Call; In-person Meeting>colloquial>Email.
+SINGLE-SELECT>Preferred communication method>Email; Phone; Video Call; In-person Meeting>explanatory>Email.
+SINGLE-SELECT>Preferred communication method>Email; Phone; Video Call; In-person Meeting>annoyed>Email.
+SINGLE-SELECT>Preferred time for communication>Morning; Afternoon; Evening>verbose>Evening
+SINGLE-SELECT>Preferred time for communication>Morning; Afternoon; Evening>concise>Evening.
+SINGLE-SELECT>Preferred time for communication>Morning; Afternoon; Evening>colloquial>Evening.
+SINGLE-SELECT>Preferred time for communication>Morning; Afternoon; Evening>explanatory>Evening.
+SINGLE-SELECT>Preferred time for communication>Morning; Afternoon; Evening>annoyed>Evening.
+SINGLE-SELECT>Primary language for communication>English; Spanish; French; German; Mandarin>verbose>English
+SINGLE-SELECT>Primary language for communication>English; Spanish; French; German; Mandarin>concise>English
+SINGLE-SELECT>Primary language for communication>English; Spanish; French; German; Mandarin>colloquial>English.
+SINGLE-SELECT>Primary language for communication>English; Spanish; French; German; Mandarin>explanatory>English is the primary language for communication.
+SINGLE-SELECT>Primary language for communication>English; Spanish; French; German; Mandarin>annoyed>English is the primary language for communication.
+SINGLE-SELECT>What are your career goals in the art and design industry?>Freelance Artist; In-house Designer; Art Director; Creative Director; Start my own Design Agency>verbose>Freelance Artist.
+SINGLE-SELECT>What are your career goals in the art and design industry?>Freelance Artist; In-house Designer; Art Director; Creative Director; Start my own Design Agency>concise>Freelance Artist.
+SINGLE-SELECT>What are your career goals in the art and design industry?>Freelance Artist; In-house Designer; Art Director; Creative Director; Start my own Design Agency>colloquial>Freelance Artist.
+SINGLE-SELECT>What are your career goals in the art and design industry?>Freelance Artist; In-house Designer; Art Director; Creative Director; Start my own Design Agency>explanatory>Freelance Artist.
+SINGLE-SELECT>What are your career goals in the art and design industry?>Freelance Artist; In-house Designer; Art Director; Creative Director; Start my own Design Agency>annoyed>Freelance Artist.
+SINGLE-SELECT>What are your preferred methods for gathering user feedback?>User Interviews; Surveys; Usability Testing; A/B Testing; Heatmaps>verbose>User Interviews.
+SINGLE-SELECT>What are your preferred methods for gathering user feedback?>User Interviews; Surveys; Usability Testing; A/B Testing; Heatmaps>concise>User Interviews.
+SINGLE-SELECT>What are your preferred methods for gathering user feedback?>User Interviews; Surveys; Usability Testing; A/B Testing; Heatmaps>colloquial>User Interviews.
+SINGLE-SELECT>What are your preferred methods for gathering user feedback?>User Interviews; Surveys; Usability Testing; A/B Testing; Heatmaps>explanatory>User Interviews.
+SINGLE-SELECT>What are your preferred methods for gathering user feedback?>User Interviews; Surveys; Usability Testing; A/B Testing; Heatmaps>annoyed>User Interviews.
+SINGLE-SELECT>What are your primary business goals?>Increase Revenue; Reduce Costs; Improve Efficiency; Expand Market Share>verbose>Increase Revenue.
+SINGLE-SELECT>What are your primary business goals?>Increase Revenue; Reduce Costs; Improve Efficiency; Expand Market Share>concise>Increase Revenue.
+SINGLE-SELECT>What are your primary business goals?>Increase Revenue; Reduce Costs; Improve Efficiency; Expand Market Share>colloquial>Increase Revenue.
+SINGLE-SELECT>What are your primary business goals?>Increase Revenue; Reduce Costs; Improve Efficiency; Expand Market Share>explanatory>Increase Revenue.
+SINGLE-SELECT>What are your primary business goals?>Increase Revenue; Reduce Costs; Improve Efficiency; Expand Market Share>annoyed>Increase Revenue.
+SINGLE-SELECT>What are your top three priorities for this year?>Revenue Growth; Cost Reduction; Customer Acquisition; Product Development>verbose>Revenue Growth.
+SINGLE-SELECT>What are your top three priorities for this year?>Revenue Growth; Cost Reduction; Customer Acquisition; Product Development>concise>Revenue Growth.
+SINGLE-SELECT>What are your top three priorities for this year?>Revenue Growth; Cost Reduction; Customer Acquisition; Product Development>colloquial>Revenue Growth.
+SINGLE-SELECT>What are your top three priorities for this year?>Revenue Growth; Cost Reduction; Customer Acquisition; Product Development>explanatory>Revenue Growth.
+SINGLE-SELECT>What are your top three priorities for this year?>Revenue Growth; Cost Reduction; Customer Acquisition; Product Development>annoyed>Revenue Growth.
+SINGLE-SELECT>What aspect of design are you most passionate about?>Visual Communication; User Experience; Branding; Interaction Design; Motion Graphics>verbose>Visual Communication.
+SINGLE-SELECT>What aspect of design are you most passionate about?>Visual Communication; User Experience; Branding; Interaction Design; Motion Graphics>concise>Visual Communication
+SINGLE-SELECT>What aspect of design are you most passionate about?>Visual Communication; User Experience; Branding; Interaction Design; Motion Graphics>colloquial>Visual Communication.
+SINGLE-SELECT>What aspect of design are you most passionate about?>Visual Communication; User Experience; Branding; Interaction Design; Motion Graphics>explanatory>Visual Communication.
+SINGLE-SELECT>What aspect of design are you most passionate about?>Visual Communication; User Experience; Branding; Interaction Design; Motion Graphics>annoyed>Visual Communication.
+SINGLE-SELECT>What cloud platform do you use?>AWS; Azure; Google Cloud>verbose>I use Google Cloud.
+SINGLE-SELECT>What cloud platform do you use?>AWS; Azure; Google Cloud>concise>I use Google Cloud.
+SINGLE-SELECT>What cloud platform do you use?>AWS; Azure; Google Cloud>colloquial>I use Google Cloud.
+SINGLE-SELECT>What cloud platform do you use?>AWS; Azure; Google Cloud>explanatory>I use Google Cloud.
+SINGLE-SELECT>What cloud platform do you use?>AWS; Azure; Google Cloud>annoyed>I use Google Cloud.
+SINGLE-SELECT>What communication channels do you use most often?>Email; Instant Messaging; Project Management Software; Phone calls; Video Conferencing>verbose>Email.
+SINGLE-SELECT>What communication channels do you use most often?>Email; Instant Messaging; Project Management Software; Phone calls; Video Conferencing>concise>Email.
+SINGLE-SELECT>What communication channels do you use most often?>Email; Instant Messaging; Project Management Software; Phone calls; Video Conferencing>colloquial>Email.
+SINGLE-SELECT>What communication channels do you use most often?>Email; Instant Messaging; Project Management Software; Phone calls; Video Conferencing>explanatory>Email.
+SINGLE-SELECT>What communication channels do you use most often?>Email; Instant Messaging; Project Management Software; Phone calls; Video Conferencing>annoyed>Email.
+SINGLE-SELECT>What database system are you familiar with?>MySQL; PostgreSQL; MongoDB; Oracle; SQL Server>verbose>MySQL.
+SINGLE-SELECT>What database system are you familiar with?>MySQL; PostgreSQL; MongoDB; Oracle; SQL Server>concise>MySQL.
+SINGLE-SELECT>What database system are you familiar with?>MySQL; PostgreSQL; MongoDB; Oracle; SQL Server>colloquial>MySQL.
+SINGLE-SELECT>What database system are you familiar with?>MySQL; PostgreSQL; MongoDB; Oracle; SQL Server>explanatory>MySQL.
+SINGLE-SELECT>What database system are you familiar with?>MySQL; PostgreSQL; MongoDB; Oracle; SQL Server>annoyed>MySQL.
+SINGLE-SELECT>What geographic region are you located in?>North America; Europe; Asia; South America; Africa; Australia>verbose>North America.
+SINGLE-SELECT>What geographic region are you located in?>North America; Europe; Asia; South America; Africa; Australia>concise>North America.
+SINGLE-SELECT>What geographic region are you located in?>North America; Europe; Asia; South America; Africa; Australia>colloquial>North America.
+SINGLE-SELECT>What geographic region are you located in?>North America; Europe; Asia; South America; Africa; Australia>explanatory>North America.
+SINGLE-SELECT>What geographic region are you located in?>North America; Europe; Asia; South America; Africa; Australia>annoyed>North America.
+SINGLE-SELECT>What inspires your artistic creations?>Nature; People; Abstract Concepts; Dreams; Current Events>verbose>Nature.
+SINGLE-SELECT>What inspires your artistic creations?>Nature; People; Abstract Concepts; Dreams; Current Events>concise>Nature.
+SINGLE-SELECT>What inspires your artistic creations?>Nature; People; Abstract Concepts; Dreams; Current Events>colloquial>Nature.
+SINGLE-SELECT>What inspires your artistic creations?>Nature; People; Abstract Concepts; Dreams; Current Events>explanatory>Nature.
+SINGLE-SELECT>What inspires your artistic creations?>Nature; People; Abstract Concepts; Dreams; Current Events>annoyed>Nature.
+SINGLE-SELECT>What is the purpose of your communication?>Feedback; Inquiry; Complaint; Collaboration; Information Sharing>verbose>Information Sharing
+SINGLE-SELECT>What is the purpose of your communication?>Feedback; Inquiry; Complaint; Collaboration; Information Sharing>concise>Information Sharing
+SINGLE-SELECT>What is the purpose of your communication?>Feedback; Inquiry; Complaint; Collaboration; Information Sharing>colloquial>Information Sharing.
+SINGLE-SELECT>What is the purpose of your communication?>Feedback; Inquiry; Complaint; Collaboration; Information Sharing>explanatory>Information Sharing
+SINGLE-SELECT>What is the purpose of your communication?>Feedback; Inquiry; Complaint; Collaboration; Information Sharing>annoyed>Information Sharing.
+SINGLE-SELECT>What is your age range?>18-24; 25-34; 35-44; 45-54; 55+>verbose>35-44
+SINGLE-SELECT>What is your age range?>18-24; 25-34; 35-44; 45-54; 55+>concise>35-44
+SINGLE-SELECT>What is your age range?>18-24; 25-34; 35-44; 45-54; 55+>colloquial>I am 55+.
+SINGLE-SELECT>What is your age range?>18-24; 25-34; 35-44; 45-54; 55+>explanatory>35-44
+SINGLE-SELECT>What is your age range?>18-24; 25-34; 35-44; 45-54; 55+>annoyed>35-44
+SINGLE-SELECT>What is your biggest accomplishment in the art and design industry?>Winning a design award; Getting featured in a design publication; Successfully launching a design project; Building a strong portfolio; Establishing a loyal client base>verbose>Winning a design award.
+SINGLE-SELECT>What is your biggest accomplishment in the art and design industry?>Winning a design award; Getting featured in a design publication; Successfully launching a design project; Building a strong portfolio; Establishing a loyal client base>concise>Winning a design award.
+SINGLE-SELECT>What is your biggest accomplishment in the art and design industry?>Winning a design award; Getting featured in a design publication; Successfully launching a design project; Building a strong portfolio; Establishing a loyal client base>colloquial>Winning a design award.
+SINGLE-SELECT>What is your biggest accomplishment in the art and design industry?>Winning a design award; Getting featured in a design publication; Successfully launching a design project; Building a strong portfolio; Establishing a loyal client base>explanatory>Winning a design award.
+SINGLE-SELECT>What is your biggest accomplishment in the art and design industry?>Winning a design award; Getting featured in a design publication; Successfully launching a design project; Building a strong portfolio; Establishing a loyal client base>annoyed>Winning a design award.
+SINGLE-SELECT>What is your biggest challenge in the art and design industry?>Competition; Finding Clients; Balancing Creative Vision and Client Needs; Time Management; Pricing your services>verbose>Competition.
+SINGLE-SELECT>What is your biggest challenge in the art and design industry?>Competition; Finding Clients; Balancing Creative Vision and Client Needs; Time Management; Pricing your services>concise>Competition.
+SINGLE-SELECT>What is your biggest challenge in the art and design industry?>Competition; Finding Clients; Balancing Creative Vision and Client Needs; Time Management; Pricing your services>colloquial>Competition.
+SINGLE-SELECT>What is your biggest challenge in the art and design industry?>Competition; Finding Clients; Balancing Creative Vision and Client Needs; Time Management; Pricing your services>explanatory>Competition.
+SINGLE-SELECT>What is your biggest challenge in the art and design industry?>Competition; Finding Clients; Balancing Creative Vision and Client Needs; Time Management; Pricing your services>annoyed>Competition.
+SINGLE-SELECT>What is your biggest challenge in your current role?>Lack of Resources; Lack of Time; Lack of Support; Other>verbose>Lack of Resources.
+SINGLE-SELECT>What is your biggest challenge in your current role?>Lack of Resources; Lack of Time; Lack of Support; Other>concise>Lack of Resources.
+SINGLE-SELECT>What is your biggest challenge in your current role?>Lack of Resources; Lack of Time; Lack of Support; Other>colloquial>Lack of Resources.
+SINGLE-SELECT>What is your biggest challenge in your current role?>Lack of Resources; Lack of Time; Lack of Support; Other>explanatory>Lack of Resources.
+SINGLE-SELECT>What is your biggest challenge in your current role?>Lack of Resources; Lack of Time; Lack of Support; Other>annoyed>Lack of Resources.
+SINGLE-SELECT>What is your biggest communication challenge?>Lack of clarity; Lack of responsiveness; Misunderstandings; Information overload; Other>verbose>Lack of clarity.
+SINGLE-SELECT>What is your biggest communication challenge?>Lack of clarity; Lack of responsiveness; Misunderstandings; Information overload; Other>concise>Lack of clarity
+SINGLE-SELECT>What is your biggest communication challenge?>Lack of clarity; Lack of responsiveness; Misunderstandings; Information overload; Other>colloquial>Lack of clarity.
+SINGLE-SELECT>What is your biggest communication challenge?>Lack of clarity; Lack of responsiveness; Misunderstandings; Information overload; Other>explanatory>Lack of clarity.
+SINGLE-SELECT>What is your biggest communication challenge?>Lack of clarity; Lack of responsiveness; Misunderstandings; Information overload; Other>annoyed>Lack of clarity.
+SINGLE-SELECT>What is your biggest design pet peeve?>Inconsistent Branding; Poor Typography; Cluttered Designs; Lack of Accessibility; Poor User Experience>verbose>Lack of Accessibility.
+SINGLE-SELECT>What is your biggest design pet peeve?>Inconsistent Branding; Poor Typography; Cluttered Designs; Lack of Accessibility; Poor User Experience>concise>Lack of Accessibility.
+SINGLE-SELECT>What is your biggest design pet peeve?>Inconsistent Branding; Poor Typography; Cluttered Designs; Lack of Accessibility; Poor User Experience>colloquial>Inconsistent Branding
+SINGLE-SELECT>What is your biggest design pet peeve?>Inconsistent Branding; Poor Typography; Cluttered Designs; Lack of Accessibility; Poor User Experience>explanatory>Inconsistent Branding.
+SINGLE-SELECT>What is your biggest design pet peeve?>Inconsistent Branding; Poor Typography; Cluttered Designs; Lack of Accessibility; Poor User Experience>annoyed>Inconsistent Branding.
+SINGLE-SELECT>What is your biggest inspiration for your designs?>Nature; Architecture; Music; Literature; Technology>verbose>Nature.
+SINGLE-SELECT>What is your biggest inspiration for your designs?>Nature; Architecture; Music; Literature; Technology>concise>Nature.
+SINGLE-SELECT>What is your biggest inspiration for your designs?>Nature; Architecture; Music; Literature; Technology>colloquial>Nature.
+SINGLE-SELECT>What is your biggest inspiration for your designs?>Nature; Architecture; Music; Literature; Technology>explanatory>Nature.
+SINGLE-SELECT>What is your biggest inspiration for your designs?>Nature; Architecture; Music; Literature; Technology>annoyed>Nature.
+SINGLE-SELECT>What is your budget for this project?>Under $10,000; $10,000 - $50,000; $50,000 - $100,000; Over $100,000>verbose>Under $10,000.
+SINGLE-SELECT>What is your budget for this project?>Under $10,000; $10,000 - $50,000; $50,000 - $100,000; Over $100,000>concise>Under $10,000.
+SINGLE-SELECT>What is your budget for this project?>Under $10,000; $10,000 - $50,000; $50,000 - $100,000; Over $100,000>colloquial>Under $10,000.
+SINGLE-SELECT>What is your budget for this project?>Under $10,000; $10,000 - $50,000; $50,000 - $100,000; Over $100,000>explanatory>Under $10,000.
+SINGLE-SELECT>What is your budget for this project?>Under $10,000; $10,000 - $50,000; $50,000 - $100,000; Over $100,000>annoyed>Under $10,000.
+SINGLE-SELECT>What is your company culture?>Formal; Informal; Hybrid>verbose>Formal
+SINGLE-SELECT>What is your company culture?>Formal; Informal; Hybrid>concise>Formal
+SINGLE-SELECT>What is your company culture?>Formal; Informal; Hybrid>colloquial>Formal
+SINGLE-SELECT>What is your company culture?>Formal; Informal; Hybrid>explanatory>Formal
+SINGLE-SELECT>What is your company culture?>Formal; Informal; Hybrid>annoyed>Formal.
+SINGLE-SELECT>What is your company's annual revenue?>Under $1 million; $1 million - $10 million; $10 million - $100 million; Over $100 million>verbose>$100 million.
+SINGLE-SELECT>What is your company's annual revenue?>Under $1 million; $1 million - $10 million; $10 million - $100 million; Over $100 million>concise>$100 million.
+SINGLE-SELECT>What is your company's annual revenue?>Under $1 million; $1 million - $10 million; $10 million - $100 million; Over $100 million>colloquial>$100 million.
+SINGLE-SELECT>What is your company's annual revenue?>Under $1 million; $1 million - $10 million; $10 million - $100 million; Over $100 million>explanatory>$100 million.
+SINGLE-SELECT>What is your company's annual revenue?>Under $1 million; $1 million - $10 million; $10 million - $100 million; Over $100 million>annoyed>Over $100 million.
+SINGLE-SELECT>What is your company's main focus?>B2B; B2C; Both>verbose>B2B.
+SINGLE-SELECT>What is your company's main focus?>B2B; B2C; Both>concise>B2B.
+SINGLE-SELECT>What is your company's main focus?>B2B; B2C; Both>colloquial>B2B.
+SINGLE-SELECT>What is your company's main focus?>B2B; B2C; Both>explanatory>B2B.
+SINGLE-SELECT>What is your company's main focus?>B2B; B2C; Both>annoyed>B2B.
+SINGLE-SELECT>What is your company's mission?>Profit Maximization; Social Impact; Environmental Sustainability; Customer Satisfaction>verbose>Profit Maximization.
+SINGLE-SELECT>What is your company's mission?>Profit Maximization; Social Impact; Environmental Sustainability; Customer Satisfaction>concise>Profit Maximization.
+SINGLE-SELECT>What is your company's mission?>Profit Maximization; Social Impact; Environmental Sustainability; Customer Satisfaction>colloquial>Profit Maximization.
+SINGLE-SELECT>What is your company's mission?>Profit Maximization; Social Impact; Environmental Sustainability; Customer Satisfaction>explanatory>Profit Maximization.
+SINGLE-SELECT>What is your company's mission?>Profit Maximization; Social Impact; Environmental Sustainability; Customer Satisfaction>annoyed>Profit Maximization.
+SINGLE-SELECT>What is your company's size?>1-50 employees; 51-200 employees; 201-1000 employees; Over 1000 employees>verbose>201-1000 employees.
+SINGLE-SELECT>What is your company's size?>1-50 employees; 51-200 employees; 201-1000 employees; Over 1000 employees>concise>201-1000 employees.
+SINGLE-SELECT>What is your company's size?>1-50 employees; 51-200 employees; 201-1000 employees; Over 1000 employees>colloquial>201-1000 employees.
+SINGLE-SELECT>What is your company's size?>1-50 employees; 51-200 employees; 201-1000 employees; Over 1000 employees>explanatory>201-1000 employees.
+SINGLE-SELECT>What is your company's size?>1-50 employees; 51-200 employees; 201-1000 employees; Over 1000 employees>annoyed>201-1000 employees.
+SINGLE-SELECT>What is your current level of digital transformation?>Beginner; Intermediate; Advanced>verbose>Intermediate.
+SINGLE-SELECT>What is your current level of digital transformation?>Beginner; Intermediate; Advanced>concise>Advanced.
+SINGLE-SELECT>What is your current level of digital transformation?>Beginner; Intermediate; Advanced>colloquial>Advanced.
+SINGLE-SELECT>What is your current level of digital transformation?>Beginner; Intermediate; Advanced>explanatory>Intermediate.
+SINGLE-SELECT>What is your current level of digital transformation?>Beginner; Intermediate; Advanced>annoyed>Intermediate.
+SINGLE-SELECT>What is your department?>Sales; Marketing; IT; Finance; Other>verbose>Other
+SINGLE-SELECT>What is your department?>Sales; Marketing; IT; Finance; Other>concise>Other.
+SINGLE-SELECT>What is your department?>Sales; Marketing; IT; Finance; Other>colloquial>Other.
+SINGLE-SELECT>What is your department?>Sales; Marketing; IT; Finance; Other>explanatory>Other.
+SINGLE-SELECT>What is your department?>Sales; Marketing; IT; Finance; Other>annoyed>Other.
+SINGLE-SELECT>What is your design philosophy?>Form follows function; Less is more; Think outside the box; User-centric design; Innovative and creative>verbose>Form follows function.
+SINGLE-SELECT>What is your design philosophy?>Form follows function; Less is more; Think outside the box; User-centric design; Innovative and creative>concise>Form follows function.
+SINGLE-SELECT>What is your design philosophy?>Form follows function; Less is more; Think outside the box; User-centric design; Innovative and creative>colloquial>Form follows function.
+SINGLE-SELECT>What is your design philosophy?>Form follows function; Less is more; Think outside the box; User-centric design; Innovative and creative>explanatory>Form follows function.
+SINGLE-SELECT>What is your design philosophy?>Form follows function; Less is more; Think outside the box; User-centric design; Innovative and creative>annoyed>Form follows function.
+SINGLE-SELECT>What is your design process?>Agile; Waterfall; Lean; Iterative; Hybrid>verbose>Iterative
+SINGLE-SELECT>What is your design process?>Agile; Waterfall; Lean; Iterative; Hybrid>concise>Iterative
+SINGLE-SELECT>What is your design process?>Agile; Waterfall; Lean; Iterative; Hybrid>colloquial>Iterative.
+SINGLE-SELECT>What is your design process?>Agile; Waterfall; Lean; Iterative; Hybrid>explanatory>Iterative.
+SINGLE-SELECT>What is your design process?>Agile; Waterfall; Lean; Iterative; Hybrid>annoyed>Iterative.
+SINGLE-SELECT>What is your experience level with software development?>Beginner; Intermediate; Advanced; Expert>verbose>Intermediate.
+SINGLE-SELECT>What is your experience level with software development?>Beginner; Intermediate; Advanced; Expert>concise>Intermediate.
+SINGLE-SELECT>What is your experience level with software development?>Beginner; Intermediate; Advanced; Expert>colloquial>Intermediate.
+SINGLE-SELECT>What is your experience level with software development?>Beginner; Intermediate; Advanced; Expert>explanatory>Intermediate.
+SINGLE-SELECT>What is your experience level with software development?>Beginner; Intermediate; Advanced; Expert>annoyed>Intermediate.
+SINGLE-SELECT>What is your experience with Agile methodologies?>Beginner; Intermediate; Advanced>verbose>Intermediate.
+SINGLE-SELECT>What is your experience with Agile methodologies?>Beginner; Intermediate; Advanced>concise>Intermediate.
+SINGLE-SELECT>What is your experience with Agile methodologies?>Beginner; Intermediate; Advanced>colloquial>Intermediate.
+SINGLE-SELECT>What is your experience with Agile methodologies?>Beginner; Intermediate; Advanced>explanatory>Intermediate.
+SINGLE-SELECT>What is your experience with Agile methodologies?>Beginner; Intermediate; Advanced>annoyed>Intermediate.
+SINGLE-SELECT>What is your experience with CI/CD pipelines?>Beginner; Intermediate; Advanced>verbose>Intermediate.
+SINGLE-SELECT>What is your experience with CI/CD pipelines?>Beginner; Intermediate; Advanced>concise>Intermediate.
+SINGLE-SELECT>What is your experience with CI/CD pipelines?>Beginner; Intermediate; Advanced>colloquial>Intermediate.
+SINGLE-SELECT>What is your experience with CI/CD pipelines?>Beginner; Intermediate; Advanced>explanatory>Intermediate.
+SINGLE-SELECT>What is your experience with CI/CD pipelines?>Beginner; Intermediate; Advanced>annoyed>Intermediate.
+SINGLE-SELECT>What is your experience with GraphQL APIs?>Beginner; Intermediate; Advanced>verbose>Intermediate
+SINGLE-SELECT>What is your experience with GraphQL APIs?>Beginner; Intermediate; Advanced>concise>Intermediate
+SINGLE-SELECT>What is your experience with GraphQL APIs?>Beginner; Intermediate; Advanced>colloquial>Intermediate
+SINGLE-SELECT>What is your experience with GraphQL APIs?>Beginner; Intermediate; Advanced>explanatory>Intermediate
+SINGLE-SELECT>What is your experience with GraphQL APIs?>Beginner; Intermediate; Advanced>annoyed>Intermediate
+SINGLE-SELECT>What is your experience with NoSQL databases?>Beginner; Intermediate; Advanced>verbose>Intermediate.
+SINGLE-SELECT>What is your experience with NoSQL databases?>Beginner; Intermediate; Advanced>concise>Intermediate.
+SINGLE-SELECT>What is your experience with NoSQL databases?>Beginner; Intermediate; Advanced>colloquial>Intermediate.
+SINGLE-SELECT>What is your experience with NoSQL databases?>Beginner; Intermediate; Advanced>explanatory>Intermediate.
+SINGLE-SELECT>What is your experience with NoSQL databases?>Beginner; Intermediate; Advanced>annoyed>Intermediate.
+SINGLE-SELECT>What is your experience with RESTful APIs?>Beginner; Intermediate; Advanced>verbose>Intermediate
+SINGLE-SELECT>What is your experience with RESTful APIs?>Beginner; Intermediate; Advanced>concise>Intermediate
+SINGLE-SELECT>What is your experience with RESTful APIs?>Beginner; Intermediate; Advanced>colloquial>Intermediate
+SINGLE-SELECT>What is your experience with RESTful APIs?>Beginner; Intermediate; Advanced>explanatory>Intermediate
+SINGLE-SELECT>What is your experience with RESTful APIs?>Beginner; Intermediate; Advanced>annoyed>Intermediate.
+SINGLE-SELECT>What is your experience with artificial intelligence and machine learning?>Beginner; Intermediate; Advanced>verbose>Intermediate.
+SINGLE-SELECT>What is your experience with artificial intelligence and machine learning?>Beginner; Intermediate; Advanced>concise>Advanced
+SINGLE-SELECT>What is your experience with artificial intelligence and machine learning?>Beginner; Intermediate; Advanced>colloquial>Intermediate.
+SINGLE-SELECT>What is your experience with artificial intelligence and machine learning?>Beginner; Intermediate; Advanced>explanatory>Advanced
+SINGLE-SELECT>What is your experience with artificial intelligence and machine learning?>Beginner; Intermediate; Advanced>annoyed>Intermediate.
+SINGLE-SELECT>What is your experience with big data technologies?>Beginner; Intermediate; Advanced>verbose>Advanced
+SINGLE-SELECT>What is your experience with big data technologies?>Beginner; Intermediate; Advanced>concise>Advanced
+SINGLE-SELECT>What is your experience with big data technologies?>Beginner; Intermediate; Advanced>colloquial>Advanced.
+SINGLE-SELECT>What is your experience with big data technologies?>Beginner; Intermediate; Advanced>explanatory>I'm a beginner.
+SINGLE-SELECT>What is your experience with big data technologies?>Beginner; Intermediate; Advanced>annoyed>I'm a beginner.
+SINGLE-SELECT>What is your experience with blockchain technology?>Beginner; Intermediate; Advanced>verbose>I'm a beginner.
+SINGLE-SELECT>What is your experience with blockchain technology?>Beginner; Intermediate; Advanced>concise>I'm a beginner.
+SINGLE-SELECT>What is your experience with blockchain technology?>Beginner; Intermediate; Advanced>colloquial>I'm a beginner.
+SINGLE-SELECT>What is your experience with blockchain technology?>Beginner; Intermediate; Advanced>explanatory>I'm a beginner.
+SINGLE-SELECT>What is your experience with blockchain technology?>Beginner; Intermediate; Advanced>annoyed>I'm a beginner.
+SINGLE-SELECT>What is your experience with caching mechanisms?>Beginner; Intermediate; Advanced>verbose>Intermediate.
+SINGLE-SELECT>What is your experience with caching mechanisms?>Beginner; Intermediate; Advanced>concise>Intermediate.
+SINGLE-SELECT>What is your experience with caching mechanisms?>Beginner; Intermediate; Advanced>colloquial>Intermediate.
+SINGLE-SELECT>What is your experience with caching mechanisms?>Beginner; Intermediate; Advanced>explanatory>Intermediate.
+SINGLE-SELECT>What is your experience with caching mechanisms?>Beginner; Intermediate; Advanced>annoyed>Intermediate.
+SINGLE-SELECT>What is your experience with containerization technologies?>Beginner; Intermediate; Advanced>verbose>Intermediate.
+SINGLE-SELECT>What is your experience with containerization technologies?>Beginner; Intermediate; Advanced>concise>Intermediate.
+SINGLE-SELECT>What is your experience with containerization technologies?>Beginner; Intermediate; Advanced>colloquial>Intermediate.
+SINGLE-SELECT>What is your experience with containerization technologies?>Beginner; Intermediate; Advanced>explanatory>Intermediate.
+SINGLE-SELECT>What is your experience with containerization technologies?>Beginner; Intermediate; Advanced>annoyed>Intermediate.
+SINGLE-SELECT>What is your experience with cybersecurity best practices?>Beginner; Intermediate; Advanced>verbose>Intermediate.
+SINGLE-SELECT>What is your experience with cybersecurity best practices?>Beginner; Intermediate; Advanced>concise>Intermediate.
+SINGLE-SELECT>What is your experience with cybersecurity best practices?>Beginner; Intermediate; Advanced>colloquial>Intermediate.
+SINGLE-SELECT>What is your experience with cybersecurity best practices?>Beginner; Intermediate; Advanced>explanatory>Intermediate.
+SINGLE-SELECT>What is your experience with cybersecurity best practices?>Beginner; Intermediate; Advanced>annoyed>Intermediate.
+SINGLE-SELECT>What is your experience with data streaming technologies?>Beginner; Intermediate; Advanced>verbose>Intermediate.
+SINGLE-SELECT>What is your experience with data streaming technologies?>Beginner; Intermediate; Advanced>concise>Intermediate.
+SINGLE-SELECT>What is your experience with data streaming technologies?>Beginner; Intermediate; Advanced>colloquial>Advanced.
+SINGLE-SELECT>What is your experience with data streaming technologies?>Beginner; Intermediate; Advanced>explanatory>Intermediate.
+SINGLE-SELECT>What is your experience with data streaming technologies?>Beginner; Intermediate; Advanced>annoyed>Intermediate.
+SINGLE-SELECT>What is your experience with design patterns?>Beginner; Intermediate; Advanced>verbose>Intermediate.
+SINGLE-SELECT>What is your experience with design patterns?>Beginner; Intermediate; Advanced>concise>Intermediate.
+SINGLE-SELECT>What is your experience with design patterns?>Beginner; Intermediate; Advanced>colloquial>Intermediate.
+SINGLE-SELECT>What is your experience with design patterns?>Beginner; Intermediate; Advanced>explanatory>Intermediate.
+SINGLE-SELECT>What is your experience with design patterns?>Beginner; Intermediate; Advanced>annoyed>Intermediate.
+SINGLE-SELECT>What is your experience with event-driven architectures?>Beginner; Intermediate; Advanced>verbose>Intermediate.
+SINGLE-SELECT>What is your experience with event-driven architectures?>Beginner; Intermediate; Advanced>concise>Advanced
+SINGLE-SELECT>What is your experience with event-driven architectures?>Beginner; Intermediate; Advanced>colloquial>Intermediate.
+SINGLE-SELECT>What is your experience with event-driven architectures?>Beginner; Intermediate; Advanced>explanatory>Advanced
+SINGLE-SELECT>What is your experience with event-driven architectures?>Beginner; Intermediate; Advanced>annoyed>Intermediate.
+SINGLE-SELECT>What is your experience with message queues?>Beginner; Intermediate; Advanced>verbose>Intermediate.
+SINGLE-SELECT>What is your experience with message queues?>Beginner; Intermediate; Advanced>concise>Intermediate.
+SINGLE-SELECT>What is your experience with message queues?>Beginner; Intermediate; Advanced>colloquial>Intermediate.
+SINGLE-SELECT>What is your experience with message queues?>Beginner; Intermediate; Advanced>explanatory>Intermediate.
+SINGLE-SELECT>What is your experience with message queues?>Beginner; Intermediate; Advanced>annoyed>Intermediate.
+SINGLE-SELECT>What is your experience with microservices architecture?>Beginner; Intermediate; Advanced>verbose>Intermediate.
+SINGLE-SELECT>What is your experience with microservices architecture?>Beginner; Intermediate; Advanced>concise>Intermediate.
+SINGLE-SELECT>What is your experience with microservices architecture?>Beginner; Intermediate; Advanced>colloquial>Intermediate.
+SINGLE-SELECT>What is your experience with microservices architecture?>Beginner; Intermediate; Advanced>explanatory>Intermediate.
+SINGLE-SELECT>What is your experience with microservices architecture?>Beginner; Intermediate; Advanced>annoyed>Intermediate.
+SINGLE-SELECT>What is your experience with serverless computing?>Beginner; Intermediate; Advanced>verbose>Intermediate.
+SINGLE-SELECT>What is your experience with serverless computing?>Beginner; Intermediate; Advanced>concise>Intermediate.
+SINGLE-SELECT>What is your experience with serverless computing?>Beginner; Intermediate; Advanced>colloquial>Intermediate.
+SINGLE-SELECT>What is your experience with serverless computing?>Beginner; Intermediate; Advanced>explanatory>Intermediate.
+SINGLE-SELECT>What is your experience with serverless computing?>Beginner; Intermediate; Advanced>annoyed>Intermediate.
+SINGLE-SELECT>What is your favorite art historical period?>Renaissance; Baroque; Impressionism; Modern Art; Contemporary Art>verbose>Modern Art.
+SINGLE-SELECT>What is your favorite art historical period?>Renaissance; Baroque; Impressionism; Modern Art; Contemporary Art>concise>Modern Art
+SINGLE-SELECT>What is your favorite art historical period?>Renaissance; Baroque; Impressionism; Modern Art; Contemporary Art>colloquial>Modern Art.
+SINGLE-SELECT>What is your favorite art historical period?>Renaissance; Baroque; Impressionism; Modern Art; Contemporary Art>explanatory>Modern Art.
+SINGLE-SELECT>What is your favorite art historical period?>Renaissance; Baroque; Impressionism; Modern Art; Contemporary Art>annoyed>Modern Art.
+SINGLE-SELECT>What is your favorite art movement?>Art Nouveau; Art Deco; Bauhaus; Dada; Surrealism>verbose>Art Nouveau.
+SINGLE-SELECT>What is your favorite art movement?>Art Nouveau; Art Deco; Bauhaus; Dada; Surrealism>concise>Art Nouveau.
+SINGLE-SELECT>What is your favorite art movement?>Art Nouveau; Art Deco; Bauhaus; Dada; Surrealism>colloquial>Art Nouveau.
+SINGLE-SELECT>What is your favorite art movement?>Art Nouveau; Art Deco; Bauhaus; Dada; Surrealism>explanatory>Art Nouveau.
+SINGLE-SELECT>What is your favorite art movement?>Art Nouveau; Art Deco; Bauhaus; Dada; Surrealism>annoyed>Art Nouveau.
+SINGLE-SELECT>What is your favorite art museum?>The Metropolitan Museum of Art; The Louvre; The Museum of Modern Art; The Tate Modern; The National Gallery>verbose>The Louvre.
+SINGLE-SELECT>What is your favorite art museum?>The Metropolitan Museum of Art; The Louvre; The Museum of Modern Art; The Tate Modern; The National Gallery>concise>The Tate Modern.
+SINGLE-SELECT>What is your favorite art museum?>The Metropolitan Museum of Art; The Louvre; The Museum of Modern Art; The Tate Modern; The National Gallery>colloquial>The Louvre.
+SINGLE-SELECT>What is your favorite art museum?>The Metropolitan Museum of Art; The Louvre; The Museum of Modern Art; The Tate Modern; The National Gallery>explanatory>The Tate Modern.
+SINGLE-SELECT>What is your favorite art museum?>The Metropolitan Museum of Art; The Louvre; The Museum of Modern Art; The Tate Modern; The National Gallery>annoyed>The Louvre.
+SINGLE-SELECT>What is your favorite art technique?>Oil Painting; Watercolor Painting; Acrylic Painting; Pencil Sketching; Digital Painting>verbose>Acrylic Painting.
+SINGLE-SELECT>What is your favorite art technique?>Oil Painting; Watercolor Painting; Acrylic Painting; Pencil Sketching; Digital Painting>concise>Acrylic Painting
+SINGLE-SELECT>What is your favorite art technique?>Oil Painting; Watercolor Painting; Acrylic Painting; Pencil Sketching; Digital Painting>colloquial>Acrylic Painting.
+SINGLE-SELECT>What is your favorite art technique?>Oil Painting; Watercolor Painting; Acrylic Painting; Pencil Sketching; Digital Painting>explanatory>Acrylic Painting.
+SINGLE-SELECT>What is your favorite art technique?>Oil Painting; Watercolor Painting; Acrylic Painting; Pencil Sketching; Digital Painting>annoyed>Acrylic Painting.
+SINGLE-SELECT>What is your favorite aspect of the design process?>Idea Generation; Sketching and Prototyping; Refinement and Iteration; Testing and User Feedback; Final Presentation>verbose>Idea Generation
+SINGLE-SELECT>What is your favorite aspect of the design process?>Idea Generation; Sketching and Prototyping; Refinement and Iteration; Testing and User Feedback; Final Presentation>concise>Idea Generation
+SINGLE-SELECT>What is your favorite aspect of the design process?>Idea Generation; Sketching and Prototyping; Refinement and Iteration; Testing and User Feedback; Final Presentation>colloquial>I think Refinement and Iteration is my favorite aspect of the design process.
+SINGLE-SELECT>What is your favorite aspect of the design process?>Idea Generation; Sketching and Prototyping; Refinement and Iteration; Testing and User Feedback; Final Presentation>explanatory>Idea Generation.
+SINGLE-SELECT>What is your favorite aspect of the design process?>Idea Generation; Sketching and Prototyping; Refinement and Iteration; Testing and User Feedback; Final Presentation>annoyed>I think Refinement and Iteration is my favorite aspect of the design process.
+SINGLE-SELECT>What is your favorite design tool?>Adobe Photoshop; Adobe Illustrator; Figma; Sketch; Procreate>verbose>Adobe Illustrator.
+SINGLE-SELECT>What is your favorite design tool?>Adobe Photoshop; Adobe Illustrator; Figma; Sketch; Procreate>concise>Adobe Illustrator.
+SINGLE-SELECT>What is your favorite design tool?>Adobe Photoshop; Adobe Illustrator; Figma; Sketch; Procreate>colloquial>Adobe Illustrator.
+SINGLE-SELECT>What is your favorite design tool?>Adobe Photoshop; Adobe Illustrator; Figma; Sketch; Procreate>explanatory>Adobe Illustrator.
+SINGLE-SELECT>What is your favorite design tool?>Adobe Photoshop; Adobe Illustrator; Figma; Sketch; Procreate>annoyed>Adobe Illustrator.
+SINGLE-SELECT>What is your favorite type of design project to work on?>Logo Design; Website Design; Branding Design; UI/UX Design; Print Design>verbose>UI/UX Design.
+SINGLE-SELECT>What is your favorite type of design project to work on?>Logo Design; Website Design; Branding Design; UI/UX Design; Print Design>concise>UI/UX Design.
+SINGLE-SELECT>What is your favorite type of design project to work on?>Logo Design; Website Design; Branding Design; UI/UX Design; Print Design>colloquial>I like UI/UX Design.
+SINGLE-SELECT>What is your favorite type of design project to work on?>Logo Design; Website Design; Branding Design; UI/UX Design; Print Design>explanatory>UI/UX Design.
+SINGLE-SELECT>What is your favorite type of design project to work on?>Logo Design; Website Design; Branding Design; UI/UX Design; Print Design>annoyed>I like UI/UX Design.
+SINGLE-SELECT>What is your favorite type of font?>Serif; Sans-serif; Script; Display; Monospace>verbose>I like Sans-serif fonts.
+SINGLE-SELECT>What is your favorite type of font?>Serif; Sans-serif; Script; Display; Monospace>concise>Script
+SINGLE-SELECT>What is your favorite type of font?>Serif; Sans-serif; Script; Display; Monospace>colloquial>Script
+SINGLE-SELECT>What is your favorite type of font?>Serif; Sans-serif; Script; Display; Monospace>explanatory>I like Sans-serif fonts.
+SINGLE-SELECT>What is your favorite type of font?>Serif; Sans-serif; Script; Display; Monospace>annoyed>Script
+SINGLE-SELECT>What is your gender?>Male; Female; Other; Prefer not to say>verbose>Female.
+SINGLE-SELECT>What is your gender?>Male; Female; Other; Prefer not to say>concise>Female.
+SINGLE-SELECT>What is your gender?>Male; Female; Other; Prefer not to say>colloquial>Female.
+SINGLE-SELECT>What is your gender?>Male; Female; Other; Prefer not to say>explanatory>Female.
+SINGLE-SELECT>What is your gender?>Male; Female; Other; Prefer not to say>annoyed>Female.
+SINGLE-SELECT>What is your greatest strength as an artist or designer?>Creativity; Problem-solving; Technical Skills; Communication Skills; Collaboration>verbose>Creativity.
+SINGLE-SELECT>What is your greatest strength as an artist or designer?>Creativity; Problem-solving; Technical Skills; Communication Skills; Collaboration>concise>Creativity.
+SINGLE-SELECT>What is your greatest strength as an artist or designer?>Creativity; Problem-solving; Technical Skills; Communication Skills; Collaboration>colloquial>Creativity.
+SINGLE-SELECT>What is your greatest strength as an artist or designer?>Creativity; Problem-solving; Technical Skills; Communication Skills; Collaboration>explanatory>Creativity.
+SINGLE-SELECT>What is your greatest strength as an artist or designer?>Creativity; Problem-solving; Technical Skills; Communication Skills; Collaboration>annoyed>Creativity.
+SINGLE-SELECT>What is your highest level of education?>High School; Bachelor's Degree; Master's Degree; Doctorate Degree>verbose>Master's Degree.
+SINGLE-SELECT>What is your highest level of education?>High School; Bachelor's Degree; Master's Degree; Doctorate Degree>concise>Master's Degree.
+SINGLE-SELECT>What is your highest level of education?>High School; Bachelor's Degree; Master's Degree; Doctorate Degree>colloquial>Master's Degree.
+SINGLE-SELECT>What is your highest level of education?>High School; Bachelor's Degree; Master's Degree; Doctorate Degree>explanatory>Master's Degree.
+SINGLE-SELECT>What is your highest level of education?>High School; Bachelor's Degree; Master's Degree; Doctorate Degree>annoyed>High School.
+SINGLE-SELECT>What is your job title?>CEO; CFO; Marketing Manager; Sales Representative; Other>verbose>CEO.
+SINGLE-SELECT>What is your job title?>CEO; CFO; Marketing Manager; Sales Representative; Other>concise>CEO.
+SINGLE-SELECT>What is your job title?>CEO; CFO; Marketing Manager; Sales Representative; Other>colloquial>I am a marketing manager.
+SINGLE-SELECT>What is your job title?>CEO; CFO; Marketing Manager; Sales Representative; Other>explanatory>I am a marketing manager.
+SINGLE-SELECT>What is your job title?>CEO; CFO; Marketing Manager; Sales Representative; Other>annoyed>CFO.
+SINGLE-SELECT>What is your level of experience in the art and design industry?>Beginner; Intermediate; Advanced; Expert; Professional>verbose>Professional.
+SINGLE-SELECT>What is your level of experience in the art and design industry?>Beginner; Intermediate; Advanced; Expert; Professional>concise>Professional.
+SINGLE-SELECT>What is your level of experience in the art and design industry?>Beginner; Intermediate; Advanced; Expert; Professional>colloquial>Professional.
+SINGLE-SELECT>What is your level of experience in the art and design industry?>Beginner; Intermediate; Advanced; Expert; Professional>explanatory>Professional.
+SINGLE-SELECT>What is your level of experience in the art and design industry?>Beginner; Intermediate; Advanced; Expert; Professional>annoyed>Professional.
+SINGLE-SELECT>What is your level of technical expertise?>Beginner; Intermediate; Advanced; Expert>verbose>Advanced.
+SINGLE-SELECT>What is your level of technical expertise?>Beginner; Intermediate; Advanced; Expert>concise>Advanced.
+SINGLE-SELECT>What is your level of technical expertise?>Beginner; Intermediate; Advanced; Expert>colloquial>Advanced.
+SINGLE-SELECT>What is your level of technical expertise?>Beginner; Intermediate; Advanced; Expert>explanatory>Advanced.
+SINGLE-SELECT>What is your level of technical expertise?>Beginner; Intermediate; Advanced; Expert>annoyed>Advanced.
+SINGLE-SELECT>What is your preferred IDE for mobile development?>Android Studio; Xcode; React Native; Flutter>verbose>Xcode
+SINGLE-SELECT>What is your preferred IDE for mobile development?>Android Studio; Xcode; React Native; Flutter>concise>Android Studio
+SINGLE-SELECT>What is your preferred IDE for mobile development?>Android Studio; Xcode; React Native; Flutter>colloquial>Xcode
+SINGLE-SELECT>What is your preferred IDE for mobile development?>Android Studio; Xcode; React Native; Flutter>explanatory>Xcode
+SINGLE-SELECT>What is your preferred IDE for mobile development?>Android Studio; Xcode; React Native; Flutter>annoyed>Xcode
+SINGLE-SELECT>What is your preferred approach to project management?>Agile; Waterfall; Hybrid>verbose>Agile.
+SINGLE-SELECT>What is your preferred approach to project management?>Agile; Waterfall; Hybrid>concise>Agile.
+SINGLE-SELECT>What is your preferred approach to project management?>Agile; Waterfall; Hybrid>colloquial>Agile.
+SINGLE-SELECT>What is your preferred approach to project management?>Agile; Waterfall; Hybrid>explanatory>Agile.
+SINGLE-SELECT>What is your preferred approach to project management?>Agile; Waterfall; Hybrid>annoyed>Agile.
+SINGLE-SELECT>What is your preferred approach to software architecture?>Microservices; Monolithic; Layered>verbose>Microservices.
+SINGLE-SELECT>What is your preferred approach to software architecture?>Microservices; Monolithic; Layered>concise>Microservices.
+SINGLE-SELECT>What is your preferred approach to software architecture?>Microservices; Monolithic; Layered>colloquial>Microservices.
+SINGLE-SELECT>What is your preferred approach to software architecture?>Microservices; Monolithic; Layered>explanatory>Microservices.
+SINGLE-SELECT>What is your preferred approach to software architecture?>Microservices; Monolithic; Layered>annoyed>Microservices.
+SINGLE-SELECT>What is your preferred code editor for front-end development?>VS Code; Sublime Text; Atom; WebStorm>verbose>Atom
+SINGLE-SELECT>What is your preferred code editor for front-end development?>VS Code; Sublime Text; Atom; WebStorm>concise>Atom
+SINGLE-SELECT>What is your preferred code editor for front-end development?>VS Code; Sublime Text; Atom; WebStorm>colloquial>Atom
+SINGLE-SELECT>What is your preferred code editor for front-end development?>VS Code; Sublime Text; Atom; WebStorm>explanatory>Atom
+SINGLE-SELECT>What is your preferred code editor for front-end development?>VS Code; Sublime Text; Atom; WebStorm>annoyed>Atom
+SINGLE-SELECT>What is your preferred collaboration tool?>GitHub; GitLab; Bitbucket>verbose>GitHub is my preferred collaboration tool.
+SINGLE-SELECT>What is your preferred collaboration tool?>GitHub; GitLab; Bitbucket>concise>Bitbucket.
+SINGLE-SELECT>What is your preferred collaboration tool?>GitHub; GitLab; Bitbucket>colloquial>Bitbucket is my preferred collaboration tool.
+SINGLE-SELECT>What is your preferred collaboration tool?>GitHub; GitLab; Bitbucket>explanatory>Bitbucket is my preferred collaboration tool.
+SINGLE-SELECT>What is your preferred collaboration tool?>GitHub; GitLab; Bitbucket>annoyed>Bitbucket is my preferred collaboration tool.
+SINGLE-SELECT>What is your preferred color palette?>Warm Colors; Cool Colors; Monochromatic; Analogous; Complementary>verbose>Warm Colors
+SINGLE-SELECT>What is your preferred color palette?>Warm Colors; Cool Colors; Monochromatic; Analogous; Complementary>concise>Warm Colors
+SINGLE-SELECT>What is your preferred color palette?>Warm Colors; Cool Colors; Monochromatic; Analogous; Complementary>colloquial>Warm Colors
+SINGLE-SELECT>What is your preferred color palette?>Warm Colors; Cool Colors; Monochromatic; Analogous; Complementary>explanatory>Warm Colors
+SINGLE-SELECT>What is your preferred color palette?>Warm Colors; Cool Colors; Monochromatic; Analogous; Complementary>annoyed>Warm Colors
+SINGLE-SELECT>What is your preferred communication tool?>Slack; Microsoft Teams; Email; Jira>verbose>Email is my preferred communication tool.
+SINGLE-SELECT>What is your preferred communication tool?>Slack; Microsoft Teams; Email; Jira>concise>Jira is my preferred communication tool.
+SINGLE-SELECT>What is your preferred communication tool?>Slack; Microsoft Teams; Email; Jira>colloquial>Email is my preferred communication tool.
+SINGLE-SELECT>What is your preferred communication tool?>Slack; Microsoft Teams; Email; Jira>explanatory>Microsoft Teams is my preferred communication tool.
+SINGLE-SELECT>What is your preferred communication tool?>Slack; Microsoft Teams; Email; Jira>annoyed>Microsoft Teams is my preferred communication tool.
+SINGLE-SELECT>What is your preferred development environment?>Visual Studio; IntelliJ IDEA; Eclipse; VS Code; Sublime Text>verbose>Visual Studio
+SINGLE-SELECT>What is your preferred development environment?>Visual Studio; IntelliJ IDEA; Eclipse; VS Code; Sublime Text>concise>Visual Studio
+SINGLE-SELECT>What is your preferred development environment?>Visual Studio; IntelliJ IDEA; Eclipse; VS Code; Sublime Text>colloquial>Visual Studio.
+SINGLE-SELECT>What is your preferred development environment?>Visual Studio; IntelliJ IDEA; Eclipse; VS Code; Sublime Text>explanatory>Visual Studio.
+SINGLE-SELECT>What is your preferred development environment?>Visual Studio; IntelliJ IDEA; Eclipse; VS Code; Sublime Text>annoyed>Visual Studio.
+SINGLE-SELECT>What is your preferred format for reports?>PDF; Spreadsheet; Presentation>verbose>Spreadsheet
+SINGLE-SELECT>What is your preferred format for reports?>PDF; Spreadsheet; Presentation>concise>Spreadsheet.
+SINGLE-SELECT>What is your preferred format for reports?>PDF; Spreadsheet; Presentation>colloquial>Spreadsheet.
+SINGLE-SELECT>What is your preferred format for reports?>PDF; Spreadsheet; Presentation>explanatory>Spreadsheet.
+SINGLE-SELECT>What is your preferred format for reports?>PDF; Spreadsheet; Presentation>annoyed>Spreadsheet.
+SINGLE-SELECT>What is your preferred framework for backend development?>Spring Boot; Node.js; Django; Ruby on Rails; .NET>verbose>Spring Boot is my preferred framework for backend development.
+SINGLE-SELECT>What is your preferred framework for backend development?>Spring Boot; Node.js; Django; Ruby on Rails; .NET>concise>Spring Boot.
+SINGLE-SELECT>What is your preferred framework for backend development?>Spring Boot; Node.js; Django; Ruby on Rails; .NET>colloquial>Spring Boot is my preferred framework for backend development.
+SINGLE-SELECT>What is your preferred framework for backend development?>Spring Boot; Node.js; Django; Ruby on Rails; .NET>explanatory>Spring Boot.
+SINGLE-SELECT>What is your preferred framework for backend development?>Spring Boot; Node.js; Django; Ruby on Rails; .NET>annoyed>Django is my preferred framework for backend development.
+SINGLE-SELECT>What is your preferred integration method?>API; CSV Import/Export; Other>verbose>API
+SINGLE-SELECT>What is your preferred integration method?>API; CSV Import/Export; Other>concise>API
+SINGLE-SELECT>What is your preferred integration method?>API; CSV Import/Export; Other>colloquial>API
+SINGLE-SELECT>What is your preferred integration method?>API; CSV Import/Export; Other>explanatory>API
+SINGLE-SELECT>What is your preferred integration method?>API; CSV Import/Export; Other>annoyed>API
+SINGLE-SELECT>What is your preferred medium for artistic expression?>Painting; Sculpture; Digital Art; Photography; Graphic Design>verbose>Painting is my preferred medium for artistic expression.
+SINGLE-SELECT>What is your preferred medium for artistic expression?>Painting; Sculpture; Digital Art; Photography; Graphic Design>concise>Digital Art.
+SINGLE-SELECT>What is your preferred medium for artistic expression?>Painting; Sculpture; Digital Art; Photography; Graphic Design>colloquial>Photography.
+SINGLE-SELECT>What is your preferred medium for artistic expression?>Painting; Sculpture; Digital Art; Photography; Graphic Design>explanatory>Photography.
+SINGLE-SELECT>What is your preferred medium for artistic expression?>Painting; Sculpture; Digital Art; Photography; Graphic Design>annoyed>Digital Art.
+SINGLE-SELECT>What is your preferred method for code review?>Pull Requests; Code walkthroughs; Pair programming>verbose>Pull Requests.
+SINGLE-SELECT>What is your preferred method for code review?>Pull Requests; Code walkthroughs; Pair programming>concise>Pair programming.
+SINGLE-SELECT>What is your preferred method for code review?>Pull Requests; Code walkthroughs; Pair programming>colloquial>Pull Requests.
+SINGLE-SELECT>What is your preferred method for code review?>Pull Requests; Code walkthroughs; Pair programming>explanatory>Pull Requests.
+SINGLE-SELECT>What is your preferred method for code review?>Pull Requests; Code walkthroughs; Pair programming>annoyed>Pull Requests.
+SINGLE-SELECT>What is your preferred method for providing feedback?>Email; Online Survey; In-person Meeting>verbose>Email.
+SINGLE-SELECT>What is your preferred method for providing feedback?>Email; Online Survey; In-person Meeting>concise>Email.
+SINGLE-SELECT>What is your preferred method for providing feedback?>Email; Online Survey; In-person Meeting>colloquial>Email.
+SINGLE-SELECT>What is your preferred method for providing feedback?>Email; Online Survey; In-person Meeting>explanatory>Email.
+SINGLE-SELECT>What is your preferred method for providing feedback?>Email; Online Survey; In-person Meeting>annoyed>Email.
+SINGLE-SELECT>What is your preferred method for receiving project updates?>Email; Project Management Software; Team Meetings>verbose>Email.
+SINGLE-SELECT>What is your preferred method for receiving project updates?>Email; Project Management Software; Team Meetings>concise>Email.
+SINGLE-SELECT>What is your preferred method for receiving project updates?>Email; Project Management Software; Team Meetings>colloquial>Email.
+SINGLE-SELECT>What is your preferred method for receiving project updates?>Email; Project Management Software; Team Meetings>explanatory>Email.
+SINGLE-SELECT>What is your preferred method for receiving project updates?>Email; Project Management Software; Team Meetings>annoyed>Email.
+SINGLE-SELECT>What is your preferred method for receiving updates?>Email; SMS; In-app notifications>verbose>In-app notifications.
+SINGLE-SELECT>What is your preferred method for receiving updates?>Email; SMS; In-app notifications>concise>In-app notifications.
+SINGLE-SELECT>What is your preferred method for receiving updates?>Email; SMS; In-app notifications>colloquial>In-app notifications.
+SINGLE-SELECT>What is your preferred method for receiving updates?>Email; SMS; In-app notifications>explanatory>In-app notifications.
+SINGLE-SELECT>What is your preferred method for receiving updates?>Email; SMS; In-app notifications>annoyed>In-app notifications.
+SINGLE-SELECT>What is your preferred method for scheduling meetings?>Email; Calendar invite; Phone call>verbose>Email.
+SINGLE-SELECT>What is your preferred method for scheduling meetings?>Email; Calendar invite; Phone call>concise>Email.
+SINGLE-SELECT>What is your preferred method for scheduling meetings?>Email; Calendar invite; Phone call>colloquial>Email.
+SINGLE-SELECT>What is your preferred method for scheduling meetings?>Email; Calendar invite; Phone call>explanatory>Email.
+SINGLE-SELECT>What is your preferred method for scheduling meetings?>Email; Calendar invite; Phone call>annoyed>Email.
+SINGLE-SELECT>What is your preferred method of communication with clients?>Email; Phone Calls; Video Conferencing; In-person Meetings; Project Management Software>verbose>Email.
+SINGLE-SELECT>What is your preferred method of communication with clients?>Email; Phone Calls; Video Conferencing; In-person Meetings; Project Management Software>concise>Email.
+SINGLE-SELECT>What is your preferred method of communication with clients?>Email; Phone Calls; Video Conferencing; In-person Meetings; Project Management Software>colloquial>Email.
+SINGLE-SELECT>What is your preferred method of communication with clients?>Email; Phone Calls; Video Conferencing; In-person Meetings; Project Management Software>explanatory>Email.
+SINGLE-SELECT>What is your preferred method of communication with clients?>Email; Phone Calls; Video Conferencing; In-person Meetings; Project Management Software>annoyed>Email.
+SINGLE-SELECT>What is your preferred method of communication?>Email; Phone; Video Conference>verbose>Email.
+SINGLE-SELECT>What is your preferred method of communication?>Email; Phone; Video Conference>concise>Email.
+SINGLE-SELECT>What is your preferred method of communication?>Email; Phone; Video Conference>colloquial>Email.
+SINGLE-SELECT>What is your preferred method of communication?>Email; Phone; Video Conference>explanatory>Email.
+SINGLE-SELECT>What is your preferred method of communication?>Email; Phone; Video Conference>annoyed>Email.
+SINGLE-SELECT>What is your preferred method of generating design ideas?>Brainstorming; Mind Mapping; Mood Boarding; Sketching; Research>verbose>Brainstorming.
+SINGLE-SELECT>What is your preferred method of generating design ideas?>Brainstorming; Mind Mapping; Mood Boarding; Sketching; Research>concise>Brainstorming
+SINGLE-SELECT>What is your preferred method of generating design ideas?>Brainstorming; Mind Mapping; Mood Boarding; Sketching; Research>colloquial>Brainstorming.
+SINGLE-SELECT>What is your preferred method of generating design ideas?>Brainstorming; Mind Mapping; Mood Boarding; Sketching; Research>explanatory>Brainstorming.
+SINGLE-SELECT>What is your preferred method of generating design ideas?>Brainstorming; Mind Mapping; Mood Boarding; Sketching; Research>annoyed>Brainstorming.
+SINGLE-SELECT>What is your preferred method of showcasing your work?>Online Portfolio; Art Galleries; Art Fairs; Social Media; Personal Exhibitions>verbose>Art Fairs.
+SINGLE-SELECT>What is your preferred method of showcasing your work?>Online Portfolio; Art Galleries; Art Fairs; Social Media; Personal Exhibitions>concise>Online Portfolio.
+SINGLE-SELECT>What is your preferred method of showcasing your work?>Online Portfolio; Art Galleries; Art Fairs; Social Media; Personal Exhibitions>colloquial>Online Portfolio.
+SINGLE-SELECT>What is your preferred method of showcasing your work?>Online Portfolio; Art Galleries; Art Fairs; Social Media; Personal Exhibitions>explanatory>Online Portfolio.
+SINGLE-SELECT>What is your preferred method of showcasing your work?>Online Portfolio; Art Galleries; Art Fairs; Social Media; Personal Exhibitions>annoyed>Art Fairs.
+SINGLE-SELECT>What is your preferred payment method?>Credit Card; Bank Transfer; PayPal>verbose>Credit Card.
+SINGLE-SELECT>What is your preferred payment method?>Credit Card; Bank Transfer; PayPal>concise>Credit Card.
+SINGLE-SELECT>What is your preferred payment method?>Credit Card; Bank Transfer; PayPal>colloquial>Credit Card.
+SINGLE-SELECT>What is your preferred payment method?>Credit Card; Bank Transfer; PayPal>explanatory>Credit Card.
+SINGLE-SELECT>What is your preferred payment method?>Credit Card; Bank Transfer; PayPal>annoyed>Credit Card.
+SINGLE-SELECT>What is your preferred programming language?>Python; Java; JavaScript; C++; C#>verbose>C++ is my preferred programming language.
+SINGLE-SELECT>What is your preferred programming language?>Python; Java; JavaScript; C++; C#>concise>C++.
+SINGLE-SELECT>What is your preferred programming language?>Python; Java; JavaScript; C++; C#>colloquial>C++.
+SINGLE-SELECT>What is your preferred programming language?>Python; Java; JavaScript; C++; C#>explanatory>C++ is my preferred programming language.
+SINGLE-SELECT>What is your preferred programming language?>Python; Java; JavaScript; C++; C#>annoyed>C++.
+SINGLE-SELECT>What is your preferred style of written communication?>Concise; Detailed; Formal; Informal>verbose>Concise.
+SINGLE-SELECT>What is your preferred style of written communication?>Concise; Detailed; Formal; Informal>concise>Concise.
+SINGLE-SELECT>What is your preferred style of written communication?>Concise; Detailed; Formal; Informal>colloquial>Concise.
+SINGLE-SELECT>What is your preferred style of written communication?>Concise; Detailed; Formal; Informal>explanatory>Concise.
+SINGLE-SELECT>What is your preferred style of written communication?>Concise; Detailed; Formal; Informal>annoyed>Concise.
+SINGLE-SELECT>What is your preferred testing framework?>JUnit; pytest; NUnit; Mocha; Jest>verbose>JUnit.
+SINGLE-SELECT>What is your preferred testing framework?>JUnit; pytest; NUnit; Mocha; Jest>concise>JUnit.
+SINGLE-SELECT>What is your preferred testing framework?>JUnit; pytest; NUnit; Mocha; Jest>colloquial>JUnit.
+SINGLE-SELECT>What is your preferred testing framework?>JUnit; pytest; NUnit; Mocha; Jest>explanatory>JUnit.
+SINGLE-SELECT>What is your preferred testing framework?>JUnit; pytest; NUnit; Mocha; Jest>annoyed>JUnit.
+SINGLE-SELECT>What is your preferred timeline for implementation?>Immediate; Within 1 month; Within 3 months; Within 6 months; Longer than 6 months>verbose>Within 6 months.
+SINGLE-SELECT>What is your preferred timeline for implementation?>Immediate; Within 1 month; Within 3 months; Within 6 months; Longer than 6 months>concise>Within 6 months.
+SINGLE-SELECT>What is your preferred timeline for implementation?>Immediate; Within 1 month; Within 3 months; Within 6 months; Longer than 6 months>colloquial>Within 6 months.
+SINGLE-SELECT>What is your preferred timeline for implementation?>Immediate; Within 1 month; Within 3 months; Within 6 months; Longer than 6 months>explanatory>Within 6 months.
+SINGLE-SELECT>What is your preferred timeline for implementation?>Immediate; Within 1 month; Within 3 months; Within 6 months; Longer than 6 months>annoyed>Within 6 months.
+SINGLE-SELECT>What is your preferred workflow for completing a design project?>Agile; Waterfall; Iterative; Lean; Kanban>verbose>Iterative
+SINGLE-SELECT>What is your preferred workflow for completing a design project?>Agile; Waterfall; Iterative; Lean; Kanban>concise>Iterative
+SINGLE-SELECT>What is your preferred workflow for completing a design project?>Agile; Waterfall; Iterative; Lean; Kanban>colloquial>Iterative.
+SINGLE-SELECT>What is your preferred workflow for completing a design project?>Agile; Waterfall; Iterative; Lean; Kanban>explanatory>Iterative
+SINGLE-SELECT>What is your preferred workflow for completing a design project?>Agile; Waterfall; Iterative; Lean; Kanban>annoyed>Iterative.
+SINGLE-SELECT>What is your primary concern when choosing a product like this?>Price; Features; Customer Support; Ease of Use>verbose>Price.
+SINGLE-SELECT>What is your primary concern when choosing a product like this?>Price; Features; Customer Support; Ease of Use>concise>Price.
+SINGLE-SELECT>What is your primary concern when choosing a product like this?>Price; Features; Customer Support; Ease of Use>colloquial>Price.
+SINGLE-SELECT>What is your primary concern when choosing a product like this?>Price; Features; Customer Support; Ease of Use>explanatory>Price.
+SINGLE-SELECT>What is your primary concern when choosing a product like this?>Price; Features; Customer Support; Ease of Use>annoyed>Price.
+SINGLE-SELECT>What is your primary role in the art and design industry?>Artist; Designer; Art Director; Graphic Designer; UX/UI Designer>verbose>Artist.
+SINGLE-SELECT>What is your primary role in the art and design industry?>Artist; Designer; Art Director; Graphic Designer; UX/UI Designer>concise>Artist.
+SINGLE-SELECT>What is your primary role in the art and design industry?>Artist; Designer; Art Director; Graphic Designer; UX/UI Designer>colloquial>Artist.
+SINGLE-SELECT>What is your primary role in the art and design industry?>Artist; Designer; Art Director; Graphic Designer; UX/UI Designer>explanatory>Artist.
+SINGLE-SELECT>What is your primary role in the art and design industry?>Artist; Designer; Art Director; Graphic Designer; UX/UI Designer>annoyed>Artist.
+SINGLE-SELECT>What is your primary role in your organization?>Decision Maker; Influencer; End User>verbose>Decision Maker.
+SINGLE-SELECT>What is your primary role in your organization?>Decision Maker; Influencer; End User>concise>Decision Maker.
+SINGLE-SELECT>What is your primary role in your organization?>Decision Maker; Influencer; End User>colloquial>Decision Maker.
+SINGLE-SELECT>What is your primary role in your organization?>Decision Maker; Influencer; End User>explanatory>Decision Maker.
+SINGLE-SELECT>What is your primary role in your organization?>Decision Maker; Influencer; End User>annoyed>Decision Maker.
+SINGLE-SELECT>What is your primary source of leads?>Inbound Marketing; Outbound Sales; Referrals; Partnerships>verbose>Inbound Marketing.
+SINGLE-SELECT>What is your primary source of leads?>Inbound Marketing; Outbound Sales; Referrals; Partnerships>concise>Inbound Marketing.
+SINGLE-SELECT>What is your primary source of leads?>Inbound Marketing; Outbound Sales; Referrals; Partnerships>colloquial>Inbound Marketing.
+SINGLE-SELECT>What is your primary source of leads?>Inbound Marketing; Outbound Sales; Referrals; Partnerships>explanatory>Inbound Marketing.
+SINGLE-SELECT>What is your primary source of leads?>Inbound Marketing; Outbound Sales; Referrals; Partnerships>annoyed>Inbound Marketing.
+SINGLE-SELECT>What is your purchase decision-making process?>Quick Decision; Moderate Decision; Lengthy Decision>verbose>Lengthy Decision.
+SINGLE-SELECT>What is your purchase decision-making process?>Quick Decision; Moderate Decision; Lengthy Decision>concise>Lengthy Decision.
+SINGLE-SELECT>What is your purchase decision-making process?>Quick Decision; Moderate Decision; Lengthy Decision>colloquial>Quick Decision.
+SINGLE-SELECT>What is your purchase decision-making process?>Quick Decision; Moderate Decision; Lengthy Decision>explanatory>Lengthy Decision.
+SINGLE-SELECT>What is your purchase decision-making process?>Quick Decision; Moderate Decision; Lengthy Decision>annoyed>Quick Decision.
+SINGLE-SELECT>What is your purchasing authority?>Full Authority; Partial Authority; No Authority>verbose>Full Authority.
+SINGLE-SELECT>What is your purchasing authority?>Full Authority; Partial Authority; No Authority>concise>Full Authority.
+SINGLE-SELECT>What is your purchasing authority?>Full Authority; Partial Authority; No Authority>colloquial>Full Authority.
+SINGLE-SELECT>What is your purchasing authority?>Full Authority; Partial Authority; No Authority>explanatory>Full Authority.
+SINGLE-SELECT>What is your purchasing authority?>Full Authority; Partial Authority; No Authority>annoyed>Full Authority.
+SINGLE-SELECT>What is your role in the team?>Frontend Developer; Backend Developer; Fullstack Developer; Data Scientist; Project Manager>verbose>Project Manager.
+SINGLE-SELECT>What is your role in the team?>Frontend Developer; Backend Developer; Fullstack Developer; Data Scientist; Project Manager>concise>Project Manager.
+SINGLE-SELECT>What is your role in the team?>Frontend Developer; Backend Developer; Fullstack Developer; Data Scientist; Project Manager>colloquial>Project Manager.
+SINGLE-SELECT>What is your role in the team?>Frontend Developer; Backend Developer; Fullstack Developer; Data Scientist; Project Manager>explanatory>Project Manager.
+SINGLE-SELECT>What is your role in the team?>Frontend Developer; Backend Developer; Fullstack Developer; Data Scientist; Project Manager>annoyed>Project Manager.
+SINGLE-SELECT>What is your team size?>1-5; 6-10; 11-20; 20+>verbose>20+
+SINGLE-SELECT>What is your team size?>1-5; 6-10; 11-20; 20+>concise>20+
+SINGLE-SELECT>What is your team size?>1-5; 6-10; 11-20; 20+>colloquial>20+
+SINGLE-SELECT>What is your team size?>1-5; 6-10; 11-20; 20+>explanatory>20+
+SINGLE-SELECT>What is your team size?>1-5; 6-10; 11-20; 20+>annoyed>20+
+SINGLE-SELECT>What methodology do you follow for software development?>Agile; Waterfall; Scrum; Kanban>verbose>Agile.
+SINGLE-SELECT>What methodology do you follow for software development?>Agile; Waterfall; Scrum; Kanban>concise>Agile.
+SINGLE-SELECT>What methodology do you follow for software development?>Agile; Waterfall; Scrum; Kanban>colloquial>Agile.
+SINGLE-SELECT>What methodology do you follow for software development?>Agile; Waterfall; Scrum; Kanban>explanatory>Agile.
+SINGLE-SELECT>What methodology do you follow for software development?>Agile; Waterfall; Scrum; Kanban>annoyed>Agile.
+SINGLE-SELECT>What software do you primarily use for your work?>Adobe Photoshop; Adobe Illustrator; Adobe InDesign; Figma; Sketch>verbose>Adobe Illustrator.
+SINGLE-SELECT>What software do you primarily use for your work?>Adobe Photoshop; Adobe Illustrator; Adobe InDesign; Figma; Sketch>concise>Adobe Illustrator.
+SINGLE-SELECT>What software do you primarily use for your work?>Adobe Photoshop; Adobe Illustrator; Adobe InDesign; Figma; Sketch>colloquial>Adobe Illustrator.
+SINGLE-SELECT>What software do you primarily use for your work?>Adobe Photoshop; Adobe Illustrator; Adobe InDesign; Figma; Sketch>explanatory>Adobe Illustrator.
+SINGLE-SELECT>What software do you primarily use for your work?>Adobe Photoshop; Adobe Illustrator; Adobe InDesign; Figma; Sketch>annoyed>Adobe Illustrator.
+SINGLE-SELECT>What style of art are you most drawn to?>Abstract; Realism; Surrealism; Impressionism; Pop Art>verbose>Abstract.
+SINGLE-SELECT>What style of art are you most drawn to?>Abstract; Realism; Surrealism; Impressionism; Pop Art>concise>Abstract.
+SINGLE-SELECT>What style of art are you most drawn to?>Abstract; Realism; Surrealism; Impressionism; Pop Art>colloquial>Abstract.
+SINGLE-SELECT>What style of art are you most drawn to?>Abstract; Realism; Surrealism; Impressionism; Pop Art>explanatory>Abstract.
+SINGLE-SELECT>What style of art are you most drawn to?>Abstract; Realism; Surrealism; Impressionism; Pop Art>annoyed>Abstract.
+SINGLE-SELECT>What type of art do you collect?>Paintings; Sculptures; Prints; Photographs; Digital Art>verbose>I collect Sculptures.
+SINGLE-SELECT>What type of art do you collect?>Paintings; Sculptures; Prints; Photographs; Digital Art>concise>Digital Art
+SINGLE-SELECT>What type of art do you collect?>Paintings; Sculptures; Prints; Photographs; Digital Art>colloquial>I collect Sculptures.
+SINGLE-SELECT>What type of art do you collect?>Paintings; Sculptures; Prints; Photographs; Digital Art>explanatory>I collect Sculptures.
+SINGLE-SELECT>What type of art do you collect?>Paintings; Sculptures; Prints; Photographs; Digital Art>annoyed>I collect Sculptures.
+SINGLE-SELECT>What type of art education have you received?>Formal Education (BFA, MFA); Self-taught; Workshops and Courses; Apprenticeship; Online Courses>verbose>Formal Education (BFA, MFA); Self-taught; Workshops and Courses; Apprenticeship
+SINGLE-SELECT>What type of art education have you received?>Formal Education (BFA, MFA); Self-taught; Workshops and Courses; Apprenticeship; Online Courses>concise>Formal Education (BFA, MFA); Self-taught; Workshops and Courses; Apprenticeship
+SINGLE-SELECT>What type of art education have you received?>Formal Education (BFA, MFA); Self-taught; Workshops and Courses; Apprenticeship; Online Courses>colloquial>Formal Education (BFA, MFA); Self-taught; Workshops and Courses; Apprenticeship
+SINGLE-SELECT>What type of art education have you received?>Formal Education (BFA, MFA); Self-taught; Workshops and Courses; Apprenticeship; Online Courses>explanatory>Formal Education (BFA, MFA); Self-taught; Workshops and Courses; Apprenticeship
+SINGLE-SELECT>What type of art education have you received?>Formal Education (BFA, MFA); Self-taught; Workshops and Courses; Apprenticeship; Online Courses>annoyed>Formal Education (BFA, MFA); Self-taught; Workshops and Courses; Apprenticeship
+SINGLE-SELECT>What type of design projects are you currently working on?>Branding Projects; Website Designs; Mobile App Designs; Illustration Projects; Graphic Design Projects>verbose>I am currently working on Graphic Design Projects.
+SINGLE-SELECT>What type of design projects are you currently working on?>Branding Projects; Website Designs; Mobile App Designs; Illustration Projects; Graphic Design Projects>concise>Graphic Design Projects.
+SINGLE-SELECT>What type of design projects are you currently working on?>Branding Projects; Website Designs; Mobile App Designs; Illustration Projects; Graphic Design Projects>colloquial>I am currently working on Graphic Design Projects.
+SINGLE-SELECT>What type of design projects are you currently working on?>Branding Projects; Website Designs; Mobile App Designs; Illustration Projects; Graphic Design Projects>explanatory>Graphic Design Projects.
+SINGLE-SELECT>What type of design projects are you currently working on?>Branding Projects; Website Designs; Mobile App Designs; Illustration Projects; Graphic Design Projects>annoyed>I am currently working on Graphic Design Projects.
+SINGLE-SELECT>What type of design projects do you enjoy the most?>Branding; Web Design; Packaging Design; Illustration; Typography>verbose>Web Design.
+SINGLE-SELECT>What type of design projects do you enjoy the most?>Branding; Web Design; Packaging Design; Illustration; Typography>concise>Web Design.
+SINGLE-SELECT>What type of design projects do you enjoy the most?>Branding; Web Design; Packaging Design; Illustration; Typography>colloquial>I enjoy Typography.
+SINGLE-SELECT>What type of design projects do you enjoy the most?>Branding; Web Design; Packaging Design; Illustration; Typography>explanatory>Web Design.
+SINGLE-SELECT>What type of design projects do you enjoy the most?>Branding; Web Design; Packaging Design; Illustration; Typography>annoyed>Web Design.
+SINGLE-SELECT>What type of design thinking methodology do you prefer?>Human-centered Design; Design Thinking; Lean UX; Double Diamond; Agile Design>verbose>Lean UX.
+SINGLE-SELECT>What type of design thinking methodology do you prefer?>Human-centered Design; Design Thinking; Lean UX; Double Diamond; Agile Design>concise>Lean UX.
+SINGLE-SELECT>What type of design thinking methodology do you prefer?>Human-centered Design; Design Thinking; Lean UX; Double Diamond; Agile Design>colloquial>Lean UX.
+SINGLE-SELECT>What type of design thinking methodology do you prefer?>Human-centered Design; Design Thinking; Lean UX; Double Diamond; Agile Design>explanatory>Lean UX.
+SINGLE-SELECT>What type of design thinking methodology do you prefer?>Human-centered Design; Design Thinking; Lean UX; Double Diamond; Agile Design>annoyed>Lean UX.
+SINGLE-SELECT>What type of feedback are you most interested in receiving on your work?>Constructive Criticism; Positive Reinforcement; Peer Reviews; Client Feedback; Public Opinion>verbose>Positive Reinforcement.
+SINGLE-SELECT>What type of feedback are you most interested in receiving on your work?>Constructive Criticism; Positive Reinforcement; Peer Reviews; Client Feedback; Public Opinion>concise>Positive Reinforcement.
+SINGLE-SELECT>What type of feedback are you most interested in receiving on your work?>Constructive Criticism; Positive Reinforcement; Peer Reviews; Client Feedback; Public Opinion>colloquial>Positive Reinforcement.
+SINGLE-SELECT>What type of feedback are you most interested in receiving on your work?>Constructive Criticism; Positive Reinforcement; Peer Reviews; Client Feedback; Public Opinion>explanatory>Positive Reinforcement.
+SINGLE-SELECT>What type of feedback are you most interested in receiving on your work?>Constructive Criticism; Positive Reinforcement; Peer Reviews; Client Feedback; Public Opinion>annoyed>Positive Reinforcement.
+SINGLE-SELECT>What type of project are you working on?>Web Application; Mobile Application; Desktop Application; Game; Library>verbose>I'm working on a Web Application.
+SINGLE-SELECT>What type of project are you working on?>Web Application; Mobile Application; Desktop Application; Game; Library>concise>I'm working on a Web Application.
+SINGLE-SELECT>What type of project are you working on?>Web Application; Mobile Application; Desktop Application; Game; Library>colloquial>I'm working on a Web Application.
+SINGLE-SELECT>What type of project are you working on?>Web Application; Mobile Application; Desktop Application; Game; Library>explanatory>I'm working on a Web Application.
+SINGLE-SELECT>What type of project are you working on?>Web Application; Mobile Application; Desktop Application; Game; Library>annoyed>I'm working on a Web Application.
+SINGLE-SELECT>What type of software development are you interested in?>Web Development; Mobile Development; Game Development; Data Science; Embedded Systems>verbose>Embedded Systems
+SINGLE-SELECT>What type of software development are you interested in?>Web Development; Mobile Development; Game Development; Data Science; Embedded Systems>concise>Embedded Systems
+SINGLE-SELECT>What type of software development are you interested in?>Web Development; Mobile Development; Game Development; Data Science; Embedded Systems>colloquial>Embedded Systems.
+SINGLE-SELECT>What type of software development are you interested in?>Web Development; Mobile Development; Game Development; Data Science; Embedded Systems>explanatory>Embedded Systems.
+SINGLE-SELECT>What type of software development are you interested in?>Web Development; Mobile Development; Game Development; Data Science; Embedded Systems>annoyed>Embedded Systems.
+SINGLE-SELECT>What type of testing do you prefer?>Unit Testing; Integration Testing; End-to-End Testing; UI Testing>verbose>I prefer integration testing.
+SINGLE-SELECT>What type of testing do you prefer?>Unit Testing; Integration Testing; End-to-End Testing; UI Testing>concise>I prefer integration testing.
+SINGLE-SELECT>What type of testing do you prefer?>Unit Testing; Integration Testing; End-to-End Testing; UI Testing>colloquial>I prefer integration testing.
+SINGLE-SELECT>What type of testing do you prefer?>Unit Testing; Integration Testing; End-to-End Testing; UI Testing>explanatory>I prefer integration testing.
+SINGLE-SELECT>What type of testing do you prefer?>Unit Testing; Integration Testing; End-to-End Testing; UI Testing>annoyed>I prefer integration testing.
+SINGLE-SELECT>What version control system do you use?>Git; SVN; Mercurial>verbose>SVN
+SINGLE-SELECT>What version control system do you use?>Git; SVN; Mercurial>concise>SVN
+SINGLE-SELECT>What version control system do you use?>Git; SVN; Mercurial>colloquial>SVN
+SINGLE-SELECT>What version control system do you use?>Git; SVN; Mercurial>explanatory>SVN
+SINGLE-SELECT>What version control system do you use?>Git; SVN; Mercurial>annoyed>SVN
+SINGLE-SELECT>Which communication platform do you prefer?>Slack; Microsoft Teams; Google Chat; Zoom; Other>verbose>Google Chat.
+SINGLE-SELECT>Which communication platform do you prefer?>Slack; Microsoft Teams; Google Chat; Zoom; Other>concise>Google Chat.
+SINGLE-SELECT>Which communication platform do you prefer?>Slack; Microsoft Teams; Google Chat; Zoom; Other>colloquial>Google Chat.
+SINGLE-SELECT>Which communication platform do you prefer?>Slack; Microsoft Teams; Google Chat; Zoom; Other>explanatory>Google Chat.
+SINGLE-SELECT>Which communication platform do you prefer?>Slack; Microsoft Teams; Google Chat; Zoom; Other>annoyed>Google Chat.
+SINGLE-SELECT>Your role in the company>CEO; Marketing Manager; Sales Representative; Customer Service; Engineer>verbose>CEO.
+SINGLE-SELECT>Your role in the company>CEO; Marketing Manager; Sales Representative; Customer Service; Engineer>concise>CEO.
+SINGLE-SELECT>Your role in the company>CEO; Marketing Manager; Sales Representative; Customer Service; Engineer>colloquial>CEO.
+SINGLE-SELECT>Your role in the company>CEO; Marketing Manager; Sales Representative; Customer Service; Engineer>explanatory>CEO.
+SINGLE-SELECT>Your role in the company>CEO; Marketing Manager; Sales Representative; Customer Service; Engineer>annoyed>CEO.
+SINGLE-SELECT>What is your preferred client type?>Small Businesses; Large Corporations; Non-profits; Individuals; Government Agencies>verbose>Small Businesses.
+SINGLE-SELECT>What is your preferred client type?>Small Businesses; Large Corporations; Non-profits; Individuals; Government Agencies>concise>Small Businesses.
+SINGLE-SELECT>What is your preferred client type?>Small Businesses; Large Corporations; Non-profits; Individuals; Government Agencies>colloquial>Small Businesses.
+SINGLE-SELECT>What is your preferred client type?>Small Businesses; Large Corporations; Non-profits; Individuals; Government Agencies>explanatory>Small Business.
+SINGLE-SELECT>What is your preferred client type?>Small Businesses; Large Corporations; Non-profits; Individuals; Government Agencies>annoyed>Small Businesses.
